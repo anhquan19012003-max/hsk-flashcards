@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 7 (Luyện viết / writing practice): built, tested, pushed. **Waiting for Quan's phone test** (checklist below).
+Phase 7 (Luyện viết / writing practice): done. Quan's iPhone test passed (2026-10-30). No phase in progress.
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -11,7 +11,7 @@ Phase 7 (Luyện viết / writing practice): built, tested, pushed. **Waiting fo
 - 2026-10-30 Phase 4: example sentences for HSK2–5, `pos` filled for HSK4–5; `docs/data/hsk1–5.json` rebuilt.
 - 2026-10-30 Phase 5: GitHub repo `anhquan19012003-max/hsk-flashcards`, Pages from `main` / `docs`; iPhone install, audio and offline tested by Quan.
 - 2026-10-30 Voice dropdown in Cài đặt (picks among the phone's zh voices).
-- 2026-10-30 Phase 7: Luyện viết — see "Phase 7 details".
+- 2026-10-30 Phase 7: Luyện viết — see "Phase 7 details"; Quan tested on iPhone (drawing, animation, outline, restart, skip, card-back sheet, offline): all good.
 
 ## Phase 7 details
 - Library: Hanzi Writer **3.7.3** (`docs/vendor/hanzi-writer.min.js`, 37 KB, MIT; licence in `docs/vendor/LICENSE-hanzi-writer.txt`). Loaded on first use, no CDN.
@@ -30,12 +30,7 @@ Phase 7 (Luyện viết / writing practice): built, tested, pushed. **Waiting fo
 - Layout checked at 360×640: the writing square ends at ~555 px, action buttons start right below it.
 
 ## Waiting on Quan
-Phone test of Luyện viết (reopen the app so version 4 loads: close it fully and open it again; if it still looks old, once more):
-1. HSK 1 → Luyện viết → write 3 words with your finger.
-2. Try `Xem cách viết`, `Hiện chữ mờ`, `Viết lại`, `Bỏ qua chữ này`.
-3. On a Trung → Việt card, flip it, tap `✍️ Viết`, write, `Đóng` — you should be back on the same card.
-4. Turn on airplane mode and write a word you've already opened — it should still work.
-Also pending from before: reviewing the HSK2–5 review spreadsheets (nothing imported yet; only HSK1 was reviewed).
+Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
 ## Decisions
 - 2026-10-30 Haiku stays for example sentences; out-of-level characters and duplicate sentences are acceptable (HSK5 has 129 duplicates, ~10%); Hán Việt need not be perfect; words with an unresolved Hán Việt reading show no Hán Việt line.
@@ -48,5 +43,4 @@ Also pending from before: reviewing the HSK2–5 review spreadsheets (nothing im
 - Hán Việt: ~16 words have no reading (blank in the app); ~60–130 more are flagged `hanviet_check` in the review files.
 - HSK5: 129 duplicate example sentences; ~40–50 sentences per level use characters above the card's level (accepted).
 - Fixed on the way: a 'Chưa thuộc' card used to come back 6–9 cards later instead of 5–8 (it now returns as the 5th–8th card).
-- Not tested on a real phone yet: finger drawing, `touch-action`/overscroll behaviour on iOS Safari, 🔊 with the new layout.
 - Backup download from the home-screen app on iPhone is untested.
