@@ -167,3 +167,47 @@ details li { margin-bottom: 6px; }
 @media (min-width: 600px) {
   .card.front-zh { min-height: 320px; }
 }
+
+/* writing practice (Luyện viết) */
+:root { --wr-outline: #b9c2d9; --wr-hint: #e08a00; }
+html.writing-open, html.writing-open body { overscroll-behavior: none; }
+.pill {
+  min-height: 44px; padding: 0 14px; border: 2px solid var(--line); border-radius: 22px; background: var(--surface);
+  font: inherit; font-weight: 600; color: var(--text); cursor: pointer; vertical-align: middle;
+}
+.pill:active { background: var(--line); }
+.setting-label { margin: 10px 0 6px; font-weight: 600; }
+.setting-label:first-of-type { margin-top: 0; }
+.wr-prompt { padding: 10px 14px; margin-bottom: 8px; border-radius: 18px; }
+.wr-prompt .meaning-big { font-size: 22px; }
+.wr-prompt .pos { margin-top: 2px; font-size: 15px; }
+.wr-line { display: flex; align-items: center; justify-content: center; gap: 12px; }
+.wr-line .pinyin { margin: 0; font-size: 20px; }
+.wr-line .speak { min-width: 44px; min-height: 44px; font-size: 20px; }
+.wr-root { display: flex; flex-direction: column; align-items: center; gap: 8px; margin: 0 4px 14px; }
+.wr-boxes { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; min-height: 52px; }
+.wr-box {
+  width: 48px; height: 48px; border: 2px dashed var(--line); border-radius: 10px; background: var(--surface);
+  display: inline-flex; align-items: center; justify-content: center; font: 28px/1 var(--font-cjk);
+}
+.wr-box.current { border: 2px solid var(--primary); }
+.wr-box.done { border: 2px solid var(--good); color: var(--good); }
+.wr-text { font: 28px/1 var(--font-cjk); color: var(--muted); }
+.wr-area {
+  position: relative; background: var(--surface); border: 2px solid var(--line); border-radius: 12px; margin: 0 auto;
+  touch-action: none; user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;
+}
+.wr-grid { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.wr-grid line { stroke: var(--line); stroke-width: 1.5; stroke-dasharray: 5 5; vector-effect: non-scaling-stroke; }
+.wr-canvas { position: absolute; inset: 0; touch-action: none; }
+.wr-canvas svg { display: block; touch-action: none; }
+.wr-static { display: flex; align-items: center; justify-content: center; height: 100%; font: 160px/1 var(--font-cjk); color: var(--muted); }
+.wr-note { margin: 0; color: var(--muted); font-size: 14px; text-align: center; }
+.wr-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%; max-width: 360px; }
+.wr-actions .btn { min-height: 48px; padding: 8px; font-size: 15px; }
+
+.sheet { position: fixed; inset: 0; z-index: 15; background: var(--bg); overflow-y: auto; overscroll-behavior: contain; }
+.sheet-inner { max-width: 520px; margin: 0 auto; padding: 0 16px calc(24px + env(safe-area-inset-bottom)); }
+.sheet .btn.sheet-close { width: auto; min-height: 44px; padding: 6px 16px; }
+#sheet-result { width: 100%; max-width: 360px; margin: 0 auto; }
+#sheet-result .btn { margin-top: 8px; }

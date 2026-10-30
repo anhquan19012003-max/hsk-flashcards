@@ -3,7 +3,7 @@
 const PROGRESS_KEY = "hskfc.v1.progress";
 const SETTINGS_KEY = "hskfc.v1.settings";
 
-export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "" };
+export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "", writingOutline: false, writingPinyin: true };
 
 function read(key) {
   try {
@@ -34,17 +34,24 @@ export function isLearned(id, dir) {
   return !!(progress[id] && progress[id][dir]);
 }
 
+// Directions: zv (Trung → Việt), vz (Việt → Trung), wr (Luyện viết). `wr` is only stored when it is 1, so entries
+// written before writing practice existed (and backups made then) stay valid and unchanged.
 export function setLearned(id, dir, value) {
   const entry = progress[id] || { zv: 0, vz: 0 };
-  entry[dir] = value ? 1 : 0;
-  if (entry.zv || entry.vz) progress[id] = entry;
+  if (dir === "wr") {
+    if (value) entry.wr = 1;
+    else delete entry.wr;
+  } else {
+    entry[dir] = value ? 1 : 0;
+  }
+  if (entry.zv || entry.vz || entry.wr) progress[id] = entry;
   else delete progress[id];
   return save();
 }
 
 /** Counts per direction (and "any") for ids of one level. `words` is optional and limits the count to real ids. */
 export function levelStats(level, words) {
-  const stats = { zv: 0, vz: 0, any: 0 };
+  const stats = { zv: 0, vz: 0, wr: 0, any: 0 };
   const valid = words ? new Set(words.map((w) => w.id)) : null;
   const prefix = level + "-";
   for (const id of Object.keys(progress)) {
@@ -52,7 +59,8 @@ export function levelStats(level, words) {
     const e = progress[id];
     if (e.zv) stats.zv++;
     if (e.vz) stats.vz++;
-    if (e.zv || e.vz) stats.any++;
+    if (e.wr) stats.wr++;
+    if (e.zv || e.vz || e.wr) stats.any++;
   }
   return stats;
 }
@@ -76,7 +84,8 @@ export function importProgress(text) {
     if (!/^[1-5]-\d{4}$/.test(id) || !e || typeof e !== "object") throw new Error("bad entry " + id);
     const zv = e.zv ? 1 : 0;
     const vz = e.vz ? 1 : 0;
-    if (zv || vz) clean[id] = { zv, vz };
+    const wr = e.wr ? 1 : 0;
+    if (zv || vz || wr) clean[id] = wr ? { zv, vz, wr } : { zv, vz };
   }
   progress = clean;
   save();

@@ -1,10 +1,12 @@
 import * as store from "./js/storage.js";
 import { checkAnswer } from "./js/check.js";
 import { initSpeech, speak, listVoices, setVoice } from "./js/speech.js";
+import { mountWriter } from "./js/writing.js";
 
 const LEVELS = [1, 2, 3, 4, 5];
 const COUNTS = { 1: 500, 2: 772, 3: 973, 4: 1000, 5: 1300 };
-const DIR_LABEL = { zv: "Trung → Việt", vz: "Việt → Trung" };
+const DIR_LABEL = { zv: "Trung → Việt", vz: "Việt → Trung", wr: "Luyện viết" };
+const dirText = (dir) => (dir === "wr" ? "Luyện viết" : `chiều ${DIR_LABEL[dir]}`);
 const SIZE_OPTIONS = [10, 20, 50, 0];
 const $app = document.getElementById("app");
 const $toast = document.getElementById("toast");
@@ -13,6 +15,8 @@ const $modal = document.getElementById("modal-root");
 const levelCache = {};
 let view = { name: "home" };
 let session = null;
+let activeWriter = null; // writing UI mounted in the current study card
+let sheet = null; // "✍️ Viết" sheet over a card: { el, word, writer }
 
 // ---------- helpers ----------
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -92,6 +96,7 @@ function go(next, { replace = false } = {}) {
 
 // Hardware/browser back: study, summary and "done" screens all fall back to their level screen.
 window.addEventListener("popstate", (e) => {
+  if (sheet) { closeSheetDom(); return; }
   const s = e.state;
   if (!s || s.name === "home") view = { name: "home" };
   else if (s.name === "settings") view = { name: "settings" };
@@ -106,6 +111,7 @@ function currentLevel() {
 
 // ---------- rendering ----------
 function render() {
+  if (activeWriter) { activeWriter.destroy(); activeWriter = null; }
   const screens = { home: renderHome, level: renderLevel, study: renderStudy, summary: renderSummary, done: renderDone, settings: renderSettings };
   $app.innerHTML = '<div class="loading">Đang tải…</div>';
   const result = (screens[view.name] || renderHome)();
@@ -125,6 +131,31 @@ function draw(html) {
   $app.innerHTML = html;
   const input = document.getElementById("answer");
   if (input) input.focus({ preventScroll: true });
+  mountSessionWriter();
+}
+
+function writerOptions(extra) {
+  return {
+    outline: store.getSettings().writingOutline,
+    onOutlineChange: (on) => store.updateSettings({ writingOutline: on }),
+    ...extra,
+  };
+}
+
+/** The Luyện viết card front has an empty #writer-root; fill it with the writing UI for the current word. */
+function mountSessionWriter() {
+  const root = document.getElementById("writer-root");
+  if (!root || !session || view.name !== "study") return;
+  const word = session.queue[0];
+  activeWriter = mountWriter(root, word, writerOptions({
+    onFinish: (summary) => {
+      if (!session || session.queue[0] !== word || session.flipped) return;
+      session.result = { write: summary };
+      session.flipped = true;
+      render();
+      window.scrollTo(0, 0);
+    },
+  }));
 }
 
 function topBar({ title, back, gear }) {
@@ -151,13 +182,14 @@ async function renderLevel() {
   const n = view.level;
   const words = await loadLevel(n);
   const stats = store.levelStats(n, words);
-  const remain = { zv: words.length - stats.zv, vz: words.length - stats.vz };
+  const remain = { zv: words.length - stats.zv, vz: words.length - stats.vz, wr: words.length - stats.wr };
   return `<div class="screen">
     ${topBar({ title: `HSK ${n}`, back: "home" })}
     <div class="stack">
       <button class="btn primary" data-action="study" data-dir="zv">Trung → Việt<small>Còn ${remain.zv} từ</small></button>
       <button class="btn primary" data-action="study" data-dir="vz">Việt → Trung (gõ đáp án)<small>Còn ${remain.vz} từ</small></button>
-      <button class="btn" data-action="review-pick">Ôn lại từ đã thuộc<small>Trung → Việt: ${stats.zv} · Việt → Trung: ${stats.vz}</small></button>
+      <button class="btn primary" data-action="study" data-dir="wr">Luyện viết ✍️<small>Còn ${remain.wr} từ</small></button>
+      <button class="btn" data-action="review-pick">Ôn lại từ đã thuộc<small>Trung → Việt: ${stats.zv} · Việt → Trung: ${stats.vz} · Luyện viết: ${stats.wr}</small></button>
       <button class="btn danger" data-action="reset-level">Học lại từ đầu</button>
       <button class="btn" data-action="home">← Chọn cấp độ khác</button>
     </div>
@@ -168,8 +200,8 @@ function renderDone() {
   const { level, dir, mode } = view.done;
   const reviewing = mode === "review";
   const text = reviewing
-    ? `Chưa có từ nào đã thuộc trong HSK ${level} (chiều ${DIR_LABEL[dir]}).`
-    : `Bạn đã thuộc hết HSK ${level} (chiều ${DIR_LABEL[dir]})!`;
+    ? `Chưa có từ nào đã thuộc trong HSK ${level} (${dirText(dir)}).`
+    : `Bạn đã thuộc hết HSK ${level} (${dirText(dir)})!`;
   return `<div class="screen center">
     ${topBar({ title: `HSK ${level}`, back: "level-back" })}
     <div class="big-emoji">${reviewing ? "📭" : "🎉"}</div>
@@ -201,6 +233,15 @@ function highlight(zh, hanzi) {
 }
 
 function cardFront(word, s) {
+  if (s.dir === "wr") {
+    return `<div class="card wr-prompt">
+        <div class="meaning-big">${esc(word.meaning)}</div>
+        ${word.pos ? `<div class="pos">${esc(word.pos)}</div>` : ""}
+        <div class="wr-line">${store.getSettings().writingPinyin ? `<span class="pinyin">${esc(word.pinyin)}</span>` : ""}
+          <button class="speak" data-action="speak-word" aria-label="Nghe phát âm">🔊</button></div>
+      </div>
+      <div id="writer-root" class="wr-root"></div>`;
+  }
   if (s.dir === "zv") {
     const long = [...word.hanzi].length > 3 ? " long" : "";
     return `<div class="card front-zh" data-action="flip" role="button" tabindex="0" aria-label="Lật thẻ">
@@ -223,18 +264,26 @@ function cardFront(word, s) {
     <button class="btn" data-action="flip">Lật thẻ</button>`;
 }
 
+function typedResult(r) {
+  return `<div class="result ${r.ok ? "ok" : "no"}">${r.ok ? "✅ Đúng" : "❌ Chưa đúng"}
+    ${r.typed ? `<div class="typed">Bạn gõ: ${esc(r.typed)}</div>` : ""}</div>`;
+}
+
+function writeResult(w) {
+  const ok = w.mistakes === 0 && w.skipped === 0;
+  return `<div class="result ${ok ? "ok" : "no"}">${ok ? "✅ Viết đúng" : `Sai ${w.mistakes} nét · Bỏ qua ${w.skipped} chữ`}</div>`;
+}
+
 function cardBack(word, s) {
   const ex = word.example;
-  const result = s.result
-    ? `<div class="result ${s.result.ok ? "ok" : "no"}">${s.result.ok ? "✅ Đúng" : "❌ Chưa đúng"}
-         ${s.result.typed ? `<div class="typed">Bạn gõ: ${esc(s.result.typed)}</div>` : ""}</div>`
-    : "";
+  const result = s.result ? (s.result.write ? writeResult(s.result.write) : typedResult(s.result)) : "";
   const yes = s.mode === "review" ? "Vẫn nhớ ✓" : "Đã thuộc ✓";
   const no = s.mode === "review" ? "Quên rồi ✗" : "Chưa thuộc ✗";
   return `${result}
     <div class="card">
       <div class="hz-row"><span class="hanzi-mid">${esc(word.hanzi)}</span>
-        <button class="speak" data-action="speak-word" aria-label="Nghe phát âm">🔊</button></div>
+        <button class="speak" data-action="speak-word" aria-label="Nghe phát âm">🔊</button>
+        <button class="pill" data-action="write-open" title="Luyện viết từ này">✍️ Viết</button></div>
       <div class="pinyin">${esc(word.pinyin)}</div>
       ${word.hanviet ? `<div class="info"><span class="label">Hán Việt:</span> ${esc(word.hanviet)}</div>` : ""}
       ${word.pos ? `<div class="info"><span class="label">Từ loại:</span> ${esc(word.pos)}</div>` : ""}
@@ -311,6 +360,11 @@ function renderSettings() {
       <div class="section"><h2>Giọng đọc</h2>
         ${voiceSelect(st.voice)}
         <button class="btn" style="margin-top:10px" data-action="test-voice">🔊 Thử giọng đọc</button></div>
+      <div class="section"><h2>Luyện viết</h2>
+        <p class="setting-label">Hiện chữ mờ khi bắt đầu</p>
+        ${seg([[1, "Bật"], [0, "Tắt"]], st.writingOutline ? 1 : 0, "set-outline")}
+        <p class="setting-label">Hiện pinyin khi luyện viết</p>
+        ${seg([[1, "Bật"], [0, "Tắt"]], st.writingPinyin ? 1 : 0, "set-wpinyin")}</div>
       <div class="section"><h2>Tiến độ học</h2>
         <div class="stack">
           <button class="btn" data-action="backup">Sao lưu tiến độ</button>
@@ -323,6 +377,7 @@ function renderSettings() {
           <li><b>iPhone:</b> mở bằng Safari → nút Chia sẻ → Thêm vào MH chính.</li>
           <li><b>Android:</b> mở bằng Chrome → menu ⋮ → Cài đặt ứng dụng (hoặc Thêm vào màn hình chính).</li>
         </ul></details></div>
+      <p class="note">Nguồn & giấy phép: Luyện viết dùng Hanzi Writer (MIT) và dữ liệu nét chữ từ Make Me a Hanzi / Arphic (Arphic Public License).</p>
     </div>
   </div>`;
 }
@@ -358,7 +413,7 @@ function answerCurrent(yes) {
     s.done++;
   } else {
     s.retried.add(word.id);
-    s.queue.splice(Math.min(s.queue.length, randInt(5, 8)), 0, word);
+    s.queue.splice(Math.min(s.queue.length, randInt(4, 7)), 0, word); // comes back as the 5th–8th card from now
   }
   s.flipped = false;
   s.result = null;
@@ -403,6 +458,7 @@ document.addEventListener("click", async (e) => {
         buttons: [
           { label: `Trung → Việt (${stats.zv} từ)`, value: "zv", kind: "primary", disabled: stats.zv === 0 },
           { label: `Việt → Trung (${stats.vz} từ)`, value: "vz", kind: "primary", disabled: stats.vz === 0 },
+          { label: `Luyện viết (${stats.wr} từ)`, value: "wr", kind: "primary", disabled: stats.wr === 0 },
           { label: "Hủy", value: null },
         ],
       });
@@ -413,7 +469,7 @@ document.addEventListener("click", async (e) => {
       const n = currentLevel();
       const yes = await dialog({
         title: `Học lại HSK ${n} từ đầu?`,
-        message: "Toàn bộ tiến độ của cấp độ này (cả hai chiều) sẽ bị xóa.",
+        message: "Toàn bộ tiến độ của cấp độ này (mọi chiều) sẽ bị xóa.",
         buttons: [{ label: "Xóa và học lại", value: true, kind: "good" }, { label: "Hủy", value: null }],
       });
       if (yes) {
@@ -426,11 +482,17 @@ document.addEventListener("click", async (e) => {
     }
     case "flip": flip(); break;
     case "speak-word": e.stopPropagation(); say(session.queue[0].hanzi, "word"); break;
+    case "write-open": e.stopPropagation(); openSheet(session.queue[0]); break;
+    case "sheet-close": closeSheet(); break;
+    case "sheet-redo": mountSheetWriter(); break;
+    case "sheet-speak": say(sheet.word.hanzi, "word"); break;
     case "speak-sentence": say(session.queue[0].example.zh, "sentence"); break;
     case "mark-yes": answerCurrent(true); break;
     case "mark-no": answerCurrent(false); break;
     case "set-size": store.updateSettings({ sessionSize: Number(value) }); render(); break;
     case "set-speed": store.updateSettings({ speed: value }); render(); break;
+    case "set-outline": store.updateSettings({ writingOutline: value === "1" }); render(); break;
+    case "set-wpinyin": store.updateSettings({ writingPinyin: value === "1" }); render(); break;
     case "test-voice": say("你好，欢迎学习汉语。", "sentence"); break;
     case "backup": backup(); break;
     case "restore": document.getElementById("restore-file").click(); break;
@@ -438,6 +500,7 @@ document.addEventListener("click", async (e) => {
 });
 
 document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && sheet && !$modal.firstChild) { closeSheet(); return; }
   const card = e.target.closest && e.target.closest(".card[data-action='flip']");
   if (card && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); flip(); }
 });
@@ -493,6 +556,57 @@ function backup() {
   a.remove();
   setTimeout(() => URL.revokeObjectURL(url), 2000);
   toast("Đã tạo file sao lưu");
+}
+
+// ---------- "✍️ Viết" sheet (practice from a card back; never changes progress) ----------
+function openSheet(word) {
+  if (sheet) return;
+  const el = document.createElement("div");
+  el.className = "sheet";
+  el.setAttribute("role", "dialog");
+  el.setAttribute("aria-modal", "true");
+  el.setAttribute("aria-label", "Luyện viết");
+  const pinyin = store.getSettings().writingPinyin;
+  el.innerHTML = `<div class="sheet-inner">
+    <div class="top"><div class="title">Luyện viết</div>
+      <button class="btn sheet-close" data-action="sheet-close">Đóng</button></div>
+    <div class="card wr-prompt">
+      <div class="meaning-big">${esc(word.meaning)}</div>
+      <div class="wr-line">${pinyin ? `<span class="pinyin">${esc(word.pinyin)}</span>` : ""}
+        <button class="speak" data-action="sheet-speak" aria-label="Nghe phát âm">🔊</button></div>
+    </div>
+    <div class="wr-root" id="sheet-writer"></div>
+    <div id="sheet-result"></div>
+  </div>`;
+  document.body.appendChild(el);
+  sheet = { el, word, writer: null };
+  try { history.pushState({ name: "sheet" }, ""); } catch (e) { /* history unavailable */ }
+  mountSheetWriter();
+}
+
+function mountSheetWriter() {
+  if (!sheet) return;
+  if (sheet.writer) sheet.writer.destroy();
+  const result = sheet.el.querySelector("#sheet-result");
+  result.innerHTML = "";
+  sheet.writer = mountWriter(sheet.el.querySelector("#sheet-writer"), sheet.word, writerOptions({
+    onFinish: (w) => {
+      result.innerHTML = `${writeResult(w)}<button class="btn" data-action="sheet-redo">Viết lại cả từ</button>`;
+    },
+  }));
+}
+
+function closeSheetDom() {
+  if (!sheet) return;
+  sheet.writer?.destroy();
+  sheet.el.remove();
+  sheet = null;
+}
+
+function closeSheet() {
+  if (!sheet) return;
+  if (history.state && history.state.name === "sheet") history.back(); // popstate closes it
+  else closeSheetDom();
 }
 
 // ---------- start ----------

@@ -1,7 +1,8 @@
 // Bump VERSION on every deploy (scripts/bump_version.py does it) so phones pick up the new app shell.
-const VERSION = "3";
+const VERSION = "4";
 const SHELL_CACHE = `hskfc-shell-v${VERSION}`;
 const DATA_CACHE = "hskfc-data"; // level files; kept across versions and refreshed in the background
+const HANZI_CACHE = "hskfc-hanzi"; // stroke data hanzi/{char}.json, cache-first, stored on first use; kept across versions
 const SHELL = [
   "./",
   "index.html",
@@ -10,6 +11,8 @@ const SHELL = [
   "js/storage.js",
   "js/check.js",
   "js/speech.js",
+  "js/writing.js",
+  "vendor/hanzi-writer.min.js",
   "manifest.webmanifest",
   "icons/icon-192.png",
   "icons/icon-512.png",
@@ -44,6 +47,19 @@ self.addEventListener("fetch", (event) => {
         });
         if (cached) { network.catch(() => {}); return cached; }
         return network;
+      })
+    );
+    return;
+  }
+
+  if (/\/hanzi\/[^/]+\.json$/.test(url.pathname)) {
+    event.respondWith(
+      caches.open(HANZI_CACHE).then(async (cache) => {
+        const cached = await cache.match(req);
+        if (cached) return cached;
+        const res = await fetch(req);
+        if (res.ok) cache.put(req, res.clone());
+        return res;
       })
     );
     return;

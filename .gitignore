@@ -7,3 +7,4 @@ desktop.ini
 ~$*.xlsx
 .claude/settings.local.json
 data/unihan/
+data/cache/

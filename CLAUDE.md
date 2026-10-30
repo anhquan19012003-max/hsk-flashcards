@@ -2,7 +2,54 @@
 
 A free, static, phone-friendly flashcard web app for learning HSK 3.0 vocabulary (levels 1–5, 4,545 words), aimed at Vietnamese learners. The owner (Quan) shares the link with friends; each person's progress lives on their own phone. **All UI text is in Vietnamese.**
 
-Read this file at the start of every session. Work phase by phase (see bottom). Do not skip the review step for generated content.
+Read this file at the start of every session. Work phase by phase (see section 6). Do not skip the review step for generated content.
+
+---
+
+## 0. How to work with Quan (read first, every session)
+
+Quan planned this project in a separate chat and doesn't want to go back to it — **you are his main point of contact.** He uses Claude Code but isn't a full-time developer, and he is a beginner Chinese learner.
+
+**Where things stand.** Phases 0–5 are done: all 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
+
+**Session start.** Read `PROGRESS.md` (if it doesn't exist yet, create it and fill `## Done` from `git log`). In 3–5 lines tell Quan: which phase we're in, what was done last time, and the next step. Then wait for him to say go — unless he already gave an instruction.
+
+**Keep `PROGRESS.md` up to date** after every step and every decision:
+- `## Status` — current phase and step
+- `## Done` — one line per finished step, with date
+- `## Waiting on Quan` — anything you need from him (a phone test, a review, a decision)
+- `## Decisions` — every choice he made that isn't in this file or a spec, with date
+- `## Known issues` — anything left unfinished or flagged
+This file is how a fresh session (or a different model) picks up exactly where the last one stopped.
+
+**Run continuously; stop only at checkpoints.** Work through a phase without asking permission between steps. Stop and report only:
+1. at the checkpoint named at the end of each phase or spec (usually: Quan tests on his phone)
+2. when something needs his accounts or a decision only he can make (GitHub login, changing the design, deleting work)
+3. at a real blocker you can't solve after two genuine attempts
+
+**Checkpoint report format** (short, plain language):
+- ✅ **Done:** 2–4 bullets
+- 👀 **Please check:** exactly what to open or tap, and what "good" looks like
+- ❓ **Need from you:** questions as numbered options, with your recommendation marked
+- ▶️ **Next:** what you'll do when he says "continue"
+
+**Answering questions.** If Quan asks how something works or why you chose it, explain briefly with a concrete example. If he asks for a change, say what it affects. If it changes something in this file or a spec, update that file and log it under `## Decisions`. Never quietly drop a feature that's described here or in a spec.
+
+**Things Quan may say, and what to do:**
+| He says | You do |
+|---|---|
+| "status" / "where are we" | Summarise `PROGRESS.md` in a few lines |
+| "continue" / "tiếp" | Carry on from `## Status` |
+| "stop" / "dừng" | Finish the current step, save, update `PROGRESS.md`, stop |
+| "I reviewed HSK N" | Run `import_review.py N`, validate, rebuild, publish, report what changed |
+| "change X in the app" | Make the change, test it at phone size, publish, tell him what to check |
+| "new feature: …" | Write a short spec in `specs/`, add a phase in section 6, confirm the plan with him, then build |
+
+**Publishing.** Every app or content change ends with: run the tests → bump the service-worker version → commit → push, so the live site updates. Tell Quan to reopen the app on his phone to get the new version.
+
+**Usage.** Don't read big data files into the conversation (use scripts and summaries). Use the Haiku subagent for bulk content as in 3e. If a session gets long, finish the step, save, and suggest a fresh session.
+
+**Language.** Reply in the language Quan writes in (English or Vietnamese). App UI and generated content are always Vietnamese.
 
 ---
 
@@ -166,7 +213,7 @@ Same rules as the original Excel file:
 - Also accept tone numbers (`ai4hao4`) — convert to tone marks before comparing.
 
 ### Progress (localStorage)
-- Key `hskfc.v1.progress` → `{ "4-0001": { "zv": 1, "vz": 0 } }` where `zv` = learned Trung → Việt and `vz` = learned Việt → Trung. **The two directions are tracked separately.**
+- Key `hskfc.v1.progress` → `{ "4-0001": { "zv": 1, "vz": 0, "wr": 0 } }` where `zv` = learned Trung → Việt, `vz` = learned Việt → Trung, `wr` = learned in Luyện viết (added in Phase 7; entries without it are valid). **Each direction is tracked separately.**
 - Key `hskfc.v1.settings` for settings.
 - Wrap every read/write in try/catch; if storage is unavailable, the app still works without saving.
 - Backup/restore uses the same JSON shape.
@@ -186,6 +233,8 @@ The project root is the folder this CLAUDE.md is in (on Quan's laptop: `App Buil
 ```
 App Build/
   CLAUDE.md
+  PROGRESS.md                  # live status — see section 0
+  specs/                       # one spec per feature phase (e.g. writing-practice.md)
   .claude/agents/example-writer.md   # Haiku subagent for example sentences (copied from setup/ in Phase 0)
   setup/example-writer.md            # original copy of the subagent file
   source/vocab.xlsx            # original file, never modified
@@ -228,6 +277,14 @@ GitHub repo, GitHub Pages from `main` / `docs`. PWA install tested on iPhone (Sa
 **Phase 6 — Optional extras (only if asked)**
 Spaced-repetition mode, search/browse list, dark mode, pre-recorded audio.
 
+**Phase 7 — Luyện viết (writing practice)** — *next*
+Full spec: **`specs/writing-practice.md`** — read it completely before starting. Uses the free Hanzi Writer library and its stroke data (no paid API), vendored into `docs/vendor/` and `docs/hanzi/`. Adds a `Luyện viết` mode on the level screen and a `✍️ Viết` button on the back of every card.
+**Checkpoint:** Quan tests drawing on his phone (list in the spec, section 7).
+
+**Later ideas (not started — ask Quan before building)**
+- Multiple-choice quiz generated from the vocab data (meaning ↔ hanzi, pinyin, fill-in-the-blank from the example, listen-and-choose). Do **not** copy questions from published mock-test books or websites — the site is public.
+- Pronunciation practice: free browser speech recognition only works in a browser tab (not from the home-screen app on iPhone); real tone scoring would need a paid service such as Azure pronunciation assessment plus a small server.
+
 ---
 
 ## 7. Working rules
@@ -235,4 +292,4 @@ Spaced-repetition mode, search/browse list, dark mode, pre-recorded audio.
 - Never key data by hanzi; always by `id`.
 - Never overwrite Quan's review edits — `import_review` is the only path that changes reviewed rows.
 - Keep generated content and UI text in Vietnamese; code and comments in English.
-- After each phase, summarise what changed and what needs Quan's attention.
+- After each phase, report in the checkpoint format from section 0 and update `PROGRESS.md`.

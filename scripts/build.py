@@ -6,6 +6,8 @@ import json
 import sys
 from pathlib import Path
 
+import build_hanzi_data
+
 ROOT = Path(__file__).resolve().parent.parent
 
 
@@ -29,6 +31,7 @@ def main():
             json.dumps({"level": lv, "count": len(words), "words": words}, ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8")
         print(f"HSK{lv}: {len(words)} words, {sum('example' in w for w in words)} with example")
+    build_hanzi_data.main()  # stroke data for every character in the vocabulary
 
 
 if __name__ == "__main__":
