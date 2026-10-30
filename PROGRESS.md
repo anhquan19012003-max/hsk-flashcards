@@ -65,6 +65,7 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - 2026-10-30 Luyện viết grades strokes in any order (Quan: the strict order was too strict). Each drawn line must still match a stroke's shape and direction; Hanzi Writer's quiz is no longer used (only its outline + animation). A wrong line counts as 1 mistake; hint (one missing stroke flashes) after 3 wrong lines in a row.
 
 ## Known issues
+- 2026-10-30 Phase 8 book-key notes for Quan: Đề 7 Q10 book key ✓ contradicts the book's own explanation → used ✗; Đề 8 Q69 printed key D does not match the passage (kept book key, flag for review); Đề 9 Q42 answer is by elimination; Đề 10 Q57/Q58 explanation letters in the book do not match the key ACB → explanation re-lettered to the key.
 - Phase 8: the CJK clips come from the 128 kbps → 64 kbps compact copy, re-encoded mono 48 kbps; the page map could not be checked against the 目录 (PDF p. 15 is not in the compact copy) but Test 1's start (p. 17), script (p. 179), answers (p. 185) and explanations (p. 186–195) matched the spec.
 - Phase 8: the GitHub Actions guard cannot stop GitHub Pages from deploying (Pages publishes `main/docs` by itself); it flags the push as failed, and the pre-commit hook (`git config core.hooksPath .githooks`) stops it earlier on a laptop.
 - Phase 8: writing part 2 (look at the picture and write a sentence, Q96–100) is skipped as agreed.
