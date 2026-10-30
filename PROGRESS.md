@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-9` (Đề 1–9, 855 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 10 is transcribed in the private repo (`work/hsk4-book-N/`; their `questions.json` is kept as `questions.draft.json` until audio is cut and verified so the build never publishes a paper without clips). Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank): **all 10 papers of the HSK 4 book are in the encrypted bank** (`hsk4-book-1`…`hsk4-book-10`, 950 questions, 400 clips, 57.9 MB), published to `main`. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Every paper: 95 questions (45 Nghe, 30 Đọc, 20 Sắp xếp câu); Viết part 2 (Q96–100) is not in the bank. Work files for each paper are in the private repo `hsk-bank-private` (`work/hsk4-book-N/`, each with a `review.html` to spot-check). Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -26,6 +26,7 @@ Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-
 - 2026-10-30 Phase 8: Đề 7 added (95 questions, 40 clips verified, 0 flagged; Q5 and Q22 placed from timestamps in `clip_overrides.json` because Whisper garbled them). Order-words Q87: the printed tile “又……又……” is split into two “又” tiles so the sentence can be built. Bank now 665 questions, 280 clips, 41.3 MB.
 - 2026-10-30 Phase 8: Đề 8 added (95 questions, 40 clips verified, 0 flagged). Bank now 760 questions, 320 clips, 46.7 MB.
 - 2026-10-30 Phase 8: Đề 9 added (95 questions, 40 clips; clip 36–37 tripped the length heuristic at 45.9 s but recall/precision are 1.00, accepted by hand). Bank now 855 questions, 360 clips, 52.3 MB.
+- 2026-10-30 Phase 8: Đề 10 added (95 questions, 40 clips verified, 0 flagged; Q18 timestamps pinned in `clip_overrides.json`). **All 10 HSK 4 papers done**: bank 950 questions, 400 clips, 57.9 MB; all tests and the plaintext guard pass.
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).
@@ -52,10 +53,11 @@ Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-
 - Layout checked at 360×640: the writing square ends at ~555 px, action buttons start right below it.
 
 ## Waiting on Quan
-- **Phase 8 checkpoint (Đề 1):** (1) open the app, tap `📝 Luyện đề`, unlock with the magic link and, on another browser, with the password; (2) try the three tabs (Nghe, Đọc, Sắp xếp câu) incl. `Câu của mình cũng đúng`; (3) listen to some clips; (4) on the laptop `git pull` in `mock-tests/` and open `mock-tests/work/hsk4-book-1/review.html` (flagged items first; Q67 has a transcription note); (5) tell me what happens on the iPhone home-screen app (is it still unlocked after opening the link in Safari?). Also decide: keep the Chinese explanation toggle? Then say "continue" for Đề 2–10.
+- **Phase 8 checkpoint (all 10 HSK 4 papers):** (1) open the app, tap `📝 Luyện đề`, unlock with the magic link (and on another browser with the password); (2) try the three tabs (Nghe, Đọc, Sắp xếp câu), a few audio clips from different papers, and `Làm câu mới` / `Làm lại câu sai`; (3) on the laptop `git pull` in `mock-tests/` and open `mock-tests/work/hsk4-book-N/review.html` for a spot check (flagged items first); (4) tell me what the iPhone home-screen app does (still unlocked after opening the link in Safari?); (5) check the book-key notes under Known issues; (6) say whether to send the Zalo message to friends (draft is in my last chat reply).
 Phone check of the any-order writing (draw strokes out of order; wrong lines still rejected). Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
 ## Decisions
+- 2026-10-30 (Phase 8) Where the book's printed key contradicts the book's own explanation or text, the key was changed to match the explanation: Đề 7 Q10 → ✗, Đề 10 Q4 → ✗. Đề 10 Q89: the book's answer has an extra “的” that is not among its tiles, so the answer is “这道题的答案就在书后面。”. Đề 7 Q87: tile “又……又……” split into two “又”. Đề 8 Q69 key (D) is kept although it does not match the passage; flagged for Quan.
 - 2026-10-30 (Phase 8) Both ordering types (`order-sentences`, `order-words`) live in the third tab, `Sắp xếp câu`; units use `skill` = `nghe` | `doc` | `sapxep`.
 - 2026-10-30 (Phase 8) Bank progress travels in the existing backup file under one extra key `_bank` (left out while empty). A backup without `_bank` restores the words and leaves the bank progress on the device alone.
 - 2026-10-30 (Phase 8) `meta.json` is fetched only when Luyện đề is opened (or when a key is already saved), so the live site makes no request for it otherwise.
@@ -69,7 +71,7 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - 2026-10-30 Luyện viết grades strokes in any order (Quan: the strict order was too strict). Each drawn line must still match a stroke's shape and direction; Hanzi Writer's quiz is no longer used (only its outline + animation). A wrong line counts as 1 mistake; hint (one missing stroke flashes) after 3 wrong lines in a row.
 
 ## Known issues
-- 2026-10-30 Phase 8 book-key notes for Quan: Đề 7 Q10 book key ✓ contradicts the book's own explanation → used ✗; Đề 8 Q69 printed key D does not match the passage (kept book key, flag for review); Đề 9 Q42 answer is by elimination; Đề 10 Q4 book key ✓ contradicts the book's own explanation → used ✗; Đề 10 Q57/Q58 explanation letters in the book do not match the key ACB → explanation re-lettered to the key.
+- 2026-10-30 Phase 8 book-key notes for Quan: Đề 7 Q10 and Đề 10 Q4: book key ✓ contradicts the book's own explanation → used ✗; Đề 8 Q69 printed key D does not match the passage (kept book key, flag for review); Đề 9 Q42 answer is by elimination; Đề 10 Q57/Q58 explanation letters in the book do not match the key ACB → explanation re-lettered to the key.
 - Phase 8: the CJK clips come from the 128 kbps → 64 kbps compact copy, re-encoded mono 48 kbps; the page map could not be checked against the 目录 (PDF p. 15 is not in the compact copy) but Test 1's start (p. 17), script (p. 179), answers (p. 185) and explanations (p. 186–195) matched the spec.
 - Phase 8: the GitHub Actions guard cannot stop GitHub Pages from deploying (Pages publishes `main/docs` by itself); it flags the push as failed, and the pre-commit hook (`git config core.hooksPath .githooks`) stops it earlier on a laptop.
 - Phase 8: writing part 2 (look at the picture and write a sentence, Q96–100) is skipped as agreed.

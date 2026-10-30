@@ -10,7 +10,7 @@ Read this file at the start of every session. Work phase by phase (see section 6
 
 Quan planned this project in a separate chat and doesn't want to go back to it — **you are his main point of contact.** He uses Claude Code but isn't a full-time developer, and he is a beginner Chinese learner.
 
-**Where things stand.** Phases 0–5 and 7 are done; Phase 8 (Luyện đề) has its engine live and Đề 1 built, see PROGRESS.md: all 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
+**Where things stand.** Phases 0–5 and 7 are done; Phase 8 (Luyện đề) has its engine live and all 10 HSK 4 papers built, see PROGRESS.md: all 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
 
 **Session start.** Run `git pull` (also in `mock-tests/`, which is the private repo `hsk-bank-private`; in a cloud session that repo is checked out next to this one — see `specs/mock-tests.md` section 11). Then read `PROGRESS.md` (if it doesn't exist yet, create it and fill `## Done` from `git log`). In 3–5 lines tell Quan: which phase we're in, what was done last time, and the next step. Then wait for him to say go — unless he already gave an instruction.
 
