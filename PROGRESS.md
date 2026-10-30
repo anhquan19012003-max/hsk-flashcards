@@ -27,6 +27,7 @@ Phase 8 (Luyện đề, question bank) — **done** (only Quan's phone test is o
 - 2026-10-30 Phase 8: Đề 8 added (95 questions, 40 clips verified, 0 flagged). Bank now 760 questions, 320 clips, 46.7 MB.
 - 2026-10-30 Phase 8: Đề 9 added (95 questions, 40 clips; clip 36–37 tripped the length heuristic at 45.9 s but recall/precision are 1.00, accepted by hand). Bank now 855 questions, 360 clips, 52.3 MB.
 - 2026-10-30 Phase 8: Đề 10 added (95 questions, 40 clips verified, 0 flagged; Q18 timestamps pinned in `clip_overrides.json`). **All 10 HSK 4 papers done**: bank 950 questions, 400 clips, 57.9 MB; all tests and the plaintext guard pass.
+- 2026-10-30 Phase 9 Part A (published, sw v7): (A1) Cài đặt now waits for the saved bank key and `meta.json` before drawing, so the `Luyện đề` section (download + `Khóa lại`) shows whenever the bank is unlocked on this device (the old start-up refresh is gone). (A2) `Tải toàn bộ đề về máy` on the Luyện đề screen below the level list: shows the size and “nên dùng Wi-Fi”, says it is optional; once every clip is in the cache both places show `Đã tải về máy ✓`. New test `scripts/test_bank_download.py` (11 checks, in `run_tests.sh`); `test_bank.py` / `test_writing.py` adjusted for the slightly later Cài đặt draw.
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).

@@ -354,8 +354,9 @@ function voiceSelect(current) {
     <p class="note">Muốn giọng tự nhiên hơn? Tải giọng “Nâng cao” trong cài đặt của máy, rồi mở lại ứng dụng.</p>`;
 }
 
-function renderSettings() {
+async function renderSettings() {
   const st = store.getSettings();
+  const bankSection = await bank.settingsSection();
   const seg = (items, current, action) => `<div class="seg">${items.map(([value, label]) =>
     `<button data-action="${action}" data-value="${value}" aria-pressed="${String(current) === String(value)}">${label}</button>`).join("")}</div>`;
   return `<div class="screen">
@@ -373,7 +374,7 @@ function renderSettings() {
         ${seg([[1, "Bật"], [0, "Tắt"]], st.writingOutline ? 1 : 0, "set-outline")}
         <p class="setting-label">Hiện pinyin khi luyện viết</p>
         ${seg([[1, "Bật"], [0, "Tắt"]], st.writingPinyin ? 1 : 0, "set-wpinyin")}</div>
-      ${bank.settingsSection()}
+      ${bankSection}
       <div class="section"><h2>Tiến độ học</h2>
         <div class="stack">
           <button class="btn" data-action="backup">Sao lưu tiến độ</button>
@@ -625,7 +626,6 @@ bank.init({
   esc, shuffle, toast, dialog, render, go, topBar,
   getView: () => view,
   setView: (v) => { view = v; },
-  refresh: () => { if (view.name === "settings") render(); },
 });
 const magicKey = bank.takeMagicKey(); // removes `#k=…` from the address bar immediately
 history.replaceState({ name: "home" }, "");

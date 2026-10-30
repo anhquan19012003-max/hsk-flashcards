@@ -1,5 +1,5 @@
 // Bump VERSION on every deploy (scripts/bump_version.py does it) so phones pick up the new app shell.
-const VERSION = "6";
+const VERSION = "7";
 const SHELL_CACHE = `hskfc-shell-v${VERSION}`;
 const DATA_CACHE = "hskfc-data"; // level files; kept across versions and refreshed in the background
 const BANK_CACHE = "hskfc-bank"; // encrypted question bank (bank/…): clips cache-first, meta/index network-first; kept across versions

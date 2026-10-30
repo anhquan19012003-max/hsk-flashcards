@@ -189,6 +189,7 @@ def main():
         # --- settings
         page.goto(url + "#")
         page.get_by_role("button", name="Cài đặt").click()
+        page.get_by_text("Hiện chữ mờ khi bắt đầu").wait_for()  # Cài đặt draws a moment later (it waits for the saved bank key)
         check("settings has Luyện viết options and the licence line",
               page.get_by_text("Hiện chữ mờ khi bắt đầu").is_visible() and page.get_by_text("Hiện pinyin khi luyện viết").is_visible()
               and page.get_by_text("Hanzi Writer (MIT)").is_visible())

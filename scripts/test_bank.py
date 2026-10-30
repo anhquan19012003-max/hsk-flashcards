@@ -315,10 +315,14 @@ def main():
         check("old backup without _bank still imports", bank_progress(page) == before and page.evaluate("Object.keys(JSON.parse(localStorage.getItem('hskfc.v1.progress'))).length") == 1)
 
         # ---------- "Tải toàn bộ đề" and "Khóa lại"
-        check("Cài đặt shows Luyện đề buttons when unlocked", page.get_by_role("button", name="Tải toàn bộ đề về máy").is_visible() and page.get_by_role("button", name="Khóa lại").is_visible())
-        page.get_by_role("button", name="Tải toàn bộ đề về máy").click()
-        check("download asks first and shows the size", page.get_by_text("MB").first.is_visible())
-        page.get_by_role("button", name="Hủy").click()
+        page.get_by_role("button", name="Khóa lại").wait_for()
+        # the download button turns into "Đã tải về máy ✓" once every clip is cached (the fixture is tiny and was listened to above)
+        has_dl = page.get_by_role("button", name="Tải toàn bộ đề về máy").count() == 1
+        check("Cài đặt shows Luyện đề buttons when unlocked", page.get_by_role("button", name="Khóa lại").is_visible() and (has_dl or page.locator("#bank-cached").is_visible()))
+        if has_dl:
+            page.get_by_role("button", name="Tải toàn bộ đề về máy").click()
+            check("download asks first and shows the size", page.get_by_text("MB").first.is_visible())
+            page.get_by_role("button", name="Hủy").click()
 
         # ---------- offline after first use (key in IndexedDB, files in the service-worker cache)
         page.goto(url)
@@ -336,10 +340,12 @@ def main():
         # fetch all clips through the download button so every file is cached
         page.goto(url)
         page.get_by_role("button", name="Cài đặt").click()
-        page.get_by_role("button", name="Tải toàn bộ đề về máy").click()
-        page.get_by_role("button", name=lambda n: n.startswith("Tải ")).click() if False else page.locator(".dialog button.primary").click()
-        page.get_by_text("Đã tải xong").wait_for()
-        check("Tải toàn bộ đề về máy completes", True)
+        page.locator("[data-action=bank-download], #bank-cached").first.wait_for()
+        if page.get_by_role("button", name="Tải toàn bộ đề về máy").count():  # else everything is cached already ("Đã tải về máy ✓")
+            page.get_by_role("button", name="Tải toàn bộ đề về máy").click()
+            page.locator(".dialog button.primary").click()
+            page.get_by_text("Đã tải xong").wait_for()
+        check("Tải toàn bộ đề về máy completes (or everything was already cached)", True)
         ctx.set_offline(True)
         page.goto(url)
         page.locator("button.bank-btn").click()

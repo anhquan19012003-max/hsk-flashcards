@@ -20,9 +20,7 @@ const SIZE_OPTIONS = [10, 20, 0];
 const MODE_TEXT = { new: "Làm câu mới", wrong: "Làm lại câu sai" };
 
 export function init(helpers) {
-  ctx = helpers;
-  // At start-up only look for a saved key (no network); with one, load the bank state so Cài đặt can show its buttons.
-  loadStoredKey().then((k) => { if (k) ensureReady().then(() => ctx.refresh()); });
+  ctx = helpers; // nothing is loaded at start-up: Cài đặt and Luyện đề call ensureReady() themselves
 }
 
 async function load() {
@@ -207,7 +205,8 @@ export async function renderBankHome() {
         <span class="sub">${st.total} câu · Đã làm đúng ${st.ok}</span>
         <div class="bar"><i style="width:${pct}%"></i></div></button>`);
     }
-    return `<div class="screen">${bar}<div class="stack">${rows.join("")}</div></div>`;
+    return `<div class="screen">${bar}<div class="stack">${rows.join("")}</div>
+      <div class="section" style="margin-top:18px">${await downloadBlock()}</div></div>`;
   } catch (e) {
     if (!key) return renderBankHome();
     throw e;
@@ -527,22 +526,53 @@ document.addEventListener("submit", async (e) => {
 });
 
 // ---------- settings ----------
-export function settingsSection() {
-  if (!meta || meta === "error" || !key) return "";
+/** Cài đặt: waits for the saved key and meta.json first, so the section shows whenever the bank is unlocked on this device. */
+export async function settingsSection() {
+  if (!key) {
+    if (!(await loadStoredKey())) return "";
+    await ensureReady();
+  }
+  if (!key || !meta) return "";
+  const download = meta === "error" ? "" : await downloadBlock().catch(() => "");
   return `<div class="section"><h2>Luyện đề</h2>
     <div class="stack">
-      <button class="btn" data-action="bank-download">Tải toàn bộ đề về máy</button>
+      ${download}
       <button class="btn" data-action="bank-lock">Khóa lại</button>
     </div>
-    <p class="note">“Tải toàn bộ” để làm đề khi không có mạng. “Khóa lại” chỉ quên mật khẩu trên máy này, tiến độ vẫn được giữ.</p></div>`;
+    <p class="note">“Khóa lại” chỉ quên mật khẩu trên máy này, tiến độ vẫn được giữ.</p></div>`;
 }
 
-async function downloadAll() {
+const BANK_CACHE = "hskfc-bank";
+
+async function bankFiles() {
   const files = [];
   for (const level of meta.levels) {
     const index = await loadIndex(level);
     for (const [name, m] of Object.entries(index.media)) files.push({ url: `bank/hsk${level}/m/${name}.bin`, size: m.size });
   }
+  return files;
+}
+
+async function allCached(files) {
+  if (!("caches" in window) || !files.length) return false;
+  try {
+    const c = await caches.open(BANK_CACHE);
+    for (const f of files) if (!(await c.match(f.url))) return false;
+    return true;
+  } catch (e) { return false; }
+}
+
+/** The `Tải toàn bộ đề về máy` button (or `Đã tải về máy ✓`) with its one-line explanation. */
+async function downloadBlock() {
+  const files = await bankFiles();
+  if (await allCached(files)) return `<p class="note" id="bank-cached"><b>Đã tải về máy ✓</b> Có thể làm đề khi không có mạng.</p>`;
+  const mb = (files.reduce((n, f) => n + f.size, 0) / 1e6).toFixed(1);
+  return `<button class="btn" data-action="bank-download">Tải toàn bộ đề về máy<small>${mb} MB · nên dùng Wi-Fi</small></button>
+    <p class="note">Không bắt buộc: nếu không tải, âm thanh của mỗi câu sẽ tự tải về lần đầu bạn làm câu đó.</p>`;
+}
+
+async function downloadAll() {
+  const files = await bankFiles();
   const total = files.reduce((n, f) => n + f.size, 0);
   const mb = (total / 1e6).toFixed(1);
   const yes = await ctx.dialog({
@@ -567,6 +597,7 @@ async function downloadAll() {
   };
   await Promise.all([worker(), worker(), worker(), worker()]);
   ctx.toast(failed ? `Đã tải ${files.length - failed} / ${files.length} tệp. Thử lại sau để tải nốt.` : `Đã tải xong ${files.length} tệp (${mb} MB)`, 5000);
+  ctx.render();
 }
 
 export function endSession() {
