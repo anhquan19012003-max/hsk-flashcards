@@ -10,9 +10,9 @@ Read this file at the start of every session. Work phase by phase (see section 6
 
 Quan planned this project in a separate chat and doesn't want to go back to it — **you are his main point of contact.** He uses Claude Code but isn't a full-time developer, and he is a beginner Chinese learner.
 
-**Where things stand.** Phases 0–5 are done: all 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
+**Where things stand.** Phases 0–5 and 7 are done (Phase 8 is next): all 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
 
-**Session start.** Read `PROGRESS.md` (if it doesn't exist yet, create it and fill `## Done` from `git log`). In 3–5 lines tell Quan: which phase we're in, what was done last time, and the next step. Then wait for him to say go — unless he already gave an instruction.
+**Session start.** Run `git pull` (also in `mock-tests/`, which is the private repo `hsk-bank-private`; in a cloud session that repo is checked out next to this one — see `specs/mock-tests.md` section 11). Then read `PROGRESS.md` (if it doesn't exist yet, create it and fill `## Done` from `git log`). In 3–5 lines tell Quan: which phase we're in, what was done last time, and the next step. Then wait for him to say go — unless he already gave an instruction.
 
 **Keep `PROGRESS.md` up to date** after every step and every decision:
 - `## Status` — current phase and step
@@ -235,6 +235,8 @@ App Build/
   CLAUDE.md
   PROGRESS.md                  # live status — see section 0
   specs/                       # one spec per feature phase (e.g. writing-practice.md)
+  Sample Test/                 # GIT-IGNORED: Quan's original mock-test book + audio (423 MB), laptop only
+  mock-tests/                  # GIT-IGNORED here; it is the PRIVATE repo hsk-bank-private (materials, work files) — Phase 8
   .claude/agents/example-writer.md   # Haiku subagent for example sentences (copied from setup/ in Phase 0)
   setup/example-writer.md            # original copy of the subagent file
   source/vocab.xlsx            # original file, never modified
@@ -277,18 +279,26 @@ GitHub repo, GitHub Pages from `main` / `docs`. PWA install tested on iPhone (Sa
 **Phase 6 — Optional extras (only if asked)**
 Spaced-repetition mode, search/browse list, dark mode, pre-recorded audio.
 
-**Phase 7 — Luyện viết (writing practice)** — *next*
+**Phase 7 — Luyện viết (writing practice)** — *done 2026-10-30*
 Full spec: **`specs/writing-practice.md`** — read it completely before starting. Uses the free Hanzi Writer library and its stroke data (no paid API), vendored into `docs/vendor/` and `docs/hanzi/`. Adds a `Luyện viết` mode on the level screen and a `✍️ Viết` button on the back of every card.
 **Checkpoint:** Quan tests drawing on his phone (list in the spec, section 7).
 
+**Phase 8 — Luyện đề (self-paced question bank)** — *next*
+Full spec: **`specs/mock-tests.md`** — read it completely before starting. Not a formal test: a bank of questions from HSK mock-test papers (HSK 4 first), done at your own pace in three tabs — **Nghe**, **Đọc**, **Sắp xếp câu** — with instant feedback, and correct answers hidden like the flashcards. Listening audio is cut into one clip per question. The bank lives inside the app but **encrypted with a password Quan chooses**; friends unlock with a magic link or the password.
+**Hard rules:** no readable test content in git or on the site (`mock-tests/` is git-ignored, `docs/bank/` holds only encrypted files); never write the password or magic link into any tracked file.
+**Material:** the HSK 4 book with 10 tests (scanned PDF + 10 MP3s) in `Sample Test/` (git-ignored, laptop only); a compact copy for the cloud is in `mock-tests/materials/hsk4-book/` (spec section 1b).
+**Where:** Quan wants Phase 8 run in a **Claude Code cloud session** with two repos — this one and the private `hsk-bank-private` (spec section 11; setup steps in `setup/cloud-setup.md`).
+**Checkpoints:** after the engine is live (fixture only), after the first real paper (Quan tests on his phone), and when the HSK 4 papers are done.
+
 **Later ideas (not started — ask Quan before building)**
-- Multiple-choice quiz generated from the vocab data (meaning ↔ hanzi, pinyin, fill-in-the-blank from the example, listen-and-choose). Do **not** copy questions from published mock-test books or websites — the site is public.
+- Vocab quiz generated from the app's own data (meaning ↔ hanzi, pinyin, fill-in-the-blank from the example, listen-and-choose) — could reuse the Phase 8 question screens.
 - Pronunciation practice: free browser speech recognition only works in a browser tab (not from the home-screen app on iPhone); real tone scoring would need a paid service such as Azure pronunciation assessment plus a small server.
 
 ---
 
 ## 7. Working rules
 - Never modify `source/vocab.xlsx`.
+- Never commit or publish readable mock-test content (anything under `Sample Test/` or `mock-tests/`, or real questions, pictures or audio outside the encrypted `docs/bank/`), and never write the bank password or magic link into a tracked file.
 - Never key data by hanzi; always by `id`.
 - Never overwrite Quan's review edits — `import_review` is the only path that changes reviewed rows.
 - Keep generated content and UI text in Vietnamese; code and comments in English.

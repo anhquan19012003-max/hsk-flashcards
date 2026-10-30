@@ -8,3 +8,5 @@ desktop.ini
 .claude/settings.local.json
 data/unihan/
 data/cache/
+mock-tests/
+Sample Test/
