@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 7 (Luyện viết / writing practice): done. Quan's iPhone test passed (2026-10-30). No phase in progress.
+Phase 7 (Luyện viết / writing practice): done. Quan's iPhone test passed (2026-10-30). Follow-up change published: strokes accepted in any order — waiting for Quan's phone check. Phase 8 (added by Quan to CLAUDE.md) not started.
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -13,24 +13,26 @@ Phase 7 (Luyện viết / writing practice): done. Quan's iPhone test passed (20
 - 2026-10-30 Voice dropdown in Cài đặt (picks among the phone's zh voices).
 - 2026-10-30 Phase 7: Luyện viết — see "Phase 7 details"; Quan tested on iPhone (drawing, animation, outline, restart, skip, card-back sheet, offline): all good.
 
+- 2026-10-30 Luyện viết: strokes now accepted in ANY order (custom grading, `docs/js/strokematch.js`); sw version 5.
+
 ## Phase 7 details
 - Library: Hanzi Writer **3.7.3** (`docs/vendor/hanzi-writer.min.js`, 37 KB, MIT; licence in `docs/vendor/LICENSE-hanzi-writer.txt`). Loaded on first use, no CDN.
 - Stroke data: `hanzi-writer-data` **2.0.1** (Make Me a Hanzi, Arphic Public License: `docs/vendor/ARPHICPL.TXT`).
   `scripts/build_hanzi_data.py` (called from `scripts/build.py`) copies only the characters used in HSK1–5:
   **1,590 characters, 1,590 files, 3.9 MB; characters with no data: none.** The npm package (~50 MB) is downloaded once
   into `data/cache/` (git-ignored) and only when a character is missing from `docs/hanzi/`.
-- Service worker: version **4**. New cache `hskfc-hanzi` (cache-first, filled on first use, kept across versions); the
+- Service worker: version **5** (was 4 before the order-free change). New cache `hskfc-hanzi` (cache-first, filled on first use, kept across versions); the
   library and `js/writing.js` are in the app shell. The 1,590 data files are NOT precached.
 - App: `Luyện viết ✍️` on the level screen (third direction `wr`, own learned status, review picker has 3 choices),
   `✍️ Viết` on every card back (full-screen sheet; does not change progress), two settings under "Luyện viết"
   (`writingOutline`, `writingPinyin`), licence line in Cài đặt.
 - Progress shape: `{zv, vz}` plus `wr: 1` only when learned in writing (entries without `wr` stay valid; old backups import unchanged).
-- Tests: `scripts/test_storage.mjs` (new), `scripts/test_check.mjs`, `scripts/test_app.py` (29), `scripts/test_writing.py` (25, new;
+- Tests: `scripts/test_storage.mjs` (new), `scripts/test_check.mjs`, `scripts/test_app.py` (29), `scripts/test_writing.py` (28, now incl. reversed/shuffled stroke order and a wrong line), `scripts/test_strokematch.mjs` (all 1,590 characters, shuffled + noisy strokes accepted; wrong/backwards lines rejected;
   includes simulated strokes along the stroke medians — they were accepted — and an offline run). All pass.
 - Layout checked at 360×640: the writing square ends at ~555 px, action buttons start right below it.
 
 ## Waiting on Quan
-Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
+Phone check of the any-order writing (draw strokes out of order; wrong lines still rejected). Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
 ## Decisions
 - 2026-10-30 Haiku stays for example sentences; out-of-level characters and duplicate sentences are acceptable (HSK5 has 129 duplicates, ~10%); Hán Việt need not be perfect; words with an unresolved Hán Việt reading show no Hán Việt line.
@@ -38,6 +40,7 @@ Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in
 - 2026-10-30 Writing practice (Phase 7): its own mode on the level screen **and** a button on every card back; same random/skip-learned logic with its own status.
 - 2026-10-30 Writing result counts only the completed attempt of each character (mistakes from a restarted attempt, or while watching the animation, are not added up).
 - 2026-10-30 `wr` is stored only when 1 (keeps old entries and backups identical).
+- 2026-10-30 Luyện viết grades strokes in any order (Quan: the strict order was too strict). Each drawn line must still match a stroke's shape and direction; Hanzi Writer's quiz is no longer used (only its outline + animation). A wrong line counts as 1 mistake; hint (one missing stroke flashes) after 3 wrong lines in a row.
 
 ## Known issues
 - Hán Việt: ~16 words have no reading (blank in the app); ~60–130 more are flagged `hanviet_check` in the review files.

@@ -1,8 +1,14 @@
 // Writing practice: the learner writes each Han character of a word, one at a time, with Hanzi Writer
 // (vendored in vendor/, loaded on first use) and the stroke data in hanzi/{char}.json (cached by the service worker).
+import { bestMatch, pathLength } from "./strokematch.js";
+
 const HAN = /[㐀-䶿一-鿿豈-﫿\u{20000}-\u{2fa1f}]/u;
 const AREA_MAX = 300;
 const NEXT_DELAY = 500; // pause after a finished character before the next one
+const PAD = 14; // padding around the character inside the writing square (px)
+const HINT_AFTER = 3; // wrong strokes in a row before one missing stroke is flashed
+const MIN_STROKE = 40; // drawn lines shorter than this (character units) are taps, not strokes
+const SVGNS = "http://www.w3.org/2000/svg";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
@@ -66,6 +72,7 @@ export function mountWriter(root, word, opts = {}) {
   let destroyed = false;
   let writer = null;
   let timer = null;
+  let qs = null; // state of the running quiz (see startQuiz); null when nothing can be drawn
 
   root.innerHTML = `
     <div class="wr-boxes" aria-label="Các chữ cần viết">${chars.map((c, i) => (HAN.test(c)
@@ -76,6 +83,7 @@ export function mountWriter(root, word, opts = {}) {
         <line x1="0" y1="0" x2="100" y2="100"/><line x1="100" y1="0" x2="0" y2="100"/>
       </svg>
       <div class="wr-canvas"></div>
+      <svg class="wr-draw" style="width:${size}px;height:${size}px" aria-hidden="true"></svg>
     </div>
     <p class="wr-note" hidden></p>
     <div class="wr-actions">
@@ -85,6 +93,7 @@ export function mountWriter(root, word, opts = {}) {
       <button class="btn" data-wr="skip">Bỏ qua chữ này</button>
     </div>`;
   const $canvas = root.querySelector(".wr-canvas");
+  const $draw = root.querySelector(".wr-draw");
   const $note = root.querySelector(".wr-note");
   const $outline = root.querySelector('[data-wr="outline"]');
   const $skip = root.querySelector('[data-wr="skip"]');
@@ -131,6 +140,9 @@ export function mountWriter(root, word, opts = {}) {
     const my = ++token;
     clearTimeout(timer);
     writer = null;
+    qs = null;
+    $draw.innerHTML = "";
+    $draw.style.display = "";
     setBusy(false);
     staticChar = false;
     $skip.textContent = "Bỏ qua chữ này";
@@ -158,34 +170,104 @@ export function mountWriter(root, word, opts = {}) {
       $note.hidden = false;
       return;
     }
+    // Hanzi Writer only draws the faint outline and the animation; strokes are graded by startQuiz, in any order.
     writer = HW.create($canvas, ch, {
       width: size,
       height: size,
-      padding: 14,
+      padding: PAD,
       showCharacter: false,
       showOutline: outline,
       charDataLoader: (_c, onLoad) => onLoad(res.data),
-      strokeColor: cssVar("--text", "#1c2233"),
       outlineColor: cssVar("--wr-outline", "#b9c2d9"),
-      drawingColor: cssVar("--primary", "#2457c5"),
-      highlightColor: cssVar("--wr-hint", "#e08a00"),
-      highlightCompleteColor: cssVar("--good", "#1f8a52"),
-      drawingWidth: 8,
+      strokeColor: cssVar("--text", "#1c2233"),
       strokeAnimationSpeed: 1.2,
       delayBetweenStrokes: 250,
     });
-    writer.quiz({
-      showHintAfterMisses: 3,
-      highlightOnComplete: true,
-      leniency: 1,
-      onComplete: (summary) => {
-        if (destroyed || my !== token) return;
-        setBusy(true);
-        result.mistakes += summary.totalMistakes;
-        fillBox(i);
-        later(next, NEXT_DELAY);
-      },
-    });
+    startQuiz(res.data, my, i);
+  }
+
+  /**
+   * Order-free grading: every line the learner draws is matched against all strokes not written yet (strokematch.js);
+   * a match paints that stroke, a miss counts as a mistake. The character is done when every stroke is painted.
+   */
+  function startQuiz(data, my, i) {
+    const scale = (size - 2 * PAD) / 1024;
+    const margin = PAD / scale; // padding in character units
+    const span = 1024 + 2 * margin;
+    $draw.setAttribute("viewBox", `${-margin} ${-margin} ${span} ${span}`);
+    const g = document.createElementNS(SVGNS, "g");
+    g.setAttribute("transform", "scale(1,-1) translate(0,-900)"); // the data's y axis points up
+    $draw.appendChild(g);
+    const live = document.createElementNS(SVGNS, "path");
+    live.setAttribute("fill", "none");
+    live.setAttribute("stroke", cssVar("--primary", "#2457c5"));
+    live.setAttribute("stroke-width", "8");
+    live.setAttribute("stroke-linecap", "round");
+    live.setAttribute("stroke-linejoin", "round");
+    live.setAttribute("vector-effect", "non-scaling-stroke");
+    $draw.appendChild(live);
+
+    const q = { used: new Set(), points: null, pointer: null, misses: 0, mistakes: 0, done: false, paths: [] };
+    qs = q;
+    const toData = (e) => { // pointer position -> character units (y up)
+      const r = $draw.getBoundingClientRect();
+      return [((e.clientX - r.left) / r.width) * span - margin, 900 - (((e.clientY - r.top) / r.height) * span - margin)];
+    };
+    const toSvg = (pt) => `${pt[0].toFixed(1)} ${(900 - pt[1]).toFixed(1)}`;
+    const paint = (k, color) => {
+      const el = document.createElementNS(SVGNS, "path");
+      el.setAttribute("d", data.strokes[k]);
+      el.setAttribute("fill", color);
+      g.appendChild(el);
+      return el;
+    };
+    const flashHint = () => {
+      const k = data.strokes.findIndex((_s, n) => !q.used.has(n));
+      if (k < 0) return;
+      const el = paint(k, cssVar("--wr-hint", "#e08a00"));
+      setTimeout(() => el.remove(), 900);
+    };
+    const drop = () => { q.points = null; q.pointer = null; live.setAttribute("d", ""); };
+
+    $draw.onpointerdown = (e) => {
+      if (qs !== q || q.done || busy || q.pointer !== null || (e.pointerType === "mouse" && e.button !== 0)) return;
+      e.preventDefault();
+      q.pointer = e.pointerId;
+      q.points = [toData(e)];
+      try { $draw.setPointerCapture(e.pointerId); } catch (err) { /* synthetic pointer */ }
+      live.setAttribute("d", `M ${toSvg(q.points[0])}`);
+    };
+    $draw.onpointermove = (e) => {
+      if (qs !== q || e.pointerId !== q.pointer) return;
+      e.preventDefault();
+      q.points.push(toData(e));
+      live.setAttribute("d", "M " + q.points.map(toSvg).join(" L "));
+    };
+    const end = (e) => {
+      if (qs !== q || e.pointerId !== q.pointer) return;
+      const drawn = q.points;
+      drop();
+      if (e.type === "pointercancel" || pathLength(drawn) < MIN_STROKE) return;
+      const k = bestMatch(drawn, data.medians, q.used);
+      if (k < 0) {
+        q.mistakes++;
+        if (++q.misses >= HINT_AFTER) { q.misses = 0; flashHint(); }
+        return;
+      }
+      q.misses = 0;
+      q.used.add(k);
+      q.paths.push(paint(k, cssVar("--text", "#1c2233")));
+      if (q.used.size < data.medians.length) return;
+      q.done = true;
+      for (const el of q.paths) el.setAttribute("fill", cssVar("--good", "#1f8a52"));
+      if (destroyed || my !== token) return;
+      setBusy(true);
+      result.mistakes += q.mistakes;
+      fillBox(i);
+      later(next, NEXT_DELAY);
+    };
+    $draw.onpointerup = end;
+    $draw.onpointercancel = end;
   }
 
   function onClick(e) {
@@ -207,7 +289,8 @@ export function mountWriter(root, word, opts = {}) {
       if (!writer) return;
       setBusy(true);
       const my = token;
-      writer.cancelQuiz();
+      qs = null;
+      $draw.style.display = "none";
       writer.animateCharacter({ onComplete: () => { if (!destroyed && my === token) showChar(); } });
     } else if (action === "skip") {
       setBusy(true);
@@ -218,7 +301,8 @@ export function mountWriter(root, word, opts = {}) {
         return;
       }
       result.skipped++;
-      if (writer) { writer.cancelQuiz(); writer.showCharacter(); }
+      qs = null;
+      if (writer) writer.showCharacter();
       fillBox(i);
       later(next, NEXT_DELAY + 300);
     }
@@ -233,7 +317,7 @@ export function mountWriter(root, word, opts = {}) {
       destroyed = true;
       clearTimeout(timer);
       root.removeEventListener("click", onClick);
-      try { if (writer) writer.cancelQuiz(); } catch (e) { /* already gone */ }
+      qs = null;
       setWritingMode(false);
     },
   };

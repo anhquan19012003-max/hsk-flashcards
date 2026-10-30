@@ -1,6 +1,6 @@
 # Phase 7 — Luyện viết (writing practice)
 
-Let learners write each character of a word with their finger on the phone. The app checks every stroke (order and shape), gives hints, and can animate the correct stroke order. No paid API, no server, and it keeps working offline.
+Let learners write each character of a word with their finger on the phone. The app checks every stroke's shape and direction (any order — see the 2026-10-30 change below), gives hints, and can animate the correct stroke order. No paid API, no server, and it keeps working offline.
 
 Quan's decisions (2026-10-30):
 - Writing practice appears in **two places**: its own mode on the level screen, and a button on the back of every card.
@@ -61,12 +61,12 @@ Reuse the existing session code; add `wr` as a third `dir`.
 
 **Writing area:** one character at a time, in order.
 - Square, `min(80vw, 300px)`, with a 米字格 practice grid behind it (thin dashed diagonal and centre lines, drawn as SVG or CSS — not part of the quiz).
-- Hanzi Writer quiz mode:
+- Quiz (changed 2026-10-30 — strokes may be written in ANY order; Hanzi Writer's own quiz is strict about order, so grading is custom in `docs/js/strokematch.js`; Hanzi Writer still draws the outline and the animation):
   - the character itself is hidden
   - the outline is hidden by default (toggle below)
-  - hint after 3 misses on a stroke
-  - highlight on complete
-  - default leniency
+  - each drawn line is matched against every stroke not yet written (shape + direction, tolerance ~10% of the box); a match paints that stroke, no match = 1 mistake
+  - hint (one missing stroke flashes) after 3 wrong lines in a row
+  - strokes turn green on complete
 - When a character is finished, fill its small box at the top with the character, pause about 0.5 s, then move to the next.
 
 **Buttons under the writing area:**

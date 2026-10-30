@@ -1,5 +1,5 @@
 // Bump VERSION on every deploy (scripts/bump_version.py does it) so phones pick up the new app shell.
-const VERSION = "4";
+const VERSION = "5";
 const SHELL_CACHE = `hskfc-shell-v${VERSION}`;
 const DATA_CACHE = "hskfc-data"; // level files; kept across versions and refreshed in the background
 const HANZI_CACHE = "hskfc-hanzi"; // stroke data hanzi/{char}.json, cache-first, stored on first use; kept across versions
@@ -12,6 +12,7 @@ const SHELL = [
   "js/check.js",
   "js/speech.js",
   "js/writing.js",
+  "js/strokematch.js",
   "vendor/hanzi-writer.min.js",
   "manifest.webmanifest",
   "icons/icon-192.png",

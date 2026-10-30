@@ -31,13 +31,14 @@ def wait_char_ready(page):
     page.wait_for_timeout(200)
 
 
-def draw_current_char(page, ch):
-    """Draw every stroke of `ch` with the mouse, following the stroke medians."""
+def draw_current_char(page, ch, order=None):
+    """Draw every stroke of `ch` with the mouse, following the stroke medians (in `order`, default: the correct order)."""
     data = json.loads((DOCS / "hanzi" / f"{ch}.json").read_text(encoding="utf-8"))
     box = page.locator(".wr-canvas svg").bounding_box()
     size = box["width"]
     scale = (size - 2 * PADDING) / 1024
-    for median in data["medians"]:
+    medians = data["medians"]
+    for median in (medians[i] for i in (order or range(len(medians)))):
         pts = [(box["x"] + PADDING + x * scale, box["y"] + size - (124 * scale + PADDING) - y * scale) for x, y in median]
         page.mouse.move(*pts[0])
         page.mouse.down()
@@ -144,25 +145,45 @@ def main():
         page.get_by_role("button", name="Trung → Việt").first.click()
         check("but it still comes back in Trung → Việt", page.locator(".hanzi-big").inner_text() == TARGET["hanzi"])
 
-        # --- real strokes along the medians, both characters
+        # --- real strokes along the medians. 爱: one wrong line, then every stroke in REVERSED order; 好: normal order.
+        seed(page, others={"zv": 1, "vz": 1, "wr": 1})
+        page.reload()
+        page.locator(".level-btn").first.click()
+        page.get_by_role("button", name="Luyện viết ✍️").click()
+        wait_char_ready(page)
+        box = page.locator(".wr-canvas svg").bounding_box()
+        scale = (box["width"] - 2 * PADDING) / 1024
+        x = box["x"] + PADDING + 30 * scale
+        page.mouse.move(x, box["y"] + box["height"] * 0.25)
+        page.mouse.down()
+        for t in range(1, 9):
+            page.mouse.move(x, box["y"] + box["height"] * (0.25 + 0.05 * t))
+        page.mouse.up()
+        page.wait_for_timeout(150)
+        check("a wrong line does not complete or fill the character", page.locator(".wr-box.done").count() == 0)
+        n = len(json.loads((DOCS / "hanzi" / "爱.json").read_text(encoding="utf-8"))["medians"])
+        draw_current_char(page, "爱", order=list(reversed(range(n))))
+        page.locator(".wr-box.done").first.wait_for(timeout=4000)
+        check("strokes drawn in reversed order complete the character", page.locator(".wr-box.done").count() == 1)
+        page.wait_for_function("document.querySelector('.wr-box.current') && document.querySelector('.wr-box.current').dataset.i === '1'", timeout=5000)
+        wait_char_ready(page)
+        draw_current_char(page, "好")
+        page.get_by_text("Sai 1 nét · Bỏ qua 0 chữ").wait_for(timeout=6000)
+        check("result counts only the wrong line as a mistake", page.get_by_text("Sai 1 nét · Bỏ qua 0 chữ").is_visible())
+
+        # --- a clean run in a shuffled order is "✅ Viết đúng"
         seed(page, others={"zv": 1, "vz": 1, "wr": 1})
         page.reload()
         page.locator(".level-btn").first.click()
         page.get_by_role("button", name="Luyện viết ✍️").click()
         for ch in TARGET["hanzi"]:
             wait_char_ready(page)
-            draw_current_char(page, ch)
+            n = len(json.loads((DOCS / "hanzi" / f"{ch}.json").read_text(encoding="utf-8"))["medians"])
+            mult = next(m for m in (3, 5, 7, 2) if all(m * i % n != m * j % n for i in range(n) for j in range(i)))
+            draw_current_char(page, ch, order=[mult * i % n for i in range(n)])
             page.wait_for_timeout(900)
-        ok_line = page.get_by_text("✅ Viết đúng")
-        try:
-            ok_line.wait_for(timeout=6000)
-        except Exception:
-            pass
-        if ok_line.count():
-            check("simulated strokes are accepted -> ✅ Viết đúng", True)
-        else:
-            print("NOTE simulated drawing was not accepted (Hanzi Writer grading is strict about pointer input); "
-                  "real drawing must be checked on the phone. Result text:", page.locator(".result").all_inner_texts())
+        page.get_by_text("✅ Viết đúng").wait_for(timeout=6000)
+        check("shuffled stroke order -> ✅ Viết đúng", page.get_by_text("✅ Viết đúng").is_visible())
 
         # --- settings
         page.goto(url + "#")
