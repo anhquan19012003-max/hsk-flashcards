@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank): **all 10 papers of the HSK 4 book are in the encrypted bank** (`hsk4-book-1`…`hsk4-book-10`, 950 questions, 400 clips, 57.9 MB), published to `main`. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Every paper: 95 questions (45 Nghe, 30 Đọc, 20 Sắp xếp câu); Viết part 2 (Q96–100) is not in the bank. Work files for each paper are in the private repo `hsk-bank-private` (`work/hsk4-book-N/`, each with a `review.html` to spot-check). Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank) — **done** (only Quan's phone test is open): **all 10 papers of the HSK 4 book are in the encrypted bank** (`hsk4-book-1`…`hsk4-book-10`, 950 questions, 400 clips, 57.9 MB), published to `main`. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Every paper: 95 questions (45 Nghe, 30 Đọc, 20 Sắp xếp câu); Viết part 2 (Q96–100) is not in the bank. Work files for each paper are in the private repo `hsk-bank-private` (`work/hsk4-book-N/`, each with a `review.html` to spot-check). Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
