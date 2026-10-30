@@ -135,6 +135,10 @@ body {
   font: inherit; font-weight: 600; color: var(--text); cursor: pointer;
 }
 .seg button[aria-pressed="true"] { background: var(--primary); border-color: var(--primary); color: #fff; }
+.select {
+  width: 100%; min-height: 48px; padding: 0 12px; border: 2px solid var(--line); border-radius: 12px;
+  background: var(--surface); font: inherit; font-weight: 600; color: var(--text);
+}
 details summary { min-height: 48px; display: flex; align-items: center; font-weight: 600; cursor: pointer; }
 details ul { margin: 0 0 8px; padding-left: 20px; }
 details li { margin-bottom: 6px; }

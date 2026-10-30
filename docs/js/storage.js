@@ -3,7 +3,7 @@
 const PROGRESS_KEY = "hskfc.v1.progress";
 const SETTINGS_KEY = "hskfc.v1.settings";
 
-export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal" };
+export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "" };
 
 function read(key) {
   try {

@@ -1,6 +1,6 @@
 import * as store from "./js/storage.js";
 import { checkAnswer } from "./js/check.js";
-import { initSpeech, speak } from "./js/speech.js";
+import { initSpeech, speak, listVoices, setVoice } from "./js/speech.js";
 
 const LEVELS = [1, 2, 3, 4, 5];
 const COUNTS = { 1: 500, 2: 772, 3: 973, 4: 1000, 5: 1300 };
@@ -288,6 +288,15 @@ function renderSummary() {
   </div>`;
 }
 
+function voiceSelect(current) {
+  const voices = listVoices();
+  if (voices.length === 0) return `<p class="note">Máy chưa có giọng đọc tiếng Trung. iPhone: Cài đặt → Trợ năng → Nội dung được đọc → Giọng nói → Tiếng Trung. Android: Cài đặt → Chuyển văn bản thành giọng nói.</p>`;
+  const options = [`<option value=""${current ? "" : " selected"}>Tự động</option>`]
+    .concat(voices.map((v) => `<option value="${esc(v.uri)}"${v.uri === current ? " selected" : ""}>${esc(v.name)} (${esc(v.lang)})</option>`));
+  return `<select class="select" id="voice-select" aria-label="Giọng đọc">${options.join("")}</select>
+    <p class="note">Muốn giọng tự nhiên hơn? Tải giọng “Nâng cao” trong cài đặt của máy, rồi mở lại ứng dụng.</p>`;
+}
+
 function renderSettings() {
   const st = store.getSettings();
   const seg = (items, current, action) => `<div class="seg">${items.map(([value, label]) =>
@@ -298,7 +307,9 @@ function renderSettings() {
       <div class="section"><h2>Số thẻ mỗi lượt học</h2>
         ${seg(SIZE_OPTIONS.map((n) => [n, n === 0 ? "Tất cả" : n]), st.sessionSize, "set-size")}</div>
       <div class="section"><h2>Tốc độ đọc</h2>
-        ${seg([["slow", "Chậm"], ["normal", "Bình thường"]], st.speed, "set-speed")}
+        ${seg([["slow", "Chậm"], ["normal", "Bình thường"]], st.speed, "set-speed")}</div>
+      <div class="section"><h2>Giọng đọc</h2>
+        ${voiceSelect(st.voice)}
         <button class="btn" style="margin-top:10px" data-action="test-voice">🔊 Thử giọng đọc</button></div>
       <div class="section"><h2>Tiến độ học</h2>
         <div class="stack">
@@ -444,6 +455,12 @@ document.addEventListener("submit", (e) => {
 });
 
 document.addEventListener("change", async (e) => {
+  if (e.target.id === "voice-select") {
+    store.updateSettings({ voice: e.target.value });
+    setVoice(e.target.value);
+    say("你好，欢迎学习汉语。", "sentence");
+    return;
+  }
   if (e.target.id !== "restore-file") return;
   const file = e.target.files[0];
   e.target.value = "";
@@ -479,7 +496,7 @@ function backup() {
 }
 
 // ---------- start ----------
-initSpeech();
+initSpeech(store.getSettings().voice, () => { if (view.name === "settings") render(); });
 history.replaceState({ name: "home" }, "");
 render();
 

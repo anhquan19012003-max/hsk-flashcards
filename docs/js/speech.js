@@ -6,25 +6,51 @@ const RATES = {
 
 let voices = [];
 let zhVoice = null;
+let preferredUri = "";
+let onVoicesChanged = () => {};
 
 const synth = "speechSynthesis" in window ? window.speechSynthesis : null;
+
+const lang = (v) => v.lang.replace("_", "-").toLowerCase();
+const isChinese = (v) => lang(v).startsWith("zh") || lang(v).startsWith("cmn");
 
 function pickVoice() {
   if (!synth) return;
   voices = synth.getVoices();
-  const lang = (v) => v.lang.replace("_", "-").toLowerCase();
   zhVoice =
+    voices.find((v) => v.voiceURI === preferredUri && isChinese(v)) ||
     voices.find((v) => lang(v) === "zh-cn") ||
     voices.find((v) => lang(v).startsWith("zh-cn") || lang(v).startsWith("cmn-cn")) ||
-    voices.find((v) => lang(v).startsWith("zh") || lang(v).startsWith("cmn")) ||
+    voices.find(isChinese) ||
     null;
 }
 
-export function initSpeech() {
+function handleVoicesChanged() {
+  pickVoice();
+  onVoicesChanged();
+}
+
+/** `voiceUri` is the voice saved in settings ("" = automatic); `onChange` fires when the device's voice list changes. */
+export function initSpeech(voiceUri = "", onChange = () => {}) {
+  preferredUri = voiceUri;
+  onVoicesChanged = onChange;
   if (!synth) return;
   pickVoice();
-  if (typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", pickVoice);
-  else synth.onvoiceschanged = pickVoice;
+  if (typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", handleVoicesChanged);
+  else synth.onvoiceschanged = handleVoicesChanged;
+}
+
+/** Chinese voices on this device, as [{ uri, name, lang, active }]. */
+export function listVoices() {
+  if (!synth) return [];
+  if (voices.length === 0) pickVoice();
+  return voices.filter(isChinese).map((v) => ({ uri: v.voiceURI, name: v.name, lang: v.lang, active: v === zhVoice }));
+}
+
+/** Use this voice from now on ("" = automatic). */
+export function setVoice(uri) {
+  preferredUri = uri;
+  pickVoice();
 }
 
 /**
