@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1` (Đề 1, 95 questions) is in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 2 is also in the bank (2026-10-30); Đề 3 is partly transcribed in the private repo (`work/hsk4-book-3/`, TODO list at the end of `content_part1.py`); Đề 4–10 not started. Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1` (Đề 1, 95 questions) is in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 2 is also in the bank (2026-10-30); Đề 3 is in the bank too; Đề 4 is partly transcribed in the private repo (`work/hsk4-book-4/`, TODO at the end of `content_part1.py`: reading part 3 on PDF pp. 74–78, writing p. 79, then script/answers/explanations pp. 226–240); Đề 5–10 not started. Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -18,6 +18,8 @@ Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1` (Đề 1
 - 2026-10-30 Phase 8 step 1 (engine, fixture only): `docs/js/bank*.js` (Web Crypto unlock by password or `#k=` magic link, key in IndexedDB; Luyện đề screens; 3 tabs Nghe / Đọc / Sắp xếp câu; progress `hskfc.v1.bank`; backup/restore `_bank`; `Tải toàn bộ đề về máy`, `Khóa lại`), service worker v6 with cache `hskfc-bank`, `scripts/bank/` (build_bank, bankcrypto, validate_paper, guard, make_fixture), fixture in `scripts/fixtures/`, GitHub Actions workflow `.github/workflows/guard.yml` (plaintext guard on every push), pre-commit hook `.githooks/pre-commit`. Tests: `bash scripts/run_tests.sh` (bank unit 40, bank JS 24, bank browser 56, app 29, writing 28, plus the older Node tests, and the plaintext guard first and last).
 
 - 2026-10-30 Phase 8: Đề 2 added (95 questions, 40 clips: min recall 0.94 / precision 0.94, 0 excluded). The book's key prints Q47 as C but its own explanation and the sentence give D (留); the bank uses D (noted in `review.html`). Bank now 190 questions, 80 clips, 11.7 MB. Tooling is per paper: `work/make_questions.py N`, `prepare_explain.py N`, `merge_explain.py N`, `cut_clips.py N`, `verify_clips.py N`, `make_review.py N`; the Whisper transcripts of tests 2–10 are made by `scratchpad/queue.sh` (they are not in git: `work/_audio/` is only on the cloud machine unless committed).
+
+- 2026-10-30 Phase 8: Đề 3 added (95 questions, 40 clips: min recall 0.93 / precision 0.94, 0 excluded; Whisper missed the start of Q33, placed from silence boundaries in `clip_overrides.json`). Bank now 285 questions, 120 clips, 17.1 MB.
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).
