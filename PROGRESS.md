@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank) — running in a cloud session. Step 1 (engine with the made-up fixture) is built and tested; step 3 (build `hsk4-book-1`) is in progress. Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1` (Đề 1, 95 questions) is in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Papers 2–10 not started. Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -23,6 +23,8 @@ Phase 8 (Luyện đề, question bank) — running in a cloud session. Step 1 (e
 - Tests of the engine serve `scripts/fixtures/bank/` as `/bank/` (password `test-password`; made-up content only).
 - Running tests in the cloud container: the pip Playwright needs the pre-installed browser; `scripts/browser.py` handles it.
 
+- 2026-10-30 Phase 8 step 3: `hsk4-book-1` built end-to-end in the cloud: 95 questions (Nghe 45 · Đọc 30 · Sắp xếp câu 20), 40 audio clips (one per question; two-question passages share a clip), all clips re-transcribed and checked against the book's script (min recall 0.85, min precision 0.88; 0 flagged, 0 excluded), `explain_zh` from the book + `explain_vi` by Haiku (the 10 word-ordering items of writing part 1 have a hand-written Vietnamese note with the translation). Encrypted bank in `docs/bank/` (42 files, 5.4 MB). Work files are in the private repo `work/hsk4-book-1/` (`questions.json`, `clips/`, `review.html`) with the tooling in `work/` (`cut_clips.py`, `verify_clips.py`, `make_review.py`).
+
 ## Phase 7 details
 - Library: Hanzi Writer **3.7.3** (`docs/vendor/hanzi-writer.min.js`, 37 KB, MIT; licence in `docs/vendor/LICENSE-hanzi-writer.txt`). Loaded on first use, no CDN.
 - Stroke data: `hanzi-writer-data` **2.0.1** (Make Me a Hanzi, Arphic Public License: `docs/vendor/ARPHICPL.TXT`).
@@ -40,6 +42,7 @@ Phase 8 (Luyện đề, question bank) — running in a cloud session. Step 1 (e
 - Layout checked at 360×640: the writing square ends at ~555 px, action buttons start right below it.
 
 ## Waiting on Quan
+- **Phase 8 checkpoint (Đề 1):** (1) open the app, tap `📝 Luyện đề`, unlock with the magic link and, on another browser, with the password; (2) try the three tabs (Nghe, Đọc, Sắp xếp câu) incl. `Câu của mình cũng đúng`; (3) listen to some clips; (4) on the laptop `git pull` in `mock-tests/` and open `mock-tests/work/hsk4-book-1/review.html` (flagged items first; Q67 has a transcription note); (5) tell me what happens on the iPhone home-screen app (is it still unlocked after opening the link in Safari?). Also decide: keep the Chinese explanation toggle? Then say "continue" for Đề 2–10.
 Phone check of the any-order writing (draw strokes out of order; wrong lines still rejected). Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
 ## Decisions
@@ -56,6 +59,9 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - 2026-10-30 Luyện viết grades strokes in any order (Quan: the strict order was too strict). Each drawn line must still match a stroke's shape and direction; Hanzi Writer's quiz is no longer used (only its outline + animation). A wrong line counts as 1 mistake; hint (one missing stroke flashes) after 3 wrong lines in a row.
 
 ## Known issues
+- Phase 8: the CJK clips come from the 128 kbps → 64 kbps compact copy, re-encoded mono 48 kbps; the page map could not be checked against the 目录 (PDF p. 15 is not in the compact copy) but Test 1's start (p. 17), script (p. 179), answers (p. 185) and explanations (p. 186–195) matched the spec.
+- Phase 8: the GitHub Actions guard cannot stop GitHub Pages from deploying (Pages publishes `main/docs` by itself); it flags the push as failed, and the pre-commit hook (`git config core.hooksPath .githooks`) stops it earlier on a laptop.
+- Phase 8: writing part 2 (look at the picture and write a sentence, Q96–100) is skipped as agreed.
 - Hán Việt: ~16 words have no reading (blank in the app); ~60–130 more are flagged `hanviet_check` in the review files.
 - HSK5: 129 duplicate example sentences; ~40–50 sentences per level use characters above the card's level (accepted).
 - Fixed on the way: a 'Chưa thuộc' card used to come back 6–9 cards later instead of 5–8 (it now returns as the 5th–8th card).

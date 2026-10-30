@@ -9,5 +9,6 @@ echo "== storage / check / strokes";  node scripts/test_storage.mjs; node script
 echo "== app";                        python3 scripts/test_app.py
 echo "== writing";                    python3 scripts/test_writing.py
 echo "== bank: browser";              python3 scripts/test_bank.py
+echo "== real bank smoke test (skipped without BANK_PASSWORD)"; python3 scripts/test_real_bank.py
 echo "== plaintext guard (final)";    python3 scripts/bank/guard.py
 echo "ALL TESTS PASSED"
