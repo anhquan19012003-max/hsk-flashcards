@@ -38,17 +38,19 @@ with sync_playwright() as p:
     check("real bank: wrong password refused", True)
     page.locator("#bank-pw").fill(pw)
     page.get_by_role("button", name="Mở khóa").click()
-    page.get_by_text("95 câu · Đã làm đúng 0").wait_for()
-    check("real bank: unlocks, 95 questions", True)
+    page.locator(".level-btn .sub").wait_for()
+    total = int(page.locator(".level-btn .sub").inner_text().split(" câu")[0])
+    papers = total // 95
+    check(f"real bank: unlocks, {total} questions = {papers} full papers of 95", total % 95 == 0 and papers >= 1)
     page.locator(".level-btn").click()
-    for tab, n in (("nghe", 45), ("doc", 30), ("sapxep", 20)):
+    for tab, n in (("nghe", 45 * papers), ("doc", 30 * papers), ("sapxep", 20 * papers)):
         page.locator(f"button[data-action=bank-tab][data-tab={tab}]").click()
         check(f"tab {tab}: {n} questions", page.get_by_text(f"Còn {n} câu chưa làm đúng").is_visible())
     page.locator("button[data-action=bank-tab][data-tab=nghe]").click()
     page.locator("button[data-action=bank-size][data-value='0']").click()
     page.locator("button[data-action=bank-start][data-mode=new]").click()
     played = 0
-    for _ in range(45):  # play the clip of every listening unit
+    for _ in range(45 * papers):  # play the clip of every listening unit
         page.get_by_role("button", name="▶ Nghe").first.click()
         page.wait_for_function("() => { const a = window.__hskBankPlayer; return a.src.startsWith('blob:') && a.duration > 1 && (a.currentTime > 0 || a.ended); }", timeout=8000)
         played += 1
@@ -57,7 +59,7 @@ with sync_playwright() as p:
         page.locator("button[data-action=bank-next]").click()
         if page.get_by_text("Hoàn thành!").is_visible():
             break
-    check("every listening unit's clip decrypts and plays", played == 40, str(played))
+    check("every listening unit's clip decrypts and plays", played == 40 * papers, str(played))
     check("no console errors", not errors, "; ".join(errors[:2]))
     browser.close()
 srv.shutdown()

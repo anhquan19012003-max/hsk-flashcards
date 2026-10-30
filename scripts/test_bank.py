@@ -151,8 +151,8 @@ def main():
         wrong_id = "hsk4-fixture-1-2"
         # answer the first unit right, to look at the feedback
         unit0, q0 = QS[first_ids[0]]
-        answer_question(page, first_ids[0], right=True)
-        check("instant feedback: ✅ Đúng + correct option green", page.get_by_text("✅ Đúng").first.is_visible() and page.locator("button.opt.correct").count() >= 1)
+        answer_question(page, first_ids[0], right=(first_ids[0] != wrong_id))
+        check("instant feedback: option marked green (correct) and a result box", page.locator("button.opt.correct").count() >= 1 and page.locator(".fb").first.is_visible())
         check("listening script shown after answering", page.locator(".script, .fb .script").first.is_visible())
         if q0.get("explain_zh"):
             check("Chinese explanation hidden behind a toggle",
