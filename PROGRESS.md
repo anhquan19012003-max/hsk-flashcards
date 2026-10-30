@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-7` (Đề 1–7, 665 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 8–10 are transcribed in the private repo (`work/hsk4-book-N/`; their `questions.json` is kept as `questions.draft.json` until audio is cut and verified so the build never publishes a paper without clips). Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-8` (Đề 1–8, 760 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 9–10 are transcribed in the private repo (`work/hsk4-book-N/`; their `questions.json` is kept as `questions.draft.json` until audio is cut and verified so the build never publishes a paper without clips). Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -24,6 +24,7 @@ Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-
 - 2026-10-30 Phase 8: Đề 5 added (95 questions, 40 clips, all verified, 0 flagged). Bank now 475 questions, 200 clips, 29.8 MB.
 - 2026-10-30 Phase 8: Đề 6 added (95 questions, 40 clips verified, 0 flagged; Q28 and Q30 placed from silence boundaries in `clip_overrides.json`). Bank now 570 questions, 240 clips, 35.5 MB.
 - 2026-10-30 Phase 8: Đề 7 added (95 questions, 40 clips verified, 0 flagged; Q5 and Q22 placed from timestamps in `clip_overrides.json` because Whisper garbled them). Order-words Q87: the printed tile “又……又……” is split into two “又” tiles so the sentence can be built. Bank now 665 questions, 280 clips, 41.3 MB.
+- 2026-10-30 Phase 8: Đề 8 added (95 questions, 40 clips verified, 0 flagged). Bank now 760 questions, 320 clips, 46.7 MB.
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).
