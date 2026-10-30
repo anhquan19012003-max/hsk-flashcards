@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0051",
+  "hanzi": "趁",
+  "pinyin": "chèn",
+  "pos": "",
+  "meaning": "nhân lúc",
+  "level": 5
+ },
+ {
+  "id": "5-0052",
+  "hanzi": "称",
+  "pinyin": "chēng",
+  "pos": "",
+  "meaning": "gọi",
+  "level": 5
+ },
+ {
+  "id": "5-0053",
+  "hanzi": "称赞",
+  "pinyin": "chēngzàn",
+  "pos": "",
+  "meaning": "khen ngợi",
+  "level": 5
+ },
+ {
+  "id": "5-0054",
+  "hanzi": "承担",
+  "pinyin": "chéngdān",
+  "pos": "",
+  "meaning": "đảm nhận",
+  "level": 5
+ },
+ {
+  "id": "5-0055",
+  "hanzi": "承受",
+  "pinyin": "chéngshòu",
+  "pos": "",
+  "meaning": "chịu đựng",
+  "level": 5
+ },
+ {
+  "id": "5-0056",
+  "hanzi": "程序",
+  "pinyin": "chéngxù",
+  "pos": "",
+  "meaning": "chương trình",
+  "level": 5
+ },
+ {
+  "id": "5-0057",
+  "hanzi": "成立",
+  "pinyin": "chénglì",
+  "pos": "",
+  "meaning": "thành lập",
+  "level": 5
+ },
+ {
+  "id": "5-0058",
+  "hanzi": "成人",
+  "pinyin": "chéngrén",
+  "pos": "",
+  "meaning": "người lớn",
+  "level": 5
+ },
+ {
+  "id": "5-0059",
+  "hanzi": "成语",
+  "pinyin": "chéngyǔ",
+  "pos": "",
+  "meaning": "thành ngữ",
+  "level": 5
+ },
+ {
+  "id": "5-0060",
+  "hanzi": "诚恳",
+  "pinyin": "chéngkěn",
+  "pos": "",
+  "meaning": "chân thành",
+  "level": 5
+ },
+ {
+  "id": "5-0061",
+  "hanzi": "持续",
+  "pinyin": "chíxù",
+  "pos": "",
+  "meaning": "tiếp tục",
+  "level": 5
+ },
+ {
+  "id": "5-0062",
+  "hanzi": "尺子",
+  "pinyin": "chǐzi",
+  "pos": "",
+  "meaning": "thước kẻ",
+  "level": 5
+ },
+ {
+  "id": "5-0063",
+  "hanzi": "冲",
+  "pinyin": "chōng",
+  "pos": "",
+  "meaning": "xông vào",
+  "level": 5
+ },
+ {
+  "id": "5-0064",
+  "hanzi": "充分",
+  "pinyin": "chōngfèn",
+  "pos": "",
+  "meaning": "đầy đủ",
+  "level": 5
+ },
+ {
+  "id": "5-0065",
+  "hanzi": "重复",
+  "pinyin": "chóngfù",
+  "pos": "",
+  "meaning": "lặp lại",
+  "level": 5
+ },
+ {
+  "id": "5-0066",
+  "hanzi": "宠物",
+  "pinyin": "chǒngwù",
+  "pos": "",
+  "meaning": "thú cưng",
+  "level": 5
+ },
+ {
+  "id": "5-0067",
+  "hanzi": "抽象",
+  "pinyin": "chōuxiàng",
+  "pos": "",
+  "meaning": "trừu tượng",
+  "level": 5
+ },
+ {
+  "id": "5-0068",
+  "hanzi": "丑",
+  "pinyin": "chǒu",
+  "pos": "",
+  "meaning": "xấu xí",
+  "level": 5
+ },
+ {
+  "id": "5-0069",
+  "hanzi": "出口",
+  "pinyin": "chūkǒu",
+  "pos": "",
+  "meaning": "lối ra",
+  "level": 5
+ },
+ {
+  "id": "5-0070",
+  "hanzi": "出示",
+  "pinyin": "chūshì",
+  "pos": "",
+  "meaning": "xuất trình",
+  "level": 5
+ },
+ {
+  "id": "5-0071",
+  "hanzi": "出席",
+  "pinyin": "chūxí",
+  "pos": "",
+  "meaning": "tham dự",
+  "level": 5
+ },
+ {
+  "id": "5-0072",
+  "hanzi": "除非",
+  "pinyin": "chúfēi",
+  "pos": "",
+  "meaning": "trừ khi",
+  "level": 5
+ },
+ {
+  "id": "5-0073",
+  "hanzi": "除夕",
+  "pinyin": "chúxī",
+  "pos": "",
+  "meaning": "giao thừa",
+  "level": 5
+ },
+ {
+  "id": "5-0074",
+  "hanzi": "处理",
+  "pinyin": "chǔlǐ",
+  "pos": "",
+  "meaning": "xử lý",
+  "level": 5
+ },
+ {
+  "id": "5-0075",
+  "hanzi": "传染",
+  "pinyin": "chuánrǎn",
+  "pos": "",
+  "meaning": "lây nhiễm",
+  "level": 5
+ },
+ {
+  "id": "5-0076",
+  "hanzi": "传统",
+  "pinyin": "chuántǒng",
+  "pos": "",
+  "meaning": "truyền thống",
+  "level": 5
+ },
+ {
+  "id": "5-0077",
+  "hanzi": "闯",
+  "pinyin": "chuǎng",
+  "pos": "",
+  "meaning": "xông vào",
+  "level": 5
+ },
+ {
+  "id": "5-0078",
+  "hanzi": "吹",
+  "pinyin": "chuī",
+  "pos": "",
+  "meaning": "thổi",
+  "level": 5
+ },
+ {
+  "id": "5-0079",
+  "hanzi": "此外",
+  "pinyin": "cǐwài",
+  "pos": "",
+  "meaning": "ngoài ra",
+  "level": 5
+ },
+ {
+  "id": "5-0080",
+  "hanzi": "次要",
+  "pinyin": "cìyào",
+  "pos": "",
+  "meaning": "thứ yếu",
+  "level": 5
+ },
+ {
+  "id": "5-0081",
+  "hanzi": "匆忙",
+  "pinyin": "cōngmáng",
+  "pos": "",
+  "meaning": "vội vàng",
+  "level": 5
+ },
+ {
+  "id": "5-0082",
+  "hanzi": "从而",
+  "pinyin": "cóng'ér",
+  "pos": "",
+  "meaning": "do đó",
+  "level": 5
+ },
+ {
+  "id": "5-0083",
+  "hanzi": "从前",
+  "pinyin": "cóngqián",
+  "pos": "",
+  "meaning": "trước đây",
+  "level": 5
+ },
+ {
+  "id": "5-0084",
+  "hanzi": "粗糙",
+  "pinyin": "cūcāo",
+  "pos": "",
+  "meaning": "thô ráp",
+  "level": 5
+ },
+ {
+  "id": "5-0085",
+  "hanzi": "醋",
+  "pinyin": "cù",
+  "pos": "",
+  "meaning": "giấm",
+  "level": 5
+ },
+ {
+  "id": "5-0086",
+  "hanzi": "促使",
+  "pinyin": "cùshǐ",
+  "pos": "",
+  "meaning": "thúc đẩy",
+  "level": 5
+ },
+ {
+  "id": "5-0087",
+  "hanzi": "措施",
+  "pinyin": "cuòshī",
+  "pos": "",
+  "meaning": "biện pháp",
+  "level": 5
+ },
+ {
+  "id": "5-0088",
+  "hanzi": "打工",
+  "pinyin": "dǎgōng",
+  "pos": "",
+  "meaning": "làm thêm",
+  "level": 5
+ },
+ {
+  "id": "5-0089",
+  "hanzi": "大厦",
+  "pinyin": "dàshà",
+  "pos": "",
+  "meaning": "tòa nhà lớn",
+  "level": 5
+ },
+ {
+  "id": "5-0090",
+  "hanzi": "大象",
+  "pinyin": "dàxiàng",
+  "pos": "",
+  "meaning": "voi",
+  "level": 5
+ },
+ {
+  "id": "5-0091",
+  "hanzi": "代表",
+  "pinyin": "dàibiǎo",
+  "pos": "",
+  "meaning": "đại diện",
+  "level": 5
+ },
+ {
+  "id": "5-0092",
+  "hanzi": "待遇",
+  "pinyin": "dàiyù",
+  "pos": "",
+  "meaning": "đãi ngộ",
+  "level": 5
+ },
+ {
+  "id": "5-0093",
+  "hanzi": "单调",
+  "pinyin": "dāndiào",
+  "pos": "",
+  "meaning": "đơn điệu",
+  "level": 5
+ },
+ {
+  "id": "5-0094",
+  "hanzi": "单位",
+  "pinyin": "dānwèi",
+  "pos": "",
+  "meaning": "đơn vị",
+  "level": 5
+ },
+ {
+  "id": "5-0095",
+  "hanzi": "担任",
+  "pinyin": "dānrèn",
+  "pos": "",
+  "meaning": "đảm nhận",
+  "level": 5
+ },
+ {
+  "id": "5-0096",
+  "hanzi": "耽误",
+  "pinyin": "dānwu",
+  "pos": "",
+  "meaning": "làm lỡ",
+  "level": 5
+ },
+ {
+  "id": "5-0097",
+  "hanzi": "淡",
+  "pinyin": "dàn",
+  "pos": "",
+  "meaning": "nhạt",
+  "level": 5
+ },
+ {
+  "id": "5-0098",
+  "hanzi": "倒霉",
+  "pinyin": "dǎoméi",
+  "pos": "",
+  "meaning": "xui xẻo",
+  "level": 5
+ },
+ {
+  "id": "5-0099",
+  "hanzi": "道理",
+  "pinyin": "dàolǐ",
+  "pos": "",
+  "meaning": "đạo lý",
+  "level": 5
+ },
+ {
+  "id": "5-0100",
+  "hanzi": "登记",
+  "pinyin": "dēngjì",
+  "pos": "",
+  "meaning": "đăng ký",
+  "level": 5
+ }
+]

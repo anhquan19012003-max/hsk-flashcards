@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0201",
+  "hanzi": "否定",
+  "pinyin": "fǒudìng",
+  "pos": "động từ, tính từ",
+  "meaning": "phủ định",
+  "level": 3
+ },
+ {
+  "id": "3-0202",
+  "hanzi": "否认",
+  "pinyin": "fǒurèn",
+  "pos": "động từ",
+  "meaning": "phủ nhận",
+  "level": 3
+ },
+ {
+  "id": "3-0203",
+  "hanzi": "服装",
+  "pinyin": "fúzhuāng",
+  "pos": "danh từ",
+  "meaning": "trang phục",
+  "level": 3
+ },
+ {
+  "id": "3-0204",
+  "hanzi": "福",
+  "pinyin": "fú",
+  "pos": "danh từ",
+  "meaning": "phúc",
+  "level": 3
+ },
+ {
+  "id": "3-0205",
+  "hanzi": "父母",
+  "pinyin": "fùmǔ",
+  "pos": "danh từ",
+  "meaning": "bố mẹ, cha mẹ",
+  "level": 3
+ },
+ {
+  "id": "3-0206",
+  "hanzi": "父亲",
+  "pinyin": "fùqīn",
+  "pos": "danh từ",
+  "meaning": "cha, phụ thân",
+  "level": 3
+ },
+ {
+  "id": "3-0207",
+  "hanzi": "付",
+  "pinyin": "fù",
+  "pos": "động từ",
+  "meaning": "trả (tiền)",
+  "level": 3
+ },
+ {
+  "id": "3-0208",
+  "hanzi": "负责",
+  "pinyin": "fùzé",
+  "pos": "động từ, tính từ",
+  "meaning": "phụ trách; có trách nhiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0209",
+  "hanzi": "复印",
+  "pinyin": "fùyìn",
+  "pos": "động từ",
+  "meaning": "photo, sao chụp",
+  "level": 3
+ },
+ {
+  "id": "3-0210",
+  "hanzi": "复杂",
+  "pinyin": "fùzá",
+  "pos": "tính từ",
+  "meaning": "phức tạp",
+  "level": 3
+ },
+ {
+  "id": "3-0211",
+  "hanzi": "富",
+  "pinyin": "fù",
+  "pos": "tính từ",
+  "meaning": "giàu",
+  "level": 3
+ },
+ {
+  "id": "3-0212",
+  "hanzi": "改进",
+  "pinyin": "gǎijìn",
+  "pos": "động từ",
+  "meaning": "cải tiến",
+  "level": 3
+ },
+ {
+  "id": "3-0213",
+  "hanzi": "改造",
+  "pinyin": "gǎizào",
+  "pos": "động từ",
+  "meaning": "cải tạo",
+  "level": 3
+ },
+ {
+  "id": "3-0214",
+  "hanzi": "概念",
+  "pinyin": "gàiniàn",
+  "pos": "danh từ",
+  "meaning": "khái niệm",
+  "level": 3
+ },
+ {
+  "id": "3-0215",
+  "hanzi": "赶",
+  "pinyin": "gǎn",
+  "pos": "động từ",
+  "meaning": "đuổi theo; vội, kịp (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0216",
+  "hanzi": "赶到",
+  "pinyin": "gǎndào",
+  "pos": "cụm từ",
+  "meaning": "chạy đến kịp, đến nơi",
+  "level": 3
+ },
+ {
+  "id": "3-0217",
+  "hanzi": "赶紧",
+  "pinyin": "gǎnjǐn",
+  "pos": "phó từ",
+  "meaning": "vội vàng, khẩn trương (赶紧)",
+  "level": 3
+ },
+ {
+  "id": "3-0218",
+  "hanzi": "赶快",
+  "pinyin": "gǎnkuài",
+  "pos": "phó từ",
+  "meaning": "nhanh lên, mau chóng (赶快)",
+  "level": 3
+ },
+ {
+  "id": "3-0219",
+  "hanzi": "敢",
+  "pinyin": "gǎn",
+  "pos": "động từ",
+  "meaning": "dám",
+  "level": 3
+ },
+ {
+  "id": "3-0220",
+  "hanzi": "感冒",
+  "pinyin": "gǎnmào",
+  "pos": "danh từ, động từ",
+  "meaning": "cảm cúm, bị cảm",
+  "level": 3
+ },
+ {
+  "id": "3-0221",
+  "hanzi": "感情",
+  "pinyin": "gǎnqíng",
+  "pos": "danh từ",
+  "meaning": "tình cảm (感情)",
+  "level": 3
+ },
+ {
+  "id": "3-0222",
+  "hanzi": "感受",
+  "pinyin": "gǎnshòu",
+  "pos": "danh từ, động từ",
+  "meaning": "cảm nhận, cảm xúc",
+  "level": 3
+ },
+ {
+  "id": "3-0223",
+  "hanzi": "干吗",
+  "pinyin": "gànmá",
+  "pos": "đại từ",
+  "meaning": "làm gì; tại sao (khẩu ngữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0224",
+  "hanzi": "高速",
+  "pinyin": "gāosù",
+  "pos": "tính từ",
+  "meaning": "cao tốc, tốc độ cao",
+  "level": 3
+ },
+ {
+  "id": "3-0225",
+  "hanzi": "高速公路",
+  "pinyin": "gāosù gōnglù",
+  "pos": "cụm từ",
+  "meaning": "đường cao tốc",
+  "level": 3
+ },
+ {
+  "id": "3-0226",
+  "hanzi": "告别",
+  "pinyin": "gàobié",
+  "pos": "cụm từ",
+  "meaning": "từ biệt, chia tay",
+  "level": 3
+ },
+ {
+  "id": "3-0227",
+  "hanzi": "歌迷",
+  "pinyin": "gēmí",
+  "pos": "danh từ",
+  "meaning": "người hâm mộ ca sĩ, fan ca nhạc",
+  "level": 3
+ },
+ {
+  "id": "3-0228",
+  "hanzi": "歌声",
+  "pinyin": "gēshēng",
+  "pos": "danh từ",
+  "meaning": "tiếng hát",
+  "level": 3
+ },
+ {
+  "id": "3-0229",
+  "hanzi": "歌手",
+  "pinyin": "gēshǒu",
+  "pos": "danh từ",
+  "meaning": "ca sĩ",
+  "level": 3
+ },
+ {
+  "id": "3-0230",
+  "hanzi": "个人",
+  "pinyin": "gèrén",
+  "pos": "danh từ",
+  "meaning": "cá nhân",
+  "level": 3
+ },
+ {
+  "id": "3-0231",
+  "hanzi": "个性",
+  "pinyin": "gèxìng",
+  "pos": "danh từ",
+  "meaning": "cá tính",
+  "level": 3
+ },
+ {
+  "id": "3-0232",
+  "hanzi": "各",
+  "pinyin": "gè",
+  "pos": "đại từ, phó từ",
+  "meaning": "các, mỗi (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0233",
+  "hanzi": "各地",
+  "pinyin": "gèdì",
+  "pos": "danh từ",
+  "meaning": "các nơi",
+  "level": 3
+ },
+ {
+  "id": "3-0234",
+  "hanzi": "各位",
+  "pinyin": "gèwèi",
+  "pos": "đại từ",
+  "meaning": "các vị, quý vị",
+  "level": 3
+ },
+ {
+  "id": "3-0235",
+  "hanzi": "各种",
+  "pinyin": "gèzhǒng",
+  "pos": "đại từ",
+  "meaning": "các loại, đủ loại",
+  "level": 3
+ },
+ {
+  "id": "3-0236",
+  "hanzi": "各自",
+  "pinyin": "gèzì",
+  "pos": "đại từ",
+  "meaning": "mỗi người, ai nấy (riêng)",
+  "level": 3
+ },
+ {
+  "id": "3-0237",
+  "hanzi": "根本",
+  "pinyin": "gēnběn",
+  "pos": "phó từ, tính từ, danh từ",
+  "meaning": "căn bản; hoàn toàn (không)",
+  "level": 3
+ },
+ {
+  "id": "3-0238",
+  "hanzi": "更加",
+  "pinyin": "gèngjiā",
+  "pos": "phó từ",
+  "meaning": "càng thêm",
+  "level": 3
+ },
+ {
+  "id": "3-0239",
+  "hanzi": "工厂",
+  "pinyin": "gōngchǎng",
+  "pos": "danh từ",
+  "meaning": "nhà máy, công xưởng",
+  "level": 3
+ },
+ {
+  "id": "3-0240",
+  "hanzi": "工程师",
+  "pinyin": "gōngchéngshī",
+  "pos": "danh từ",
+  "meaning": "kỹ sư",
+  "level": 3
+ },
+ {
+  "id": "3-0241",
+  "hanzi": "工夫",
+  "pinyin": "gōngfu",
+  "pos": "danh từ",
+  "meaning": "thời gian, công sức (工夫)",
+  "level": 3
+ },
+ {
+  "id": "3-0242",
+  "hanzi": "工具",
+  "pinyin": "gōngjù",
+  "pos": "danh từ",
+  "meaning": "công cụ",
+  "level": 3
+ },
+ {
+  "id": "3-0243",
+  "hanzi": "工业",
+  "pinyin": "gōngyè",
+  "pos": "danh từ",
+  "meaning": "công nghiệp",
+  "level": 3
+ },
+ {
+  "id": "3-0244",
+  "hanzi": "工资",
+  "pinyin": "gōngzī",
+  "pos": "danh từ",
+  "meaning": "tiền lương",
+  "level": 3
+ },
+ {
+  "id": "3-0245",
+  "hanzi": "公布",
+  "pinyin": "gōngbù",
+  "pos": "động từ",
+  "meaning": "công bố",
+  "level": 3
+ },
+ {
+  "id": "3-0246",
+  "hanzi": "公共",
+  "pinyin": "gōnggòng",
+  "pos": "tính từ",
+  "meaning": "công cộng",
+  "level": 3
+ },
+ {
+  "id": "3-0247",
+  "hanzi": "公开",
+  "pinyin": "gōngkāi",
+  "pos": "tính từ, động từ",
+  "meaning": "công khai",
+  "level": 3
+ },
+ {
+  "id": "3-0248",
+  "hanzi": "公民",
+  "pinyin": "gōngmín",
+  "pos": "danh từ",
+  "meaning": "công dân",
+  "level": 3
+ },
+ {
+  "id": "3-0249",
+  "hanzi": "公务员",
+  "pinyin": "gōngwùyuán",
+  "pos": "danh từ",
+  "meaning": "công chức",
+  "level": 3
+ },
+ {
+  "id": "3-0250",
+  "hanzi": "功夫",
+  "pinyin": "gōngfu",
+  "pos": "danh từ",
+  "meaning": "võ công, kungfu; công sức",
+  "level": 3
+ }
+]

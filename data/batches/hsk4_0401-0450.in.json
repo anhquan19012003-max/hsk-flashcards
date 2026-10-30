@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0401",
+  "hanzi": "节省",
+  "pinyin": "jiéshěng",
+  "pos": "",
+  "meaning": "tiết kiệm",
+  "level": 4
+ },
+ {
+  "id": "4-0402",
+  "hanzi": "结",
+  "pinyin": "jié",
+  "pos": "",
+  "meaning": "kết, buộc, hình thành",
+  "level": 4
+ },
+ {
+  "id": "4-0403",
+  "hanzi": "结构",
+  "pinyin": "jiégòu",
+  "pos": "",
+  "meaning": "cấu trúc",
+  "level": 4
+ },
+ {
+  "id": "4-0404",
+  "hanzi": "结论",
+  "pinyin": "jiélùn",
+  "pos": "",
+  "meaning": "kết luận",
+  "level": 4
+ },
+ {
+  "id": "4-0405",
+  "hanzi": "姐妹",
+  "pinyin": "jiěmèi",
+  "pos": "",
+  "meaning": "chị em gái",
+  "level": 4
+ },
+ {
+  "id": "4-0406",
+  "hanzi": "解释",
+  "pinyin": "jiěshì",
+  "pos": "",
+  "meaning": "giải thích",
+  "level": 4
+ },
+ {
+  "id": "4-0407",
+  "hanzi": "尽快",
+  "pinyin": "jǐnkuài",
+  "pos": "",
+  "meaning": "càng sớm càng tốt",
+  "level": 4
+ },
+ {
+  "id": "4-0408",
+  "hanzi": "紧密",
+  "pinyin": "jǐnmì",
+  "pos": "",
+  "meaning": "chặt chẽ",
+  "level": 4
+ },
+ {
+  "id": "4-0409",
+  "hanzi": "尽力",
+  "pinyin": "jìnlì",
+  "pos": "",
+  "meaning": "hết sức",
+  "level": 4
+ },
+ {
+  "id": "4-0410",
+  "hanzi": "进口",
+  "pinyin": "jìnkǒu",
+  "pos": "",
+  "meaning": "nhập khẩu",
+  "level": 4
+ },
+ {
+  "id": "4-0411",
+  "hanzi": "近代",
+  "pinyin": "jìndài",
+  "pos": "",
+  "meaning": "cận đại",
+  "level": 4
+ },
+ {
+  "id": "4-0412",
+  "hanzi": "禁止",
+  "pinyin": "jìnzhǐ",
+  "pos": "",
+  "meaning": "cấm",
+  "level": 4
+ },
+ {
+  "id": "4-0413",
+  "hanzi": "经典",
+  "pinyin": "jīngdiǎn",
+  "pos": "",
+  "meaning": "kinh điển",
+  "level": 4
+ },
+ {
+  "id": "4-0414",
+  "hanzi": "精力",
+  "pinyin": "jīnglì",
+  "pos": "",
+  "meaning": "tinh lực",
+  "level": 4
+ },
+ {
+  "id": "4-0415",
+  "hanzi": "竟然",
+  "pinyin": "jìngrán",
+  "pos": "",
+  "meaning": "không ngờ",
+  "level": 4
+ },
+ {
+  "id": "4-0416",
+  "hanzi": "镜头",
+  "pinyin": "jìngtóu",
+  "pos": "",
+  "meaning": "ống kính",
+  "level": 4
+ },
+ {
+  "id": "4-0417",
+  "hanzi": "镜子",
+  "pinyin": "jìngzi",
+  "pos": "",
+  "meaning": "gương",
+  "level": 4
+ },
+ {
+  "id": "4-0418",
+  "hanzi": "究竟",
+  "pinyin": "jiūjìng",
+  "pos": "",
+  "meaning": "rốt cuộc",
+  "level": 4
+ },
+ {
+  "id": "4-0419",
+  "hanzi": "酒吧",
+  "pinyin": "jiǔbā",
+  "pos": "",
+  "meaning": "quán bar",
+  "level": 4
+ },
+ {
+  "id": "4-0420",
+  "hanzi": "居民",
+  "pinyin": "jūmín",
+  "pos": "",
+  "meaning": "cư dân",
+  "level": 4
+ },
+ {
+  "id": "4-0421",
+  "hanzi": "居住",
+  "pinyin": "jūzhù",
+  "pos": "",
+  "meaning": "cư trú",
+  "level": 4
+ },
+ {
+  "id": "4-0422",
+  "hanzi": "局",
+  "pinyin": "jú",
+  "pos": "danh từ",
+  "meaning": "cục, phòng (cơ quan) (danh từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0423",
+  "hanzi": "巨大",
+  "pinyin": "jùdà",
+  "pos": "",
+  "meaning": "to lớn",
+  "level": 4
+ },
+ {
+  "id": "4-0424",
+  "hanzi": "具备",
+  "pinyin": "jùbèi",
+  "pos": "",
+  "meaning": "có, đầy đủ (điều kiện)",
+  "level": 4
+ },
+ {
+  "id": "4-0425",
+  "hanzi": "距离",
+  "pinyin": "jùlí",
+  "pos": "",
+  "meaning": "khoảng cách",
+  "level": 4
+ },
+ {
+  "id": "4-0426",
+  "hanzi": "聚",
+  "pinyin": "jù",
+  "pos": "",
+  "meaning": "tụ họp (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0427",
+  "hanzi": "聚会",
+  "pinyin": "jùhuì",
+  "pos": "",
+  "meaning": "buổi tụ họp",
+  "level": 4
+ },
+ {
+  "id": "4-0428",
+  "hanzi": "卷",
+  "pinyin": "juǎn",
+  "pos": "",
+  "meaning": "cuộn",
+  "level": 4
+ },
+ {
+  "id": "4-0429",
+  "hanzi": "卷",
+  "pinyin": "juàn",
+  "pos": "",
+  "meaning": "quyển (sách)",
+  "level": 4
+ },
+ {
+  "id": "4-0430",
+  "hanzi": "角色",
+  "pinyin": "juésè",
+  "pos": "",
+  "meaning": "vai diễn",
+  "level": 4
+ },
+ {
+  "id": "4-0431",
+  "hanzi": "开花",
+  "pinyin": "kāihuā",
+  "pos": "",
+  "meaning": "nở hoa",
+  "level": 4
+ },
+ {
+  "id": "4-0432",
+  "hanzi": "开水",
+  "pinyin": "kāishuǐ",
+  "pos": "",
+  "meaning": "nước sôi",
+  "level": 4
+ },
+ {
+  "id": "4-0433",
+  "hanzi": "看不起",
+  "pinyin": "kànbuqǐ",
+  "pos": "",
+  "meaning": "xem thường",
+  "level": 4
+ },
+ {
+  "id": "4-0434",
+  "hanzi": "看来",
+  "pinyin": "kànlái",
+  "pos": "",
+  "meaning": "xem ra",
+  "level": 4
+ },
+ {
+  "id": "4-0435",
+  "hanzi": "看望",
+  "pinyin": "kànwàng",
+  "pos": "",
+  "meaning": "thăm hỏi",
+  "level": 4
+ },
+ {
+  "id": "4-0436",
+  "hanzi": "考察",
+  "pinyin": "kǎochá",
+  "pos": "",
+  "meaning": "khảo sát",
+  "level": 4
+ },
+ {
+  "id": "4-0437",
+  "hanzi": "考虑",
+  "pinyin": "kǎolǜ",
+  "pos": "",
+  "meaning": "cân nhắc",
+  "level": 4
+ },
+ {
+  "id": "4-0438",
+  "hanzi": "棵",
+  "pinyin": "kē",
+  "pos": "",
+  "meaning": "cây (lượng từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0439",
+  "hanzi": "可见",
+  "pinyin": "kějiàn",
+  "pos": "",
+  "meaning": "có thể thấy",
+  "level": 4
+ },
+ {
+  "id": "4-0440",
+  "hanzi": "空间",
+  "pinyin": "kōngjiān",
+  "pos": "",
+  "meaning": "không gian",
+  "level": 4
+ },
+ {
+  "id": "4-0441",
+  "hanzi": "空",
+  "pinyin": "kōng",
+  "pos": "",
+  "meaning": "trống rỗng",
+  "level": 4
+ },
+ {
+  "id": "4-0442",
+  "hanzi": "口袋",
+  "pinyin": "kǒudài",
+  "pos": "",
+  "meaning": "túi áo/quần",
+  "level": 4
+ },
+ {
+  "id": "4-0443",
+  "hanzi": "口语",
+  "pinyin": "kǒuyǔ",
+  "pos": "",
+  "meaning": "khẩu ngữ",
+  "level": 4
+ },
+ {
+  "id": "4-0444",
+  "hanzi": "苦",
+  "pinyin": "kǔ",
+  "pos": "",
+  "meaning": "đắng, khổ",
+  "level": 4
+ },
+ {
+  "id": "4-0445",
+  "hanzi": "会计",
+  "pinyin": "kuàijì",
+  "pos": "",
+  "meaning": "kế toán",
+  "level": 4
+ },
+ {
+  "id": "4-0446",
+  "hanzi": "快递",
+  "pinyin": "kuàidì",
+  "pos": "",
+  "meaning": "chuyển phát nhanh",
+  "level": 4
+ },
+ {
+  "id": "4-0447",
+  "hanzi": "宽",
+  "pinyin": "kuān",
+  "pos": "",
+  "meaning": "rộng",
+  "level": 4
+ },
+ {
+  "id": "4-0448",
+  "hanzi": "宽广",
+  "pinyin": "kuānguǎng",
+  "pos": "",
+  "meaning": "rộng lớn",
+  "level": 4
+ },
+ {
+  "id": "4-0449",
+  "hanzi": "矿泉水",
+  "pinyin": "kuàngquánshuǐ",
+  "pos": "",
+  "meaning": "nước khoáng",
+  "level": 4
+ },
+ {
+  "id": "4-0450",
+  "hanzi": "扩大",
+  "pinyin": "kuòdà",
+  "pos": "",
+  "meaning": "mở rộng",
+  "level": 4
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0201",
+  "hanzi": "堵",
+  "pinyin": "dǔ",
+  "pos": "",
+  "meaning": "tắc nghẽn",
+  "level": 4
+ },
+ {
+  "id": "4-0202",
+  "hanzi": "堵车",
+  "pinyin": "dǔchē",
+  "pos": "",
+  "meaning": "kẹt xe",
+  "level": 4
+ },
+ {
+  "id": "4-0203",
+  "hanzi": "肚子",
+  "pinyin": "dùzi",
+  "pos": "",
+  "meaning": "bụng",
+  "level": 4
+ },
+ {
+  "id": "4-0204",
+  "hanzi": "度过",
+  "pinyin": "dùguò",
+  "pos": "",
+  "meaning": "trải qua",
+  "level": 4
+ },
+ {
+  "id": "4-0205",
+  "hanzi": "锻炼",
+  "pinyin": "duànliàn",
+  "pos": "",
+  "meaning": "luyện tập",
+  "level": 4
+ },
+ {
+  "id": "4-0206",
+  "hanzi": "对比",
+  "pinyin": "duìbǐ",
+  "pos": "",
+  "meaning": "so sánh",
+  "level": 4
+ },
+ {
+  "id": "4-0207",
+  "hanzi": "对付",
+  "pinyin": "duìfu",
+  "pos": "",
+  "meaning": "đối phó",
+  "level": 4
+ },
+ {
+  "id": "4-0208",
+  "hanzi": "对于",
+  "pinyin": "duìyú",
+  "pos": "",
+  "meaning": "đối với",
+  "level": 4
+ },
+ {
+  "id": "4-0209",
+  "hanzi": "多次",
+  "pinyin": "duōcì",
+  "pos": "",
+  "meaning": "nhiều lần",
+  "level": 4
+ },
+ {
+  "id": "4-0210",
+  "hanzi": "多年",
+  "pinyin": "duōnián",
+  "pos": "",
+  "meaning": "nhiều năm",
+  "level": 4
+ },
+ {
+  "id": "4-0211",
+  "hanzi": "多样",
+  "pinyin": "duōyàng",
+  "pos": "",
+  "meaning": "đa dạng",
+  "level": 4
+ },
+ {
+  "id": "4-0212",
+  "hanzi": "多种",
+  "pinyin": "duōzhǒng",
+  "pos": "",
+  "meaning": "nhiều loại",
+  "level": 4
+ },
+ {
+  "id": "4-0213",
+  "hanzi": "恶心",
+  "pinyin": "ěxin",
+  "pos": "",
+  "meaning": "buồn nôn",
+  "level": 4
+ },
+ {
+  "id": "4-0214",
+  "hanzi": "儿童",
+  "pinyin": "értóng",
+  "pos": "",
+  "meaning": "trẻ em",
+  "level": 4
+ },
+ {
+  "id": "4-0215",
+  "hanzi": "而",
+  "pinyin": "ér",
+  "pos": "",
+  "meaning": "mà, và (liên từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0216",
+  "hanzi": "而是",
+  "pinyin": "érshì",
+  "pos": "",
+  "meaning": "mà là",
+  "level": 4
+ },
+ {
+  "id": "4-0217",
+  "hanzi": "耳机",
+  "pinyin": "ěrjī",
+  "pos": "",
+  "meaning": "tai nghe",
+  "level": 4
+ },
+ {
+  "id": "4-0218",
+  "hanzi": "二手",
+  "pinyin": "èrshǒu",
+  "pos": "",
+  "meaning": "đồ cũ",
+  "level": 4
+ },
+ {
+  "id": "4-0219",
+  "hanzi": "发挥",
+  "pinyin": "fāhuī",
+  "pos": "",
+  "meaning": "phát huy",
+  "level": 4
+ },
+ {
+  "id": "4-0220",
+  "hanzi": "发票",
+  "pinyin": "fāpiào",
+  "pos": "",
+  "meaning": "hóa đơn",
+  "level": 4
+ },
+ {
+  "id": "4-0221",
+  "hanzi": "发烧",
+  "pinyin": "fāshāo",
+  "pos": "",
+  "meaning": "bị sốt",
+  "level": 4
+ },
+ {
+  "id": "4-0222",
+  "hanzi": "法",
+  "pinyin": "fǎ",
+  "pos": "",
+  "meaning": "pháp luật",
+  "level": 4
+ },
+ {
+  "id": "4-0223",
+  "hanzi": "法官",
+  "pinyin": "fǎguān",
+  "pos": "",
+  "meaning": "thẩm phán",
+  "level": 4
+ },
+ {
+  "id": "4-0224",
+  "hanzi": "法律",
+  "pinyin": "fǎlǜ",
+  "pos": "",
+  "meaning": "luật",
+  "level": 4
+ },
+ {
+  "id": "4-0225",
+  "hanzi": "法院",
+  "pinyin": "fǎyuàn",
+  "pos": "",
+  "meaning": "tòa án",
+  "level": 4
+ },
+ {
+  "id": "4-0226",
+  "hanzi": "翻",
+  "pinyin": "fān",
+  "pos": "",
+  "meaning": "lật",
+  "level": 4
+ },
+ {
+  "id": "4-0227",
+  "hanzi": "翻译",
+  "pinyin": "fānyì",
+  "pos": "",
+  "meaning": "dịch",
+  "level": 4
+ },
+ {
+  "id": "4-0228",
+  "hanzi": "烦",
+  "pinyin": "fán",
+  "pos": "",
+  "meaning": "phiền, buồn phiền",
+  "level": 4
+ },
+ {
+  "id": "4-0229",
+  "hanzi": "反",
+  "pinyin": "fǎn",
+  "pos": "",
+  "meaning": "ngược, trái (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0230",
+  "hanzi": "反而",
+  "pinyin": "fǎn'ér",
+  "pos": "",
+  "meaning": "ngược lại",
+  "level": 4
+ },
+ {
+  "id": "4-0231",
+  "hanzi": "反映",
+  "pinyin": "fǎnyìng",
+  "pos": "",
+  "meaning": "phản ánh",
+  "level": 4
+ },
+ {
+  "id": "4-0232",
+  "hanzi": "方",
+  "pinyin": "fāng",
+  "pos": "",
+  "meaning": "hình vuông",
+  "level": 4
+ },
+ {
+  "id": "4-0233",
+  "hanzi": "方案",
+  "pinyin": "fāng'àn",
+  "pos": "",
+  "meaning": "phương án",
+  "level": 4
+ },
+ {
+  "id": "4-0234",
+  "hanzi": "方针",
+  "pinyin": "fāngzhēn",
+  "pos": "",
+  "meaning": "phương châm",
+  "level": 4
+ },
+ {
+  "id": "4-0235",
+  "hanzi": "放松",
+  "pinyin": "fàngsōng",
+  "pos": "",
+  "meaning": "thư giãn",
+  "level": 4
+ },
+ {
+  "id": "4-0236",
+  "hanzi": "非",
+  "pinyin": "fēi",
+  "pos": "",
+  "meaning": "không phải, phi",
+  "level": 4
+ },
+ {
+  "id": "4-0237",
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "pos": "",
+  "meaning": "béo",
+  "level": 4
+ },
+ {
+  "id": "4-0238",
+  "hanzi": "分布",
+  "pinyin": "fēnbù",
+  "pos": "",
+  "meaning": "phân bố",
+  "level": 4
+ },
+ {
+  "id": "4-0239",
+  "hanzi": "分散",
+  "pinyin": "fēnsàn",
+  "pos": "",
+  "meaning": "phân tán",
+  "level": 4
+ },
+ {
+  "id": "4-0240",
+  "hanzi": "分手",
+  "pinyin": "fēnshǒu",
+  "pos": "",
+  "meaning": "chia tay",
+  "level": 4
+ },
+ {
+  "id": "4-0241",
+  "hanzi": "分为",
+  "pinyin": "fēnwéi",
+  "pos": "",
+  "meaning": "chia thành",
+  "level": 4
+ },
+ {
+  "id": "4-0242",
+  "hanzi": "分之",
+  "pinyin": "fēnzhī",
+  "pos": "",
+  "meaning": "phần (phân số, VD: ba phần tư)",
+  "level": 4
+ },
+ {
+  "id": "4-0243",
+  "hanzi": "纷纷",
+  "pinyin": "fēnfēn",
+  "pos": "",
+  "meaning": "lần lượt",
+  "level": 4
+ },
+ {
+  "id": "4-0244",
+  "hanzi": "奋斗",
+  "pinyin": "fèndòu",
+  "pos": "",
+  "meaning": "phấn đấu",
+  "level": 4
+ },
+ {
+  "id": "4-0245",
+  "hanzi": "风格",
+  "pinyin": "fēnggé",
+  "pos": "",
+  "meaning": "phong cách",
+  "level": 4
+ },
+ {
+  "id": "4-0246",
+  "hanzi": "风景",
+  "pinyin": "fēngjǐng",
+  "pos": "",
+  "meaning": "phong cảnh",
+  "level": 4
+ },
+ {
+  "id": "4-0247",
+  "hanzi": "风俗",
+  "pinyin": "fēngsú",
+  "pos": "",
+  "meaning": "phong tục",
+  "level": 4
+ },
+ {
+  "id": "4-0248",
+  "hanzi": "封闭",
+  "pinyin": "fēngbì",
+  "pos": "",
+  "meaning": "đóng kín",
+  "level": 4
+ },
+ {
+  "id": "4-0249",
+  "hanzi": "否则",
+  "pinyin": "fǒuzé",
+  "pos": "",
+  "meaning": "nếu không thì",
+  "level": 4
+ },
+ {
+  "id": "4-0250",
+  "hanzi": "夫妇",
+  "pinyin": "fūfù",
+  "pos": "",
+  "meaning": "vợ chồng",
+  "level": 4
+ }
+]

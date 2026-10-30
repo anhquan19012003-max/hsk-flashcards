@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0851",
+  "hanzi": "眼镜",
+  "pinyin": "yǎnjìng",
+  "pos": "",
+  "meaning": "kính mắt",
+  "level": 4
+ },
+ {
+  "id": "4-0852",
+  "hanzi": "眼泪",
+  "pinyin": "yǎn lèi",
+  "pos": "",
+  "meaning": "nước mắt",
+  "level": 4
+ },
+ {
+  "id": "4-0853",
+  "hanzi": "眼里",
+  "pinyin": "yǎn lǐ",
+  "pos": "",
+  "meaning": "trong mắt",
+  "level": 4
+ },
+ {
+  "id": "4-0854",
+  "hanzi": "演讲",
+  "pinyin": "yǎnjiǎng",
+  "pos": "",
+  "meaning": "diễn thuyết",
+  "level": 4
+ },
+ {
+  "id": "4-0855",
+  "hanzi": "阳台",
+  "pinyin": "yángtái",
+  "pos": "",
+  "meaning": "ban công",
+  "level": 4
+ },
+ {
+  "id": "4-0856",
+  "hanzi": "养成",
+  "pinyin": "yǎngchéng",
+  "pos": "",
+  "meaning": "hình thành, nuôi dưỡng",
+  "level": 4
+ },
+ {
+  "id": "4-0857",
+  "hanzi": "腰",
+  "pinyin": "yāo",
+  "pos": "",
+  "meaning": "eo",
+  "level": 4
+ },
+ {
+  "id": "4-0858",
+  "hanzi": "摇",
+  "pinyin": "yáo",
+  "pos": "",
+  "meaning": "lắc",
+  "level": 4
+ },
+ {
+  "id": "4-0859",
+  "hanzi": "药物",
+  "pinyin": "yào wù",
+  "pos": "",
+  "meaning": "thuốc",
+  "level": 4
+ },
+ {
+  "id": "4-0860",
+  "hanzi": "要",
+  "pinyin": "yào",
+  "pos": "liên từ",
+  "meaning": "nếu (liên từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0861",
+  "hanzi": "业余",
+  "pinyin": "yèyú",
+  "pos": "",
+  "meaning": "nghiệp dư",
+  "level": 4
+ },
+ {
+  "id": "4-0862",
+  "hanzi": "叶子",
+  "pinyin": "yèzi",
+  "pos": "",
+  "meaning": "lá cây",
+  "level": 4
+ },
+ {
+  "id": "4-0863",
+  "hanzi": "医疗",
+  "pinyin": "yī liáo",
+  "pos": "",
+  "meaning": "y tế",
+  "level": 4
+ },
+ {
+  "id": "4-0864",
+  "hanzi": "医学",
+  "pinyin": "yī xué",
+  "pos": "",
+  "meaning": "y học",
+  "level": 4
+ },
+ {
+  "id": "4-0865",
+  "hanzi": "依靠",
+  "pinyin": "yīkào",
+  "pos": "",
+  "meaning": "dựa vào",
+  "level": 4
+ },
+ {
+  "id": "4-0866",
+  "hanzi": "依然",
+  "pinyin": "yīrán",
+  "pos": "",
+  "meaning": "vẫn",
+  "level": 4
+ },
+ {
+  "id": "4-0867",
+  "hanzi": "一律",
+  "pinyin": "yílǜ",
+  "pos": "",
+  "meaning": "đồng loạt",
+  "level": 4
+ },
+ {
+  "id": "4-0868",
+  "hanzi": "一再",
+  "pinyin": "yízài",
+  "pos": "",
+  "meaning": "nhiều lần",
+  "level": 4
+ },
+ {
+  "id": "4-0869",
+  "hanzi": "一致",
+  "pinyin": "yízhì",
+  "pos": "",
+  "meaning": "thống nhất",
+  "level": 4
+ },
+ {
+  "id": "4-0870",
+  "hanzi": "移",
+  "pinyin": "yí",
+  "pos": "",
+  "meaning": "di chuyển",
+  "level": 4
+ },
+ {
+  "id": "4-0871",
+  "hanzi": "移动",
+  "pinyin": "yídòng",
+  "pos": "",
+  "meaning": "di động",
+  "level": 4
+ },
+ {
+  "id": "4-0872",
+  "hanzi": "移民",
+  "pinyin": "yímín",
+  "pos": "",
+  "meaning": "di dân",
+  "level": 4
+ },
+ {
+  "id": "4-0873",
+  "hanzi": "遗产",
+  "pinyin": "yíchǎn",
+  "pos": "",
+  "meaning": "di sản",
+  "level": 4
+ },
+ {
+  "id": "4-0874",
+  "hanzi": "遗传",
+  "pinyin": "yíchuán",
+  "pos": "",
+  "meaning": "di truyền",
+  "level": 4
+ },
+ {
+  "id": "4-0875",
+  "hanzi": "疑问",
+  "pinyin": "yíwèn",
+  "pos": "",
+  "meaning": "nghi vấn",
+  "level": 4
+ },
+ {
+  "id": "4-0876",
+  "hanzi": "以及",
+  "pinyin": "yǐjí",
+  "pos": "",
+  "meaning": "cũng như",
+  "level": 4
+ },
+ {
+  "id": "4-0877",
+  "hanzi": "以内",
+  "pinyin": "yǐ nèi",
+  "pos": "",
+  "meaning": "trong vòng",
+  "level": 4
+ },
+ {
+  "id": "4-0878",
+  "hanzi": "一般来说",
+  "pinyin": "yì bān lái shuō",
+  "pos": "",
+  "meaning": "nói chung",
+  "level": 4
+ },
+ {
+  "id": "4-0879",
+  "hanzi": "义务",
+  "pinyin": "yìwù",
+  "pos": "",
+  "meaning": "nghĩa vụ",
+  "level": 4
+ },
+ {
+  "id": "4-0880",
+  "hanzi": "议论",
+  "pinyin": "yìlùn",
+  "pos": "",
+  "meaning": "bàn luận",
+  "level": 4
+ },
+ {
+  "id": "4-0881",
+  "hanzi": "引",
+  "pinyin": "yǐn",
+  "pos": "",
+  "meaning": "dẫn",
+  "level": 4
+ },
+ {
+  "id": "4-0882",
+  "hanzi": "引导",
+  "pinyin": "yǐndǎo",
+  "pos": "",
+  "meaning": "dẫn dắt",
+  "level": 4
+ },
+ {
+  "id": "4-0883",
+  "hanzi": "引进",
+  "pinyin": "yǐn jìn",
+  "pos": "",
+  "meaning": "đưa vào",
+  "level": 4
+ },
+ {
+  "id": "4-0884",
+  "hanzi": "引起",
+  "pinyin": "yǐnqǐ",
+  "pos": "",
+  "meaning": "gây ra",
+  "level": 4
+ },
+ {
+  "id": "4-0885",
+  "hanzi": "应",
+  "pinyin": "yīng",
+  "pos": "",
+  "meaning": "nên (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0886",
+  "hanzi": "英勇",
+  "pinyin": "yīngyǒng",
+  "pos": "",
+  "meaning": "anh dũng",
+  "level": 4
+ },
+ {
+  "id": "4-0887",
+  "hanzi": "营业",
+  "pinyin": "yíngyè",
+  "pos": "",
+  "meaning": "kinh doanh",
+  "level": 4
+ },
+ {
+  "id": "4-0888",
+  "hanzi": "赢得",
+  "pinyin": "yíng dé",
+  "pos": "",
+  "meaning": "giành được",
+  "level": 4
+ },
+ {
+  "id": "4-0889",
+  "hanzi": "影子",
+  "pinyin": "yǐngzi",
+  "pos": "",
+  "meaning": "bóng",
+  "level": 4
+ },
+ {
+  "id": "4-0890",
+  "hanzi": "勇敢",
+  "pinyin": "yǒnggǎn",
+  "pos": "",
+  "meaning": "dũng cảm",
+  "level": 4
+ },
+ {
+  "id": "4-0891",
+  "hanzi": "勇气",
+  "pinyin": "yǒngqì",
+  "pos": "",
+  "meaning": "can đảm",
+  "level": 4
+ },
+ {
+  "id": "4-0892",
+  "hanzi": "用途",
+  "pinyin": "yòngtú",
+  "pos": "",
+  "meaning": "công dụng",
+  "level": 4
+ },
+ {
+  "id": "4-0893",
+  "hanzi": "优良",
+  "pinyin": "yōu liáng",
+  "pos": "",
+  "meaning": "tốt, ưu tú",
+  "level": 4
+ },
+ {
+  "id": "4-0894",
+  "hanzi": "优美",
+  "pinyin": "yōuměi",
+  "pos": "",
+  "meaning": "đẹp đẽ",
+  "level": 4
+ },
+ {
+  "id": "4-0895",
+  "hanzi": "优秀",
+  "pinyin": "yōuxiù",
+  "pos": "",
+  "meaning": "xuất sắc",
+  "level": 4
+ },
+ {
+  "id": "4-0896",
+  "hanzi": "邮局",
+  "pinyin": "yóujú",
+  "pos": "",
+  "meaning": "bưu điện",
+  "level": 4
+ },
+ {
+  "id": "4-0897",
+  "hanzi": "有劲儿",
+  "pinyin": "yǒu jìnr",
+  "pos": "",
+  "meaning": "khỏe, có sức",
+  "level": 4
+ },
+ {
+  "id": "4-0898",
+  "hanzi": "有趣",
+  "pinyin": "yǒuqù",
+  "pos": "",
+  "meaning": "thú vị",
+  "level": 4
+ },
+ {
+  "id": "4-0899",
+  "hanzi": "有限",
+  "pinyin": "yǒu xiàn",
+  "pos": "",
+  "meaning": "có hạn",
+  "level": 4
+ },
+ {
+  "id": "4-0900",
+  "hanzi": "幼儿园",
+  "pinyin": "yòu'éryuán",
+  "pos": "",
+  "meaning": "mẫu giáo",
+  "level": 4
+ }
+]

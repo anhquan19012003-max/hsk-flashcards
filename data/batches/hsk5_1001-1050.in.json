@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-1001",
+  "hanzi": "平安",
+  "pinyin": "píng'ān",
+  "pos": "",
+  "meaning": "bình an",
+  "level": 5
+ },
+ {
+  "id": "5-1002",
+  "hanzi": "平等",
+  "pinyin": "píngděng",
+  "pos": "",
+  "meaning": "bình đẳng",
+  "level": 5
+ },
+ {
+  "id": "5-1003",
+  "hanzi": "平衡",
+  "pinyin": "pínghéng",
+  "pos": "",
+  "meaning": "cân bằng",
+  "level": 5
+ },
+ {
+  "id": "5-1004",
+  "hanzi": "平均",
+  "pinyin": "píngjūn",
+  "pos": "",
+  "meaning": "trung bình",
+  "level": 5
+ },
+ {
+  "id": "5-1005",
+  "hanzi": "破产",
+  "pinyin": "pòchǎn",
+  "pos": "",
+  "meaning": "phá sản",
+  "level": 5
+ },
+ {
+  "id": "5-1006",
+  "hanzi": "迫切",
+  "pinyin": "pòqiè",
+  "pos": "",
+  "meaning": "cấp bách",
+  "level": 5
+ },
+ {
+  "id": "5-1007",
+  "hanzi": "期间",
+  "pinyin": "qījiān",
+  "pos": "",
+  "meaning": "khoảng thời gian",
+  "level": 5
+ },
+ {
+  "id": "5-1008",
+  "hanzi": "其余",
+  "pinyin": "qíyú",
+  "pos": "",
+  "meaning": "phần còn lại",
+  "level": 5
+ },
+ {
+  "id": "5-1009",
+  "hanzi": "企业",
+  "pinyin": "qǐyè",
+  "pos": "",
+  "meaning": "doanh nghiệp",
+  "level": 5
+ },
+ {
+  "id": "5-1010",
+  "hanzi": "前途",
+  "pinyin": "qiántú",
+  "pos": "",
+  "meaning": "tiền đồ",
+  "level": 5
+ },
+ {
+  "id": "5-1011",
+  "hanzi": "欠",
+  "pinyin": "qiàn",
+  "pos": "",
+  "meaning": "nợ",
+  "level": 5
+ },
+ {
+  "id": "5-1012",
+  "hanzi": "墙",
+  "pinyin": "qiáng",
+  "pos": "",
+  "meaning": "bức tường",
+  "level": 5
+ },
+ {
+  "id": "5-1013",
+  "hanzi": "强烈",
+  "pinyin": "qiángliè",
+  "pos": "",
+  "meaning": "mạnh mẽ",
+  "level": 5
+ },
+ {
+  "id": "5-1014",
+  "hanzi": "切",
+  "pinyin": "qiē",
+  "pos": "",
+  "meaning": "cắt",
+  "level": 5
+ },
+ {
+  "id": "5-1015",
+  "hanzi": "亲自",
+  "pinyin": "qīnzì",
+  "pos": "",
+  "meaning": "đích thân",
+  "level": 5
+ },
+ {
+  "id": "5-1016",
+  "hanzi": "青",
+  "pinyin": "qīng",
+  "pos": "",
+  "meaning": "xanh; trẻ (thanh)",
+  "level": 5
+ },
+ {
+  "id": "5-1017",
+  "hanzi": "青少年",
+  "pinyin": "qīngshàonián",
+  "pos": "",
+  "meaning": "thanh thiếu niên",
+  "level": 5
+ },
+ {
+  "id": "5-1018",
+  "hanzi": "轻易",
+  "pinyin": "qīngyì",
+  "pos": "",
+  "meaning": "dễ dàng",
+  "level": 5
+ },
+ {
+  "id": "5-1019",
+  "hanzi": "清淡",
+  "pinyin": "qīngdàn",
+  "pos": "",
+  "meaning": "thanh đạm",
+  "level": 5
+ },
+ {
+  "id": "5-1020",
+  "hanzi": "情景",
+  "pinyin": "qíngjǐng",
+  "pos": "",
+  "meaning": "tình cảnh",
+  "level": 5
+ },
+ {
+  "id": "5-1021",
+  "hanzi": "情绪",
+  "pinyin": "qíngxù",
+  "pos": "",
+  "meaning": "tâm trạng",
+  "level": 5
+ },
+ {
+  "id": "5-1022",
+  "hanzi": "庆祝",
+  "pinyin": "qìngzhù",
+  "pos": "",
+  "meaning": "chúc mừng",
+  "level": 5
+ },
+ {
+  "id": "5-1023",
+  "hanzi": "娶",
+  "pinyin": "qǔ",
+  "pos": "",
+  "meaning": "cưới (vợ)",
+  "level": 5
+ },
+ {
+  "id": "5-1024",
+  "hanzi": "取消",
+  "pinyin": "qǔxiāo",
+  "pos": "",
+  "meaning": "hủy bỏ",
+  "level": 5
+ },
+ {
+  "id": "5-1025",
+  "hanzi": "圈",
+  "pinyin": "quān",
+  "pos": "",
+  "meaning": "vòng tròn",
+  "level": 5
+ },
+ {
+  "id": "5-1026",
+  "hanzi": "全面",
+  "pinyin": "quánmiàn",
+  "pos": "",
+  "meaning": "toàn diện",
+  "level": 5
+ },
+ {
+  "id": "5-1027",
+  "hanzi": "权利",
+  "pinyin": "quánlì",
+  "pos": "",
+  "meaning": "quyền lợi",
+  "level": 5
+ },
+ {
+  "id": "5-1028",
+  "hanzi": "确定",
+  "pinyin": "quèdìng",
+  "pos": "",
+  "meaning": "xác định",
+  "level": 5
+ },
+ {
+  "id": "5-1029",
+  "hanzi": "热烈",
+  "pinyin": "rèliè",
+  "pos": "",
+  "meaning": "nồng nhiệt",
+  "level": 5
+ },
+ {
+  "id": "5-1030",
+  "hanzi": "人口",
+  "pinyin": "rénkǒu",
+  "pos": "",
+  "meaning": "dân số",
+  "level": 5
+ },
+ {
+  "id": "5-1031",
+  "hanzi": "人民币",
+  "pinyin": "rénmínbì",
+  "pos": "",
+  "meaning": "nhân dân tệ",
+  "level": 5
+ },
+ {
+  "id": "5-1032",
+  "hanzi": "人事",
+  "pinyin": "rénshì",
+  "pos": "",
+  "meaning": "nhân sự",
+  "level": 5
+ },
+ {
+  "id": "5-1033",
+  "hanzi": "人员",
+  "pinyin": "rényuán",
+  "pos": "",
+  "meaning": "nhân viên",
+  "level": 5
+ },
+ {
+  "id": "5-1034",
+  "hanzi": "日常",
+  "pinyin": "rìcháng",
+  "pos": "",
+  "meaning": "hằng ngày",
+  "level": 5
+ },
+ {
+  "id": "5-1035",
+  "hanzi": "日期",
+  "pinyin": "rìqī",
+  "pos": "",
+  "meaning": "ngày tháng",
+  "level": 5
+ },
+ {
+  "id": "5-1036",
+  "hanzi": "日子",
+  "pinyin": "rìzi",
+  "pos": "",
+  "meaning": "cuộc sống",
+  "level": 5
+ },
+ {
+  "id": "5-1037",
+  "hanzi": "如今",
+  "pinyin": "rújīn",
+  "pos": "",
+  "meaning": "hiện nay",
+  "level": 5
+ },
+ {
+  "id": "5-1038",
+  "hanzi": "软",
+  "pinyin": "ruǎn",
+  "pos": "",
+  "meaning": "mềm",
+  "level": 5
+ },
+ {
+  "id": "5-1039",
+  "hanzi": "弱",
+  "pinyin": "ruò",
+  "pos": "",
+  "meaning": "yếu",
+  "level": 5
+ },
+ {
+  "id": "5-1040",
+  "hanzi": "色彩",
+  "pinyin": "sècǎi",
+  "pos": "",
+  "meaning": "màu sắc",
+  "level": 5
+ },
+ {
+  "id": "5-1041",
+  "hanzi": "杀",
+  "pinyin": "shā",
+  "pos": "",
+  "meaning": "giết",
+  "level": 5
+ },
+ {
+  "id": "5-1042",
+  "hanzi": "沙漠",
+  "pinyin": "shāmò",
+  "pos": "",
+  "meaning": "sa mạc",
+  "level": 5
+ },
+ {
+  "id": "5-1043",
+  "hanzi": "傻",
+  "pinyin": "shǎ",
+  "pos": "",
+  "meaning": "ngốc nghếch",
+  "level": 5
+ },
+ {
+  "id": "5-1044",
+  "hanzi": "删除",
+  "pinyin": "shānchú",
+  "pos": "",
+  "meaning": "xóa bỏ",
+  "level": 5
+ },
+ {
+  "id": "5-1045",
+  "hanzi": "善良",
+  "pinyin": "shànliáng",
+  "pos": "",
+  "meaning": "lương thiện",
+  "level": 5
+ },
+ {
+  "id": "5-1046",
+  "hanzi": "扇子",
+  "pinyin": "shànzi",
+  "pos": "",
+  "meaning": "quạt tay",
+  "level": 5
+ },
+ {
+  "id": "5-1047",
+  "hanzi": "商业",
+  "pinyin": "shāngyè",
+  "pos": "",
+  "meaning": "thương mại",
+  "level": 5
+ },
+ {
+  "id": "5-1048",
+  "hanzi": "上当",
+  "pinyin": "shàngdàng",
+  "pos": "",
+  "meaning": "bị lừa",
+  "level": 5
+ },
+ {
+  "id": "5-1049",
+  "hanzi": "蛇",
+  "pinyin": "shé",
+  "pos": "",
+  "meaning": "con rắn",
+  "level": 5
+ },
+ {
+  "id": "5-1050",
+  "hanzi": "设备",
+  "pinyin": "shèbèi",
+  "pos": "",
+  "meaning": "thiết bị",
+  "level": 5
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0151",
+  "hanzi": "多数",
+  "pinyin": "duōshù",
+  "pos": "danh từ",
+  "meaning": "đa số",
+  "level": 2
+ },
+ {
+  "id": "2-0152",
+  "hanzi": "多云",
+  "pinyin": "duōyún",
+  "pos": "danh từ",
+  "meaning": "nhiều mây",
+  "level": 2
+ },
+ {
+  "id": "2-0153",
+  "hanzi": "而且",
+  "pinyin": "érqiě",
+  "pos": "liên từ",
+  "meaning": "hơn nữa, mà còn",
+  "level": 2
+ },
+ {
+  "id": "2-0154",
+  "hanzi": "发",
+  "pinyin": "fā",
+  "pos": "động từ",
+  "meaning": "gửi, phát (tin nhắn, email)",
+  "level": 2
+ },
+ {
+  "id": "2-0155",
+  "hanzi": "发现",
+  "pinyin": "fāxiàn",
+  "pos": "động từ, danh từ",
+  "meaning": "phát hiện",
+  "level": 2
+ },
+ {
+  "id": "2-0156",
+  "hanzi": "饭馆",
+  "pinyin": "fànguǎn",
+  "pos": "danh từ",
+  "meaning": "quán ăn",
+  "level": 2
+ },
+ {
+  "id": "2-0157",
+  "hanzi": "方便",
+  "pinyin": "fāngbiàn",
+  "pos": "tính từ",
+  "meaning": "tiện lợi, thuận tiện",
+  "level": 2
+ },
+ {
+  "id": "2-0158",
+  "hanzi": "方便面",
+  "pinyin": "fāngbiànmiàn",
+  "pos": "danh từ",
+  "meaning": "mì ăn liền",
+  "level": 2
+ },
+ {
+  "id": "2-0159",
+  "hanzi": "方法",
+  "pinyin": "fāngfǎ",
+  "pos": "danh từ",
+  "meaning": "phương pháp",
+  "level": 2
+ },
+ {
+  "id": "2-0160",
+  "hanzi": "方面",
+  "pinyin": "fāngmiàn",
+  "pos": "danh từ",
+  "meaning": "phương diện, mặt",
+  "level": 2
+ },
+ {
+  "id": "2-0161",
+  "hanzi": "方向",
+  "pinyin": "fāngxiàng",
+  "pos": "danh từ",
+  "meaning": "phương hướng",
+  "level": 2
+ },
+ {
+  "id": "2-0162",
+  "hanzi": "放下",
+  "pinyin": "fàngxia",
+  "pos": "động từ",
+  "meaning": "đặt xuống, buông xuống",
+  "level": 2
+ },
+ {
+  "id": "2-0163",
+  "hanzi": "放心",
+  "pinyin": "fàngxīn",
+  "pos": "động từ",
+  "meaning": "yên tâm",
+  "level": 2
+ },
+ {
+  "id": "2-0164",
+  "hanzi": "分",
+  "pinyin": "fēn",
+  "pos": "động từ",
+  "meaning": "chia, phân chia",
+  "level": 2
+ },
+ {
+  "id": "2-0165",
+  "hanzi": "分开",
+  "pinyin": "fēnkāi",
+  "pos": "động từ",
+  "meaning": "tách ra, chia ra",
+  "level": 2
+ },
+ {
+  "id": "2-0166",
+  "hanzi": "分数",
+  "pinyin": "fēnshù",
+  "pos": "danh từ",
+  "meaning": "điểm số",
+  "level": 2
+ },
+ {
+  "id": "2-0167",
+  "hanzi": "分钟",
+  "pinyin": "fēnzhōng",
+  "pos": "lượng từ",
+  "meaning": "phút (分钟)",
+  "level": 2
+ },
+ {
+  "id": "2-0168",
+  "hanzi": "份",
+  "pinyin": "fèn",
+  "pos": "lượng từ",
+  "meaning": "phần, suất, bản (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0169",
+  "hanzi": "封",
+  "pinyin": "fēng",
+  "pos": "lượng từ",
+  "meaning": "lá, bức (thư)",
+  "level": 2
+ },
+ {
+  "id": "2-0170",
+  "hanzi": "服务",
+  "pinyin": "fúwù",
+  "pos": "động từ, danh từ",
+  "meaning": "phục vụ; dịch vụ",
+  "level": 2
+ },
+ {
+  "id": "2-0171",
+  "hanzi": "复习",
+  "pinyin": "fùxí",
+  "pos": "động từ",
+  "meaning": "ôn tập",
+  "level": 2
+ },
+ {
+  "id": "2-0172",
+  "hanzi": "该",
+  "pinyin": "gāi",
+  "pos": "động từ",
+  "meaning": "nên, cần phải (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0173",
+  "hanzi": "改",
+  "pinyin": "gǎi",
+  "pos": "động từ",
+  "meaning": "sửa, sửa đổi (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0174",
+  "hanzi": "改变",
+  "pinyin": "gǎibiàn",
+  "pos": "động từ, danh từ",
+  "meaning": "thay đổi, biến đổi",
+  "level": 2
+ },
+ {
+  "id": "2-0175",
+  "hanzi": "干杯",
+  "pinyin": "gānbēi",
+  "pos": "động từ",
+  "meaning": "cạn ly, cụng ly",
+  "level": 2
+ },
+ {
+  "id": "2-0176",
+  "hanzi": "感到",
+  "pinyin": "gǎndào",
+  "pos": "động từ",
+  "meaning": "cảm thấy (感到)",
+  "level": 2
+ },
+ {
+  "id": "2-0177",
+  "hanzi": "感动",
+  "pinyin": "gǎndòng",
+  "pos": "tính từ, động từ",
+  "meaning": "cảm động",
+  "level": 2
+ },
+ {
+  "id": "2-0178",
+  "hanzi": "感觉",
+  "pinyin": "gǎnjué",
+  "pos": "động từ, danh từ",
+  "meaning": "cảm giác; cảm thấy",
+  "level": 2
+ },
+ {
+  "id": "2-0179",
+  "hanzi": "感谢",
+  "pinyin": "gǎnxiè",
+  "pos": "động từ",
+  "meaning": "cảm tạ, cảm ơn (trang trọng)",
+  "level": 2
+ },
+ {
+  "id": "2-0180",
+  "hanzi": "干活儿",
+  "pinyin": "gànhuór",
+  "pos": "động từ",
+  "meaning": "làm việc (lao động chân tay)",
+  "level": 2
+ },
+ {
+  "id": "2-0181",
+  "hanzi": "刚",
+  "pinyin": "gāng",
+  "pos": "phó từ",
+  "meaning": "vừa, mới (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0182",
+  "hanzi": "刚才",
+  "pinyin": "gāngcái",
+  "pos": "danh từ",
+  "meaning": "vừa nãy, lúc nãy",
+  "level": 2
+ },
+ {
+  "id": "2-0183",
+  "hanzi": "刚刚",
+  "pinyin": "gānggāng",
+  "pos": "phó từ",
+  "meaning": "vừa mới",
+  "level": 2
+ },
+ {
+  "id": "2-0184",
+  "hanzi": "高级",
+  "pinyin": "gāojí",
+  "pos": "tính từ",
+  "meaning": "cao cấp",
+  "level": 2
+ },
+ {
+  "id": "2-0185",
+  "hanzi": "高中",
+  "pinyin": "gāozhōng",
+  "pos": "danh từ",
+  "meaning": "trung học phổ thông (cấp 3)",
+  "level": 2
+ },
+ {
+  "id": "2-0186",
+  "hanzi": "个子",
+  "pinyin": "gèzi",
+  "pos": "danh từ",
+  "meaning": "vóc dáng, chiều cao (người)",
+  "level": 2
+ },
+ {
+  "id": "2-0187",
+  "hanzi": "更",
+  "pinyin": "gèng",
+  "pos": "phó từ",
+  "meaning": "càng, hơn nữa",
+  "level": 2
+ },
+ {
+  "id": "2-0188",
+  "hanzi": "公共汽车",
+  "pinyin": "gōnggòng qìchē",
+  "pos": "danh từ",
+  "meaning": "xe buýt (公共汽车)",
+  "level": 2
+ },
+ {
+  "id": "2-0189",
+  "hanzi": "公交车",
+  "pinyin": "gōngjiāochē",
+  "pos": "danh từ",
+  "meaning": "xe buýt (公交车)",
+  "level": 2
+ },
+ {
+  "id": "2-0190",
+  "hanzi": "公斤",
+  "pinyin": "gōngjīn",
+  "pos": "lượng từ",
+  "meaning": "ki-lô-gam (kg)",
+  "level": 2
+ },
+ {
+  "id": "2-0191",
+  "hanzi": "公里",
+  "pinyin": "gōnglǐ",
+  "pos": "lượng từ",
+  "meaning": "ki-lô-mét (km)",
+  "level": 2
+ },
+ {
+  "id": "2-0192",
+  "hanzi": "公路",
+  "pinyin": "gōnglù",
+  "pos": "danh từ",
+  "meaning": "đường bộ, đường quốc lộ",
+  "level": 2
+ },
+ {
+  "id": "2-0193",
+  "hanzi": "公平",
+  "pinyin": "gōngpíng",
+  "pos": "tính từ",
+  "meaning": "công bằng",
+  "level": 2
+ },
+ {
+  "id": "2-0194",
+  "hanzi": "公司",
+  "pinyin": "gōngsī",
+  "pos": "danh từ",
+  "meaning": "công ty",
+  "level": 2
+ },
+ {
+  "id": "2-0195",
+  "hanzi": "公园",
+  "pinyin": "gōngyuán",
+  "pos": "danh từ",
+  "meaning": "công viên",
+  "level": 2
+ },
+ {
+  "id": "2-0196",
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "pos": "danh từ",
+  "meaning": "con chó",
+  "level": 2
+ },
+ {
+  "id": "2-0197",
+  "hanzi": "够",
+  "pinyin": "gòu",
+  "pos": "động từ, phó từ",
+  "meaning": "đủ",
+  "level": 2
+ },
+ {
+  "id": "2-0198",
+  "hanzi": "故事",
+  "pinyin": "gùshi",
+  "pos": "danh từ",
+  "meaning": "câu chuyện",
+  "level": 2
+ },
+ {
+  "id": "2-0199",
+  "hanzi": "故意",
+  "pinyin": "gùyì",
+  "pos": "phó từ",
+  "meaning": "cố ý",
+  "level": 2
+ },
+ {
+  "id": "2-0200",
+  "hanzi": "顾客",
+  "pinyin": "gùkè",
+  "pos": "danh từ",
+  "meaning": "khách hàng",
+  "level": 2
+ }
+]

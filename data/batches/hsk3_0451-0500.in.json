@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0451",
+  "hanzi": "联合",
+  "pinyin": "liánhé",
+  "pos": "động từ",
+  "meaning": "liên hợp, kết hợp",
+  "level": 3
+ },
+ {
+  "id": "3-0452",
+  "hanzi": "联合国",
+  "pinyin": "Liánhéguó",
+  "pos": "danh từ",
+  "meaning": "Liên Hợp Quốc",
+  "level": 3
+ },
+ {
+  "id": "3-0453",
+  "hanzi": "联系",
+  "pinyin": "liánxì",
+  "pos": "động từ, danh từ",
+  "meaning": "liên hệ, liên lạc",
+  "level": 3
+ },
+ {
+  "id": "3-0454",
+  "hanzi": "凉水",
+  "pinyin": "liángshuǐ",
+  "pos": "danh từ",
+  "meaning": "nước lạnh, nước lã",
+  "level": 3
+ },
+ {
+  "id": "3-0455",
+  "hanzi": "了",
+  "pinyin": "liǎo",
+  "pos": "động từ",
+  "meaning": "xong, kết thúc (liǎo)",
+  "level": 3
+ },
+ {
+  "id": "3-0456",
+  "hanzi": "领",
+  "pinyin": "lǐng",
+  "pos": "động từ",
+  "meaning": "nhận, lĩnh; dẫn",
+  "level": 3
+ },
+ {
+  "id": "3-0457",
+  "hanzi": "领导",
+  "pinyin": "lǐngdǎo",
+  "pos": "động từ, danh từ",
+  "meaning": "lãnh đạo",
+  "level": 3
+ },
+ {
+  "id": "3-0458",
+  "hanzi": "领先",
+  "pinyin": "lǐngxiān",
+  "pos": "cụm từ",
+  "meaning": "dẫn đầu",
+  "level": 3
+ },
+ {
+  "id": "3-0459",
+  "hanzi": "另外",
+  "pinyin": "lìngwài",
+  "pos": "đại từ, phó từ, liên từ",
+  "meaning": "ngoài ra, khác",
+  "level": 3
+ },
+ {
+  "id": "3-0460",
+  "hanzi": "另一方面",
+  "pinyin": "lìng yìfāngmiàn",
+  "pos": "cụm từ",
+  "meaning": "mặt khác",
+  "level": 3
+ },
+ {
+  "id": "3-0461",
+  "hanzi": "留学",
+  "pinyin": "liúxué",
+  "pos": "cụm từ",
+  "meaning": "du học",
+  "level": 3
+ },
+ {
+  "id": "3-0462",
+  "hanzi": "龙",
+  "pinyin": "lóng",
+  "pos": "danh từ",
+  "meaning": "rồng",
+  "level": 3
+ },
+ {
+  "id": "3-0463",
+  "hanzi": "录",
+  "pinyin": "lù",
+  "pos": "động từ",
+  "meaning": "ghi (âm, hình), chép lại",
+  "level": 3
+ },
+ {
+  "id": "3-0464",
+  "hanzi": "录音",
+  "pinyin": "lùyīn",
+  "pos": "động từ, danh từ",
+  "meaning": "ghi âm; bản ghi âm",
+  "level": 3
+ },
+ {
+  "id": "3-0465",
+  "hanzi": "路线",
+  "pinyin": "lùxiàn",
+  "pos": "danh từ",
+  "meaning": "lộ trình, tuyến đường",
+  "level": 3
+ },
+ {
+  "id": "3-0466",
+  "hanzi": "旅馆",
+  "pinyin": "lǚguǎn",
+  "pos": "danh từ",
+  "meaning": "nhà nghỉ, lữ quán",
+  "level": 3
+ },
+ {
+  "id": "3-0467",
+  "hanzi": "旅行社",
+  "pinyin": "lǚxíngshè",
+  "pos": "danh từ",
+  "meaning": "công ty du lịch",
+  "level": 3
+ },
+ {
+  "id": "3-0468",
+  "hanzi": "绿茶",
+  "pinyin": "lǜchá",
+  "pos": "danh từ",
+  "meaning": "trà xanh",
+  "level": 3
+ },
+ {
+  "id": "3-0469",
+  "hanzi": "乱",
+  "pinyin": "luàn",
+  "pos": "tính từ",
+  "meaning": "lộn xộn, bừa bãi",
+  "level": 3
+ },
+ {
+  "id": "3-0470",
+  "hanzi": "落后",
+  "pinyin": "luòhòu",
+  "pos": "cụm từ",
+  "meaning": "lạc hậu, tụt lại phía sau",
+  "level": 3
+ },
+ {
+  "id": "3-0471",
+  "hanzi": "麻烦",
+  "pinyin": "máfan",
+  "pos": "động từ, tính từ",
+  "meaning": "làm phiền; phiền phức",
+  "level": 3
+ },
+ {
+  "id": "3-0472",
+  "hanzi": "马",
+  "pinyin": "mǎ",
+  "pos": "danh từ",
+  "meaning": "con ngựa",
+  "level": 3
+ },
+ {
+  "id": "3-0473",
+  "hanzi": "满足",
+  "pinyin": "mǎnzú",
+  "pos": "động từ",
+  "meaning": "thỏa mãn, đáp ứng",
+  "level": 3
+ },
+ {
+  "id": "3-0474",
+  "hanzi": "慢慢",
+  "pinyin": "mànmàn",
+  "pos": "cụm từ",
+  "meaning": "từ từ, dần dần",
+  "level": 3
+ },
+ {
+  "id": "3-0475",
+  "hanzi": "毛",
+  "pinyin": "máo",
+  "pos": "danh từ",
+  "meaning": "lông",
+  "level": 3
+ },
+ {
+  "id": "3-0476",
+  "hanzi": "毛病",
+  "pinyin": "máobìng",
+  "pos": "danh từ",
+  "meaning": "tật xấu; trục trặc, lỗi",
+  "level": 3
+ },
+ {
+  "id": "3-0477",
+  "hanzi": "没用",
+  "pinyin": "méiyòng",
+  "pos": "động từ",
+  "meaning": "vô dụng, vô ích",
+  "level": 3
+ },
+ {
+  "id": "3-0478",
+  "hanzi": "媒体",
+  "pinyin": "méitǐ",
+  "pos": "danh từ",
+  "meaning": "truyền thông",
+  "level": 3
+ },
+ {
+  "id": "3-0479",
+  "hanzi": "每",
+  "pinyin": "měi",
+  "pos": "đại từ, phó từ",
+  "meaning": "mỗi",
+  "level": 3
+ },
+ {
+  "id": "3-0480",
+  "hanzi": "美",
+  "pinyin": "měi",
+  "pos": "tính từ",
+  "meaning": "đẹp (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0481",
+  "hanzi": "美好",
+  "pinyin": "měihǎo",
+  "pos": "tính từ",
+  "meaning": "tốt đẹp",
+  "level": 3
+ },
+ {
+  "id": "3-0482",
+  "hanzi": "美丽",
+  "pinyin": "měilì",
+  "pos": "tính từ",
+  "meaning": "xinh đẹp, đẹp đẽ",
+  "level": 3
+ },
+ {
+  "id": "3-0483",
+  "hanzi": "美食",
+  "pinyin": "měishí",
+  "pos": "danh từ",
+  "meaning": "món ngon, ẩm thực",
+  "level": 3
+ },
+ {
+  "id": "3-0484",
+  "hanzi": "美术",
+  "pinyin": "měishù",
+  "pos": "danh từ",
+  "meaning": "mỹ thuật",
+  "level": 3
+ },
+ {
+  "id": "3-0485",
+  "hanzi": "美元",
+  "pinyin": "měiyuán",
+  "pos": "danh từ",
+  "meaning": "đô la Mỹ",
+  "level": 3
+ },
+ {
+  "id": "3-0486",
+  "hanzi": "迷",
+  "pinyin": "mí",
+  "pos": "động từ",
+  "meaning": "mê, say mê; lạc (đường)",
+  "level": 3
+ },
+ {
+  "id": "3-0487",
+  "hanzi": "米",
+  "pinyin": "mǐ",
+  "pos": "danh từ",
+  "meaning": "gạo",
+  "level": 3
+ },
+ {
+  "id": "3-0488",
+  "hanzi": "面对",
+  "pinyin": "miànduì",
+  "pos": "động từ",
+  "meaning": "đối mặt",
+  "level": 3
+ },
+ {
+  "id": "3-0489",
+  "hanzi": "面积",
+  "pinyin": "miànjī",
+  "pos": "danh từ",
+  "meaning": "diện tích",
+  "level": 3
+ },
+ {
+  "id": "3-0490",
+  "hanzi": "民间",
+  "pinyin": "mínjiān",
+  "pos": "danh từ",
+  "meaning": "dân gian",
+  "level": 3
+ },
+ {
+  "id": "3-0491",
+  "hanzi": "民族",
+  "pinyin": "mínzú",
+  "pos": "danh từ",
+  "meaning": "dân tộc",
+  "level": 3
+ },
+ {
+  "id": "3-0492",
+  "hanzi": "明确",
+  "pinyin": "míngquè",
+  "pos": "tính từ, động từ",
+  "meaning": "rõ ràng, minh xác",
+  "level": 3
+ },
+ {
+  "id": "3-0493",
+  "hanzi": "明显",
+  "pinyin": "míngxiǎn",
+  "pos": "tính từ",
+  "meaning": "rõ rệt, rõ ràng",
+  "level": 3
+ },
+ {
+  "id": "3-0494",
+  "hanzi": "命运",
+  "pinyin": "mìngyùn",
+  "pos": "danh từ",
+  "meaning": "vận mệnh, số phận",
+  "level": 3
+ },
+ {
+  "id": "3-0495",
+  "hanzi": "某",
+  "pinyin": "mǒu",
+  "pos": "đại từ",
+  "meaning": "nào đó",
+  "level": 3
+ },
+ {
+  "id": "3-0496",
+  "hanzi": "母亲",
+  "pinyin": "mǔqīn",
+  "pos": "danh từ",
+  "meaning": "mẹ, mẫu thân",
+  "level": 3
+ },
+ {
+  "id": "3-0497",
+  "hanzi": "木头",
+  "pinyin": "mùtou",
+  "pos": "danh từ",
+  "meaning": "gỗ, khúc gỗ",
+  "level": 3
+ },
+ {
+  "id": "3-0498",
+  "hanzi": "目标",
+  "pinyin": "mùbiāo",
+  "pos": "danh từ",
+  "meaning": "mục tiêu",
+  "level": 3
+ },
+ {
+  "id": "3-0499",
+  "hanzi": "目前",
+  "pinyin": "mùqián",
+  "pos": "danh từ",
+  "meaning": "hiện nay, trước mắt",
+  "level": 3
+ },
+ {
+  "id": "3-0500",
+  "hanzi": "奶茶",
+  "pinyin": "nǎichá",
+  "pos": "danh từ",
+  "meaning": "trà sữa",
+  "level": 3
+ }
+]

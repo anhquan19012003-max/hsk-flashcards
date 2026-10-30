@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0101",
+  "hanzi": "房间",
+  "pinyin": "fángjiān",
+  "pos": "danh từ",
+  "meaning": "căn phòng",
+  "level": 1
+ },
+ {
+  "id": "1-0102",
+  "hanzi": "房子",
+  "pinyin": "fángzi",
+  "pos": "danh từ",
+  "meaning": "ngôi nhà",
+  "level": 1
+ },
+ {
+  "id": "1-0103",
+  "hanzi": "放",
+  "pinyin": "fàng",
+  "pos": "động từ",
+  "meaning": "để, đặt, cất",
+  "level": 1
+ },
+ {
+  "id": "1-0104",
+  "hanzi": "放假",
+  "pinyin": "fàngjià",
+  "pos": "cụm từ",
+  "meaning": "nghỉ lễ, được nghỉ",
+  "level": 1
+ },
+ {
+  "id": "1-0105",
+  "hanzi": "放学",
+  "pinyin": "fàngxué",
+  "pos": "cụm từ",
+  "meaning": "tan học (tan trường)",
+  "level": 1
+ },
+ {
+  "id": "1-0106",
+  "hanzi": "飞",
+  "pinyin": "fēi",
+  "pos": "động từ",
+  "meaning": "bay",
+  "level": 1
+ },
+ {
+  "id": "1-0107",
+  "hanzi": "飞机",
+  "pinyin": "fēijī",
+  "pos": "danh từ",
+  "meaning": "máy bay",
+  "level": 1
+ },
+ {
+  "id": "1-0108",
+  "hanzi": "非常",
+  "pinyin": "fēicháng",
+  "pos": "phó từ",
+  "meaning": "vô cùng, cực kỳ",
+  "level": 1
+ },
+ {
+  "id": "1-0109",
+  "hanzi": "分",
+  "pinyin": "fēn",
+  "pos": "danh từ, lượng từ",
+  "meaning": "phút; điểm; xu; phần",
+  "level": 1
+ },
+ {
+  "id": "1-0110",
+  "hanzi": "风",
+  "pinyin": "fēng",
+  "pos": "danh từ",
+  "meaning": "gió",
+  "level": 1
+ },
+ {
+  "id": "1-0111",
+  "hanzi": "干",
+  "pinyin": "gān",
+  "pos": "tính từ",
+  "meaning": "khô, cạn",
+  "level": 1
+ },
+ {
+  "id": "1-0112",
+  "hanzi": "干净",
+  "pinyin": "gānjìng",
+  "pos": "tính từ",
+  "meaning": "sạch sẽ",
+  "level": 1
+ },
+ {
+  "id": "1-0113",
+  "hanzi": "干",
+  "pinyin": "gàn",
+  "pos": "động từ",
+  "meaning": "làm (việc)",
+  "level": 1
+ },
+ {
+  "id": "1-0114",
+  "hanzi": "干什么",
+  "pinyin": "gàn shénme",
+  "pos": "cụm từ",
+  "meaning": "làm gì",
+  "level": 1
+ },
+ {
+  "id": "1-0115",
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "pos": "tính từ",
+  "meaning": "cao",
+  "level": 1
+ },
+ {
+  "id": "1-0116",
+  "hanzi": "高兴",
+  "pinyin": "gāoxìng",
+  "pos": "tính từ",
+  "meaning": "vui vẻ",
+  "level": 1
+ },
+ {
+  "id": "1-0117",
+  "hanzi": "告诉",
+  "pinyin": "gàosu",
+  "pos": "động từ",
+  "meaning": "nói cho biết, bảo",
+  "level": 1
+ },
+ {
+  "id": "1-0118",
+  "hanzi": "哥哥",
+  "pinyin": "gēge",
+  "pos": "danh từ",
+  "meaning": "anh trai",
+  "level": 1
+ },
+ {
+  "id": "1-0119",
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "pos": "danh từ",
+  "meaning": "bài hát",
+  "level": 1
+ },
+ {
+  "id": "1-0120",
+  "hanzi": "个",
+  "pinyin": "gè",
+  "pos": "lượng từ",
+  "meaning": "cái, chiếc (lượng từ chung)",
+  "level": 1
+ },
+ {
+  "id": "1-0121",
+  "hanzi": "给",
+  "pinyin": "gěi",
+  "pos": "động từ, giới từ",
+  "meaning": "cho, đưa cho",
+  "level": 1
+ },
+ {
+  "id": "1-0122",
+  "hanzi": "跟",
+  "pinyin": "gēn",
+  "pos": "giới từ, liên từ, động từ",
+  "meaning": "với, cùng; theo",
+  "level": 1
+ },
+ {
+  "id": "1-0123",
+  "hanzi": "工人",
+  "pinyin": "gōngrén",
+  "pos": "danh từ",
+  "meaning": "công nhân",
+  "level": 1
+ },
+ {
+  "id": "1-0124",
+  "hanzi": "工作",
+  "pinyin": "gōngzuò",
+  "pos": "động từ, danh từ",
+  "meaning": "làm việc; công việc",
+  "level": 1
+ },
+ {
+  "id": "1-0125",
+  "hanzi": "关",
+  "pinyin": "guān",
+  "pos": "động từ",
+  "meaning": "đóng, tắt",
+  "level": 1
+ },
+ {
+  "id": "1-0126",
+  "hanzi": "关上",
+  "pinyin": "guānshang",
+  "pos": "cụm từ",
+  "meaning": "đóng lại",
+  "level": 1
+ },
+ {
+  "id": "1-0127",
+  "hanzi": "贵",
+  "pinyin": "guì",
+  "pos": "tính từ",
+  "meaning": "đắt",
+  "level": 1
+ },
+ {
+  "id": "1-0128",
+  "hanzi": "国",
+  "pinyin": "guó",
+  "pos": "danh từ",
+  "meaning": "nước, quốc gia (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0129",
+  "hanzi": "国家",
+  "pinyin": "guójiā",
+  "pos": "danh từ",
+  "meaning": "đất nước, quốc gia",
+  "level": 1
+ },
+ {
+  "id": "1-0130",
+  "hanzi": "国外",
+  "pinyin": "guó wài",
+  "pos": "cụm từ",
+  "meaning": "nước ngoài (ở ngoài nước)",
+  "level": 1
+ },
+ {
+  "id": "1-0131",
+  "hanzi": "过",
+  "pinyin": "guò",
+  "pos": "động từ",
+  "meaning": "qua, vượt qua",
+  "level": 1
+ },
+ {
+  "id": "1-0132",
+  "hanzi": "还",
+  "pinyin": "hái",
+  "pos": "phó từ",
+  "meaning": "còn, vẫn",
+  "level": 1
+ },
+ {
+  "id": "1-0133",
+  "hanzi": "还是",
+  "pinyin": "háishi",
+  "pos": "phó từ, liên từ",
+  "meaning": "hay là (câu hỏi lựa chọn); vẫn",
+  "level": 1
+ },
+ {
+  "id": "1-0134",
+  "hanzi": "还有",
+  "pinyin": "hái yǒu",
+  "pos": "cụm từ",
+  "meaning": "còn có",
+  "level": 1
+ },
+ {
+  "id": "1-0135",
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "pos": "danh từ",
+  "meaning": "đứa trẻ, con cái",
+  "level": 1
+ },
+ {
+  "id": "1-0136",
+  "hanzi": "汉语",
+  "pinyin": "Hànyǔ",
+  "pos": "danh từ",
+  "meaning": "tiếng Hán",
+  "level": 1
+ },
+ {
+  "id": "1-0137",
+  "hanzi": "汉字",
+  "pinyin": "Hànzì",
+  "pos": "danh từ",
+  "meaning": "chữ Hán",
+  "level": 1
+ },
+ {
+  "id": "1-0138",
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "pos": "tính từ",
+  "meaning": "tốt, hay",
+  "level": 1
+ },
+ {
+  "id": "1-0139",
+  "hanzi": "好吃",
+  "pinyin": "hǎochī",
+  "pos": "tính từ",
+  "meaning": "ngon",
+  "level": 1
+ },
+ {
+  "id": "1-0140",
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "pos": "tính từ",
+  "meaning": "đẹp, xem hay",
+  "level": 1
+ },
+ {
+  "id": "1-0141",
+  "hanzi": "好听",
+  "pinyin": "hǎotīng",
+  "pos": "tính từ",
+  "meaning": "hay, dễ nghe",
+  "level": 1
+ },
+ {
+  "id": "1-0142",
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "pos": "tính từ",
+  "meaning": "vui, thú vị (chơi vui)",
+  "level": 1
+ },
+ {
+  "id": "1-0143",
+  "hanzi": "号",
+  "pinyin": "hào",
+  "pos": "danh từ, lượng từ",
+  "meaning": "số; ngày (trong tháng)",
+  "level": 1
+ },
+ {
+  "id": "1-0144",
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "pos": "động từ",
+  "meaning": "uống",
+  "level": 1
+ },
+ {
+  "id": "1-0145",
+  "hanzi": "和",
+  "pinyin": "hé",
+  "pos": "giới từ, liên từ",
+  "meaning": "và, với",
+  "level": 1
+ },
+ {
+  "id": "1-0146",
+  "hanzi": "很",
+  "pinyin": "hěn",
+  "pos": "phó từ",
+  "meaning": "rất",
+  "level": 1
+ },
+ {
+  "id": "1-0147",
+  "hanzi": "后",
+  "pinyin": "hòu",
+  "pos": "danh từ",
+  "meaning": "sau, phía sau (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0148",
+  "hanzi": "后边",
+  "pinyin": "hòubian",
+  "pos": "danh từ",
+  "meaning": "phía sau, đằng sau",
+  "level": 1
+ },
+ {
+  "id": "1-0149",
+  "hanzi": "后天",
+  "pinyin": "hòutiān",
+  "pos": "danh từ",
+  "meaning": "ngày kia",
+  "level": 1
+ },
+ {
+  "id": "1-0150",
+  "hanzi": "花",
+  "pinyin": "huā",
+  "pos": "danh từ",
+  "meaning": "hoa",
+  "level": 1
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0501",
+  "hanzi": "数",
+  "pinyin": "shǔ",
+  "pos": "động từ",
+  "meaning": "đếm",
+  "level": 2
+ },
+ {
+  "id": "2-0502",
+  "hanzi": "数字",
+  "pinyin": "shùzì",
+  "pos": "danh từ",
+  "meaning": "con số, chữ số",
+  "level": 2
+ },
+ {
+  "id": "2-0503",
+  "hanzi": "水平",
+  "pinyin": "shuǐpíng",
+  "pos": "danh từ",
+  "meaning": "trình độ",
+  "level": 2
+ },
+ {
+  "id": "2-0504",
+  "hanzi": "顺利",
+  "pinyin": "shùnlì",
+  "pos": "tính từ",
+  "meaning": "thuận lợi, suôn sẻ",
+  "level": 2
+ },
+ {
+  "id": "2-0505",
+  "hanzi": "说明",
+  "pinyin": "shuōmíng",
+  "pos": "động từ, danh từ",
+  "meaning": "giải thích; bản hướng dẫn",
+  "level": 2
+ },
+ {
+  "id": "2-0506",
+  "hanzi": "司机",
+  "pinyin": "sījī",
+  "pos": "danh từ",
+  "meaning": "tài xế",
+  "level": 2
+ },
+ {
+  "id": "2-0507",
+  "hanzi": "送到",
+  "pinyin": "sòngdào",
+  "pos": "cụm từ",
+  "meaning": "đưa đến, gửi đến",
+  "level": 2
+ },
+ {
+  "id": "2-0508",
+  "hanzi": "送给",
+  "pinyin": "sòng gěi",
+  "pos": "cụm từ",
+  "meaning": "tặng cho",
+  "level": 2
+ },
+ {
+  "id": "2-0509",
+  "hanzi": "算",
+  "pinyin": "suàn",
+  "pos": "động từ",
+  "meaning": "tính, tính toán",
+  "level": 2
+ },
+ {
+  "id": "2-0510",
+  "hanzi": "虽然",
+  "pinyin": "suīrán",
+  "pos": "liên từ",
+  "meaning": "mặc dù, tuy",
+  "level": 2
+ },
+ {
+  "id": "2-0511",
+  "hanzi": "随便",
+  "pinyin": "suíbiàn",
+  "pos": "tính từ",
+  "meaning": "tùy ý, tùy tiện",
+  "level": 2
+ },
+ {
+  "id": "2-0512",
+  "hanzi": "随时",
+  "pinyin": "suíshí",
+  "pos": "phó từ",
+  "meaning": "bất cứ lúc nào",
+  "level": 2
+ },
+ {
+  "id": "2-0513",
+  "hanzi": "所以",
+  "pinyin": "suǒyǐ",
+  "pos": "liên từ",
+  "meaning": "cho nên, vì vậy",
+  "level": 2
+ },
+ {
+  "id": "2-0514",
+  "hanzi": "所有",
+  "pinyin": "suǒyǒu",
+  "pos": "tính từ",
+  "meaning": "tất cả, mọi (所有)",
+  "level": 2
+ },
+ {
+  "id": "2-0515",
+  "hanzi": "它",
+  "pinyin": "tā",
+  "pos": "đại từ",
+  "meaning": "nó (đồ vật, con vật)",
+  "level": 2
+ },
+ {
+  "id": "2-0516",
+  "hanzi": "它们",
+  "pinyin": "tāmen",
+  "pos": "đại từ",
+  "meaning": "chúng nó (đồ vật, con vật)",
+  "level": 2
+ },
+ {
+  "id": "2-0517",
+  "hanzi": "太太",
+  "pinyin": "tàitai",
+  "pos": "danh từ",
+  "meaning": "vợ; bà (gọi phụ nữ đã có chồng)",
+  "level": 2
+ },
+ {
+  "id": "2-0518",
+  "hanzi": "太阳",
+  "pinyin": "tàiyáng",
+  "pos": "danh từ",
+  "meaning": "mặt trời",
+  "level": 2
+ },
+ {
+  "id": "2-0519",
+  "hanzi": "态度",
+  "pinyin": "tàidù",
+  "pos": "danh từ",
+  "meaning": "thái độ",
+  "level": 2
+ },
+ {
+  "id": "2-0520",
+  "hanzi": "讨论",
+  "pinyin": "tǎolùn",
+  "pos": "động từ",
+  "meaning": "thảo luận",
+  "level": 2
+ },
+ {
+  "id": "2-0521",
+  "hanzi": "套",
+  "pinyin": "tào",
+  "pos": "lượng từ",
+  "meaning": "bộ (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0522",
+  "hanzi": "特别",
+  "pinyin": "tèbié",
+  "pos": "tính từ, phó từ",
+  "meaning": "đặc biệt",
+  "level": 2
+ },
+ {
+  "id": "2-0523",
+  "hanzi": "特点",
+  "pinyin": "tèdiǎn",
+  "pos": "danh từ",
+  "meaning": "đặc điểm",
+  "level": 2
+ },
+ {
+  "id": "2-0524",
+  "hanzi": "疼",
+  "pinyin": "téng",
+  "pos": "động từ",
+  "meaning": "đau",
+  "level": 2
+ },
+ {
+  "id": "2-0525",
+  "hanzi": "提",
+  "pinyin": "tí",
+  "pos": "động từ",
+  "meaning": "xách; nhắc đến, nêu ra",
+  "level": 2
+ },
+ {
+  "id": "2-0526",
+  "hanzi": "提出",
+  "pinyin": "tíchū",
+  "pos": "cụm từ",
+  "meaning": "đưa ra, đề xuất",
+  "level": 2
+ },
+ {
+  "id": "2-0527",
+  "hanzi": "提到",
+  "pinyin": "tídào",
+  "pos": "cụm từ",
+  "meaning": "nhắc đến",
+  "level": 2
+ },
+ {
+  "id": "2-0528",
+  "hanzi": "提高",
+  "pinyin": "tígāo",
+  "pos": "cụm từ",
+  "meaning": "nâng cao",
+  "level": 2
+ },
+ {
+  "id": "2-0529",
+  "hanzi": "题",
+  "pinyin": "tí",
+  "pos": "danh từ",
+  "meaning": "đề, câu hỏi (bài thi)",
+  "level": 2
+ },
+ {
+  "id": "2-0530",
+  "hanzi": "体育",
+  "pinyin": "tǐyù",
+  "pos": "danh từ",
+  "meaning": "thể dục, thể thao",
+  "level": 2
+ },
+ {
+  "id": "2-0531",
+  "hanzi": "体育场",
+  "pinyin": "tǐyùchǎng",
+  "pos": "danh từ",
+  "meaning": "sân vận động",
+  "level": 2
+ },
+ {
+  "id": "2-0532",
+  "hanzi": "体育馆",
+  "pinyin": "tǐyùguǎn",
+  "pos": "danh từ",
+  "meaning": "nhà thi đấu thể thao",
+  "level": 2
+ },
+ {
+  "id": "2-0533",
+  "hanzi": "天上",
+  "pinyin": "tiānshàng",
+  "pos": "danh từ",
+  "meaning": "trên trời",
+  "level": 2
+ },
+ {
+  "id": "2-0534",
+  "hanzi": "条",
+  "pinyin": "tiáo",
+  "pos": "lượng từ",
+  "meaning": "cái, con, chiếc (vật dài)",
+  "level": 2
+ },
+ {
+  "id": "2-0535",
+  "hanzi": "条件",
+  "pinyin": "tiáojiàn",
+  "pos": "danh từ",
+  "meaning": "điều kiện",
+  "level": 2
+ },
+ {
+  "id": "2-0536",
+  "hanzi": "听讲",
+  "pinyin": "tīngjiǎng",
+  "pos": "cụm từ",
+  "meaning": "nghe giảng",
+  "level": 2
+ },
+ {
+  "id": "2-0537",
+  "hanzi": "听说",
+  "pinyin": "tīngshuō",
+  "pos": "động từ",
+  "meaning": "nghe nói",
+  "level": 2
+ },
+ {
+  "id": "2-0538",
+  "hanzi": "停",
+  "pinyin": "tíng",
+  "pos": "động từ",
+  "meaning": "dừng, ngừng",
+  "level": 2
+ },
+ {
+  "id": "2-0539",
+  "hanzi": "停车",
+  "pinyin": "tíngchē",
+  "pos": "cụm từ",
+  "meaning": "đỗ xe, dừng xe",
+  "level": 2
+ },
+ {
+  "id": "2-0540",
+  "hanzi": "停车场",
+  "pinyin": "tíngchēchǎng",
+  "pos": "danh từ",
+  "meaning": "bãi đỗ xe",
+  "level": 2
+ },
+ {
+  "id": "2-0541",
+  "hanzi": "挺",
+  "pinyin": "tǐng",
+  "pos": "phó từ",
+  "meaning": "khá, rất (挺 ... 的)",
+  "level": 2
+ },
+ {
+  "id": "2-0542",
+  "hanzi": "挺好",
+  "pinyin": "tǐng hǎo",
+  "pos": "cụm từ",
+  "meaning": "khá tốt, rất tốt",
+  "level": 2
+ },
+ {
+  "id": "2-0543",
+  "hanzi": "通",
+  "pinyin": "tōng",
+  "pos": "động từ, tính từ",
+  "meaning": "thông, thông suốt",
+  "level": 2
+ },
+ {
+  "id": "2-0544",
+  "hanzi": "通过",
+  "pinyin": "tōngguò",
+  "pos": "giới từ, động từ",
+  "meaning": "thông qua; vượt qua (kỳ thi)",
+  "level": 2
+ },
+ {
+  "id": "2-0545",
+  "hanzi": "通知",
+  "pinyin": "tōngzhī",
+  "pos": "động từ, danh từ",
+  "meaning": "thông báo",
+  "level": 2
+ },
+ {
+  "id": "2-0546",
+  "hanzi": "同时",
+  "pinyin": "tóngshí",
+  "pos": "liên từ, danh từ",
+  "meaning": "đồng thời, cùng lúc",
+  "level": 2
+ },
+ {
+  "id": "2-0547",
+  "hanzi": "同事",
+  "pinyin": "tóngshì",
+  "pos": "danh từ",
+  "meaning": "đồng nghiệp",
+  "level": 2
+ },
+ {
+  "id": "2-0548",
+  "hanzi": "同样",
+  "pinyin": "tóngyàng",
+  "pos": "tính từ, liên từ",
+  "meaning": "giống như vậy, tương tự (同样)",
+  "level": 2
+ },
+ {
+  "id": "2-0549",
+  "hanzi": "头",
+  "pinyin": "tóu",
+  "pos": "danh từ, lượng từ",
+  "meaning": "đầu; con (gia súc lớn)",
+  "level": 2
+ },
+ {
+  "id": "2-0550",
+  "hanzi": "头",
+  "pinyin": "tou",
+  "pos": "hậu tố",
+  "meaning": "hậu tố 头 (VD: 里头 - bên trong)",
+  "level": 2
+ }
+]

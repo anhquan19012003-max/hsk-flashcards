@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0201",
+  "hanzi": "怀念",
+  "pinyin": "huáiniàn",
+  "pos": "",
+  "meaning": "hoài niệm",
+  "level": 5
+ },
+ {
+  "id": "5-0202",
+  "hanzi": "怀孕",
+  "pinyin": "huáiyùn",
+  "pos": "",
+  "meaning": "mang thai",
+  "level": 5
+ },
+ {
+  "id": "5-0203",
+  "hanzi": "慌张",
+  "pinyin": "huāngzhāng",
+  "pos": "",
+  "meaning": "hoảng loạn",
+  "level": 5
+ },
+ {
+  "id": "5-0204",
+  "hanzi": "黄金",
+  "pinyin": "huángjīn",
+  "pos": "",
+  "meaning": "vàng",
+  "level": 5
+ },
+ {
+  "id": "5-0205",
+  "hanzi": "灰",
+  "pinyin": "huī",
+  "pos": "",
+  "meaning": "tro",
+  "level": 5
+ },
+ {
+  "id": "5-0206",
+  "hanzi": "灰心",
+  "pinyin": "huīxīn",
+  "pos": "",
+  "meaning": "nản lòng",
+  "level": 5
+ },
+ {
+  "id": "5-0207",
+  "hanzi": "婚礼",
+  "pinyin": "hūnlǐ",
+  "pos": "",
+  "meaning": "lễ cưới",
+  "level": 5
+ },
+ {
+  "id": "5-0208",
+  "hanzi": "活跃",
+  "pinyin": "huóyuè",
+  "pos": "",
+  "meaning": "năng động",
+  "level": 5
+ },
+ {
+  "id": "5-0209",
+  "hanzi": "伙伴",
+  "pinyin": "huǒbàn",
+  "pos": "",
+  "meaning": "bạn đồng hành",
+  "level": 5
+ },
+ {
+  "id": "5-0210",
+  "hanzi": "或许",
+  "pinyin": "huòxǔ",
+  "pos": "",
+  "meaning": "có lẽ",
+  "level": 5
+ },
+ {
+  "id": "5-0211",
+  "hanzi": "基本",
+  "pinyin": "jīběn",
+  "pos": "",
+  "meaning": "cơ bản",
+  "level": 5
+ },
+ {
+  "id": "5-0212",
+  "hanzi": "机器",
+  "pinyin": "jīqì",
+  "pos": "",
+  "meaning": "máy móc",
+  "level": 5
+ },
+ {
+  "id": "5-0213",
+  "hanzi": "及格",
+  "pinyin": "jígé",
+  "pos": "",
+  "meaning": "đạt tiêu chuẩn",
+  "level": 5
+ },
+ {
+  "id": "5-0214",
+  "hanzi": "集合",
+  "pinyin": "jíhé",
+  "pos": "",
+  "meaning": "tập hợp",
+  "level": 5
+ },
+ {
+  "id": "5-0215",
+  "hanzi": "集中",
+  "pinyin": "jízhōng",
+  "pos": "",
+  "meaning": "tập trung",
+  "level": 5
+ },
+ {
+  "id": "5-0216",
+  "hanzi": "急诊",
+  "pinyin": "jízhěn",
+  "pos": "",
+  "meaning": "cấp cứu",
+  "level": 5
+ },
+ {
+  "id": "5-0217",
+  "hanzi": "记忆",
+  "pinyin": "jìyì",
+  "pos": "",
+  "meaning": "ký ức",
+  "level": 5
+ },
+ {
+  "id": "5-0218",
+  "hanzi": "纪录",
+  "pinyin": "jìlù",
+  "pos": "",
+  "meaning": "ghi chép",
+  "level": 5
+ },
+ {
+  "id": "5-0219",
+  "hanzi": "纪念",
+  "pinyin": "jìniàn",
+  "pos": "",
+  "meaning": "kỷ niệm",
+  "level": 5
+ },
+ {
+  "id": "5-0220",
+  "hanzi": "家务",
+  "pinyin": "jiāwù",
+  "pos": "",
+  "meaning": "việc nhà",
+  "level": 5
+ },
+ {
+  "id": "5-0221",
+  "hanzi": "嘉宾",
+  "pinyin": "jiābīn",
+  "pos": "",
+  "meaning": "khách quý",
+  "level": 5
+ },
+ {
+  "id": "5-0222",
+  "hanzi": "甲",
+  "pinyin": "jiǎ",
+  "pos": "",
+  "meaning": "thứ nhất, giáp (trong thứ bậc)",
+  "level": 5
+ },
+ {
+  "id": "5-0223",
+  "hanzi": "假如",
+  "pinyin": "jiǎrú",
+  "pos": "",
+  "meaning": "giả sử",
+  "level": 5
+ },
+ {
+  "id": "5-0224",
+  "hanzi": "假装",
+  "pinyin": "jiǎzhuāng",
+  "pos": "",
+  "meaning": "giả vờ",
+  "level": 5
+ },
+ {
+  "id": "5-0225",
+  "hanzi": "驾驶",
+  "pinyin": "jiàshǐ",
+  "pos": "",
+  "meaning": "lái xe",
+  "level": 5
+ },
+ {
+  "id": "5-0226",
+  "hanzi": "坚强",
+  "pinyin": "jiānqiáng",
+  "pos": "",
+  "meaning": "kiên cường",
+  "level": 5
+ },
+ {
+  "id": "5-0227",
+  "hanzi": "艰苦",
+  "pinyin": "jiānkǔ",
+  "pos": "",
+  "meaning": "gian khổ",
+  "level": 5
+ },
+ {
+  "id": "5-0228",
+  "hanzi": "捡",
+  "pinyin": "jiǎn",
+  "pos": "",
+  "meaning": "nhặt",
+  "level": 5
+ },
+ {
+  "id": "5-0229",
+  "hanzi": "简直",
+  "pinyin": "jiǎnzhí",
+  "pos": "",
+  "meaning": "quả là",
+  "level": 5
+ },
+ {
+  "id": "5-0230",
+  "hanzi": "健身",
+  "pinyin": "jiànshēn",
+  "pos": "",
+  "meaning": "tập thể hình",
+  "level": 5
+ },
+ {
+  "id": "5-0231",
+  "hanzi": "建设",
+  "pinyin": "jiànshè",
+  "pos": "",
+  "meaning": "xây dựng",
+  "level": 5
+ },
+ {
+  "id": "5-0232",
+  "hanzi": "建筑",
+  "pinyin": "jiànzhù",
+  "pos": "",
+  "meaning": "kiến trúc",
+  "level": 5
+ },
+ {
+  "id": "5-0233",
+  "hanzi": "键盘",
+  "pinyin": "jiànpán",
+  "pos": "",
+  "meaning": "bàn phím",
+  "level": 5
+ },
+ {
+  "id": "5-0234",
+  "hanzi": "讲座",
+  "pinyin": "jiǎngzuò",
+  "pos": "",
+  "meaning": "buổi thuyết trình",
+  "level": 5
+ },
+ {
+  "id": "5-0235",
+  "hanzi": "酱油",
+  "pinyin": "jiàngyóu",
+  "pos": "",
+  "meaning": "nước tương",
+  "level": 5
+ },
+ {
+  "id": "5-0236",
+  "hanzi": "浇",
+  "pinyin": "jiāo",
+  "pos": "",
+  "meaning": "tưới (nước)",
+  "level": 5
+ },
+ {
+  "id": "5-0237",
+  "hanzi": "交换",
+  "pinyin": "jiāohuàn",
+  "pos": "",
+  "meaning": "trao đổi",
+  "level": 5
+ },
+ {
+  "id": "5-0238",
+  "hanzi": "交往",
+  "pinyin": "jiāowǎng",
+  "pos": "",
+  "meaning": "giao lưu",
+  "level": 5
+ },
+ {
+  "id": "5-0239",
+  "hanzi": "角度",
+  "pinyin": "jiǎodù",
+  "pos": "",
+  "meaning": "góc độ",
+  "level": 5
+ },
+ {
+  "id": "5-0240",
+  "hanzi": "教材",
+  "pinyin": "jiàocái",
+  "pos": "",
+  "meaning": "giáo trình",
+  "level": 5
+ },
+ {
+  "id": "5-0241",
+  "hanzi": "教训",
+  "pinyin": "jiàoxùn",
+  "pos": "",
+  "meaning": "bài học",
+  "level": 5
+ },
+ {
+  "id": "5-0242",
+  "hanzi": "接待",
+  "pinyin": "jiēdài",
+  "pos": "",
+  "meaning": "tiếp đãi",
+  "level": 5
+ },
+ {
+  "id": "5-0243",
+  "hanzi": "结实",
+  "pinyin": "jiēshi",
+  "pos": "",
+  "meaning": "chắc chắn",
+  "level": 5
+ },
+ {
+  "id": "5-0244",
+  "hanzi": "节省",
+  "pinyin": "jiéshěng",
+  "pos": "",
+  "meaning": "tiết kiệm",
+  "level": 5
+ },
+ {
+  "id": "5-0245",
+  "hanzi": "结构",
+  "pinyin": "jiégòu",
+  "pos": "",
+  "meaning": "kết cấu",
+  "level": 5
+ },
+ {
+  "id": "5-0246",
+  "hanzi": "结合",
+  "pinyin": "jiéhé",
+  "pos": "",
+  "meaning": "kết hợp",
+  "level": 5
+ },
+ {
+  "id": "5-0247",
+  "hanzi": "结论",
+  "pinyin": "jiélùn",
+  "pos": "",
+  "meaning": "kết luận",
+  "level": 5
+ },
+ {
+  "id": "5-0248",
+  "hanzi": "结账",
+  "pinyin": "jiézhàng",
+  "pos": "",
+  "meaning": "thanh toán",
+  "level": 5
+ },
+ {
+  "id": "5-0249",
+  "hanzi": "届",
+  "pinyin": "jiè",
+  "pos": "",
+  "meaning": "khóa (học/kỳ)",
+  "level": 5
+ },
+ {
+  "id": "5-0250",
+  "hanzi": "借口",
+  "pinyin": "jièkǒu",
+  "pos": "",
+  "meaning": "cái cớ",
+  "level": 5
+ }
+]

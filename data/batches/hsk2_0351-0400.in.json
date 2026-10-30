@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0351",
+  "hanzi": "脸",
+  "pinyin": "liǎn",
+  "pos": "danh từ",
+  "meaning": "khuôn mặt",
+  "level": 2
+ },
+ {
+  "id": "2-0352",
+  "hanzi": "练",
+  "pinyin": "liàn",
+  "pos": "động từ",
+  "meaning": "luyện (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0353",
+  "hanzi": "练习",
+  "pinyin": "liànxí",
+  "pos": "động từ, danh từ",
+  "meaning": "luyện tập; bài tập",
+  "level": 2
+ },
+ {
+  "id": "2-0354",
+  "hanzi": "凉",
+  "pinyin": "liáng",
+  "pos": "tính từ",
+  "meaning": "mát, lạnh (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0355",
+  "hanzi": "凉快",
+  "pinyin": "liángkuai",
+  "pos": "tính từ",
+  "meaning": "mát mẻ",
+  "level": 2
+ },
+ {
+  "id": "2-0356",
+  "hanzi": "两",
+  "pinyin": "liǎng",
+  "pos": "lượng từ",
+  "meaning": "lạng (50 gam)",
+  "level": 2
+ },
+ {
+  "id": "2-0357",
+  "hanzi": "亮",
+  "pinyin": "liàng",
+  "pos": "tính từ, động từ",
+  "meaning": "sáng",
+  "level": 2
+ },
+ {
+  "id": "2-0358",
+  "hanzi": "辆",
+  "pinyin": "liàng",
+  "pos": "lượng từ",
+  "meaning": "chiếc (xe)",
+  "level": 2
+ },
+ {
+  "id": "2-0359",
+  "hanzi": "零下",
+  "pinyin": "líng xià",
+  "pos": "cụm từ",
+  "meaning": "âm (độ), dưới 0 độ",
+  "level": 2
+ },
+ {
+  "id": "2-0360",
+  "hanzi": "留",
+  "pinyin": "liú",
+  "pos": "động từ",
+  "meaning": "ở lại; giữ lại",
+  "level": 2
+ },
+ {
+  "id": "2-0361",
+  "hanzi": "留下",
+  "pinyin": "liúxia",
+  "pos": "cụm từ",
+  "meaning": "để lại, lưu lại",
+  "level": 2
+ },
+ {
+  "id": "2-0362",
+  "hanzi": "留学生",
+  "pinyin": "liúxuéshēng",
+  "pos": "danh từ",
+  "meaning": "du học sinh",
+  "level": 2
+ },
+ {
+  "id": "2-0363",
+  "hanzi": "流",
+  "pinyin": "liú",
+  "pos": "động từ",
+  "meaning": "chảy",
+  "level": 2
+ },
+ {
+  "id": "2-0364",
+  "hanzi": "流利",
+  "pinyin": "liúlì",
+  "pos": "tính từ",
+  "meaning": "trôi chảy, lưu loát",
+  "level": 2
+ },
+ {
+  "id": "2-0365",
+  "hanzi": "流行",
+  "pinyin": "liúxíng",
+  "pos": "động từ, tính từ",
+  "meaning": "thịnh hành, phổ biến",
+  "level": 2
+ },
+ {
+  "id": "2-0366",
+  "hanzi": "路边",
+  "pinyin": "lù biān",
+  "pos": "cụm từ",
+  "meaning": "ven đường, lề đường",
+  "level": 2
+ },
+ {
+  "id": "2-0367",
+  "hanzi": "旅客",
+  "pinyin": "lǚkè",
+  "pos": "danh từ",
+  "meaning": "hành khách, lữ khách",
+  "level": 2
+ },
+ {
+  "id": "2-0368",
+  "hanzi": "旅行",
+  "pinyin": "lǚxíng",
+  "pos": "động từ",
+  "meaning": "du lịch (旅行)",
+  "level": 2
+ },
+ {
+  "id": "2-0369",
+  "hanzi": "旅游",
+  "pinyin": "lǚyóu",
+  "pos": "động từ",
+  "meaning": "du lịch (旅游)",
+  "level": 2
+ },
+ {
+  "id": "2-0370",
+  "hanzi": "绿",
+  "pinyin": "lǜ",
+  "pos": "tính từ",
+  "meaning": "xanh lá",
+  "level": 2
+ },
+ {
+  "id": "2-0371",
+  "hanzi": "绿色",
+  "pinyin": "lǜsè",
+  "pos": "danh từ",
+  "meaning": "màu xanh lá",
+  "level": 2
+ },
+ {
+  "id": "2-0372",
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "pos": "động từ",
+  "meaning": "bán",
+  "level": 2
+ },
+ {
+  "id": "2-0373",
+  "hanzi": "满",
+  "pinyin": "mǎn",
+  "pos": "tính từ",
+  "meaning": "đầy",
+  "level": 2
+ },
+ {
+  "id": "2-0374",
+  "hanzi": "满意",
+  "pinyin": "mǎnyì",
+  "pos": "động từ",
+  "meaning": "hài lòng",
+  "level": 2
+ },
+ {
+  "id": "2-0375",
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "pos": "danh từ",
+  "meaning": "con mèo",
+  "level": 2
+ },
+ {
+  "id": "2-0376",
+  "hanzi": "米",
+  "pinyin": "mǐ",
+  "pos": "lượng từ",
+  "meaning": "mét (m)",
+  "level": 2
+ },
+ {
+  "id": "2-0377",
+  "hanzi": "面",
+  "pinyin": "miàn",
+  "pos": "danh từ, lượng từ",
+  "meaning": "mặt; cái (gương, cờ)",
+  "level": 2
+ },
+ {
+  "id": "2-0378",
+  "hanzi": "面",
+  "pinyin": "miàn",
+  "pos": "danh từ",
+  "meaning": "mì (sợi)",
+  "level": 2
+ },
+ {
+  "id": "2-0379",
+  "hanzi": "面前",
+  "pinyin": "miànqián",
+  "pos": "danh từ",
+  "meaning": "trước mặt",
+  "level": 2
+ },
+ {
+  "id": "2-0380",
+  "hanzi": "名",
+  "pinyin": "míng",
+  "pos": "danh từ, lượng từ",
+  "meaning": "tên, danh tiếng; người (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0381",
+  "hanzi": "名称",
+  "pinyin": "míngchēng",
+  "pos": "danh từ",
+  "meaning": "tên gọi",
+  "level": 2
+ },
+ {
+  "id": "2-0382",
+  "hanzi": "名单",
+  "pinyin": "míngdān",
+  "pos": "danh từ",
+  "meaning": "danh sách",
+  "level": 2
+ },
+ {
+  "id": "2-0383",
+  "hanzi": "明星",
+  "pinyin": "míngxīng",
+  "pos": "danh từ",
+  "meaning": "ngôi sao (người nổi tiếng)",
+  "level": 2
+ },
+ {
+  "id": "2-0384",
+  "hanzi": "目的",
+  "pinyin": "mùdì",
+  "pos": "danh từ",
+  "meaning": "mục đích",
+  "level": 2
+ },
+ {
+  "id": "2-0385",
+  "hanzi": "拿出",
+  "pinyin": "náchū",
+  "pos": "cụm từ",
+  "meaning": "lấy ra",
+  "level": 2
+ },
+ {
+  "id": "2-0386",
+  "hanzi": "拿到",
+  "pinyin": "nádào",
+  "pos": "cụm từ",
+  "meaning": "lấy được",
+  "level": 2
+ },
+ {
+  "id": "2-0387",
+  "hanzi": "那",
+  "pinyin": "nà",
+  "pos": "liên từ",
+  "meaning": "vậy thì, thế thì",
+  "level": 2
+ },
+ {
+  "id": "2-0388",
+  "hanzi": "那会儿",
+  "pinyin": "nàhuìr",
+  "pos": "đại từ",
+  "meaning": "hồi đó, lúc ấy (khẩu ngữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0389",
+  "hanzi": "那么",
+  "pinyin": "nàme",
+  "pos": "đại từ",
+  "meaning": "như thế, như vậy (那么)",
+  "level": 2
+ },
+ {
+  "id": "2-0390",
+  "hanzi": "那时候",
+  "pinyin": "nà shíhou",
+  "pos": "cụm từ",
+  "meaning": "lúc đó, khi đó",
+  "level": 2
+ },
+ {
+  "id": "2-0391",
+  "hanzi": "那样",
+  "pinyin": "nàyàng",
+  "pos": "đại từ",
+  "meaning": "như vậy, kiểu đó (那样)",
+  "level": 2
+ },
+ {
+  "id": "2-0392",
+  "hanzi": "南方",
+  "pinyin": "nánfāng",
+  "pos": "danh từ",
+  "meaning": "miền Nam, phương Nam",
+  "level": 2
+ },
+ {
+  "id": "2-0393",
+  "hanzi": "难过",
+  "pinyin": "nánguò",
+  "pos": "tính từ",
+  "meaning": "buồn, đau lòng",
+  "level": 2
+ },
+ {
+  "id": "2-0394",
+  "hanzi": "难看",
+  "pinyin": "nánkàn",
+  "pos": "tính từ",
+  "meaning": "xấu, khó coi",
+  "level": 2
+ },
+ {
+  "id": "2-0395",
+  "hanzi": "难受",
+  "pinyin": "nánshòu",
+  "pos": "tính từ",
+  "meaning": "khó chịu (trong người)",
+  "level": 2
+ },
+ {
+  "id": "2-0396",
+  "hanzi": "难题",
+  "pinyin": "nántí",
+  "pos": "danh từ",
+  "meaning": "vấn đề khó, câu hỏi khó",
+  "level": 2
+ },
+ {
+  "id": "2-0397",
+  "hanzi": "难听",
+  "pinyin": "nántīng",
+  "pos": "tính từ",
+  "meaning": "khó nghe",
+  "level": 2
+ },
+ {
+  "id": "2-0398",
+  "hanzi": "能够",
+  "pinyin": "nénggòu",
+  "pos": "động từ",
+  "meaning": "có thể (能够)",
+  "level": 2
+ },
+ {
+  "id": "2-0399",
+  "hanzi": "年级",
+  "pinyin": "niánjí",
+  "pos": "danh từ",
+  "meaning": "khối lớp, năm học (lớp mấy)",
+  "level": 2
+ },
+ {
+  "id": "2-0400",
+  "hanzi": "年轻",
+  "pinyin": "niánqīng",
+  "pos": "tính từ",
+  "meaning": "trẻ, trẻ trung",
+  "level": 2
+ }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1-0201",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我们今天学课文。",
+      "pinyin": "Wǒmen jīntiān xué kèwén.",
+      "vi": "Hôm nay chúng tôi học bài khóa."
+    }
+  },
+  {
+    "id": "1-0202",
+    "pos": "lượng từ, danh từ",
+    "example": {
+      "zh": "我家有五口人。",
+      "pinyin": "Wǒ jiā yǒu wǔ kǒu rén.",
+      "vi": "Nhà tôi có năm người."
+    }
+  },
+  {
+    "id": "1-0203",
+    "pos": "danh từ, lượng từ",
+    "example": {
+      "zh": "我吃一块肉。",
+      "pinyin": "Wǒ chī yí kuài ròu.",
+      "vi": "Tôi ăn một miếng thịt."
+    }
+  },
+  {
+    "id": "1-0204",
+    "pos": "tính từ, phó từ",
+    "example": {
+      "zh": "你快来。",
+      "pinyin": "Nǐ kuài lái.",
+      "vi": "Bạn mau đến đi."
+    }
+  },
+  {
+    "id": "1-0205",
+    "pos": "động từ",
+    "example": {
+      "zh": "你来我家吗？",
+      "pinyin": "Nǐ lái wǒ jiā ma?",
+      "vi": "Bạn có đến nhà tôi không?"
+    }
+  },
+  {
+    "id": "1-0206",
+    "pos": "động từ",
+    "example": {
+      "zh": "他来到我家。",
+      "pinyin": "Tā láidào wǒ jiā.",
+      "vi": "Anh ấy đến nhà tôi."
+    }
+  },
+  {
+    "id": "1-0207",
+    "pos": "tính từ",
+    "example": {
+      "zh": "这本书很老。",
+      "pinyin": "Zhè běn shū hěn lǎo.",
+      "vi": "Quyển sách này rất cũ."
+    }
+  },
+  {
+    "id": "1-0208",
+    "pos": "danh từ",
+    "example": {
+      "zh": "老人喝水。",
+      "pinyin": "Lǎorén hē shuǐ.",
+      "vi": "Người già uống nước."
+    }
+  },
+  {
+    "id": "1-0209",
+    "pos": "danh từ",
+    "example": {
+      "zh": "她是我的老师。",
+      "pinyin": "Tā shì wǒ de lǎoshī.",
+      "vi": "Cô ấy là giáo viên của tôi."
+    }
+  },
+  {
+    "id": "1-0210",
+    "pos": "trợ từ",
+    "example": {
+      "zh": "我吃了米饭。",
+      "pinyin": "Wǒ chī le mǐfàn.",
+      "vi": "Tôi đã ăn cơm rồi."
+    }
+  },
+  {
+    "id": "1-0211",
+    "pos": "tính từ",
+    "example": {
+      "zh": "今天我很累。",
+      "pinyin": "Jīntiān wǒ hěn lèi.",
+      "vi": "Hôm nay tôi rất mệt."
+    }
+  },
+  {
+    "id": "1-0212",
+    "pos": "tính từ",
+    "example": {
+      "zh": "我的手很冷。",
+      "pinyin": "Wǒ de shǒu hěn lěng.",
+      "vi": "Tay tôi rất lạnh."
+    }
+  },
+  {
+    "id": "1-0213",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我家里有水。",
+      "pinyin": "Wǒ jiā lǐ yǒu shuǐ.",
+      "vi": "Trong nhà tôi có nước."
+    }
+  },
+  {
+    "id": "1-0214",
+    "pos": "danh từ",
+    "example": {
+      "zh": "里边有人吗？",
+      "pinyin": "Lǐbian yǒu rén ma?",
+      "vi": "Bên trong có ai không?"
+    }
+  },
+  {
+    "id": "1-0215",
+    "pos": "số từ",
+    "example": {
+      "zh": "我有两本书。",
+      "pinyin": "Wǒ yǒu liǎng běn shū.",
+      "vi": "Tôi có hai quyển sách."
+    }
+  },
+  {
+    "id": "1-0216",
+    "pos": "số từ",
+    "example": {
+      "zh": "他有一百零一本书。",
+      "pinyin": "Tā yǒu yì bǎi líng yì běn shū.",
+      "vi": "Anh ấy có một trăm lẻ một quyển sách."
+    }
+  },
+  {
+    "id": "1-0217",
+    "pos": "số từ",
+    "example": {
+      "zh": "我六点吃饭。",
+      "pinyin": "Wǒ liù diǎn chīfàn.",
+      "vi": "Tôi ăn cơm lúc sáu giờ."
+    }
+  },
+  {
+    "id": "1-0218",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我家在七楼。",
+      "pinyin": "Wǒ jiā zài qī lóu.",
+      "vi": "Nhà tôi ở tầng bảy."
+    }
+  },
+  {
+    "id": "1-0219",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "老师在楼上。",
+      "pinyin": "Lǎoshī zài lóu shàng.",
+      "vi": "Thầy giáo ở tầng trên."
+    }
+  },
+  {
+    "id": "1-0220",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "妈妈在楼下。",
+      "pinyin": "Māma zài lóu xià.",
+      "vi": "Mẹ ở tầng dưới."
+    }
+  },
+  {
+    "id": "1-0221",
+    "pos": "danh từ, lượng từ",
+    "example": {
+      "zh": "这路车很快。",
+      "pinyin": "Zhè lù chē hěn kuài.",
+      "vi": "Tuyến xe buýt này chạy rất nhanh."
+    }
+  },
+  {
+    "id": "1-0222",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我在路口。",
+      "pinyin": "Wǒ zài lùkǒu.",
+      "vi": "Tôi đang ở ngã tư."
+    }
+  },
+  {
+    "id": "1-0223",
+    "pos": "danh từ",
+    "example": {
+      "zh": "路上有很多车。",
+      "pinyin": "Lùshang yǒu hěn duō chē.",
+      "vi": "Trên đường có rất nhiều xe."
+    }
+  },
+  {
+    "id": "1-0224",
+    "pos": "danh từ",
+    "example": {
+      "zh": "妈妈做米饭。",
+      "pinyin": "Māma zuò mǐfàn.",
+      "vi": "Mẹ nấu cơm."
+    }
+  },
+  {
+    "id": "1-0225",
+    "pos": "danh từ",
+    "example": {
+      "zh": "马路很大。",
+      "pinyin": "Mǎlù hěn dà.",
+      "vi": "Đường cái rất rộng."
+    }
+  },
+  {
+    "id": "1-0226",
+    "pos": "phó từ",
+    "example": {
+      "zh": "我马上来。",
+      "pinyin": "Wǒ mǎshàng lái.",
+      "vi": "Tôi đến ngay đây."
+    }
+  },
+  {
+    "id": "1-0227",
+    "pos": "trợ từ",
+    "example": {
+      "zh": "你累吗？",
+      "pinyin": "Nǐ lèi ma?",
+      "vi": "Bạn có mệt không?"
+    }
+  },
+  {
+    "id": "1-0228",
+    "pos": "động từ",
+    "example": {
+      "zh": "我去买水。",
+      "pinyin": "Wǒ qù mǎi shuǐ.",
+      "vi": "Tôi đi mua nước."
+    }
+  },
+  {
+    "id": "1-0229",
+    "pos": "tính từ",
+    "example": {
+      "zh": "你慢吃。",
+      "pinyin": "Nǐ màn chī.",
+      "vi": "Bạn ăn chậm thôi."
+    }
+  },
+  {
+    "id": "1-0230",
+    "pos": "tính từ",
+    "example": {
+      "zh": "妈妈很忙。",
+      "pinyin": "Māma hěn máng.",
+      "vi": "Mẹ rất bận."
+    }
+  },
+  {
+    "id": "1-0231",
+    "pos": "lượng từ",
+    "example": {
+      "zh": "面包一块两毛。",
+      "pinyin": "Miànbāo yí kuài liǎng máo.",
+      "vi": "Bánh mì giá một đồng hai hào."
+    }
+  },
+  {
+    "id": "1-0232",
+    "pos": "phó từ, động từ",
+    "example": {
+      "zh": "我没吃饭。",
+      "pinyin": "Wǒ méi chī fàn.",
+      "vi": "Tôi chưa ăn cơm."
+    }
+  },
+  {
+    "id": "1-0233",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "对不起，没关系。",
+      "pinyin": "Duìbuqǐ, méi guānxi.",
+      "vi": "Xin lỗi, không sao đâu."
+    }
+  },
+  {
+    "id": "1-0234",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "他说没什么。",
+      "pinyin": "Tā shuō méi shénme.",
+      "vi": "Anh ấy nói không có gì đâu."
+    }
+  },
+  {
+    "id": "1-0235",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "你没事儿吗？",
+      "pinyin": "Nǐ méishìr ma?",
+      "vi": "Bạn không sao chứ?"
+    }
+  },
+  {
+    "id": "1-0236",
+    "pos": "động từ, phó từ",
+    "example": {
+      "zh": "我没有书。",
+      "pinyin": "Wǒ méiyǒu shū.",
+      "vi": "Tôi không có sách."
+    }
+  },
+  {
+    "id": "1-0237",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我的妹妹很高。",
+      "pinyin": "Wǒ de mèimei hěn gāo.",
+      "vi": "Em gái tôi rất cao."
+    }
+  },
+  {
+    "id": "1-0238",
+    "pos": "danh từ, lượng từ",
+    "example": {
+      "zh": "门开了。",
+      "pinyin": "Mén kāi le.",
+      "vi": "Cửa mở rồi."
+    }
+  },
+  {
+    "id": "1-0239",
+    "pos": "danh từ",
+    "example": {
+      "zh": "他在门口。",
+      "pinyin": "Tā zài ménkǒu.",
+      "vi": "Anh ấy đang đứng ở cửa."
+    }
+  },
+  {
+    "id": "1-0240",
+    "pos": "danh từ",
+    "example": {
+      "zh": "门票很贵。",
+      "pinyin": "Ménpiào hěn guì.",
+      "vi": "Vé vào cửa rất đắt."
+    }
+  },
+  {
+    "id": "1-0241",
+    "pos": "hậu tố",
+    "example": {
+      "zh": "我们喝水。",
+      "pinyin": "Wǒmen hē shuǐ.",
+      "vi": "Chúng tôi uống nước."
+    }
+  },
+  {
+    "id": "1-0242",
+    "pos": "danh từ",
+    "example": {
+      "zh": "米饭很好吃。",
+      "pinyin": "Mǐfàn hěn hǎo chī.",
+      "vi": "Cơm này rất ngon."
+    }
+  },
+  {
+    "id": "1-0243",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我喜欢面包。",
+      "pinyin": "Wǒ xǐhuan miànbāo.",
+      "vi": "Tôi thích bánh mì."
+    }
+  },
+  {
+    "id": "1-0244",
+    "pos": "danh từ",
+    "example": {
+      "zh": "他吃面条儿。",
+      "pinyin": "Tā chī miàntiáor.",
+      "vi": "Anh ấy ăn mì sợi."
+    }
+  },
+  {
+    "id": "1-0245",
+    "pos": "danh từ",
+    "example": {
+      "zh": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzi?",
+      "vi": "Bạn tên là gì?"
+    }
+  },
+  {
+    "id": "1-0246",
+    "pos": "tính từ, động từ",
+    "example": {
+      "zh": "我明白了。",
+      "pinyin": "Wǒ míngbai le.",
+      "vi": "Tôi hiểu rồi."
+    }
+  },
+  {
+    "id": "1-0247",
+    "pos": "danh từ",
+    "example": {
+      "zh": "明年我去中国。",
+      "pinyin": "Míngnián wǒ qù Zhōngguó.",
+      "vi": "Năm sau tôi sẽ đi Trung Quốc."
+    }
+  },
+  {
+    "id": "1-0248",
+    "pos": "danh từ",
+    "example": {
+      "zh": "明天我们去学校。",
+      "pinyin": "Míngtiān wǒmen qù xuéxiào.",
+      "vi": "Ngày mai chúng tôi đến trường."
+    }
+  },
+  {
+    "id": "1-0249",
+    "pos": "động từ",
+    "example": {
+      "zh": "请你拿书。",
+      "pinyin": "Qǐng nǐ ná shū.",
+      "vi": "Mời bạn cầm lấy quyển sách."
+    }
+  },
+  {
+    "id": "1-0250",
+    "pos": "đại từ",
+    "example": {
+      "zh": "你是哪国人？",
+      "pinyin": "Nǐ shì nǎ guó rén?",
+      "vi": "Bạn là người nước nào?"
+    }
+  }
+]

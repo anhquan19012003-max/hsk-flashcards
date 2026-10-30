@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0351",
+  "hanzi": "机遇",
+  "pinyin": "jīyù",
+  "pos": "",
+  "meaning": "cơ hội",
+  "level": 4
+ },
+ {
+  "id": "4-0352",
+  "hanzi": "积累",
+  "pinyin": "jīlěi",
+  "pos": "",
+  "meaning": "tích lũy",
+  "level": 4
+ },
+ {
+  "id": "4-0353",
+  "hanzi": "激动",
+  "pinyin": "jīdòng",
+  "pos": "",
+  "meaning": "xúc động",
+  "level": 4
+ },
+ {
+  "id": "4-0354",
+  "hanzi": "激烈",
+  "pinyin": "jīliè",
+  "pos": "",
+  "meaning": "kịch liệt",
+  "level": 4
+ },
+ {
+  "id": "4-0355",
+  "hanzi": "及格",
+  "pinyin": "jígé",
+  "pos": "",
+  "meaning": "đạt tiêu chuẩn",
+  "level": 4
+ },
+ {
+  "id": "4-0356",
+  "hanzi": "极",
+  "pinyin": "jí",
+  "pos": "",
+  "meaning": "cực kỳ (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0357",
+  "hanzi": "极其",
+  "pinyin": "jíqí",
+  "pos": "",
+  "meaning": "vô cùng",
+  "level": 4
+ },
+ {
+  "id": "4-0358",
+  "hanzi": "即将",
+  "pinyin": "jíjiāng",
+  "pos": "",
+  "meaning": "sắp sửa",
+  "level": 4
+ },
+ {
+  "id": "4-0359",
+  "hanzi": "急忙",
+  "pinyin": "jímáng",
+  "pos": "",
+  "meaning": "vội vàng",
+  "level": 4
+ },
+ {
+  "id": "4-0360",
+  "hanzi": "集合",
+  "pinyin": "jíhé",
+  "pos": "",
+  "meaning": "tập hợp",
+  "level": 4
+ },
+ {
+  "id": "4-0361",
+  "hanzi": "记载",
+  "pinyin": "jìzǎi",
+  "pos": "",
+  "meaning": "ghi chép",
+  "level": 4
+ },
+ {
+  "id": "4-0362",
+  "hanzi": "纪律",
+  "pinyin": "jìlǜ",
+  "pos": "",
+  "meaning": "kỷ luật",
+  "level": 4
+ },
+ {
+  "id": "4-0363",
+  "hanzi": "技巧",
+  "pinyin": "jìqiǎo",
+  "pos": "",
+  "meaning": "kỹ xảo",
+  "level": 4
+ },
+ {
+  "id": "4-0364",
+  "hanzi": "系",
+  "pinyin": "xì",
+  "pos": "",
+  "meaning": "khoa (trường học)",
+  "level": 4
+ },
+ {
+  "id": "4-0365",
+  "hanzi": "季",
+  "pinyin": "jì",
+  "pos": "",
+  "meaning": "mùa (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0366",
+  "hanzi": "季度",
+  "pinyin": "jìdù",
+  "pos": "",
+  "meaning": "quý (năm)",
+  "level": 4
+ },
+ {
+  "id": "4-0367",
+  "hanzi": "季节",
+  "pinyin": "jìjié",
+  "pos": "",
+  "meaning": "mùa",
+  "level": 4
+ },
+ {
+  "id": "4-0368",
+  "hanzi": "既",
+  "pinyin": "jì",
+  "pos": "",
+  "meaning": "đã ... (lại); vừa ... vừa",
+  "level": 4
+ },
+ {
+  "id": "4-0369",
+  "hanzi": "既然",
+  "pinyin": "jìrán",
+  "pos": "",
+  "meaning": "đã... thì",
+  "level": 4
+ },
+ {
+  "id": "4-0370",
+  "hanzi": "寄",
+  "pinyin": "jì",
+  "pos": "",
+  "meaning": "gửi",
+  "level": 4
+ },
+ {
+  "id": "4-0371",
+  "hanzi": "加班",
+  "pinyin": "jiābān",
+  "pos": "",
+  "meaning": "tăng ca",
+  "level": 4
+ },
+ {
+  "id": "4-0372",
+  "hanzi": "加入",
+  "pinyin": "jiārù",
+  "pos": "",
+  "meaning": "gia nhập",
+  "level": 4
+ },
+ {
+  "id": "4-0373",
+  "hanzi": "加油站",
+  "pinyin": "jiāyóuzhàn",
+  "pos": "",
+  "meaning": "trạm xăng",
+  "level": 4
+ },
+ {
+  "id": "4-0374",
+  "hanzi": "家务",
+  "pinyin": "jiāwù",
+  "pos": "",
+  "meaning": "việc nhà",
+  "level": 4
+ },
+ {
+  "id": "4-0375",
+  "hanzi": "假如",
+  "pinyin": "jiǎrú",
+  "pos": "",
+  "meaning": "nếu như",
+  "level": 4
+ },
+ {
+  "id": "4-0376",
+  "hanzi": "坚固",
+  "pinyin": "jiāngù",
+  "pos": "",
+  "meaning": "vững chắc",
+  "level": 4
+ },
+ {
+  "id": "4-0377",
+  "hanzi": "检测",
+  "pinyin": "jiǎncè",
+  "pos": "",
+  "meaning": "kiểm tra",
+  "level": 4
+ },
+ {
+  "id": "4-0378",
+  "hanzi": "减",
+  "pinyin": "jiǎn",
+  "pos": "",
+  "meaning": "giảm, trừ (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0379",
+  "hanzi": "减肥",
+  "pinyin": "jiǎnféi",
+  "pos": "",
+  "meaning": "giảm cân",
+  "level": 4
+ },
+ {
+  "id": "4-0380",
+  "hanzi": "减少",
+  "pinyin": "jiǎnshǎo",
+  "pos": "",
+  "meaning": "giảm bớt",
+  "level": 4
+ },
+ {
+  "id": "4-0381",
+  "hanzi": "简历",
+  "pinyin": "jiǎnlì",
+  "pos": "",
+  "meaning": "sơ yếu lý lịch",
+  "level": 4
+ },
+ {
+  "id": "4-0382",
+  "hanzi": "健身",
+  "pinyin": "jiànshēn",
+  "pos": "",
+  "meaning": "tập thể hình",
+  "level": 4
+ },
+ {
+  "id": "4-0383",
+  "hanzi": "渐渐",
+  "pinyin": "jiànjiàn",
+  "pos": "",
+  "meaning": "dần dần",
+  "level": 4
+ },
+ {
+  "id": "4-0384",
+  "hanzi": "江",
+  "pinyin": "jiāng",
+  "pos": "",
+  "meaning": "sông",
+  "level": 4
+ },
+ {
+  "id": "4-0385",
+  "hanzi": "讲究",
+  "pinyin": "jiǎngjiu",
+  "pos": "",
+  "meaning": "chú trọng",
+  "level": 4
+ },
+ {
+  "id": "4-0386",
+  "hanzi": "讲座",
+  "pinyin": "jiǎngzuò",
+  "pos": "",
+  "meaning": "buổi thuyết trình",
+  "level": 4
+ },
+ {
+  "id": "4-0387",
+  "hanzi": "奖",
+  "pinyin": "jiǎng",
+  "pos": "",
+  "meaning": "giải thưởng",
+  "level": 4
+ },
+ {
+  "id": "4-0388",
+  "hanzi": "奖金",
+  "pinyin": "jiǎngjīn",
+  "pos": "",
+  "meaning": "tiền thưởng",
+  "level": 4
+ },
+ {
+  "id": "4-0389",
+  "hanzi": "奖学金",
+  "pinyin": "jiǎngxuéjīn",
+  "pos": "",
+  "meaning": "học bổng",
+  "level": 4
+ },
+ {
+  "id": "4-0390",
+  "hanzi": "降",
+  "pinyin": "jiàng",
+  "pos": "",
+  "meaning": "hạ xuống, rơi (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0391",
+  "hanzi": "降低",
+  "pinyin": "jiàngdī",
+  "pos": "",
+  "meaning": "hạ thấp",
+  "level": 4
+ },
+ {
+  "id": "4-0392",
+  "hanzi": "降价",
+  "pinyin": "jiàngjià",
+  "pos": "",
+  "meaning": "giảm giá",
+  "level": 4
+ },
+ {
+  "id": "4-0393",
+  "hanzi": "降落",
+  "pinyin": "jiàngluò",
+  "pos": "",
+  "meaning": "hạ cánh",
+  "level": 4
+ },
+ {
+  "id": "4-0394",
+  "hanzi": "降温",
+  "pinyin": "jiàngwēn",
+  "pos": "",
+  "meaning": "giảm nhiệt độ",
+  "level": 4
+ },
+ {
+  "id": "4-0395",
+  "hanzi": "交换",
+  "pinyin": "jiāohuàn",
+  "pos": "",
+  "meaning": "trao đổi",
+  "level": 4
+ },
+ {
+  "id": "4-0396",
+  "hanzi": "交际",
+  "pinyin": "jiāojì",
+  "pos": "",
+  "meaning": "giao tiếp",
+  "level": 4
+ },
+ {
+  "id": "4-0397",
+  "hanzi": "教授",
+  "pinyin": "jiàoshòu",
+  "pos": "",
+  "meaning": "giáo sư",
+  "level": 4
+ },
+ {
+  "id": "4-0398",
+  "hanzi": "教训",
+  "pinyin": "jiàoxùn",
+  "pos": "",
+  "meaning": "bài học",
+  "level": 4
+ },
+ {
+  "id": "4-0399",
+  "hanzi": "阶段",
+  "pinyin": "jiēduàn",
+  "pos": "",
+  "meaning": "giai đoạn",
+  "level": 4
+ },
+ {
+  "id": "4-0400",
+  "hanzi": "街道",
+  "pinyin": "jiēdào",
+  "pos": "",
+  "meaning": "đường phố",
+  "level": 4
+ }
+]

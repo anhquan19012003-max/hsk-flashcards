@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0601",
+  "hanzi": "支票",
+  "pinyin": "zhīpiào",
+  "pos": "",
+  "meaning": "chi phiếu",
+  "level": 5
+ },
+ {
+  "id": "5-0602",
+  "hanzi": "指导",
+  "pinyin": "zhǐdǎo",
+  "pos": "",
+  "meaning": "hướng dẫn",
+  "level": 5
+ },
+ {
+  "id": "5-0603",
+  "hanzi": "制定",
+  "pinyin": "zhìdìng",
+  "pos": "",
+  "meaning": "xây dựng",
+  "level": 5
+ },
+ {
+  "id": "5-0604",
+  "hanzi": "制造",
+  "pinyin": "zhìzào",
+  "pos": "",
+  "meaning": "chế tạo",
+  "level": 5
+ },
+ {
+  "id": "5-0605",
+  "hanzi": "智慧",
+  "pinyin": "zhìhuì",
+  "pos": "",
+  "meaning": "trí tuệ",
+  "level": 5
+ },
+ {
+  "id": "5-0606",
+  "hanzi": "秩序",
+  "pinyin": "zhìxù",
+  "pos": "",
+  "meaning": "trật tự",
+  "level": 5
+ },
+ {
+  "id": "5-0607",
+  "hanzi": "中介",
+  "pinyin": "zhōngjiè",
+  "pos": "",
+  "meaning": "trung gian",
+  "level": 5
+ },
+ {
+  "id": "5-0608",
+  "hanzi": "中旬",
+  "pinyin": "zhōngxún",
+  "pos": "",
+  "meaning": "giữa tháng",
+  "level": 5
+ },
+ {
+  "id": "5-0609",
+  "hanzi": "周到",
+  "pinyin": "zhōudào",
+  "pos": "",
+  "meaning": "chu đáo",
+  "level": 5
+ },
+ {
+  "id": "5-0610",
+  "hanzi": "逐步",
+  "pinyin": "zhúbù",
+  "pos": "",
+  "meaning": "dần dần",
+  "level": 5
+ },
+ {
+  "id": "5-0611",
+  "hanzi": "竹子",
+  "pinyin": "zhúzi",
+  "pos": "",
+  "meaning": "tre",
+  "level": 5
+ },
+ {
+  "id": "5-0612",
+  "hanzi": "主持",
+  "pinyin": "zhǔchí",
+  "pos": "",
+  "meaning": "chủ trì",
+  "level": 5
+ },
+ {
+  "id": "5-0613",
+  "hanzi": "主观",
+  "pinyin": "zhǔguān",
+  "pos": "",
+  "meaning": "chủ quan",
+  "level": 5
+ },
+ {
+  "id": "5-0614",
+  "hanzi": "主题",
+  "pinyin": "zhǔtí",
+  "pos": "",
+  "meaning": "chủ đề",
+  "level": 5
+ },
+ {
+  "id": "5-0615",
+  "hanzi": "主任",
+  "pinyin": "zhǔrèn",
+  "pos": "",
+  "meaning": "chủ nhiệm",
+  "level": 5
+ },
+ {
+  "id": "5-0616",
+  "hanzi": "抓",
+  "pinyin": "zhuā",
+  "pos": "",
+  "meaning": "bắt, nắm",
+  "level": 5
+ },
+ {
+  "id": "5-0617",
+  "hanzi": "专家",
+  "pinyin": "zhuānjiā",
+  "pos": "",
+  "meaning": "chuyên gia",
+  "level": 5
+ },
+ {
+  "id": "5-0618",
+  "hanzi": "专心",
+  "pinyin": "zhuānxīn",
+  "pos": "",
+  "meaning": "chuyên tâm",
+  "level": 5
+ },
+ {
+  "id": "5-0619",
+  "hanzi": "转告",
+  "pinyin": "zhuǎngào",
+  "pos": "",
+  "meaning": "nhắn lại",
+  "level": 5
+ },
+ {
+  "id": "5-0620",
+  "hanzi": "装",
+  "pinyin": "zhuāng",
+  "pos": "",
+  "meaning": "giả vờ",
+  "level": 5
+ },
+ {
+  "id": "5-0621",
+  "hanzi": "装修",
+  "pinyin": "zhuāngxiū",
+  "pos": "",
+  "meaning": "trang trí, sửa nhà",
+  "level": 5
+ },
+ {
+  "id": "5-0622",
+  "hanzi": "状况",
+  "pinyin": "zhuàngkuàng",
+  "pos": "",
+  "meaning": "tình hình",
+  "level": 5
+ },
+ {
+  "id": "5-0623",
+  "hanzi": "追",
+  "pinyin": "zhuī",
+  "pos": "",
+  "meaning": "đuổi theo",
+  "level": 5
+ },
+ {
+  "id": "5-0624",
+  "hanzi": "资格",
+  "pinyin": "zīgé",
+  "pos": "",
+  "meaning": "tư cách",
+  "level": 5
+ },
+ {
+  "id": "5-0625",
+  "hanzi": "资料",
+  "pinyin": "zīliào",
+  "pos": "",
+  "meaning": "tài liệu",
+  "level": 5
+ },
+ {
+  "id": "5-0626",
+  "hanzi": "姿势",
+  "pinyin": "zīshì",
+  "pos": "",
+  "meaning": "tư thế",
+  "level": 5
+ },
+ {
+  "id": "5-0627",
+  "hanzi": "紫",
+  "pinyin": "zǐ",
+  "pos": "",
+  "meaning": "màu tím",
+  "level": 5
+ },
+ {
+  "id": "5-0628",
+  "hanzi": "字幕",
+  "pinyin": "zìmù",
+  "pos": "",
+  "meaning": "phụ đề",
+  "level": 5
+ },
+ {
+  "id": "5-0629",
+  "hanzi": "自动",
+  "pinyin": "zìdòng",
+  "pos": "",
+  "meaning": "tự động",
+  "level": 5
+ },
+ {
+  "id": "5-0630",
+  "hanzi": "自由",
+  "pinyin": "zìyóu",
+  "pos": "",
+  "meaning": "tự do",
+  "level": 5
+ },
+ {
+  "id": "5-0631",
+  "hanzi": "综合",
+  "pinyin": "zōnghé",
+  "pos": "",
+  "meaning": "tổng hợp",
+  "level": 5
+ },
+ {
+  "id": "5-0632",
+  "hanzi": "总共",
+  "pinyin": "zǒnggòng",
+  "pos": "",
+  "meaning": "tổng cộng",
+  "level": 5
+ },
+ {
+  "id": "5-0633",
+  "hanzi": "总理",
+  "pinyin": "zǒnglǐ",
+  "pos": "",
+  "meaning": "thủ tướng",
+  "level": 5
+ },
+ {
+  "id": "5-0634",
+  "hanzi": "总算",
+  "pinyin": "zǒngsuàn",
+  "pos": "",
+  "meaning": "cuối cùng cũng",
+  "level": 5
+ },
+ {
+  "id": "5-0635",
+  "hanzi": "总之",
+  "pinyin": "zǒngzhī",
+  "pos": "",
+  "meaning": "tóm lại",
+  "level": 5
+ },
+ {
+  "id": "5-0636",
+  "hanzi": "组成",
+  "pinyin": "zǔchéng",
+  "pos": "",
+  "meaning": "cấu thành",
+  "level": 5
+ },
+ {
+  "id": "5-0637",
+  "hanzi": "组织",
+  "pinyin": "zǔzhī",
+  "pos": "",
+  "meaning": "tổ chức",
+  "level": 5
+ },
+ {
+  "id": "5-0638",
+  "hanzi": "作文",
+  "pinyin": "zuòwén",
+  "pos": "",
+  "meaning": "bài văn",
+  "level": 5
+ },
+ {
+  "id": "5-0639",
+  "hanzi": "哎",
+  "pinyin": "āi",
+  "pos": "",
+  "meaning": "ôi",
+  "level": 5
+ },
+ {
+  "id": "5-0640",
+  "hanzi": "爱护",
+  "pinyin": "àihù",
+  "pos": "",
+  "meaning": "yêu quý",
+  "level": 5
+ },
+ {
+  "id": "5-0641",
+  "hanzi": "爱惜",
+  "pinyin": "àixī",
+  "pos": "",
+  "meaning": "trân trọng",
+  "level": 5
+ },
+ {
+  "id": "5-0642",
+  "hanzi": "安装",
+  "pinyin": "ānzhuāng",
+  "pos": "",
+  "meaning": "lắp đặt",
+  "level": 5
+ },
+ {
+  "id": "5-0643",
+  "hanzi": "暗",
+  "pinyin": "àn",
+  "pos": "",
+  "meaning": "tối",
+  "level": 5
+ },
+ {
+  "id": "5-0644",
+  "hanzi": "把握",
+  "pinyin": "bǎwò",
+  "pos": "",
+  "meaning": "nắm bắt",
+  "level": 5
+ },
+ {
+  "id": "5-0645",
+  "hanzi": "摆",
+  "pinyin": "bǎi",
+  "pos": "",
+  "meaning": "bày",
+  "level": 5
+ },
+ {
+  "id": "5-0646",
+  "hanzi": "办理",
+  "pinyin": "bànlǐ",
+  "pos": "",
+  "meaning": "giải quyết",
+  "level": 5
+ },
+ {
+  "id": "5-0647",
+  "hanzi": "傍晚",
+  "pinyin": "bàngwǎn",
+  "pos": "",
+  "meaning": "hoàng hôn",
+  "level": 5
+ },
+ {
+  "id": "5-0648",
+  "hanzi": "包裹",
+  "pinyin": "bāoguǒ",
+  "pos": "",
+  "meaning": "bưu kiện",
+  "level": 5
+ },
+ {
+  "id": "5-0649",
+  "hanzi": "包括",
+  "pinyin": "bāokuò",
+  "pos": "",
+  "meaning": "bao gồm",
+  "level": 5
+ },
+ {
+  "id": "5-0650",
+  "hanzi": "薄",
+  "pinyin": "báo",
+  "pos": "",
+  "meaning": "mỏng",
+  "level": 5
+ }
+]

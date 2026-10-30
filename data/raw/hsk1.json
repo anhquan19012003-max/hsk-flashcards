@@ -1,0 +1,6489 @@
+{
+ "level": 1,
+ "count": 500,
+ "words": [
+  {
+   "id": "1-0001",
+   "hanzi": "爱",
+   "pinyin": "ài",
+   "pos": "động từ",
+   "meaning": "yêu, yêu thích",
+   "accept": [
+    "爱",
+    "ài",
+    "ai"
+   ]
+  },
+  {
+   "id": "1-0002",
+   "hanzi": "爱好",
+   "pinyin": "àihào",
+   "pos": "động từ, danh từ",
+   "meaning": "sở thích; ham thích",
+   "accept": [
+    "爱好",
+    "àihào",
+    "aihao"
+   ]
+  },
+  {
+   "id": "1-0003",
+   "hanzi": "八",
+   "pinyin": "bā",
+   "pos": "số từ",
+   "meaning": "số 8 (tám)",
+   "accept": [
+    "八",
+    "bā",
+    "8",
+    "ba"
+   ]
+  },
+  {
+   "id": "1-0004",
+   "hanzi": "爸爸",
+   "pinyin": "bàba",
+   "pos": "danh từ",
+   "meaning": "bố",
+   "accept": [
+    "爸爸",
+    "bàba",
+    "爸",
+    "bà",
+    "父亲",
+    "fùqīn",
+    "老爸",
+    "lǎobà",
+    "baba",
+    "ba",
+    "fuqin",
+    "laoba"
+   ]
+  },
+  {
+   "id": "1-0005",
+   "hanzi": "吧",
+   "pinyin": "ba",
+   "pos": "trợ từ",
+   "meaning": "nhé, nhỉ, đi (trợ từ cuối câu)",
+   "accept": [
+    "吧",
+    "ba"
+   ]
+  },
+  {
+   "id": "1-0006",
+   "hanzi": "白",
+   "pinyin": "bái",
+   "pos": "tính từ",
+   "meaning": "trắng",
+   "accept": [
+    "白",
+    "bái",
+    "白色",
+    "báisè",
+    "bai",
+    "baise"
+   ]
+  },
+  {
+   "id": "1-0007",
+   "hanzi": "白天",
+   "pinyin": "báitiān",
+   "pos": "danh từ",
+   "meaning": "ban ngày",
+   "accept": [
+    "白天",
+    "báitiān",
+    "baitian"
+   ]
+  },
+  {
+   "id": "1-0008",
+   "hanzi": "百",
+   "pinyin": "bǎi",
+   "pos": "số từ",
+   "meaning": "trăm",
+   "accept": [
+    "百",
+    "bǎi",
+    "100",
+    "一百",
+    "yìbǎi",
+    "bai",
+    "yibai"
+   ]
+  },
+  {
+   "id": "1-0009",
+   "hanzi": "班",
+   "pinyin": "bān",
+   "pos": "danh từ, lượng từ",
+   "meaning": "lớp học; ca (làm việc)",
+   "accept": [
+    "班",
+    "bān",
+    "ban"
+   ]
+  },
+  {
+   "id": "1-0010",
+   "hanzi": "半",
+   "pinyin": "bàn",
+   "pos": "số từ",
+   "meaning": "một nửa",
+   "accept": [
+    "半",
+    "bàn",
+    "一半",
+    "yíbàn",
+    "ban",
+    "yiban"
+   ]
+  },
+  {
+   "id": "1-0011",
+   "hanzi": "半年",
+   "pinyin": "bàn nián",
+   "pos": "cụm từ",
+   "meaning": "nửa năm",
+   "accept": [
+    "半年",
+    "bàn nián",
+    "ban nian"
+   ]
+  },
+  {
+   "id": "1-0012",
+   "hanzi": "半天",
+   "pinyin": "bàntiān",
+   "pos": "cụm từ",
+   "meaning": "nửa ngày",
+   "accept": [
+    "半天",
+    "bàntiān",
+    "bantian"
+   ]
+  },
+  {
+   "id": "1-0013",
+   "hanzi": "帮",
+   "pinyin": "bāng",
+   "pos": "động từ",
+   "meaning": "giúp (1 chữ)",
+   "accept": [
+    "帮",
+    "bāng",
+    "帮忙",
+    "bāngmáng",
+    "帮助",
+    "bāngzhù",
+    "bang",
+    "bangmang",
+    "bangzhu"
+   ]
+  },
+  {
+   "id": "1-0014",
+   "hanzi": "帮忙",
+   "pinyin": "bāngmáng",
+   "pos": "cụm từ",
+   "meaning": "giúp đỡ, giúp một tay",
+   "accept": [
+    "帮忙",
+    "bāngmáng",
+    "帮",
+    "bāng",
+    "帮助",
+    "bāngzhù",
+    "bangmang",
+    "bang",
+    "bangzhu"
+   ]
+  },
+  {
+   "id": "1-0015",
+   "hanzi": "包",
+   "pinyin": "bāo",
+   "pos": "danh từ, lượng từ, động từ",
+   "meaning": "túi, bao, gói; bọc",
+   "accept": [
+    "包",
+    "bāo",
+    "bao"
+   ]
+  },
+  {
+   "id": "1-0016",
+   "hanzi": "包子",
+   "pinyin": "bāozi",
+   "pos": "danh từ",
+   "meaning": "bánh bao",
+   "accept": [
+    "包子",
+    "bāozi",
+    "baozi"
+   ]
+  },
+  {
+   "id": "1-0017",
+   "hanzi": "杯",
+   "pinyin": "bēi",
+   "pos": "lượng từ",
+   "meaning": "cốc, ly (lượng từ)",
+   "accept": [
+    "杯",
+    "bēi",
+    "bei"
+   ]
+  },
+  {
+   "id": "1-0018",
+   "hanzi": "杯子",
+   "pinyin": "bēizi",
+   "pos": "danh từ",
+   "meaning": "chiếc cốc, cái ly",
+   "accept": [
+    "杯子",
+    "bēizi",
+    "beizi"
+   ]
+  },
+  {
+   "id": "1-0019",
+   "hanzi": "北",
+   "pinyin": "běi",
+   "pos": "danh từ",
+   "meaning": "bắc (hướng bắc)",
+   "accept": [
+    "北",
+    "běi",
+    "北方",
+    "běifāng",
+    "bei",
+    "beifang"
+   ]
+  },
+  {
+   "id": "1-0020",
+   "hanzi": "北边",
+   "pinyin": "běibian",
+   "pos": "danh từ",
+   "meaning": "phía bắc",
+   "accept": [
+    "北边",
+    "běibian",
+    "北面",
+    "běimiàn",
+    "beibian",
+    "beimian"
+   ]
+  },
+  {
+   "id": "1-0021",
+   "hanzi": "北京",
+   "pinyin": "Běijīng",
+   "pos": "danh từ",
+   "meaning": "Bắc Kinh",
+   "accept": [
+    "北京",
+    "Běijīng",
+    "Beijing"
+   ]
+  },
+  {
+   "id": "1-0022",
+   "hanzi": "本",
+   "pinyin": "běn",
+   "pos": "lượng từ",
+   "meaning": "cuốn, quyển (lượng từ cho sách vở)",
+   "accept": [
+    "本",
+    "běn",
+    "ben"
+   ]
+  },
+  {
+   "id": "1-0023",
+   "hanzi": "本子",
+   "pinyin": "běnzi",
+   "pos": "danh từ",
+   "meaning": "quyển vở",
+   "accept": [
+    "本子",
+    "běnzi",
+    "benzi"
+   ]
+  },
+  {
+   "id": "1-0024",
+   "hanzi": "比",
+   "pinyin": "bǐ",
+   "pos": "giới từ, động từ",
+   "meaning": "so với, hơn; so sánh",
+   "accept": [
+    "比",
+    "bǐ",
+    "bi"
+   ]
+  },
+  {
+   "id": "1-0025",
+   "hanzi": "别",
+   "pinyin": "bié",
+   "pos": "phó từ",
+   "meaning": "đừng, chớ",
+   "accept": [
+    "别",
+    "bié",
+    "不要",
+    "búyào",
+    "bie",
+    "buyao"
+   ]
+  },
+  {
+   "id": "1-0026",
+   "hanzi": "别的",
+   "pinyin": "biéde",
+   "pos": "đại từ",
+   "meaning": "cái khác, khác",
+   "accept": [
+    "别的",
+    "biéde",
+    "biede"
+   ]
+  },
+  {
+   "id": "1-0027",
+   "hanzi": "别人",
+   "pinyin": "biérén",
+   "pos": "đại từ",
+   "meaning": "người khác",
+   "accept": [
+    "别人",
+    "biérén",
+    "bieren"
+   ]
+  },
+  {
+   "id": "1-0028",
+   "hanzi": "病",
+   "pinyin": "bìng",
+   "pos": "danh từ, động từ",
+   "meaning": "bệnh; bị ốm",
+   "accept": [
+    "病",
+    "bìng",
+    "bing"
+   ]
+  },
+  {
+   "id": "1-0029",
+   "hanzi": "病人",
+   "pinyin": "bìngrén",
+   "pos": "danh từ",
+   "meaning": "bệnh nhân",
+   "accept": [
+    "病人",
+    "bìngrén",
+    "bingren"
+   ]
+  },
+  {
+   "id": "1-0030",
+   "hanzi": "不大",
+   "pinyin": "bú dà",
+   "pos": "cụm từ",
+   "meaning": "không ... lắm; ít khi",
+   "accept": [
+    "不大",
+    "bú dà",
+    "bu da"
+   ]
+  },
+  {
+   "id": "1-0031",
+   "hanzi": "不对",
+   "pinyin": "búduì",
+   "pos": "tính từ",
+   "meaning": "không đúng",
+   "accept": [
+    "不对",
+    "búduì",
+    "budui"
+   ]
+  },
+  {
+   "id": "1-0032",
+   "hanzi": "不客气",
+   "pinyin": "bú kèqì",
+   "pos": "cụm từ",
+   "meaning": "không có chi (đáp lời cảm ơn)",
+   "accept": [
+    "不客气",
+    "bú kèqì",
+    "不用谢",
+    "búyòngxiè",
+    "别客气",
+    "biékèqi",
+    "不谢",
+    "búxiè",
+    "bu keqi",
+    "buyongxie",
+    "biekeqi",
+    "buxie"
+   ]
+  },
+  {
+   "id": "1-0033",
+   "hanzi": "不用",
+   "pinyin": "búyòng",
+   "pos": "phó từ",
+   "meaning": "không cần",
+   "accept": [
+    "不用",
+    "búyòng",
+    "buyong"
+   ]
+  },
+  {
+   "id": "1-0034",
+   "hanzi": "不",
+   "pinyin": "bù",
+   "pos": "phó từ",
+   "meaning": "không, chẳng",
+   "accept": [
+    "不",
+    "bù",
+    "bu"
+   ]
+  },
+  {
+   "id": "1-0035",
+   "hanzi": "菜",
+   "pinyin": "cài",
+   "pos": "danh từ",
+   "meaning": "món ăn, rau",
+   "accept": [
+    "菜",
+    "cài",
+    "cai"
+   ]
+  },
+  {
+   "id": "1-0036",
+   "hanzi": "茶",
+   "pinyin": "chá",
+   "pos": "danh từ",
+   "meaning": "trà",
+   "accept": [
+    "茶",
+    "chá",
+    "cha"
+   ]
+  },
+  {
+   "id": "1-0037",
+   "hanzi": "差",
+   "pinyin": "chà",
+   "pos": "động từ, tính từ",
+   "meaning": "thiếu, kém; tệ",
+   "accept": [
+    "差",
+    "chà",
+    "cha"
+   ]
+  },
+  {
+   "id": "1-0038",
+   "hanzi": "常",
+   "pinyin": "cháng",
+   "pos": "phó từ",
+   "meaning": "thường (1 chữ)",
+   "accept": [
+    "常",
+    "cháng",
+    "常常",
+    "chángcháng",
+    "经常",
+    "jīngcháng",
+    "chang",
+    "changchang",
+    "jingchang"
+   ]
+  },
+  {
+   "id": "1-0039",
+   "hanzi": "常常",
+   "pinyin": "chángcháng",
+   "pos": "phó từ",
+   "meaning": "thường xuyên",
+   "accept": [
+    "常常",
+    "chángcháng",
+    "常",
+    "cháng",
+    "经常",
+    "jīngcháng",
+    "changchang",
+    "chang",
+    "jingchang"
+   ]
+  },
+  {
+   "id": "1-0040",
+   "hanzi": "唱",
+   "pinyin": "chàng",
+   "pos": "động từ",
+   "meaning": "hát (1 chữ), ca",
+   "accept": [
+    "唱",
+    "chàng",
+    "chang"
+   ]
+  },
+  {
+   "id": "1-0041",
+   "hanzi": "唱歌",
+   "pinyin": "chànggē",
+   "pos": "cụm từ",
+   "meaning": "hát (hát bài hát)",
+   "accept": [
+    "唱歌",
+    "chànggē",
+    "changge"
+   ]
+  },
+  {
+   "id": "1-0042",
+   "hanzi": "车",
+   "pinyin": "chē",
+   "pos": "danh từ",
+   "meaning": "xe",
+   "accept": [
+    "车",
+    "chē",
+    "che"
+   ]
+  },
+  {
+   "id": "1-0043",
+   "hanzi": "车票",
+   "pinyin": "chēpiào",
+   "pos": "danh từ",
+   "meaning": "vé xe",
+   "accept": [
+    "车票",
+    "chēpiào",
+    "chepiao"
+   ]
+  },
+  {
+   "id": "1-0044",
+   "hanzi": "车上",
+   "pinyin": "chē shang",
+   "pos": "cụm từ",
+   "meaning": "trên xe",
+   "accept": [
+    "车上",
+    "chē shang",
+    "che shang"
+   ]
+  },
+  {
+   "id": "1-0045",
+   "hanzi": "车站",
+   "pinyin": "chēzhàn",
+   "pos": "danh từ",
+   "meaning": "bến xe, ga",
+   "accept": [
+    "车站",
+    "chēzhàn",
+    "chezhan"
+   ]
+  },
+  {
+   "id": "1-0046",
+   "hanzi": "吃",
+   "pinyin": "chī",
+   "pos": "động từ",
+   "meaning": "ăn",
+   "accept": [
+    "吃",
+    "chī",
+    "chi"
+   ]
+  },
+  {
+   "id": "1-0047",
+   "hanzi": "吃饭",
+   "pinyin": "chīfàn",
+   "pos": "cụm từ",
+   "meaning": "ăn cơm",
+   "accept": [
+    "吃饭",
+    "chīfàn",
+    "chifan"
+   ]
+  },
+  {
+   "id": "1-0048",
+   "hanzi": "出",
+   "pinyin": "chū",
+   "pos": "động từ",
+   "meaning": "ra, xuất",
+   "accept": [
+    "出",
+    "chū",
+    "chu"
+   ]
+  },
+  {
+   "id": "1-0049",
+   "hanzi": "出来",
+   "pinyin": "chūlái",
+   "pos": "cụm từ",
+   "meaning": "đi ra, ra đây",
+   "accept": [
+    "出来",
+    "chūlái",
+    "chūlai",
+    "chulai"
+   ]
+  },
+  {
+   "id": "1-0050",
+   "hanzi": "出去",
+   "pinyin": "chūqù",
+   "pos": "cụm từ",
+   "meaning": "ra ngoài",
+   "accept": [
+    "出去",
+    "chūqù",
+    "chūqu",
+    "chuqu"
+   ]
+  },
+  {
+   "id": "1-0051",
+   "hanzi": "穿",
+   "pinyin": "chuān",
+   "pos": "động từ",
+   "meaning": "mặc, mang, đi (giày)",
+   "accept": [
+    "穿",
+    "chuān",
+    "chuan"
+   ]
+  },
+  {
+   "id": "1-0052",
+   "hanzi": "床",
+   "pinyin": "chuáng",
+   "pos": "danh từ",
+   "meaning": "giường",
+   "accept": [
+    "床",
+    "chuáng",
+    "chuang"
+   ]
+  },
+  {
+   "id": "1-0053",
+   "hanzi": "次",
+   "pinyin": "cì",
+   "pos": "lượng từ",
+   "meaning": "lần (lượng từ)",
+   "accept": [
+    "次",
+    "cì",
+    "ci"
+   ]
+  },
+  {
+   "id": "1-0054",
+   "hanzi": "从",
+   "pinyin": "cóng",
+   "pos": "giới từ",
+   "meaning": "từ (từ đâu, từ khi)",
+   "accept": [
+    "从",
+    "cóng",
+    "cong"
+   ]
+  },
+  {
+   "id": "1-0055",
+   "hanzi": "错",
+   "pinyin": "cuò",
+   "pos": "tính từ, danh từ",
+   "meaning": "sai, nhầm; lỗi sai",
+   "accept": [
+    "错",
+    "cuò",
+    "cuo"
+   ]
+  },
+  {
+   "id": "1-0056",
+   "hanzi": "打",
+   "pinyin": "dǎ",
+   "pos": "động từ",
+   "meaning": "đánh, gõ",
+   "accept": [
+    "打",
+    "dǎ",
+    "da"
+   ]
+  },
+  {
+   "id": "1-0057",
+   "hanzi": "打车",
+   "pinyin": "dǎchē",
+   "pos": "cụm từ",
+   "meaning": "bắt taxi, gọi xe",
+   "accept": [
+    "打车",
+    "dǎchē",
+    "dache"
+   ]
+  },
+  {
+   "id": "1-0058",
+   "hanzi": "打电话",
+   "pinyin": "dǎ diànhuà",
+   "pos": "cụm từ",
+   "meaning": "gọi điện thoại",
+   "accept": [
+    "打电话",
+    "dǎ diànhuà",
+    "da dianhua"
+   ]
+  },
+  {
+   "id": "1-0059",
+   "hanzi": "打开",
+   "pinyin": "dǎkāi",
+   "pos": "cụm từ",
+   "meaning": "mở ra",
+   "accept": [
+    "打开",
+    "dǎkāi",
+    "dakai"
+   ]
+  },
+  {
+   "id": "1-0060",
+   "hanzi": "打球",
+   "pinyin": "dǎ qiú",
+   "pos": "cụm từ",
+   "meaning": "chơi bóng, đánh bóng",
+   "accept": [
+    "打球",
+    "dǎ qiú",
+    "da qiu"
+   ]
+  },
+  {
+   "id": "1-0061",
+   "hanzi": "大",
+   "pinyin": "dà",
+   "pos": "tính từ",
+   "meaning": "lớn, to",
+   "accept": [
+    "大",
+    "dà",
+    "da"
+   ]
+  },
+  {
+   "id": "1-0062",
+   "hanzi": "大学",
+   "pinyin": "dàxué",
+   "pos": "danh từ",
+   "meaning": "đại học",
+   "accept": [
+    "大学",
+    "dàxué",
+    "daxue"
+   ]
+  },
+  {
+   "id": "1-0063",
+   "hanzi": "大学生",
+   "pinyin": "dàxuéshēng",
+   "pos": "danh từ",
+   "meaning": "sinh viên",
+   "accept": [
+    "大学生",
+    "dàxuéshēng",
+    "daxuesheng"
+   ]
+  },
+  {
+   "id": "1-0064",
+   "hanzi": "到",
+   "pinyin": "dào",
+   "pos": "động từ",
+   "meaning": "đến",
+   "accept": [
+    "到",
+    "dào",
+    "dao"
+   ]
+  },
+  {
+   "id": "1-0065",
+   "hanzi": "得到",
+   "pinyin": "dédào",
+   "pos": "cụm từ",
+   "meaning": "đạt được, nhận được",
+   "accept": [
+    "得到",
+    "dédào",
+    "dedao"
+   ]
+  },
+  {
+   "id": "1-0066",
+   "hanzi": "地",
+   "pinyin": "de",
+   "pos": "trợ từ",
+   "meaning": "trợ từ 地 (một cách... - đứng trước động từ)",
+   "accept": [
+    "地",
+    "de"
+   ]
+  },
+  {
+   "id": "1-0067",
+   "hanzi": "的",
+   "pinyin": "de",
+   "pos": "trợ từ",
+   "meaning": "của (trợ từ kết cấu 的)",
+   "accept": [
+    "的",
+    "de"
+   ]
+  },
+  {
+   "id": "1-0068",
+   "hanzi": "等",
+   "pinyin": "děng",
+   "pos": "động từ",
+   "meaning": "đợi, chờ",
+   "accept": [
+    "等",
+    "děng",
+    "deng"
+   ]
+  },
+  {
+   "id": "1-0069",
+   "hanzi": "地",
+   "pinyin": "dì",
+   "pos": "danh từ",
+   "meaning": "đất, mặt đất (danh từ 1 chữ)",
+   "accept": [
+    "地",
+    "dì",
+    "di"
+   ]
+  },
+  {
+   "id": "1-0070",
+   "hanzi": "地点",
+   "pinyin": "dìdiǎn",
+   "pos": "danh từ",
+   "meaning": "địa điểm",
+   "accept": [
+    "地点",
+    "dìdiǎn",
+    "didian"
+   ]
+  },
+  {
+   "id": "1-0071",
+   "hanzi": "地方",
+   "pinyin": "dìfang",
+   "pos": "danh từ",
+   "meaning": "nơi, chỗ",
+   "accept": [
+    "地方",
+    "dìfang",
+    "difang"
+   ]
+  },
+  {
+   "id": "1-0072",
+   "hanzi": "地上",
+   "pinyin": "dìshang",
+   "pos": "cụm từ",
+   "meaning": "trên mặt đất, dưới đất",
+   "accept": [
+    "地上",
+    "dìshang",
+    "dishang"
+   ]
+  },
+  {
+   "id": "1-0073",
+   "hanzi": "地图",
+   "pinyin": "dìtú",
+   "pos": "danh từ",
+   "meaning": "bản đồ",
+   "accept": [
+    "地图",
+    "dìtú",
+    "ditu"
+   ]
+  },
+  {
+   "id": "1-0074",
+   "hanzi": "弟弟",
+   "pinyin": "dìdi",
+   "pos": "danh từ",
+   "meaning": "em trai",
+   "accept": [
+    "弟弟",
+    "dìdi",
+    "弟",
+    "dì",
+    "didi",
+    "di"
+   ]
+  },
+  {
+   "id": "1-0075",
+   "hanzi": "第",
+   "pinyin": "dì",
+   "pos": "tiền tố",
+   "meaning": "thứ (chỉ thứ tự, VD: 第二)",
+   "accept": [
+    "第",
+    "dì",
+    "di"
+   ]
+  },
+  {
+   "id": "1-0076",
+   "hanzi": "点",
+   "pinyin": "diǎn",
+   "pos": "lượng từ, động từ, danh từ",
+   "meaning": "giờ (đồng hồ); điểm, chấm; gọi (món)",
+   "accept": [
+    "点",
+    "diǎn",
+    "dian"
+   ]
+  },
+  {
+   "id": "1-0077",
+   "hanzi": "电",
+   "pinyin": "diàn",
+   "pos": "danh từ",
+   "meaning": "điện",
+   "accept": [
+    "电",
+    "diàn",
+    "dian"
+   ]
+  },
+  {
+   "id": "1-0078",
+   "hanzi": "电话",
+   "pinyin": "diànhuà",
+   "pos": "danh từ",
+   "meaning": "điện thoại, cuộc gọi",
+   "accept": [
+    "电话",
+    "diànhuà",
+    "dianhua"
+   ]
+  },
+  {
+   "id": "1-0079",
+   "hanzi": "电脑",
+   "pinyin": "diànnǎo",
+   "pos": "danh từ",
+   "meaning": "máy tính",
+   "accept": [
+    "电脑",
+    "diànnǎo",
+    "计算机",
+    "jìsuànjī",
+    "diannao",
+    "jisuanji"
+   ]
+  },
+  {
+   "id": "1-0080",
+   "hanzi": "电视",
+   "pinyin": "diànshì",
+   "pos": "danh từ",
+   "meaning": "ti vi, truyền hình",
+   "accept": [
+    "电视",
+    "diànshì",
+    "电视机",
+    "diànshìjī",
+    "dianshi",
+    "dianshiji"
+   ]
+  },
+  {
+   "id": "1-0081",
+   "hanzi": "电视机",
+   "pinyin": "diànshìjī",
+   "pos": "danh từ",
+   "meaning": "máy thu hình, máy ti vi",
+   "accept": [
+    "电视机",
+    "diànshìjī",
+    "电视",
+    "diànshì",
+    "dianshiji",
+    "dianshi"
+   ]
+  },
+  {
+   "id": "1-0082",
+   "hanzi": "电影",
+   "pinyin": "diànyǐng",
+   "pos": "danh từ",
+   "meaning": "phim, điện ảnh",
+   "accept": [
+    "电影",
+    "diànyǐng",
+    "dianying"
+   ]
+  },
+  {
+   "id": "1-0083",
+   "hanzi": "电影院",
+   "pinyin": "diànyǐngyuàn",
+   "pos": "danh từ",
+   "meaning": "rạp chiếu phim",
+   "accept": [
+    "电影院",
+    "diànyǐngyuàn",
+    "dianyingyuan"
+   ]
+  },
+  {
+   "id": "1-0084",
+   "hanzi": "东",
+   "pinyin": "dōng",
+   "pos": "danh từ",
+   "meaning": "đông (hướng đông)",
+   "accept": [
+    "东",
+    "dōng",
+    "东方",
+    "dōngfāng",
+    "dong",
+    "dongfang"
+   ]
+  },
+  {
+   "id": "1-0085",
+   "hanzi": "东边",
+   "pinyin": "dōngbian",
+   "pos": "danh từ",
+   "meaning": "phía đông",
+   "accept": [
+    "东边",
+    "dōngbian",
+    "东面",
+    "dōngmiàn",
+    "dongbian",
+    "dongmian"
+   ]
+  },
+  {
+   "id": "1-0086",
+   "hanzi": "东西",
+   "pinyin": "dōngxi",
+   "pos": "danh từ",
+   "meaning": "đồ vật, đồ đạc",
+   "accept": [
+    "东西",
+    "dōngxi",
+    "dongxi"
+   ]
+  },
+  {
+   "id": "1-0087",
+   "hanzi": "动",
+   "pinyin": "dòng",
+   "pos": "động từ",
+   "meaning": "động, chuyển động",
+   "accept": [
+    "动",
+    "dòng",
+    "dong"
+   ]
+  },
+  {
+   "id": "1-0088",
+   "hanzi": "动作",
+   "pinyin": "dòngzuò",
+   "pos": "danh từ",
+   "meaning": "động tác",
+   "accept": [
+    "动作",
+    "dòngzuò",
+    "dongzuo"
+   ]
+  },
+  {
+   "id": "1-0089",
+   "hanzi": "都",
+   "pinyin": "dōu",
+   "pos": "phó từ",
+   "meaning": "đều",
+   "accept": [
+    "都",
+    "dōu",
+    "dou"
+   ]
+  },
+  {
+   "id": "1-0090",
+   "hanzi": "读",
+   "pinyin": "dú",
+   "pos": "động từ",
+   "meaning": "đọc",
+   "accept": [
+    "读",
+    "dú",
+    "du"
+   ]
+  },
+  {
+   "id": "1-0091",
+   "hanzi": "读书",
+   "pinyin": "dúshū",
+   "pos": "cụm từ",
+   "meaning": "đọc sách; đi học",
+   "accept": [
+    "读书",
+    "dúshū",
+    "dushu"
+   ]
+  },
+  {
+   "id": "1-0092",
+   "hanzi": "对",
+   "pinyin": "duì",
+   "pos": "tính từ",
+   "meaning": "đúng",
+   "accept": [
+    "对",
+    "duì",
+    "dui"
+   ]
+  },
+  {
+   "id": "1-0093",
+   "hanzi": "对不起",
+   "pinyin": "duìbuqǐ",
+   "pos": "động từ",
+   "meaning": "xin lỗi",
+   "accept": [
+    "对不起",
+    "duìbuqǐ",
+    "抱歉",
+    "bàoqiàn",
+    "不好意思",
+    "bùhǎoyìsi",
+    "duibuqi",
+    "baoqian",
+    "buhaoyisi"
+   ]
+  },
+  {
+   "id": "1-0094",
+   "hanzi": "多",
+   "pinyin": "duō",
+   "pos": "tính từ, đại từ",
+   "meaning": "nhiều",
+   "accept": [
+    "多",
+    "duō",
+    "duo"
+   ]
+  },
+  {
+   "id": "1-0095",
+   "hanzi": "多少",
+   "pinyin": "duōshao",
+   "pos": "đại từ",
+   "meaning": "bao nhiêu (số lượng bất kỳ)",
+   "accept": [
+    "多少",
+    "duōshao",
+    "duoshao"
+   ]
+  },
+  {
+   "id": "1-0096",
+   "hanzi": "饿",
+   "pinyin": "è",
+   "pos": "tính từ",
+   "meaning": "đói",
+   "accept": [
+    "饿",
+    "è",
+    "e"
+   ]
+  },
+  {
+   "id": "1-0097",
+   "hanzi": "儿子",
+   "pinyin": "érzi",
+   "pos": "danh từ",
+   "meaning": "con trai (của bố mẹ)",
+   "accept": [
+    "儿子",
+    "érzi",
+    "erzi"
+   ]
+  },
+  {
+   "id": "1-0098",
+   "hanzi": "二",
+   "pinyin": "èr",
+   "pos": "số từ",
+   "meaning": "số 2 (hai)",
+   "accept": [
+    "二",
+    "èr",
+    "2",
+    "er"
+   ]
+  },
+  {
+   "id": "1-0099",
+   "hanzi": "饭",
+   "pinyin": "fàn",
+   "pos": "danh từ",
+   "meaning": "cơm, bữa ăn",
+   "accept": [
+    "饭",
+    "fàn",
+    "fan"
+   ]
+  },
+  {
+   "id": "1-0100",
+   "hanzi": "饭店",
+   "pinyin": "fàndiàn",
+   "pos": "danh từ",
+   "meaning": "nhà hàng, khách sạn",
+   "accept": [
+    "饭店",
+    "fàndiàn",
+    "餐厅",
+    "cāntīng",
+    "饭馆",
+    "fànguǎn",
+    "饭馆儿",
+    "fànguǎnr",
+    "fandian",
+    "canting",
+    "fanguan",
+    "fanguanr"
+   ]
+  },
+  {
+   "id": "1-0101",
+   "hanzi": "房间",
+   "pinyin": "fángjiān",
+   "pos": "danh từ",
+   "meaning": "căn phòng",
+   "accept": [
+    "房间",
+    "fángjiān",
+    "fangjian"
+   ]
+  },
+  {
+   "id": "1-0102",
+   "hanzi": "房子",
+   "pinyin": "fángzi",
+   "pos": "danh từ",
+   "meaning": "ngôi nhà",
+   "accept": [
+    "房子",
+    "fángzi",
+    "fangzi"
+   ]
+  },
+  {
+   "id": "1-0103",
+   "hanzi": "放",
+   "pinyin": "fàng",
+   "pos": "động từ",
+   "meaning": "để, đặt, cất",
+   "accept": [
+    "放",
+    "fàng",
+    "fang"
+   ]
+  },
+  {
+   "id": "1-0104",
+   "hanzi": "放假",
+   "pinyin": "fàngjià",
+   "pos": "cụm từ",
+   "meaning": "nghỉ lễ, được nghỉ",
+   "accept": [
+    "放假",
+    "fàngjià",
+    "fangjia"
+   ]
+  },
+  {
+   "id": "1-0105",
+   "hanzi": "放学",
+   "pinyin": "fàngxué",
+   "pos": "cụm từ",
+   "meaning": "tan học (tan trường)",
+   "accept": [
+    "放学",
+    "fàngxué",
+    "fangxue"
+   ]
+  },
+  {
+   "id": "1-0106",
+   "hanzi": "飞",
+   "pinyin": "fēi",
+   "pos": "động từ",
+   "meaning": "bay",
+   "accept": [
+    "飞",
+    "fēi",
+    "fei"
+   ]
+  },
+  {
+   "id": "1-0107",
+   "hanzi": "飞机",
+   "pinyin": "fēijī",
+   "pos": "danh từ",
+   "meaning": "máy bay",
+   "accept": [
+    "飞机",
+    "fēijī",
+    "feiji"
+   ]
+  },
+  {
+   "id": "1-0108",
+   "hanzi": "非常",
+   "pinyin": "fēicháng",
+   "pos": "phó từ",
+   "meaning": "vô cùng, cực kỳ",
+   "accept": [
+    "非常",
+    "fēicháng",
+    "feichang"
+   ]
+  },
+  {
+   "id": "1-0109",
+   "hanzi": "分",
+   "pinyin": "fēn",
+   "pos": "danh từ, lượng từ",
+   "meaning": "phút; điểm; xu; phần",
+   "accept": [
+    "分",
+    "fēn",
+    "fen"
+   ]
+  },
+  {
+   "id": "1-0110",
+   "hanzi": "风",
+   "pinyin": "fēng",
+   "pos": "danh từ",
+   "meaning": "gió",
+   "accept": [
+    "风",
+    "fēng",
+    "feng"
+   ]
+  },
+  {
+   "id": "1-0111",
+   "hanzi": "干",
+   "pinyin": "gān",
+   "pos": "tính từ",
+   "meaning": "khô, cạn",
+   "accept": [
+    "干",
+    "gān",
+    "gan"
+   ]
+  },
+  {
+   "id": "1-0112",
+   "hanzi": "干净",
+   "pinyin": "gānjìng",
+   "pos": "tính từ",
+   "meaning": "sạch sẽ",
+   "accept": [
+    "干净",
+    "gānjìng",
+    "ganjing"
+   ]
+  },
+  {
+   "id": "1-0113",
+   "hanzi": "干",
+   "pinyin": "gàn",
+   "pos": "động từ",
+   "meaning": "làm (việc)",
+   "accept": [
+    "干",
+    "gàn",
+    "做",
+    "zuò",
+    "gan",
+    "zuo"
+   ]
+  },
+  {
+   "id": "1-0114",
+   "hanzi": "干什么",
+   "pinyin": "gàn shénme",
+   "pos": "cụm từ",
+   "meaning": "làm gì",
+   "accept": [
+    "干什么",
+    "gàn shénme",
+    "做什么",
+    "zuò shénme",
+    "gan shenme",
+    "zuo shenme"
+   ]
+  },
+  {
+   "id": "1-0115",
+   "hanzi": "高",
+   "pinyin": "gāo",
+   "pos": "tính từ",
+   "meaning": "cao",
+   "accept": [
+    "高",
+    "gāo",
+    "gao"
+   ]
+  },
+  {
+   "id": "1-0116",
+   "hanzi": "高兴",
+   "pinyin": "gāoxìng",
+   "pos": "tính từ",
+   "meaning": "vui vẻ",
+   "accept": [
+    "高兴",
+    "gāoxìng",
+    "开心",
+    "kāixīn",
+    "gaoxing",
+    "kaixin"
+   ]
+  },
+  {
+   "id": "1-0117",
+   "hanzi": "告诉",
+   "pinyin": "gàosu",
+   "pos": "động từ",
+   "meaning": "nói cho biết, bảo",
+   "accept": [
+    "告诉",
+    "gàosu",
+    "gaosu"
+   ]
+  },
+  {
+   "id": "1-0118",
+   "hanzi": "哥哥",
+   "pinyin": "gēge",
+   "pos": "danh từ",
+   "meaning": "anh trai",
+   "accept": [
+    "哥哥",
+    "gēge",
+    "哥",
+    "gē",
+    "gege",
+    "ge"
+   ]
+  },
+  {
+   "id": "1-0119",
+   "hanzi": "歌",
+   "pinyin": "gē",
+   "pos": "danh từ",
+   "meaning": "bài hát",
+   "accept": [
+    "歌",
+    "gē",
+    "歌曲",
+    "gēqǔ",
+    "ge",
+    "gequ"
+   ]
+  },
+  {
+   "id": "1-0120",
+   "hanzi": "个",
+   "pinyin": "gè",
+   "pos": "lượng từ",
+   "meaning": "cái, chiếc (lượng từ chung)",
+   "accept": [
+    "个",
+    "gè",
+    "ge"
+   ]
+  },
+  {
+   "id": "1-0121",
+   "hanzi": "给",
+   "pinyin": "gěi",
+   "pos": "động từ, giới từ",
+   "meaning": "cho, đưa cho",
+   "accept": [
+    "给",
+    "gěi",
+    "gei"
+   ]
+  },
+  {
+   "id": "1-0122",
+   "hanzi": "跟",
+   "pinyin": "gēn",
+   "pos": "giới từ, liên từ, động từ",
+   "meaning": "với, cùng; theo",
+   "accept": [
+    "跟",
+    "gēn",
+    "gen"
+   ]
+  },
+  {
+   "id": "1-0123",
+   "hanzi": "工人",
+   "pinyin": "gōngrén",
+   "pos": "danh từ",
+   "meaning": "công nhân",
+   "accept": [
+    "工人",
+    "gōngrén",
+    "gongren"
+   ]
+  },
+  {
+   "id": "1-0124",
+   "hanzi": "工作",
+   "pinyin": "gōngzuò",
+   "pos": "động từ, danh từ",
+   "meaning": "làm việc; công việc",
+   "accept": [
+    "工作",
+    "gōngzuò",
+    "gongzuo"
+   ]
+  },
+  {
+   "id": "1-0125",
+   "hanzi": "关",
+   "pinyin": "guān",
+   "pos": "động từ",
+   "meaning": "đóng, tắt",
+   "accept": [
+    "关",
+    "guān",
+    "guan"
+   ]
+  },
+  {
+   "id": "1-0126",
+   "hanzi": "关上",
+   "pinyin": "guānshang",
+   "pos": "cụm từ",
+   "meaning": "đóng lại",
+   "accept": [
+    "关上",
+    "guānshang",
+    "guanshang"
+   ]
+  },
+  {
+   "id": "1-0127",
+   "hanzi": "贵",
+   "pinyin": "guì",
+   "pos": "tính từ",
+   "meaning": "đắt",
+   "accept": [
+    "贵",
+    "guì",
+    "gui"
+   ]
+  },
+  {
+   "id": "1-0128",
+   "hanzi": "国",
+   "pinyin": "guó",
+   "pos": "danh từ",
+   "meaning": "nước, quốc gia (1 chữ)",
+   "accept": [
+    "国",
+    "guó",
+    "guo"
+   ]
+  },
+  {
+   "id": "1-0129",
+   "hanzi": "国家",
+   "pinyin": "guójiā",
+   "pos": "danh từ",
+   "meaning": "đất nước, quốc gia",
+   "accept": [
+    "国家",
+    "guójiā",
+    "国",
+    "guó",
+    "guojia",
+    "guo"
+   ]
+  },
+  {
+   "id": "1-0130",
+   "hanzi": "国外",
+   "pinyin": "guó wài",
+   "pos": "cụm từ",
+   "meaning": "nước ngoài (ở ngoài nước)",
+   "accept": [
+    "国外",
+    "guó wài",
+    "外国",
+    "wàiguó",
+    "guo wai",
+    "waiguo"
+   ]
+  },
+  {
+   "id": "1-0131",
+   "hanzi": "过",
+   "pinyin": "guò",
+   "pos": "động từ",
+   "meaning": "qua, vượt qua",
+   "accept": [
+    "过",
+    "guò",
+    "guo"
+   ]
+  },
+  {
+   "id": "1-0132",
+   "hanzi": "还",
+   "pinyin": "hái",
+   "pos": "phó từ",
+   "meaning": "còn, vẫn",
+   "accept": [
+    "还",
+    "hái",
+    "hai"
+   ]
+  },
+  {
+   "id": "1-0133",
+   "hanzi": "还是",
+   "pinyin": "háishi",
+   "pos": "phó từ, liên từ",
+   "meaning": "hay là (câu hỏi lựa chọn); vẫn",
+   "accept": [
+    "还是",
+    "háishi",
+    "haishi"
+   ]
+  },
+  {
+   "id": "1-0134",
+   "hanzi": "还有",
+   "pinyin": "hái yǒu",
+   "pos": "cụm từ",
+   "meaning": "còn có",
+   "accept": [
+    "还有",
+    "hái yǒu",
+    "hai you"
+   ]
+  },
+  {
+   "id": "1-0135",
+   "hanzi": "孩子",
+   "pinyin": "háizi",
+   "pos": "danh từ",
+   "meaning": "đứa trẻ, con cái",
+   "accept": [
+    "孩子",
+    "háizi",
+    "小孩",
+    "xiǎohái",
+    "小孩儿",
+    "xiǎoháir",
+    "haizi",
+    "xiaohai",
+    "xiaohair"
+   ]
+  },
+  {
+   "id": "1-0136",
+   "hanzi": "汉语",
+   "pinyin": "Hànyǔ",
+   "pos": "danh từ",
+   "meaning": "tiếng Hán",
+   "accept": [
+    "汉语",
+    "Hànyǔ",
+    "中文",
+    "Zhōngwén",
+    "Hanyu",
+    "Zhongwen"
+   ]
+  },
+  {
+   "id": "1-0137",
+   "hanzi": "汉字",
+   "pinyin": "Hànzì",
+   "pos": "danh từ",
+   "meaning": "chữ Hán",
+   "accept": [
+    "汉字",
+    "Hànzì",
+    "Hanzi"
+   ]
+  },
+  {
+   "id": "1-0138",
+   "hanzi": "好",
+   "pinyin": "hǎo",
+   "pos": "tính từ",
+   "meaning": "tốt, hay",
+   "accept": [
+    "好",
+    "hǎo",
+    "hao"
+   ]
+  },
+  {
+   "id": "1-0139",
+   "hanzi": "好吃",
+   "pinyin": "hǎochī",
+   "pos": "tính từ",
+   "meaning": "ngon",
+   "accept": [
+    "好吃",
+    "hǎochī",
+    "haochi"
+   ]
+  },
+  {
+   "id": "1-0140",
+   "hanzi": "好看",
+   "pinyin": "hǎokàn",
+   "pos": "tính từ",
+   "meaning": "đẹp, xem hay",
+   "accept": [
+    "好看",
+    "hǎokàn",
+    "漂亮",
+    "piàoliang",
+    "haokan",
+    "piaoliang"
+   ]
+  },
+  {
+   "id": "1-0141",
+   "hanzi": "好听",
+   "pinyin": "hǎotīng",
+   "pos": "tính từ",
+   "meaning": "hay, dễ nghe",
+   "accept": [
+    "好听",
+    "hǎotīng",
+    "haoting"
+   ]
+  },
+  {
+   "id": "1-0142",
+   "hanzi": "好玩儿",
+   "pinyin": "hǎowánr",
+   "pos": "tính từ",
+   "meaning": "vui, thú vị (chơi vui)",
+   "accept": [
+    "好玩儿",
+    "hǎowánr",
+    "好玩",
+    "hǎowán",
+    "haowanr",
+    "haowan"
+   ]
+  },
+  {
+   "id": "1-0143",
+   "hanzi": "号",
+   "pinyin": "hào",
+   "pos": "danh từ, lượng từ",
+   "meaning": "số; ngày (trong tháng)",
+   "accept": [
+    "号",
+    "hào",
+    "hao"
+   ]
+  },
+  {
+   "id": "1-0144",
+   "hanzi": "喝",
+   "pinyin": "hē",
+   "pos": "động từ",
+   "meaning": "uống",
+   "accept": [
+    "喝",
+    "hē",
+    "he"
+   ]
+  },
+  {
+   "id": "1-0145",
+   "hanzi": "和",
+   "pinyin": "hé",
+   "pos": "giới từ, liên từ",
+   "meaning": "và, với",
+   "accept": [
+    "和",
+    "hé",
+    "he"
+   ]
+  },
+  {
+   "id": "1-0146",
+   "hanzi": "很",
+   "pinyin": "hěn",
+   "pos": "phó từ",
+   "meaning": "rất",
+   "accept": [
+    "很",
+    "hěn",
+    "hen"
+   ]
+  },
+  {
+   "id": "1-0147",
+   "hanzi": "后",
+   "pinyin": "hòu",
+   "pos": "danh từ",
+   "meaning": "sau, phía sau (1 chữ)",
+   "accept": [
+    "后",
+    "hòu",
+    "hou"
+   ]
+  },
+  {
+   "id": "1-0148",
+   "hanzi": "后边",
+   "pinyin": "hòubian",
+   "pos": "danh từ",
+   "meaning": "phía sau, đằng sau",
+   "accept": [
+    "后边",
+    "hòubian",
+    "后面",
+    "hòumiàn",
+    "houbian",
+    "houmian"
+   ]
+  },
+  {
+   "id": "1-0149",
+   "hanzi": "后天",
+   "pinyin": "hòutiān",
+   "pos": "danh từ",
+   "meaning": "ngày kia",
+   "accept": [
+    "后天",
+    "hòutiān",
+    "houtian"
+   ]
+  },
+  {
+   "id": "1-0150",
+   "hanzi": "花",
+   "pinyin": "huā",
+   "pos": "danh từ",
+   "meaning": "hoa",
+   "accept": [
+    "花",
+    "huā",
+    "hua"
+   ]
+  },
+  {
+   "id": "1-0151",
+   "hanzi": "话",
+   "pinyin": "huà",
+   "pos": "danh từ",
+   "meaning": "lời nói",
+   "accept": [
+    "话",
+    "huà",
+    "hua"
+   ]
+  },
+  {
+   "id": "1-0152",
+   "hanzi": "坏",
+   "pinyin": "huài",
+   "pos": "tính từ",
+   "meaning": "hỏng, xấu",
+   "accept": [
+    "坏",
+    "huài",
+    "huai"
+   ]
+  },
+  {
+   "id": "1-0153",
+   "hanzi": "还",
+   "pinyin": "huán",
+   "pos": "động từ",
+   "meaning": "trả lại",
+   "accept": [
+    "还",
+    "huán",
+    "huan"
+   ]
+  },
+  {
+   "id": "1-0154",
+   "hanzi": "回",
+   "pinyin": "huí",
+   "pos": "động từ",
+   "meaning": "về, quay về",
+   "accept": [
+    "回",
+    "huí",
+    "hui"
+   ]
+  },
+  {
+   "id": "1-0155",
+   "hanzi": "回答",
+   "pinyin": "huídá",
+   "pos": "động từ, danh từ",
+   "meaning": "trả lời; câu trả lời",
+   "accept": [
+    "回答",
+    "huídá",
+    "huida"
+   ]
+  },
+  {
+   "id": "1-0156",
+   "hanzi": "回到",
+   "pinyin": "huídào",
+   "pos": "động từ",
+   "meaning": "trở về (đến nơi)",
+   "accept": [
+    "回到",
+    "huídào",
+    "huidao"
+   ]
+  },
+  {
+   "id": "1-0157",
+   "hanzi": "回家",
+   "pinyin": "huí jiā",
+   "pos": "cụm từ",
+   "meaning": "về nhà",
+   "accept": [
+    "回家",
+    "huí jiā",
+    "hui jia"
+   ]
+  },
+  {
+   "id": "1-0158",
+   "hanzi": "回来",
+   "pinyin": "huílái",
+   "pos": "cụm từ",
+   "meaning": "quay về (về phía người nói)",
+   "accept": [
+    "回来",
+    "huílái",
+    "huílai",
+    "huilai"
+   ]
+  },
+  {
+   "id": "1-0159",
+   "hanzi": "回去",
+   "pinyin": "huíqù",
+   "pos": "cụm từ",
+   "meaning": "quay về (rời chỗ người nói)",
+   "accept": [
+    "回去",
+    "huíqù",
+    "huíqu",
+    "huiqu"
+   ]
+  },
+  {
+   "id": "1-0160",
+   "hanzi": "会",
+   "pinyin": "huì",
+   "pos": "động từ",
+   "meaning": "biết (làm gì), có thể",
+   "accept": [
+    "会",
+    "huì",
+    "hui"
+   ]
+  },
+  {
+   "id": "1-0161",
+   "hanzi": "火车",
+   "pinyin": "huǒchē",
+   "pos": "danh từ",
+   "meaning": "tàu hỏa",
+   "accept": [
+    "火车",
+    "huǒchē",
+    "huoche"
+   ]
+  },
+  {
+   "id": "1-0162",
+   "hanzi": "机场",
+   "pinyin": "jīchǎng",
+   "pos": "danh từ",
+   "meaning": "sân bay",
+   "accept": [
+    "机场",
+    "jīchǎng",
+    "jichang"
+   ]
+  },
+  {
+   "id": "1-0163",
+   "hanzi": "机票",
+   "pinyin": "jīpiào",
+   "pos": "danh từ",
+   "meaning": "vé máy bay",
+   "accept": [
+    "机票",
+    "jīpiào",
+    "jipiao"
+   ]
+  },
+  {
+   "id": "1-0164",
+   "hanzi": "鸡蛋",
+   "pinyin": "jīdàn",
+   "pos": "danh từ",
+   "meaning": "trứng gà",
+   "accept": [
+    "鸡蛋",
+    "jīdàn",
+    "jidan"
+   ]
+  },
+  {
+   "id": "1-0165",
+   "hanzi": "几",
+   "pinyin": "jǐ",
+   "pos": "số từ, đại từ",
+   "meaning": "mấy (số nhỏ hơn 10)",
+   "accept": [
+    "几",
+    "jǐ",
+    "ji"
+   ]
+  },
+  {
+   "id": "1-0166",
+   "hanzi": "记",
+   "pinyin": "jì",
+   "pos": "động từ",
+   "meaning": "ghi nhớ, ghi chép",
+   "accept": [
+    "记",
+    "jì",
+    "ji"
+   ]
+  },
+  {
+   "id": "1-0167",
+   "hanzi": "记得",
+   "pinyin": "jìde",
+   "pos": "động từ",
+   "meaning": "còn nhớ",
+   "accept": [
+    "记得",
+    "jìde",
+    "jide"
+   ]
+  },
+  {
+   "id": "1-0168",
+   "hanzi": "记住",
+   "pinyin": "jìzhù",
+   "pos": "cụm từ",
+   "meaning": "nhớ kỹ",
+   "accept": [
+    "记住",
+    "jìzhù",
+    "jizhu"
+   ]
+  },
+  {
+   "id": "1-0169",
+   "hanzi": "家",
+   "pinyin": "jiā",
+   "pos": "danh từ, lượng từ",
+   "meaning": "nhà, gia đình",
+   "accept": [
+    "家",
+    "jiā",
+    "jia"
+   ]
+  },
+  {
+   "id": "1-0170",
+   "hanzi": "家里",
+   "pinyin": "jiā li",
+   "pos": "cụm từ",
+   "meaning": "trong nhà",
+   "accept": [
+    "家里",
+    "jiā li",
+    "jia li"
+   ]
+  },
+  {
+   "id": "1-0171",
+   "hanzi": "家人",
+   "pinyin": "jiārén",
+   "pos": "danh từ",
+   "meaning": "người nhà",
+   "accept": [
+    "家人",
+    "jiārén",
+    "jiaren"
+   ]
+  },
+  {
+   "id": "1-0172",
+   "hanzi": "间",
+   "pinyin": "jiān",
+   "pos": "lượng từ",
+   "meaning": "gian, căn (lượng từ cho phòng)",
+   "accept": [
+    "间",
+    "jiān",
+    "jian"
+   ]
+  },
+  {
+   "id": "1-0173",
+   "hanzi": "见",
+   "pinyin": "jiàn",
+   "pos": "động từ",
+   "meaning": "gặp, thấy",
+   "accept": [
+    "见",
+    "jiàn",
+    "jian"
+   ]
+  },
+  {
+   "id": "1-0174",
+   "hanzi": "见面",
+   "pinyin": "jiànmiàn",
+   "pos": "cụm từ",
+   "meaning": "gặp mặt",
+   "accept": [
+    "见面",
+    "jiànmiàn",
+    "jianmian"
+   ]
+  },
+  {
+   "id": "1-0175",
+   "hanzi": "教",
+   "pinyin": "jiāo",
+   "pos": "động từ",
+   "meaning": "dạy",
+   "accept": [
+    "教",
+    "jiāo",
+    "jiao"
+   ]
+  },
+  {
+   "id": "1-0176",
+   "hanzi": "叫",
+   "pinyin": "jiào",
+   "pos": "động từ",
+   "meaning": "gọi, tên là",
+   "accept": [
+    "叫",
+    "jiào",
+    "jiao"
+   ]
+  },
+  {
+   "id": "1-0177",
+   "hanzi": "教学楼",
+   "pinyin": "jiàoxuélóu",
+   "pos": "danh từ",
+   "meaning": "tòa nhà giảng dạy",
+   "accept": [
+    "教学楼",
+    "jiàoxuélóu",
+    "jiaoxuelou"
+   ]
+  },
+  {
+   "id": "1-0178",
+   "hanzi": "姐姐",
+   "pinyin": "jiějie",
+   "pos": "danh từ",
+   "meaning": "chị gái",
+   "accept": [
+    "姐姐",
+    "jiějie",
+    "姐",
+    "jiě",
+    "jiejie",
+    "jie"
+   ]
+  },
+  {
+   "id": "1-0179",
+   "hanzi": "介绍",
+   "pinyin": "jièshào",
+   "pos": "động từ",
+   "meaning": "giới thiệu",
+   "accept": [
+    "介绍",
+    "jièshào",
+    "jieshao"
+   ]
+  },
+  {
+   "id": "1-0180",
+   "hanzi": "今年",
+   "pinyin": "jīnnián",
+   "pos": "danh từ",
+   "meaning": "năm nay",
+   "accept": [
+    "今年",
+    "jīnnián",
+    "jinnian"
+   ]
+  },
+  {
+   "id": "1-0181",
+   "hanzi": "今天",
+   "pinyin": "jīntiān",
+   "pos": "danh từ",
+   "meaning": "hôm nay",
+   "accept": [
+    "今天",
+    "jīntiān",
+    "jintian"
+   ]
+  },
+  {
+   "id": "1-0182",
+   "hanzi": "进",
+   "pinyin": "jìn",
+   "pos": "động từ",
+   "meaning": "vào",
+   "accept": [
+    "进",
+    "jìn",
+    "jin"
+   ]
+  },
+  {
+   "id": "1-0183",
+   "hanzi": "进来",
+   "pinyin": "jìnlái",
+   "pos": "cụm từ",
+   "meaning": "đi vào (vào trong đây)",
+   "accept": [
+    "进来",
+    "jìnlái",
+    "jìnlai",
+    "jinlai"
+   ]
+  },
+  {
+   "id": "1-0184",
+   "hanzi": "进去",
+   "pinyin": "jìnqù",
+   "pos": "cụm từ",
+   "meaning": "đi vào (vào trong đó)",
+   "accept": [
+    "进去",
+    "jìnqù",
+    "jìnqu",
+    "jinqu"
+   ]
+  },
+  {
+   "id": "1-0185",
+   "hanzi": "九",
+   "pinyin": "jiǔ",
+   "pos": "số từ",
+   "meaning": "số 9 (chín)",
+   "accept": [
+    "九",
+    "jiǔ",
+    "9",
+    "jiu"
+   ]
+  },
+  {
+   "id": "1-0186",
+   "hanzi": "就",
+   "pinyin": "jiù",
+   "pos": "phó từ",
+   "meaning": "thì, liền, ngay",
+   "accept": [
+    "就",
+    "jiù",
+    "jiu"
+   ]
+  },
+  {
+   "id": "1-0187",
+   "hanzi": "觉得",
+   "pinyin": "juéde",
+   "pos": "động từ",
+   "meaning": "cảm thấy",
+   "accept": [
+    "觉得",
+    "juéde",
+    "juede"
+   ]
+  },
+  {
+   "id": "1-0188",
+   "hanzi": "开",
+   "pinyin": "kāi",
+   "pos": "động từ",
+   "meaning": "mở, bật",
+   "accept": [
+    "开",
+    "kāi",
+    "kai"
+   ]
+  },
+  {
+   "id": "1-0189",
+   "hanzi": "开车",
+   "pinyin": "kāichē",
+   "pos": "cụm từ",
+   "meaning": "lái xe",
+   "accept": [
+    "开车",
+    "kāichē",
+    "kaiche"
+   ]
+  },
+  {
+   "id": "1-0190",
+   "hanzi": "开会",
+   "pinyin": "kāihuì",
+   "pos": "cụm từ",
+   "meaning": "họp",
+   "accept": [
+    "开会",
+    "kāihuì",
+    "kaihui"
+   ]
+  },
+  {
+   "id": "1-0191",
+   "hanzi": "开玩笑",
+   "pinyin": "kāi wánxiào",
+   "pos": "cụm từ",
+   "meaning": "nói đùa",
+   "accept": [
+    "开玩笑",
+    "kāi wánxiào",
+    "kai wanxiao"
+   ]
+  },
+  {
+   "id": "1-0192",
+   "hanzi": "看",
+   "pinyin": "kàn",
+   "pos": "động từ",
+   "meaning": "xem, nhìn",
+   "accept": [
+    "看",
+    "kàn",
+    "kan"
+   ]
+  },
+  {
+   "id": "1-0193",
+   "hanzi": "看病",
+   "pinyin": "kànbìng",
+   "pos": "cụm từ",
+   "meaning": "khám bệnh",
+   "accept": [
+    "看病",
+    "kànbìng",
+    "kanbing"
+   ]
+  },
+  {
+   "id": "1-0194",
+   "hanzi": "看到",
+   "pinyin": "kàndào",
+   "pos": "cụm từ",
+   "meaning": "nhìn thấy",
+   "accept": [
+    "看到",
+    "kàndào",
+    "看见",
+    "kànjiàn",
+    "kandao",
+    "kanjian"
+   ]
+  },
+  {
+   "id": "1-0195",
+   "hanzi": "看见",
+   "pinyin": "kànjiàn",
+   "pos": "cụm từ",
+   "meaning": "trông thấy",
+   "accept": [
+    "看见",
+    "kànjiàn",
+    "看到",
+    "kàndào",
+    "kanjian",
+    "kandao"
+   ]
+  },
+  {
+   "id": "1-0196",
+   "hanzi": "考",
+   "pinyin": "kǎo",
+   "pos": "động từ",
+   "meaning": "thi",
+   "accept": [
+    "考",
+    "kǎo",
+    "kao"
+   ]
+  },
+  {
+   "id": "1-0197",
+   "hanzi": "考试",
+   "pinyin": "kǎoshì",
+   "pos": "cụm từ",
+   "meaning": "kỳ thi, thi cử",
+   "accept": [
+    "考试",
+    "kǎoshì",
+    "kaoshi"
+   ]
+  },
+  {
+   "id": "1-0198",
+   "hanzi": "渴",
+   "pinyin": "kě",
+   "pos": "tính từ",
+   "meaning": "khát",
+   "accept": [
+    "渴",
+    "kě",
+    "ke"
+   ]
+  },
+  {
+   "id": "1-0199",
+   "hanzi": "课",
+   "pinyin": "kè",
+   "pos": "danh từ",
+   "meaning": "tiết học, bài học",
+   "accept": [
+    "课",
+    "kè",
+    "ke"
+   ]
+  },
+  {
+   "id": "1-0200",
+   "hanzi": "课本",
+   "pinyin": "kèběn",
+   "pos": "danh từ",
+   "meaning": "sách giáo khoa",
+   "accept": [
+    "课本",
+    "kèběn",
+    "keben"
+   ]
+  },
+  {
+   "id": "1-0201",
+   "hanzi": "课文",
+   "pinyin": "kèwén",
+   "pos": "danh từ",
+   "meaning": "bài khóa",
+   "accept": [
+    "课文",
+    "kèwén",
+    "kewen"
+   ]
+  },
+  {
+   "id": "1-0202",
+   "hanzi": "口",
+   "pinyin": "kǒu",
+   "pos": "lượng từ, danh từ",
+   "meaning": "miệng; khẩu (lượng từ người trong nhà)",
+   "accept": [
+    "口",
+    "kǒu",
+    "kou"
+   ]
+  },
+  {
+   "id": "1-0203",
+   "hanzi": "块",
+   "pinyin": "kuài",
+   "pos": "danh từ, lượng từ",
+   "meaning": "miếng, cục; đồng (tiền)",
+   "accept": [
+    "块",
+    "kuài",
+    "元",
+    "yuán",
+    "kuai",
+    "yuan"
+   ]
+  },
+  {
+   "id": "1-0204",
+   "hanzi": "快",
+   "pinyin": "kuài",
+   "pos": "tính từ, phó từ",
+   "meaning": "nhanh; sắp",
+   "accept": [
+    "快",
+    "kuài",
+    "kuai"
+   ]
+  },
+  {
+   "id": "1-0205",
+   "hanzi": "来",
+   "pinyin": "lái",
+   "pos": "động từ",
+   "meaning": "đến, tới",
+   "accept": [
+    "来",
+    "lái",
+    "lai"
+   ]
+  },
+  {
+   "id": "1-0206",
+   "hanzi": "来到",
+   "pinyin": "láidào",
+   "pos": "động từ",
+   "meaning": "đi đến (nơi nào đó)",
+   "accept": [
+    "来到",
+    "láidào",
+    "laidao"
+   ]
+  },
+  {
+   "id": "1-0207",
+   "hanzi": "老",
+   "pinyin": "lǎo",
+   "pos": "tính từ",
+   "meaning": "già, cũ",
+   "accept": [
+    "老",
+    "lǎo",
+    "lao"
+   ]
+  },
+  {
+   "id": "1-0208",
+   "hanzi": "老人",
+   "pinyin": "lǎorén",
+   "pos": "danh từ",
+   "meaning": "người già",
+   "accept": [
+    "老人",
+    "lǎorén",
+    "laoren"
+   ]
+  },
+  {
+   "id": "1-0209",
+   "hanzi": "老师",
+   "pinyin": "lǎoshī",
+   "pos": "danh từ",
+   "meaning": "giáo viên",
+   "accept": [
+    "老师",
+    "lǎoshī",
+    "教师",
+    "jiàoshī",
+    "laoshi",
+    "jiaoshi"
+   ]
+  },
+  {
+   "id": "1-0210",
+   "hanzi": "了",
+   "pinyin": "le",
+   "pos": "trợ từ",
+   "meaning": "rồi, đã",
+   "accept": [
+    "了",
+    "le"
+   ]
+  },
+  {
+   "id": "1-0211",
+   "hanzi": "累",
+   "pinyin": "lèi",
+   "pos": "tính từ",
+   "meaning": "mệt",
+   "accept": [
+    "累",
+    "lèi",
+    "lei"
+   ]
+  },
+  {
+   "id": "1-0212",
+   "hanzi": "冷",
+   "pinyin": "lěng",
+   "pos": "tính từ",
+   "meaning": "lạnh",
+   "accept": [
+    "冷",
+    "lěng",
+    "leng"
+   ]
+  },
+  {
+   "id": "1-0213",
+   "hanzi": "里",
+   "pinyin": "lǐ",
+   "pos": "danh từ",
+   "meaning": "trong (1 chữ)",
+   "accept": [
+    "里",
+    "lǐ",
+    "li"
+   ]
+  },
+  {
+   "id": "1-0214",
+   "hanzi": "里边",
+   "pinyin": "lǐbian",
+   "pos": "danh từ",
+   "meaning": "bên trong",
+   "accept": [
+    "里边",
+    "lǐbian",
+    "里面",
+    "lǐmiàn",
+    "libian",
+    "limian"
+   ]
+  },
+  {
+   "id": "1-0215",
+   "hanzi": "两",
+   "pinyin": "liǎng",
+   "pos": "số từ",
+   "meaning": "hai (chỉ số lượng)",
+   "accept": [
+    "两",
+    "liǎng",
+    "2",
+    "liang"
+   ]
+  },
+  {
+   "id": "1-0216",
+   "hanzi": "零",
+   "pinyin": "líng",
+   "pos": "số từ",
+   "meaning": "số 0 (không)",
+   "accept": [
+    "零",
+    "líng",
+    "〇",
+    "0",
+    "ling"
+   ]
+  },
+  {
+   "id": "1-0217",
+   "hanzi": "六",
+   "pinyin": "liù",
+   "pos": "số từ",
+   "meaning": "số 6 (sáu)",
+   "accept": [
+    "六",
+    "liù",
+    "6",
+    "liu"
+   ]
+  },
+  {
+   "id": "1-0218",
+   "hanzi": "楼",
+   "pinyin": "lóu",
+   "pos": "danh từ",
+   "meaning": "tòa nhà, tầng lầu",
+   "accept": [
+    "楼",
+    "lóu",
+    "lou"
+   ]
+  },
+  {
+   "id": "1-0219",
+   "hanzi": "楼上",
+   "pinyin": "lóu shàng",
+   "pos": "cụm từ",
+   "meaning": "tầng trên",
+   "accept": [
+    "楼上",
+    "lóu shàng",
+    "lou shang"
+   ]
+  },
+  {
+   "id": "1-0220",
+   "hanzi": "楼下",
+   "pinyin": "lóu xià",
+   "pos": "cụm từ",
+   "meaning": "tầng dưới",
+   "accept": [
+    "楼下",
+    "lóu xià",
+    "lou xia"
+   ]
+  },
+  {
+   "id": "1-0221",
+   "hanzi": "路",
+   "pinyin": "lù",
+   "pos": "danh từ, lượng từ",
+   "meaning": "đường; tuyến (xe buýt)",
+   "accept": [
+    "路",
+    "lù",
+    "lu"
+   ]
+  },
+  {
+   "id": "1-0222",
+   "hanzi": "路口",
+   "pinyin": "lùkǒu",
+   "pos": "danh từ",
+   "meaning": "ngã tư, giao lộ",
+   "accept": [
+    "路口",
+    "lùkǒu",
+    "lukou"
+   ]
+  },
+  {
+   "id": "1-0223",
+   "hanzi": "路上",
+   "pinyin": "lùshang",
+   "pos": "danh từ",
+   "meaning": "trên đường",
+   "accept": [
+    "路上",
+    "lùshang",
+    "lushang"
+   ]
+  },
+  {
+   "id": "1-0224",
+   "hanzi": "妈妈",
+   "pinyin": "māma",
+   "pos": "danh từ",
+   "meaning": "mẹ",
+   "accept": [
+    "妈妈",
+    "māma",
+    "妈",
+    "mā",
+    "母亲",
+    "mǔqīn",
+    "老妈",
+    "lǎomā",
+    "mama",
+    "ma",
+    "muqin",
+    "laoma"
+   ]
+  },
+  {
+   "id": "1-0225",
+   "hanzi": "马路",
+   "pinyin": "mǎlù",
+   "pos": "danh từ",
+   "meaning": "đường cái",
+   "accept": [
+    "马路",
+    "mǎlù",
+    "malu"
+   ]
+  },
+  {
+   "id": "1-0226",
+   "hanzi": "马上",
+   "pinyin": "mǎshàng",
+   "pos": "phó từ",
+   "meaning": "ngay lập tức",
+   "accept": [
+    "马上",
+    "mǎshàng",
+    "立刻",
+    "lìkè",
+    "mashang",
+    "like"
+   ]
+  },
+  {
+   "id": "1-0227",
+   "hanzi": "吗",
+   "pinyin": "ma",
+   "pos": "trợ từ",
+   "meaning": "không? (trợ từ nghi vấn cuối câu)",
+   "accept": [
+    "吗",
+    "ma"
+   ]
+  },
+  {
+   "id": "1-0228",
+   "hanzi": "买",
+   "pinyin": "mǎi",
+   "pos": "động từ",
+   "meaning": "mua",
+   "accept": [
+    "买",
+    "mǎi",
+    "mai"
+   ]
+  },
+  {
+   "id": "1-0229",
+   "hanzi": "慢",
+   "pinyin": "màn",
+   "pos": "tính từ",
+   "meaning": "chậm",
+   "accept": [
+    "慢",
+    "màn",
+    "man"
+   ]
+  },
+  {
+   "id": "1-0230",
+   "hanzi": "忙",
+   "pinyin": "máng",
+   "pos": "tính từ",
+   "meaning": "bận",
+   "accept": [
+    "忙",
+    "máng",
+    "mang"
+   ]
+  },
+  {
+   "id": "1-0231",
+   "hanzi": "毛",
+   "pinyin": "máo",
+   "pos": "lượng từ",
+   "meaning": "hào (1/10 đồng)",
+   "accept": [
+    "毛",
+    "máo",
+    "角",
+    "jiǎo",
+    "mao",
+    "jiao"
+   ]
+  },
+  {
+   "id": "1-0232",
+   "hanzi": "没",
+   "pinyin": "méi",
+   "pos": "phó từ, động từ",
+   "meaning": "không, chưa (1 chữ)",
+   "accept": [
+    "没",
+    "méi",
+    "没有",
+    "méiyǒu",
+    "mei",
+    "meiyou"
+   ]
+  },
+  {
+   "id": "1-0233",
+   "hanzi": "没关系",
+   "pinyin": "méi guānxi",
+   "pos": "cụm từ",
+   "meaning": "không sao đâu (đáp lời xin lỗi)",
+   "accept": [
+    "没关系",
+    "méi guānxi",
+    "没事",
+    "méishì",
+    "没事儿",
+    "méishìr",
+    "没什么",
+    "méishénme",
+    "mei guanxi",
+    "meishi",
+    "meishir",
+    "meishenme"
+   ]
+  },
+  {
+   "id": "1-0234",
+   "hanzi": "没什么",
+   "pinyin": "méi shénme",
+   "pos": "cụm từ",
+   "meaning": "không có gì, không hề gì",
+   "accept": [
+    "没什么",
+    "méi shénme",
+    "没关系",
+    "méiguānxi",
+    "没事",
+    "méishì",
+    "没事儿",
+    "méishìr",
+    "mei shenme",
+    "meiguanxi",
+    "meishi",
+    "meishir"
+   ]
+  },
+  {
+   "id": "1-0235",
+   "hanzi": "没事儿",
+   "pinyin": "méishìr",
+   "pos": "cụm từ",
+   "meaning": "không sao (không có việc gì)",
+   "accept": [
+    "没事儿",
+    "méishìr",
+    "没事",
+    "méishì",
+    "没关系",
+    "méiguānxi",
+    "没什么",
+    "méishénme",
+    "meishir",
+    "meishi",
+    "meiguanxi",
+    "meishenme"
+   ]
+  },
+  {
+   "id": "1-0236",
+   "hanzi": "没有",
+   "pinyin": "méiyǒu",
+   "pos": "động từ, phó từ",
+   "meaning": "không có; chưa",
+   "accept": [
+    "没有",
+    "méiyǒu",
+    "没",
+    "méi",
+    "meiyou",
+    "mei"
+   ]
+  },
+  {
+   "id": "1-0237",
+   "hanzi": "妹妹",
+   "pinyin": "mèimei",
+   "pos": "danh từ",
+   "meaning": "em gái",
+   "accept": [
+    "妹妹",
+    "mèimei",
+    "妹",
+    "mèi",
+    "meimei",
+    "mei"
+   ]
+  },
+  {
+   "id": "1-0238",
+   "hanzi": "门",
+   "pinyin": "mén",
+   "pos": "danh từ, lượng từ",
+   "meaning": "cửa; môn (học)",
+   "accept": [
+    "门",
+    "mén",
+    "men"
+   ]
+  },
+  {
+   "id": "1-0239",
+   "hanzi": "门口",
+   "pinyin": "ménkǒu",
+   "pos": "danh từ",
+   "meaning": "cửa ra vào, cổng",
+   "accept": [
+    "门口",
+    "ménkǒu",
+    "menkou"
+   ]
+  },
+  {
+   "id": "1-0240",
+   "hanzi": "门票",
+   "pinyin": "ménpiào",
+   "pos": "danh từ",
+   "meaning": "vé vào cửa",
+   "accept": [
+    "门票",
+    "ménpiào",
+    "menpiao"
+   ]
+  },
+  {
+   "id": "1-0241",
+   "hanzi": "们",
+   "pinyin": "men",
+   "pos": "hậu tố",
+   "meaning": "các, chúng (hậu tố số nhiều, VD: 朋友们)",
+   "accept": [
+    "们",
+    "men"
+   ]
+  },
+  {
+   "id": "1-0242",
+   "hanzi": "米饭",
+   "pinyin": "mǐfàn",
+   "pos": "danh từ",
+   "meaning": "cơm (gạo)",
+   "accept": [
+    "米饭",
+    "mǐfàn",
+    "饭",
+    "fàn",
+    "mifan",
+    "fan"
+   ]
+  },
+  {
+   "id": "1-0243",
+   "hanzi": "面包",
+   "pinyin": "miànbāo",
+   "pos": "danh từ",
+   "meaning": "bánh mì",
+   "accept": [
+    "面包",
+    "miànbāo",
+    "mianbao"
+   ]
+  },
+  {
+   "id": "1-0244",
+   "hanzi": "面条儿",
+   "pinyin": "miàntiáor",
+   "pos": "danh từ",
+   "meaning": "mì sợi",
+   "accept": [
+    "面条儿",
+    "miàntiáor",
+    "面条",
+    "miàntiáo",
+    "miantiaor",
+    "miantiao"
+   ]
+  },
+  {
+   "id": "1-0245",
+   "hanzi": "名字",
+   "pinyin": "míngzi",
+   "pos": "danh từ",
+   "meaning": "tên",
+   "accept": [
+    "名字",
+    "míngzi",
+    "mingzi"
+   ]
+  },
+  {
+   "id": "1-0246",
+   "hanzi": "明白",
+   "pinyin": "míngbai",
+   "pos": "tính từ, động từ",
+   "meaning": "hiểu, rõ ràng",
+   "accept": [
+    "明白",
+    "míngbai",
+    "mingbai"
+   ]
+  },
+  {
+   "id": "1-0247",
+   "hanzi": "明年",
+   "pinyin": "míngnián",
+   "pos": "danh từ",
+   "meaning": "năm sau",
+   "accept": [
+    "明年",
+    "míngnián",
+    "mingnian"
+   ]
+  },
+  {
+   "id": "1-0248",
+   "hanzi": "明天",
+   "pinyin": "míngtiān",
+   "pos": "danh từ",
+   "meaning": "ngày mai",
+   "accept": [
+    "明天",
+    "míngtiān",
+    "mingtian"
+   ]
+  },
+  {
+   "id": "1-0249",
+   "hanzi": "拿",
+   "pinyin": "ná",
+   "pos": "động từ",
+   "meaning": "cầm, lấy",
+   "accept": [
+    "拿",
+    "ná",
+    "na"
+   ]
+  },
+  {
+   "id": "1-0250",
+   "hanzi": "哪",
+   "pinyin": "nǎ",
+   "pos": "đại từ",
+   "meaning": "nào",
+   "accept": [
+    "哪",
+    "nǎ",
+    "na"
+   ]
+  },
+  {
+   "id": "1-0251",
+   "hanzi": "哪里",
+   "pinyin": "nǎlǐ",
+   "pos": "đại từ",
+   "meaning": "ở đâu",
+   "accept": [
+    "哪里",
+    "nǎlǐ",
+    "哪儿",
+    "nǎr",
+    "nǎli",
+    "nali",
+    "nar"
+   ]
+  },
+  {
+   "id": "1-0252",
+   "hanzi": "哪儿",
+   "pinyin": "nǎr",
+   "pos": "đại từ",
+   "meaning": "đâu, chỗ nào",
+   "accept": [
+    "哪儿",
+    "nǎr",
+    "哪里",
+    "nǎlǐ",
+    "nǎli",
+    "nar",
+    "nali"
+   ]
+  },
+  {
+   "id": "1-0253",
+   "hanzi": "哪些",
+   "pinyin": "nǎxiē",
+   "pos": "đại từ",
+   "meaning": "những cái nào",
+   "accept": [
+    "哪些",
+    "nǎxiē",
+    "naxie"
+   ]
+  },
+  {
+   "id": "1-0254",
+   "hanzi": "那",
+   "pinyin": "nà",
+   "pos": "đại từ",
+   "meaning": "kia, đó",
+   "accept": [
+    "那",
+    "nà",
+    "na"
+   ]
+  },
+  {
+   "id": "1-0255",
+   "hanzi": "那边",
+   "pinyin": "nàbiān",
+   "pos": "đại từ",
+   "meaning": "bên kia, bên đó",
+   "accept": [
+    "那边",
+    "nàbiān",
+    "nabian"
+   ]
+  },
+  {
+   "id": "1-0256",
+   "hanzi": "那里",
+   "pinyin": "nàlǐ",
+   "pos": "đại từ",
+   "meaning": "ở đó",
+   "accept": [
+    "那里",
+    "nàlǐ",
+    "那儿",
+    "nàr",
+    "nàli",
+    "nali",
+    "nar"
+   ]
+  },
+  {
+   "id": "1-0257",
+   "hanzi": "那儿",
+   "pinyin": "nàr",
+   "pos": "đại từ",
+   "meaning": "chỗ kia, ở kia",
+   "accept": [
+    "那儿",
+    "nàr",
+    "那里",
+    "nàlǐ",
+    "nàli",
+    "nar",
+    "nali"
+   ]
+  },
+  {
+   "id": "1-0258",
+   "hanzi": "那些",
+   "pinyin": "nàxiē",
+   "pos": "đại từ",
+   "meaning": "những ... đó",
+   "accept": [
+    "那些",
+    "nàxiē",
+    "naxie"
+   ]
+  },
+  {
+   "id": "1-0259",
+   "hanzi": "奶",
+   "pinyin": "nǎi",
+   "pos": "danh từ",
+   "meaning": "sữa (1 chữ)",
+   "accept": [
+    "奶",
+    "nǎi",
+    "牛奶",
+    "niúnǎi",
+    "nai",
+    "niunai"
+   ]
+  },
+  {
+   "id": "1-0260",
+   "hanzi": "奶奶",
+   "pinyin": "nǎinai",
+   "pos": "danh từ",
+   "meaning": "bà nội",
+   "accept": [
+    "奶奶",
+    "nǎinai",
+    "祖母",
+    "zǔmǔ",
+    "nainai",
+    "zumu"
+   ]
+  },
+  {
+   "id": "1-0261",
+   "hanzi": "男",
+   "pinyin": "nán",
+   "pos": "tính từ",
+   "meaning": "nam (giới tính)",
+   "accept": [
+    "男",
+    "nán",
+    "nan"
+   ]
+  },
+  {
+   "id": "1-0262",
+   "hanzi": "男孩儿",
+   "pinyin": "nánháir",
+   "pos": "danh từ",
+   "meaning": "bé trai",
+   "accept": [
+    "男孩儿",
+    "nánháir",
+    "男孩",
+    "nánhái",
+    "男孩子",
+    "nánháizi",
+    "nanhair",
+    "nanhai",
+    "nanhaizi"
+   ]
+  },
+  {
+   "id": "1-0263",
+   "hanzi": "男朋友",
+   "pinyin": "nánpéngyou",
+   "pos": "danh từ",
+   "meaning": "bạn trai",
+   "accept": [
+    "男朋友",
+    "nánpéngyou",
+    "nanpengyou"
+   ]
+  },
+  {
+   "id": "1-0264",
+   "hanzi": "男人",
+   "pinyin": "nánrén",
+   "pos": "danh từ",
+   "meaning": "đàn ông",
+   "accept": [
+    "男人",
+    "nánrén",
+    "男的",
+    "nánde",
+    "nanren",
+    "nande"
+   ]
+  },
+  {
+   "id": "1-0265",
+   "hanzi": "男生",
+   "pinyin": "nánshēng",
+   "pos": "danh từ",
+   "meaning": "học sinh nam",
+   "accept": [
+    "男生",
+    "nánshēng",
+    "nansheng"
+   ]
+  },
+  {
+   "id": "1-0266",
+   "hanzi": "南",
+   "pinyin": "nán",
+   "pos": "danh từ",
+   "meaning": "nam (hướng nam)",
+   "accept": [
+    "南",
+    "nán",
+    "南方",
+    "nánfāng",
+    "nan",
+    "nanfang"
+   ]
+  },
+  {
+   "id": "1-0267",
+   "hanzi": "南边",
+   "pinyin": "nánbian",
+   "pos": "danh từ",
+   "meaning": "phía nam",
+   "accept": [
+    "南边",
+    "nánbian",
+    "南面",
+    "nánmiàn",
+    "nanbian",
+    "nanmian"
+   ]
+  },
+  {
+   "id": "1-0268",
+   "hanzi": "难",
+   "pinyin": "nán",
+   "pos": "tính từ",
+   "meaning": "khó",
+   "accept": [
+    "难",
+    "nán",
+    "nan"
+   ]
+  },
+  {
+   "id": "1-0269",
+   "hanzi": "呢",
+   "pinyin": "ne",
+   "pos": "trợ từ",
+   "meaning": "thì sao? còn...? (trợ từ)",
+   "accept": [
+    "呢",
+    "ne"
+   ]
+  },
+  {
+   "id": "1-0270",
+   "hanzi": "能",
+   "pinyin": "néng",
+   "pos": "động từ",
+   "meaning": "có thể (năng lực/điều kiện)",
+   "accept": [
+    "能",
+    "néng",
+    "neng"
+   ]
+  },
+  {
+   "id": "1-0271",
+   "hanzi": "你",
+   "pinyin": "nǐ",
+   "pos": "đại từ",
+   "meaning": "bạn (ngôi thứ 2)",
+   "accept": [
+    "你",
+    "nǐ",
+    "ni"
+   ]
+  },
+  {
+   "id": "1-0272",
+   "hanzi": "你们",
+   "pinyin": "nǐmen",
+   "pos": "đại từ",
+   "meaning": "các bạn",
+   "accept": [
+    "你们",
+    "nǐmen",
+    "nimen"
+   ]
+  },
+  {
+   "id": "1-0273",
+   "hanzi": "年",
+   "pinyin": "nián",
+   "pos": "lượng từ",
+   "meaning": "năm",
+   "accept": [
+    "年",
+    "nián",
+    "nian"
+   ]
+  },
+  {
+   "id": "1-0274",
+   "hanzi": "您",
+   "pinyin": "nín",
+   "pos": "đại từ",
+   "meaning": "ngài, ông/bà (kính trọng)",
+   "accept": [
+    "您",
+    "nín",
+    "nin"
+   ]
+  },
+  {
+   "id": "1-0275",
+   "hanzi": "牛奶",
+   "pinyin": "niúnǎi",
+   "pos": "danh từ",
+   "meaning": "sữa bò",
+   "accept": [
+    "牛奶",
+    "niúnǎi",
+    "奶",
+    "nǎi",
+    "niunai",
+    "nai"
+   ]
+  },
+  {
+   "id": "1-0276",
+   "hanzi": "女",
+   "pinyin": "nǚ",
+   "pos": "tính từ",
+   "meaning": "nữ (giới tính)",
+   "accept": [
+    "女",
+    "nǚ",
+    "nü",
+    "nu"
+   ]
+  },
+  {
+   "id": "1-0277",
+   "hanzi": "女儿",
+   "pinyin": "nǚ'ér",
+   "pos": "danh từ",
+   "meaning": "con gái (của bố mẹ)",
+   "accept": [
+    "女儿",
+    "nǚ'ér",
+    "nü'er",
+    "nu'er"
+   ]
+  },
+  {
+   "id": "1-0278",
+   "hanzi": "女孩儿",
+   "pinyin": "nǚháir",
+   "pos": "danh từ",
+   "meaning": "bé gái",
+   "accept": [
+    "女孩儿",
+    "nǚháir",
+    "女孩",
+    "nǚhái",
+    "女孩子",
+    "nǚháizi",
+    "nühair",
+    "nuhair",
+    "nühai",
+    "nuhai",
+    "nühaizi",
+    "nuhaizi"
+   ]
+  },
+  {
+   "id": "1-0279",
+   "hanzi": "女朋友",
+   "pinyin": "nǚpéngyou",
+   "pos": "danh từ",
+   "meaning": "bạn gái",
+   "accept": [
+    "女朋友",
+    "nǚpéngyou",
+    "nüpengyou",
+    "nupengyou"
+   ]
+  },
+  {
+   "id": "1-0280",
+   "hanzi": "女人",
+   "pinyin": "nǚrén",
+   "pos": "danh từ",
+   "meaning": "phụ nữ",
+   "accept": [
+    "女人",
+    "nǚrén",
+    "女的",
+    "nǚde",
+    "nüren",
+    "nuren",
+    "nüde",
+    "nude"
+   ]
+  },
+  {
+   "id": "1-0281",
+   "hanzi": "女生",
+   "pinyin": "nǚshēng",
+   "pos": "danh từ",
+   "meaning": "nữ sinh",
+   "accept": [
+    "女生",
+    "nǚshēng",
+    "nüsheng",
+    "nusheng"
+   ]
+  },
+  {
+   "id": "1-0282",
+   "hanzi": "旁边",
+   "pinyin": "pángbiān",
+   "pos": "danh từ",
+   "meaning": "bên cạnh",
+   "accept": [
+    "旁边",
+    "pángbiān",
+    "pangbian"
+   ]
+  },
+  {
+   "id": "1-0283",
+   "hanzi": "跑",
+   "pinyin": "pǎo",
+   "pos": "động từ",
+   "meaning": "chạy",
+   "accept": [
+    "跑",
+    "pǎo",
+    "pao"
+   ]
+  },
+  {
+   "id": "1-0284",
+   "hanzi": "朋友",
+   "pinyin": "péngyou",
+   "pos": "danh từ",
+   "meaning": "bạn bè",
+   "accept": [
+    "朋友",
+    "péngyou",
+    "pengyou"
+   ]
+  },
+  {
+   "id": "1-0285",
+   "hanzi": "票",
+   "pinyin": "piào",
+   "pos": "danh từ",
+   "meaning": "vé, phiếu",
+   "accept": [
+    "票",
+    "piào",
+    "piao"
+   ]
+  },
+  {
+   "id": "1-0286",
+   "hanzi": "七",
+   "pinyin": "qī",
+   "pos": "số từ",
+   "meaning": "số 7 (bảy)",
+   "accept": [
+    "七",
+    "qī",
+    "7",
+    "qi"
+   ]
+  },
+  {
+   "id": "1-0287",
+   "hanzi": "起",
+   "pinyin": "qǐ",
+   "pos": "động từ",
+   "meaning": "dậy, đứng lên",
+   "accept": [
+    "起",
+    "qǐ",
+    "qi"
+   ]
+  },
+  {
+   "id": "1-0288",
+   "hanzi": "起床",
+   "pinyin": "qǐchuáng",
+   "pos": "cụm từ",
+   "meaning": "thức dậy (rời giường)",
+   "accept": [
+    "起床",
+    "qǐchuáng",
+    "qichuang"
+   ]
+  },
+  {
+   "id": "1-0289",
+   "hanzi": "起来",
+   "pinyin": "qǐlái",
+   "pos": "cụm từ",
+   "meaning": "đứng dậy, ngồi dậy",
+   "accept": [
+    "起来",
+    "qǐlái",
+    "qǐlai",
+    "qilai"
+   ]
+  },
+  {
+   "id": "1-0290",
+   "hanzi": "汽车",
+   "pinyin": "qìchē",
+   "pos": "danh từ",
+   "meaning": "ô tô",
+   "accept": [
+    "汽车",
+    "qìchē",
+    "qiche"
+   ]
+  },
+  {
+   "id": "1-0291",
+   "hanzi": "前",
+   "pinyin": "qián",
+   "pos": "danh từ",
+   "meaning": "trước, phía trước (1 chữ)",
+   "accept": [
+    "前",
+    "qián",
+    "qian"
+   ]
+  },
+  {
+   "id": "1-0292",
+   "hanzi": "前边",
+   "pinyin": "qiánbian",
+   "pos": "danh từ",
+   "meaning": "đằng trước",
+   "accept": [
+    "前边",
+    "qiánbian",
+    "前面",
+    "qiánmiàn",
+    "qianbian",
+    "qianmian"
+   ]
+  },
+  {
+   "id": "1-0293",
+   "hanzi": "前天",
+   "pinyin": "qiántiān",
+   "pos": "danh từ",
+   "meaning": "hôm kia",
+   "accept": [
+    "前天",
+    "qiántiān",
+    "qiantian"
+   ]
+  },
+  {
+   "id": "1-0294",
+   "hanzi": "钱",
+   "pinyin": "qián",
+   "pos": "danh từ",
+   "meaning": "tiền",
+   "accept": [
+    "钱",
+    "qián",
+    "qian"
+   ]
+  },
+  {
+   "id": "1-0295",
+   "hanzi": "钱包",
+   "pinyin": "qiánbāo",
+   "pos": "danh từ",
+   "meaning": "ví tiền",
+   "accept": [
+    "钱包",
+    "qiánbāo",
+    "qianbao"
+   ]
+  },
+  {
+   "id": "1-0296",
+   "hanzi": "请",
+   "pinyin": "qǐng",
+   "pos": "động từ",
+   "meaning": "mời, xin",
+   "accept": [
+    "请",
+    "qǐng",
+    "qing"
+   ]
+  },
+  {
+   "id": "1-0297",
+   "hanzi": "请假",
+   "pinyin": "qǐngjià",
+   "pos": "cụm từ",
+   "meaning": "xin nghỉ phép",
+   "accept": [
+    "请假",
+    "qǐngjià",
+    "qingjia"
+   ]
+  },
+  {
+   "id": "1-0298",
+   "hanzi": "请进",
+   "pinyin": "qǐng jìn",
+   "pos": "cụm từ",
+   "meaning": "mời vào",
+   "accept": [
+    "请进",
+    "qǐng jìn",
+    "qing jin"
+   ]
+  },
+  {
+   "id": "1-0299",
+   "hanzi": "请问",
+   "pinyin": "qǐngwèn",
+   "pos": "động từ",
+   "meaning": "xin hỏi",
+   "accept": [
+    "请问",
+    "qǐngwèn",
+    "qingwen"
+   ]
+  },
+  {
+   "id": "1-0300",
+   "hanzi": "请坐",
+   "pinyin": "qǐng zuò",
+   "pos": "cụm từ",
+   "meaning": "mời ngồi",
+   "accept": [
+    "请坐",
+    "qǐng zuò",
+    "qing zuo"
+   ]
+  },
+  {
+   "id": "1-0301",
+   "hanzi": "球",
+   "pinyin": "qiú",
+   "pos": "danh từ",
+   "meaning": "quả bóng",
+   "accept": [
+    "球",
+    "qiú",
+    "qiu"
+   ]
+  },
+  {
+   "id": "1-0302",
+   "hanzi": "去",
+   "pinyin": "qù",
+   "pos": "động từ",
+   "meaning": "đi",
+   "accept": [
+    "去",
+    "qù",
+    "qu"
+   ]
+  },
+  {
+   "id": "1-0303",
+   "hanzi": "去年",
+   "pinyin": "qùnián",
+   "pos": "danh từ",
+   "meaning": "năm ngoái",
+   "accept": [
+    "去年",
+    "qùnián",
+    "qunian"
+   ]
+  },
+  {
+   "id": "1-0304",
+   "hanzi": "热",
+   "pinyin": "rè",
+   "pos": "tính từ, động từ",
+   "meaning": "nóng; hâm nóng",
+   "accept": [
+    "热",
+    "rè",
+    "re"
+   ]
+  },
+  {
+   "id": "1-0305",
+   "hanzi": "人",
+   "pinyin": "rén",
+   "pos": "danh từ",
+   "meaning": "người",
+   "accept": [
+    "人",
+    "rén",
+    "ren"
+   ]
+  },
+  {
+   "id": "1-0306",
+   "hanzi": "认识",
+   "pinyin": "rènshi",
+   "pos": "động từ, danh từ",
+   "meaning": "quen biết, nhận ra",
+   "accept": [
+    "认识",
+    "rènshi",
+    "renshi"
+   ]
+  },
+  {
+   "id": "1-0307",
+   "hanzi": "认真",
+   "pinyin": "rènzhēn",
+   "pos": "tính từ",
+   "meaning": "nghiêm túc, chăm chỉ",
+   "accept": [
+    "认真",
+    "rènzhēn",
+    "renzhen"
+   ]
+  },
+  {
+   "id": "1-0308",
+   "hanzi": "日",
+   "pinyin": "rì",
+   "pos": "danh từ",
+   "meaning": "ngày (日)",
+   "accept": [
+    "日",
+    "rì",
+    "天",
+    "tiān",
+    "号",
+    "hào",
+    "ri",
+    "tian",
+    "hao"
+   ]
+  },
+  {
+   "id": "1-0309",
+   "hanzi": "日期",
+   "pinyin": "rìqī",
+   "pos": "danh từ",
+   "meaning": "ngày tháng",
+   "accept": [
+    "日期",
+    "rìqī",
+    "riqi"
+   ]
+  },
+  {
+   "id": "1-0310",
+   "hanzi": "肉",
+   "pinyin": "ròu",
+   "pos": "danh từ",
+   "meaning": "thịt",
+   "accept": [
+    "肉",
+    "ròu",
+    "rou"
+   ]
+  },
+  {
+   "id": "1-0311",
+   "hanzi": "三",
+   "pinyin": "sān",
+   "pos": "số từ",
+   "meaning": "số 3 (ba)",
+   "accept": [
+    "三",
+    "sān",
+    "3",
+    "san"
+   ]
+  },
+  {
+   "id": "1-0312",
+   "hanzi": "山",
+   "pinyin": "shān",
+   "pos": "danh từ",
+   "meaning": "núi",
+   "accept": [
+    "山",
+    "shān",
+    "shan"
+   ]
+  },
+  {
+   "id": "1-0313",
+   "hanzi": "商场",
+   "pinyin": "shāngchǎng",
+   "pos": "danh từ",
+   "meaning": "trung tâm thương mại",
+   "accept": [
+    "商场",
+    "shāngchǎng",
+    "shangchang"
+   ]
+  },
+  {
+   "id": "1-0314",
+   "hanzi": "商店",
+   "pinyin": "shāngdiàn",
+   "pos": "danh từ",
+   "meaning": "cửa hàng",
+   "accept": [
+    "商店",
+    "shāngdiàn",
+    "shangdian"
+   ]
+  },
+  {
+   "id": "1-0315",
+   "hanzi": "上",
+   "pinyin": "shàng",
+   "pos": "danh từ, động từ",
+   "meaning": "trên; lên",
+   "accept": [
+    "上",
+    "shàng",
+    "shang"
+   ]
+  },
+  {
+   "id": "1-0316",
+   "hanzi": "上班",
+   "pinyin": "shàngbān",
+   "pos": "cụm từ",
+   "meaning": "đi làm",
+   "accept": [
+    "上班",
+    "shàngbān",
+    "shangban"
+   ]
+  },
+  {
+   "id": "1-0317",
+   "hanzi": "上边",
+   "pinyin": "shàngbian",
+   "pos": "danh từ",
+   "meaning": "phía trên",
+   "accept": [
+    "上边",
+    "shàngbian",
+    "上面",
+    "shàngmiàn",
+    "shangbian",
+    "shangmian"
+   ]
+  },
+  {
+   "id": "1-0318",
+   "hanzi": "上车",
+   "pinyin": "shàng chē",
+   "pos": "cụm từ",
+   "meaning": "lên xe",
+   "accept": [
+    "上车",
+    "shàng chē",
+    "shang che"
+   ]
+  },
+  {
+   "id": "1-0319",
+   "hanzi": "上次",
+   "pinyin": "shàng cì",
+   "pos": "cụm từ",
+   "meaning": "lần trước",
+   "accept": [
+    "上次",
+    "shàng cì",
+    "shang ci"
+   ]
+  },
+  {
+   "id": "1-0320",
+   "hanzi": "上课",
+   "pinyin": "shàngkè",
+   "pos": "cụm từ",
+   "meaning": "lên lớp, vào học",
+   "accept": [
+    "上课",
+    "shàngkè",
+    "shangke"
+   ]
+  },
+  {
+   "id": "1-0321",
+   "hanzi": "上网",
+   "pinyin": "shàngwǎng",
+   "pos": "cụm từ",
+   "meaning": "lên mạng",
+   "accept": [
+    "上网",
+    "shàngwǎng",
+    "shangwang"
+   ]
+  },
+  {
+   "id": "1-0322",
+   "hanzi": "上午",
+   "pinyin": "shàngwǔ",
+   "pos": "danh từ",
+   "meaning": "buổi sáng (trước trưa)",
+   "accept": [
+    "上午",
+    "shàngwǔ",
+    "早上",
+    "zǎoshang",
+    "shangwu",
+    "zaoshang"
+   ]
+  },
+  {
+   "id": "1-0323",
+   "hanzi": "上学",
+   "pinyin": "shàngxué",
+   "pos": "cụm từ",
+   "meaning": "đi học, đến trường",
+   "accept": [
+    "上学",
+    "shàngxué",
+    "shangxue"
+   ]
+  },
+  {
+   "id": "1-0324",
+   "hanzi": "少",
+   "pinyin": "shǎo",
+   "pos": "tính từ, động từ",
+   "meaning": "ít; thiếu",
+   "accept": [
+    "少",
+    "shǎo",
+    "shao"
+   ]
+  },
+  {
+   "id": "1-0325",
+   "hanzi": "谁",
+   "pinyin": "shéi",
+   "pos": "đại từ",
+   "meaning": "ai",
+   "accept": [
+    "谁",
+    "shéi",
+    "shuí",
+    "shei",
+    "shui"
+   ]
+  },
+  {
+   "id": "1-0326",
+   "hanzi": "身上",
+   "pinyin": "shēnshang",
+   "pos": "danh từ",
+   "meaning": "trên người",
+   "accept": [
+    "身上",
+    "shēnshang",
+    "shenshang"
+   ]
+  },
+  {
+   "id": "1-0327",
+   "hanzi": "身体",
+   "pinyin": "shēntǐ",
+   "pos": "danh từ",
+   "meaning": "cơ thể, sức khỏe",
+   "accept": [
+    "身体",
+    "shēntǐ",
+    "shenti"
+   ]
+  },
+  {
+   "id": "1-0328",
+   "hanzi": "什么",
+   "pinyin": "shénme",
+   "pos": "đại từ",
+   "meaning": "cái gì",
+   "accept": [
+    "什么",
+    "shénme",
+    "shenme"
+   ]
+  },
+  {
+   "id": "1-0329",
+   "hanzi": "生病",
+   "pinyin": "shēngbìng",
+   "pos": "cụm từ",
+   "meaning": "bị bệnh, ốm",
+   "accept": [
+    "生病",
+    "shēngbìng",
+    "shengbing"
+   ]
+  },
+  {
+   "id": "1-0330",
+   "hanzi": "生气",
+   "pinyin": "shēngqì",
+   "pos": "cụm từ",
+   "meaning": "tức giận",
+   "accept": [
+    "生气",
+    "shēngqì",
+    "shengqi"
+   ]
+  },
+  {
+   "id": "1-0331",
+   "hanzi": "生日",
+   "pinyin": "shēngrì",
+   "pos": "danh từ",
+   "meaning": "sinh nhật",
+   "accept": [
+    "生日",
+    "shēngrì",
+    "shengri"
+   ]
+  },
+  {
+   "id": "1-0332",
+   "hanzi": "十",
+   "pinyin": "shí",
+   "pos": "số từ",
+   "meaning": "số 10 (mười)",
+   "accept": [
+    "十",
+    "shí",
+    "10",
+    "shi"
+   ]
+  },
+  {
+   "id": "1-0333",
+   "hanzi": "时候",
+   "pinyin": "shíhou",
+   "pos": "danh từ",
+   "meaning": "lúc, khi",
+   "accept": [
+    "时候",
+    "shíhou",
+    "shihou"
+   ]
+  },
+  {
+   "id": "1-0334",
+   "hanzi": "时间",
+   "pinyin": "shíjiān",
+   "pos": "danh từ",
+   "meaning": "thời gian",
+   "accept": [
+    "时间",
+    "shíjiān",
+    "shijian"
+   ]
+  },
+  {
+   "id": "1-0335",
+   "hanzi": "事",
+   "pinyin": "shì",
+   "pos": "danh từ",
+   "meaning": "việc, chuyện",
+   "accept": [
+    "事",
+    "shì",
+    "事情",
+    "shìqing",
+    "shi",
+    "shiqing"
+   ]
+  },
+  {
+   "id": "1-0336",
+   "hanzi": "试",
+   "pinyin": "shì",
+   "pos": "động từ",
+   "meaning": "thử",
+   "accept": [
+    "试",
+    "shì",
+    "shi"
+   ]
+  },
+  {
+   "id": "1-0337",
+   "hanzi": "是",
+   "pinyin": "shì",
+   "pos": "động từ",
+   "meaning": "là",
+   "accept": [
+    "是",
+    "shì",
+    "shi"
+   ]
+  },
+  {
+   "id": "1-0338",
+   "hanzi": "是不是",
+   "pinyin": "shì bu shì",
+   "pos": "cụm từ",
+   "meaning": "phải không?",
+   "accept": [
+    "是不是",
+    "shì bu shì",
+    "shi bu shi"
+   ]
+  },
+  {
+   "id": "1-0339",
+   "hanzi": "手",
+   "pinyin": "shǒu",
+   "pos": "danh từ",
+   "meaning": "tay",
+   "accept": [
+    "手",
+    "shǒu",
+    "shou"
+   ]
+  },
+  {
+   "id": "1-0340",
+   "hanzi": "手机",
+   "pinyin": "shǒujī",
+   "pos": "danh từ",
+   "meaning": "điện thoại di động",
+   "accept": [
+    "手机",
+    "shǒujī",
+    "shouji"
+   ]
+  },
+  {
+   "id": "1-0341",
+   "hanzi": "书",
+   "pinyin": "shū",
+   "pos": "danh từ",
+   "meaning": "sách",
+   "accept": [
+    "书",
+    "shū",
+    "shu"
+   ]
+  },
+  {
+   "id": "1-0342",
+   "hanzi": "书包",
+   "pinyin": "shūbāo",
+   "pos": "danh từ",
+   "meaning": "cặp sách",
+   "accept": [
+    "书包",
+    "shūbāo",
+    "shubao"
+   ]
+  },
+  {
+   "id": "1-0343",
+   "hanzi": "书店",
+   "pinyin": "shūdiàn",
+   "pos": "danh từ",
+   "meaning": "hiệu sách",
+   "accept": [
+    "书店",
+    "shūdiàn",
+    "shudian"
+   ]
+  },
+  {
+   "id": "1-0344",
+   "hanzi": "树",
+   "pinyin": "shù",
+   "pos": "danh từ",
+   "meaning": "cây",
+   "accept": [
+    "树",
+    "shù",
+    "shu"
+   ]
+  },
+  {
+   "id": "1-0345",
+   "hanzi": "水",
+   "pinyin": "shuǐ",
+   "pos": "danh từ",
+   "meaning": "nước",
+   "accept": [
+    "水",
+    "shuǐ",
+    "shui"
+   ]
+  },
+  {
+   "id": "1-0346",
+   "hanzi": "水果",
+   "pinyin": "shuǐguǒ",
+   "pos": "danh từ",
+   "meaning": "hoa quả, trái cây",
+   "accept": [
+    "水果",
+    "shuǐguǒ",
+    "shuiguo"
+   ]
+  },
+  {
+   "id": "1-0347",
+   "hanzi": "睡",
+   "pinyin": "shuì",
+   "pos": "động từ",
+   "meaning": "ngủ (1 chữ)",
+   "accept": [
+    "睡",
+    "shuì",
+    "睡觉",
+    "shuìjiào",
+    "shui",
+    "shuijiao"
+   ]
+  },
+  {
+   "id": "1-0348",
+   "hanzi": "睡觉",
+   "pinyin": "shuìjiào",
+   "pos": "cụm từ",
+   "meaning": "đi ngủ",
+   "accept": [
+    "睡觉",
+    "shuìjiào",
+    "睡",
+    "shuì",
+    "shuijiao",
+    "shui"
+   ]
+  },
+  {
+   "id": "1-0349",
+   "hanzi": "说",
+   "pinyin": "shuō",
+   "pos": "động từ",
+   "meaning": "nói",
+   "accept": [
+    "说",
+    "shuō",
+    "shuo"
+   ]
+  },
+  {
+   "id": "1-0350",
+   "hanzi": "说话",
+   "pinyin": "shuōhuà",
+   "pos": "cụm từ",
+   "meaning": "nói chuyện",
+   "accept": [
+    "说话",
+    "shuōhuà",
+    "shuohua"
+   ]
+  },
+  {
+   "id": "1-0351",
+   "hanzi": "四",
+   "pinyin": "sì",
+   "pos": "số từ",
+   "meaning": "số 4 (bốn)",
+   "accept": [
+    "四",
+    "sì",
+    "4",
+    "si"
+   ]
+  },
+  {
+   "id": "1-0352",
+   "hanzi": "送",
+   "pinyin": "sòng",
+   "pos": "động từ",
+   "meaning": "tặng, tiễn, đưa",
+   "accept": [
+    "送",
+    "sòng",
+    "song"
+   ]
+  },
+  {
+   "id": "1-0353",
+   "hanzi": "岁",
+   "pinyin": "suì",
+   "pos": "lượng từ",
+   "meaning": "tuổi",
+   "accept": [
+    "岁",
+    "suì",
+    "sui"
+   ]
+  },
+  {
+   "id": "1-0354",
+   "hanzi": "他",
+   "pinyin": "tā",
+   "pos": "đại từ",
+   "meaning": "anh ấy, ông ấy",
+   "accept": [
+    "他",
+    "tā",
+    "ta"
+   ]
+  },
+  {
+   "id": "1-0355",
+   "hanzi": "他们",
+   "pinyin": "tāmen",
+   "pos": "đại từ",
+   "meaning": "họ (nam / chung)",
+   "accept": [
+    "他们",
+    "tāmen",
+    "tamen"
+   ]
+  },
+  {
+   "id": "1-0356",
+   "hanzi": "她",
+   "pinyin": "tā",
+   "pos": "đại từ",
+   "meaning": "cô ấy, chị ấy",
+   "accept": [
+    "她",
+    "tā",
+    "ta"
+   ]
+  },
+  {
+   "id": "1-0357",
+   "hanzi": "她们",
+   "pinyin": "tāmen",
+   "pos": "đại từ",
+   "meaning": "họ (nữ)",
+   "accept": [
+    "她们",
+    "tāmen",
+    "tamen"
+   ]
+  },
+  {
+   "id": "1-0358",
+   "hanzi": "太",
+   "pinyin": "tài",
+   "pos": "phó từ",
+   "meaning": "quá",
+   "accept": [
+    "太",
+    "tài",
+    "tai"
+   ]
+  },
+  {
+   "id": "1-0359",
+   "hanzi": "天",
+   "pinyin": "tiān",
+   "pos": "danh từ, lượng từ",
+   "meaning": "trời; ngày (天)",
+   "accept": [
+    "天",
+    "tiān",
+    "日",
+    "rì",
+    "tian",
+    "ri"
+   ]
+  },
+  {
+   "id": "1-0360",
+   "hanzi": "天气",
+   "pinyin": "tiānqì",
+   "pos": "danh từ",
+   "meaning": "thời tiết",
+   "accept": [
+    "天气",
+    "tiānqì",
+    "tianqi"
+   ]
+  },
+  {
+   "id": "1-0361",
+   "hanzi": "听",
+   "pinyin": "tīng",
+   "pos": "động từ",
+   "meaning": "nghe",
+   "accept": [
+    "听",
+    "tīng",
+    "ting"
+   ]
+  },
+  {
+   "id": "1-0362",
+   "hanzi": "听到",
+   "pinyin": "tīngdào",
+   "pos": "cụm từ",
+   "meaning": "nghe được",
+   "accept": [
+    "听到",
+    "tīngdào",
+    "听见",
+    "tīngjiàn",
+    "tingdao",
+    "tingjian"
+   ]
+  },
+  {
+   "id": "1-0363",
+   "hanzi": "听见",
+   "pinyin": "tīngjiàn",
+   "pos": "cụm từ",
+   "meaning": "nghe thấy",
+   "accept": [
+    "听见",
+    "tīngjiàn",
+    "听到",
+    "tīngdào",
+    "tingjian",
+    "tingdao"
+   ]
+  },
+  {
+   "id": "1-0364",
+   "hanzi": "听写",
+   "pinyin": "tīngxiě",
+   "pos": "động từ",
+   "meaning": "nghe viết, chính tả",
+   "accept": [
+    "听写",
+    "tīngxiě",
+    "tingxie"
+   ]
+  },
+  {
+   "id": "1-0365",
+   "hanzi": "同学",
+   "pinyin": "tóngxué",
+   "pos": "danh từ",
+   "meaning": "bạn học",
+   "accept": [
+    "同学",
+    "tóngxué",
+    "tongxue"
+   ]
+  },
+  {
+   "id": "1-0366",
+   "hanzi": "图书馆",
+   "pinyin": "túshūguǎn",
+   "pos": "danh từ",
+   "meaning": "thư viện",
+   "accept": [
+    "图书馆",
+    "túshūguǎn",
+    "tushuguan"
+   ]
+  },
+  {
+   "id": "1-0367",
+   "hanzi": "外",
+   "pinyin": "wài",
+   "pos": "danh từ",
+   "meaning": "ngoài (1 chữ)",
+   "accept": [
+    "外",
+    "wài",
+    "wai"
+   ]
+  },
+  {
+   "id": "1-0368",
+   "hanzi": "外边",
+   "pinyin": "wàibian",
+   "pos": "danh từ",
+   "meaning": "bên ngoài",
+   "accept": [
+    "外边",
+    "wàibian",
+    "外面",
+    "wàimiàn",
+    "waibian",
+    "waimian"
+   ]
+  },
+  {
+   "id": "1-0369",
+   "hanzi": "外国",
+   "pinyin": "wàiguó",
+   "pos": "danh từ",
+   "meaning": "nước ngoài (ngoại quốc)",
+   "accept": [
+    "外国",
+    "wàiguó",
+    "国外",
+    "guówài",
+    "waiguo",
+    "guowai"
+   ]
+  },
+  {
+   "id": "1-0370",
+   "hanzi": "外语",
+   "pinyin": "wàiyǔ",
+   "pos": "danh từ",
+   "meaning": "ngoại ngữ",
+   "accept": [
+    "外语",
+    "wàiyǔ",
+    "waiyu"
+   ]
+  },
+  {
+   "id": "1-0371",
+   "hanzi": "玩儿",
+   "pinyin": "wánr",
+   "pos": "động từ",
+   "meaning": "chơi",
+   "accept": [
+    "玩儿",
+    "wánr",
+    "玩",
+    "wán",
+    "wanr",
+    "wan"
+   ]
+  },
+  {
+   "id": "1-0372",
+   "hanzi": "晚",
+   "pinyin": "wǎn",
+   "pos": "tính từ",
+   "meaning": "muộn, trễ",
+   "accept": [
+    "晚",
+    "wǎn",
+    "wan"
+   ]
+  },
+  {
+   "id": "1-0373",
+   "hanzi": "晚饭",
+   "pinyin": "wǎnfàn",
+   "pos": "danh từ",
+   "meaning": "bữa tối",
+   "accept": [
+    "晚饭",
+    "wǎnfàn",
+    "wanfan"
+   ]
+  },
+  {
+   "id": "1-0374",
+   "hanzi": "晚上",
+   "pinyin": "wǎnshang",
+   "pos": "danh từ",
+   "meaning": "buổi tối",
+   "accept": [
+    "晚上",
+    "wǎnshang",
+    "wanshang"
+   ]
+  },
+  {
+   "id": "1-0375",
+   "hanzi": "网上",
+   "pinyin": "wǎng shang",
+   "pos": "cụm từ",
+   "meaning": "trên mạng",
+   "accept": [
+    "网上",
+    "wǎng shang",
+    "wang shang"
+   ]
+  },
+  {
+   "id": "1-0376",
+   "hanzi": "网友",
+   "pinyin": "wǎngyǒu",
+   "pos": "danh từ",
+   "meaning": "bạn trên mạng",
+   "accept": [
+    "网友",
+    "wǎngyǒu",
+    "wangyou"
+   ]
+  },
+  {
+   "id": "1-0377",
+   "hanzi": "忘",
+   "pinyin": "wàng",
+   "pos": "động từ",
+   "meaning": "quên (1 chữ)",
+   "accept": [
+    "忘",
+    "wàng",
+    "忘记",
+    "wàngjì",
+    "wang",
+    "wangji"
+   ]
+  },
+  {
+   "id": "1-0378",
+   "hanzi": "忘记",
+   "pinyin": "wàngjì",
+   "pos": "động từ",
+   "meaning": "quên mất",
+   "accept": [
+    "忘记",
+    "wàngjì",
+    "忘",
+    "wàng",
+    "wangji",
+    "wang"
+   ]
+  },
+  {
+   "id": "1-0379",
+   "hanzi": "问",
+   "pinyin": "wèn",
+   "pos": "động từ",
+   "meaning": "hỏi",
+   "accept": [
+    "问",
+    "wèn",
+    "wen"
+   ]
+  },
+  {
+   "id": "1-0380",
+   "hanzi": "我",
+   "pinyin": "wǒ",
+   "pos": "đại từ",
+   "meaning": "tôi",
+   "accept": [
+    "我",
+    "wǒ",
+    "wo"
+   ]
+  },
+  {
+   "id": "1-0381",
+   "hanzi": "我们",
+   "pinyin": "wǒmen",
+   "pos": "đại từ",
+   "meaning": "chúng tôi",
+   "accept": [
+    "我们",
+    "wǒmen",
+    "咱们",
+    "zánmen",
+    "women",
+    "zanmen"
+   ]
+  },
+  {
+   "id": "1-0382",
+   "hanzi": "五",
+   "pinyin": "wǔ",
+   "pos": "số từ",
+   "meaning": "số 5 (năm)",
+   "accept": [
+    "五",
+    "wǔ",
+    "5",
+    "wu"
+   ]
+  },
+  {
+   "id": "1-0383",
+   "hanzi": "午饭",
+   "pinyin": "wǔfàn",
+   "pos": "danh từ",
+   "meaning": "bữa trưa",
+   "accept": [
+    "午饭",
+    "wǔfàn",
+    "wufan"
+   ]
+  },
+  {
+   "id": "1-0384",
+   "hanzi": "西",
+   "pinyin": "xī",
+   "pos": "danh từ",
+   "meaning": "tây (hướng tây)",
+   "accept": [
+    "西",
+    "xī",
+    "西方",
+    "xīfāng",
+    "xi",
+    "xifang"
+   ]
+  },
+  {
+   "id": "1-0385",
+   "hanzi": "西边",
+   "pinyin": "xībian",
+   "pos": "danh từ",
+   "meaning": "phía tây",
+   "accept": [
+    "西边",
+    "xībian",
+    "西面",
+    "xīmiàn",
+    "xibian",
+    "ximian"
+   ]
+  },
+  {
+   "id": "1-0386",
+   "hanzi": "洗",
+   "pinyin": "xǐ",
+   "pos": "động từ",
+   "meaning": "rửa, giặt",
+   "accept": [
+    "洗",
+    "xǐ",
+    "xi"
+   ]
+  },
+  {
+   "id": "1-0387",
+   "hanzi": "洗手间",
+   "pinyin": "xǐshǒujiān",
+   "pos": "danh từ",
+   "meaning": "nhà vệ sinh",
+   "accept": [
+    "洗手间",
+    "xǐshǒujiān",
+    "厕所",
+    "cèsuǒ",
+    "卫生间",
+    "wèishēngjiān",
+    "xishoujian",
+    "cesuo",
+    "weishengjian"
+   ]
+  },
+  {
+   "id": "1-0388",
+   "hanzi": "喜欢",
+   "pinyin": "xǐhuan",
+   "pos": "động từ",
+   "meaning": "thích",
+   "accept": [
+    "喜欢",
+    "xǐhuan",
+    "xihuan"
+   ]
+  },
+  {
+   "id": "1-0389",
+   "hanzi": "下",
+   "pinyin": "xià",
+   "pos": "danh từ, động từ",
+   "meaning": "dưới; xuống",
+   "accept": [
+    "下",
+    "xià",
+    "xia"
+   ]
+  },
+  {
+   "id": "1-0390",
+   "hanzi": "下班",
+   "pinyin": "xiàbān",
+   "pos": "cụm từ",
+   "meaning": "tan làm",
+   "accept": [
+    "下班",
+    "xiàbān",
+    "xiaban"
+   ]
+  },
+  {
+   "id": "1-0391",
+   "hanzi": "下边",
+   "pinyin": "xiàbian",
+   "pos": "danh từ",
+   "meaning": "phía dưới",
+   "accept": [
+    "下边",
+    "xiàbian",
+    "下面",
+    "xiàmiàn",
+    "xiabian",
+    "xiamian"
+   ]
+  },
+  {
+   "id": "1-0392",
+   "hanzi": "下车",
+   "pinyin": "xià chē",
+   "pos": "cụm từ",
+   "meaning": "xuống xe",
+   "accept": [
+    "下车",
+    "xià chē",
+    "xia che"
+   ]
+  },
+  {
+   "id": "1-0393",
+   "hanzi": "下次",
+   "pinyin": "xià cì",
+   "pos": "cụm từ",
+   "meaning": "lần sau",
+   "accept": [
+    "下次",
+    "xià cì",
+    "xia ci"
+   ]
+  },
+  {
+   "id": "1-0394",
+   "hanzi": "下课",
+   "pinyin": "xiàkè",
+   "pos": "cụm từ",
+   "meaning": "tan học (hết tiết)",
+   "accept": [
+    "下课",
+    "xiàkè",
+    "xiake"
+   ]
+  },
+  {
+   "id": "1-0395",
+   "hanzi": "下午",
+   "pinyin": "xiàwǔ",
+   "pos": "danh từ",
+   "meaning": "buổi chiều",
+   "accept": [
+    "下午",
+    "xiàwǔ",
+    "xiawu"
+   ]
+  },
+  {
+   "id": "1-0396",
+   "hanzi": "下雨",
+   "pinyin": "xià yǔ",
+   "pos": "cụm từ",
+   "meaning": "trời mưa",
+   "accept": [
+    "下雨",
+    "xià yǔ",
+    "xia yu"
+   ]
+  },
+  {
+   "id": "1-0397",
+   "hanzi": "先",
+   "pinyin": "xiān",
+   "pos": "phó từ",
+   "meaning": "trước tiên",
+   "accept": [
+    "先",
+    "xiān",
+    "xian"
+   ]
+  },
+  {
+   "id": "1-0398",
+   "hanzi": "先生",
+   "pinyin": "xiānsheng",
+   "pos": "danh từ",
+   "meaning": "ông, ngài; chồng",
+   "accept": [
+    "先生",
+    "xiānsheng",
+    "xiansheng"
+   ]
+  },
+  {
+   "id": "1-0399",
+   "hanzi": "现在",
+   "pinyin": "xiànzài",
+   "pos": "danh từ",
+   "meaning": "bây giờ",
+   "accept": [
+    "现在",
+    "xiànzài",
+    "xianzai"
+   ]
+  },
+  {
+   "id": "1-0400",
+   "hanzi": "想",
+   "pinyin": "xiǎng",
+   "pos": "động từ",
+   "meaning": "muốn, nghĩ, nhớ",
+   "accept": [
+    "想",
+    "xiǎng",
+    "xiang"
+   ]
+  },
+  {
+   "id": "1-0401",
+   "hanzi": "小",
+   "pinyin": "xiǎo",
+   "pos": "tính từ",
+   "meaning": "nhỏ",
+   "accept": [
+    "小",
+    "xiǎo",
+    "xiao"
+   ]
+  },
+  {
+   "id": "1-0402",
+   "hanzi": "小孩儿",
+   "pinyin": "xiǎoháir",
+   "pos": "danh từ",
+   "meaning": "trẻ con",
+   "accept": [
+    "小孩儿",
+    "xiǎoháir",
+    "小孩",
+    "xiǎohái",
+    "孩子",
+    "háizi",
+    "xiaohair",
+    "xiaohai",
+    "haizi"
+   ]
+  },
+  {
+   "id": "1-0403",
+   "hanzi": "小姐",
+   "pinyin": "xiǎojiě",
+   "pos": "danh từ",
+   "meaning": "cô, tiểu thư",
+   "accept": [
+    "小姐",
+    "xiǎojiě",
+    "xiaojie"
+   ]
+  },
+  {
+   "id": "1-0404",
+   "hanzi": "小朋友",
+   "pinyin": "xiǎopéngyǒu",
+   "pos": "danh từ",
+   "meaning": "bạn nhỏ, các em nhỏ",
+   "accept": [
+    "小朋友",
+    "xiǎopéngyǒu",
+    "xiaopengyou"
+   ]
+  },
+  {
+   "id": "1-0405",
+   "hanzi": "小时",
+   "pinyin": "xiǎoshí",
+   "pos": "danh từ",
+   "meaning": "giờ, tiếng (đồng hồ - khoảng thời gian)",
+   "accept": [
+    "小时",
+    "xiǎoshí",
+    "钟头",
+    "zhōngtóu",
+    "xiaoshi",
+    "zhongtou"
+   ]
+  },
+  {
+   "id": "1-0406",
+   "hanzi": "小学",
+   "pinyin": "xiǎoxué",
+   "pos": "danh từ",
+   "meaning": "trường tiểu học",
+   "accept": [
+    "小学",
+    "xiǎoxué",
+    "xiaoxue"
+   ]
+  },
+  {
+   "id": "1-0407",
+   "hanzi": "小学生",
+   "pinyin": "xiǎoxuéshēng",
+   "pos": "danh từ",
+   "meaning": "học sinh tiểu học",
+   "accept": [
+    "小学生",
+    "xiǎoxuéshēng",
+    "xiaoxuesheng"
+   ]
+  },
+  {
+   "id": "1-0408",
+   "hanzi": "笑",
+   "pinyin": "xiào",
+   "pos": "động từ",
+   "meaning": "cười",
+   "accept": [
+    "笑",
+    "xiào",
+    "xiao"
+   ]
+  },
+  {
+   "id": "1-0409",
+   "hanzi": "写",
+   "pinyin": "xiě",
+   "pos": "động từ",
+   "meaning": "viết",
+   "accept": [
+    "写",
+    "xiě",
+    "xie"
+   ]
+  },
+  {
+   "id": "1-0410",
+   "hanzi": "谢谢",
+   "pinyin": "xièxie",
+   "pos": "động từ",
+   "meaning": "cảm ơn",
+   "accept": [
+    "谢谢",
+    "xièxie",
+    "谢",
+    "xiè",
+    "感谢",
+    "gǎnxiè",
+    "多谢",
+    "duōxiè",
+    "xiexie",
+    "xie",
+    "ganxie",
+    "duoxie"
+   ]
+  },
+  {
+   "id": "1-0411",
+   "hanzi": "新",
+   "pinyin": "xīn",
+   "pos": "tính từ",
+   "meaning": "mới",
+   "accept": [
+    "新",
+    "xīn",
+    "xin"
+   ]
+  },
+  {
+   "id": "1-0412",
+   "hanzi": "新年",
+   "pinyin": "xīnnián",
+   "pos": "danh từ",
+   "meaning": "năm mới",
+   "accept": [
+    "新年",
+    "xīnnián",
+    "xinnian"
+   ]
+  },
+  {
+   "id": "1-0413",
+   "hanzi": "星期",
+   "pinyin": "xīngqī",
+   "pos": "danh từ",
+   "meaning": "tuần lễ, thứ",
+   "accept": [
+    "星期",
+    "xīngqī",
+    "周",
+    "zhōu",
+    "礼拜",
+    "lǐbài",
+    "xingqi",
+    "zhou",
+    "libai"
+   ]
+  },
+  {
+   "id": "1-0414",
+   "hanzi": "星期日",
+   "pinyin": "xīngqīrì",
+   "pos": "danh từ",
+   "meaning": "chủ nhật (...日)",
+   "accept": [
+    "星期日",
+    "xīngqīrì",
+    "星期天",
+    "xīngqītiān",
+    "周日",
+    "zhōurì",
+    "礼拜天",
+    "lǐbàitiān",
+    "xingqiri",
+    "xingqitian",
+    "zhouri",
+    "libaitian"
+   ]
+  },
+  {
+   "id": "1-0415",
+   "hanzi": "星期天",
+   "pinyin": "xīngqītiān",
+   "pos": "danh từ",
+   "meaning": "chủ nhật (...天)",
+   "accept": [
+    "星期天",
+    "xīngqītiān",
+    "星期日",
+    "xīngqīrì",
+    "周日",
+    "zhōurì",
+    "礼拜天",
+    "lǐbàitiān",
+    "xingqitian",
+    "xingqiri",
+    "zhouri",
+    "libaitian"
+   ]
+  },
+  {
+   "id": "1-0416",
+   "hanzi": "行",
+   "pinyin": "xíng",
+   "pos": "động từ, tính từ",
+   "meaning": "được, ổn",
+   "accept": [
+    "行",
+    "xíng",
+    "xing"
+   ]
+  },
+  {
+   "id": "1-0417",
+   "hanzi": "休息",
+   "pinyin": "xiūxi",
+   "pos": "động từ",
+   "meaning": "nghỉ ngơi",
+   "accept": [
+    "休息",
+    "xiūxi",
+    "xiuxi"
+   ]
+  },
+  {
+   "id": "1-0418",
+   "hanzi": "学",
+   "pinyin": "xué",
+   "pos": "động từ",
+   "meaning": "học (1 chữ)",
+   "accept": [
+    "学",
+    "xué",
+    "学习",
+    "xuéxí",
+    "xue",
+    "xuexi"
+   ]
+  },
+  {
+   "id": "1-0419",
+   "hanzi": "学生",
+   "pinyin": "xuésheng",
+   "pos": "danh từ",
+   "meaning": "học sinh",
+   "accept": [
+    "学生",
+    "xuésheng",
+    "xuéshēng",
+    "xuesheng"
+   ]
+  },
+  {
+   "id": "1-0420",
+   "hanzi": "学习",
+   "pinyin": "xuéxí",
+   "pos": "động từ",
+   "meaning": "học tập",
+   "accept": [
+    "学习",
+    "xuéxí",
+    "学",
+    "xué",
+    "xuexi",
+    "xue"
+   ]
+  },
+  {
+   "id": "1-0421",
+   "hanzi": "学校",
+   "pinyin": "xuéxiào",
+   "pos": "danh từ",
+   "meaning": "trường học",
+   "accept": [
+    "学校",
+    "xuéxiào",
+    "xuexiao"
+   ]
+  },
+  {
+   "id": "1-0422",
+   "hanzi": "学院",
+   "pinyin": "xuéyuàn",
+   "pos": "danh từ",
+   "meaning": "học viện",
+   "accept": [
+    "学院",
+    "xuéyuàn",
+    "xueyuan"
+   ]
+  },
+  {
+   "id": "1-0423",
+   "hanzi": "要",
+   "pinyin": "yào",
+   "pos": "động từ",
+   "meaning": "muốn, cần, phải",
+   "accept": [
+    "要",
+    "yào",
+    "yao"
+   ]
+  },
+  {
+   "id": "1-0424",
+   "hanzi": "爷爷",
+   "pinyin": "yéye",
+   "pos": "danh từ",
+   "meaning": "ông nội",
+   "accept": [
+    "爷爷",
+    "yéye",
+    "祖父",
+    "zǔfù",
+    "yeye",
+    "zufu"
+   ]
+  },
+  {
+   "id": "1-0425",
+   "hanzi": "也",
+   "pinyin": "yě",
+   "pos": "phó từ",
+   "meaning": "cũng",
+   "accept": [
+    "也",
+    "yě",
+    "ye"
+   ]
+  },
+  {
+   "id": "1-0426",
+   "hanzi": "页",
+   "pinyin": "yè",
+   "pos": "lượng từ",
+   "meaning": "trang (giấy)",
+   "accept": [
+    "页",
+    "yè",
+    "ye"
+   ]
+  },
+  {
+   "id": "1-0427",
+   "hanzi": "一",
+   "pinyin": "yī",
+   "pos": "số từ",
+   "meaning": "số 1 (một)",
+   "accept": [
+    "一",
+    "yī",
+    "1",
+    "yi"
+   ]
+  },
+  {
+   "id": "1-0428",
+   "hanzi": "衣服",
+   "pinyin": "yīfu",
+   "pos": "danh từ",
+   "meaning": "quần áo",
+   "accept": [
+    "衣服",
+    "yīfu",
+    "yifu"
+   ]
+  },
+  {
+   "id": "1-0429",
+   "hanzi": "医生",
+   "pinyin": "yīshēng",
+   "pos": "danh từ",
+   "meaning": "bác sĩ",
+   "accept": [
+    "医生",
+    "yīshēng",
+    "大夫",
+    "dàifu",
+    "yisheng",
+    "daifu"
+   ]
+  },
+  {
+   "id": "1-0430",
+   "hanzi": "医院",
+   "pinyin": "yīyuàn",
+   "pos": "danh từ",
+   "meaning": "bệnh viện",
+   "accept": [
+    "医院",
+    "yīyuàn",
+    "yiyuan"
+   ]
+  },
+  {
+   "id": "1-0431",
+   "hanzi": "一半",
+   "pinyin": "yíbàn",
+   "pos": "số từ",
+   "meaning": "một nửa",
+   "accept": [
+    "一半",
+    "yíbàn",
+    "半",
+    "bàn",
+    "yiban",
+    "ban"
+   ]
+  },
+  {
+   "id": "1-0432",
+   "hanzi": "一会儿",
+   "pinyin": "yíhuìr",
+   "pos": "cụm từ",
+   "meaning": "một lát, một lúc",
+   "accept": [
+    "一会儿",
+    "yíhuìr",
+    "一会",
+    "yíhuì",
+    "yìhuǐr",
+    "yihuir",
+    "yihui"
+   ]
+  },
+  {
+   "id": "1-0433",
+   "hanzi": "一块儿",
+   "pinyin": "yíkuàir",
+   "pos": "danh từ, phó từ",
+   "meaning": "cùng nhau (khẩu ngữ)",
+   "accept": [
+    "一块儿",
+    "yíkuàir",
+    "一块",
+    "yíkuài",
+    "一起",
+    "yìqǐ",
+    "yikuair",
+    "yikuai",
+    "yiqi"
+   ]
+  },
+  {
+   "id": "1-0434",
+   "hanzi": "一下儿",
+   "pinyin": "yíxiàr",
+   "pos": "cụm từ",
+   "meaning": "một chút (thử, một lát)",
+   "accept": [
+    "一下儿",
+    "yíxiàr",
+    "一下",
+    "yíxià",
+    "yixiar",
+    "yixia"
+   ]
+  },
+  {
+   "id": "1-0435",
+   "hanzi": "一样",
+   "pinyin": "yíyàng",
+   "pos": "tính từ",
+   "meaning": "giống nhau",
+   "accept": [
+    "一样",
+    "yíyàng",
+    "yiyang"
+   ]
+  },
+  {
+   "id": "1-0436",
+   "hanzi": "一边",
+   "pinyin": "yìbiān",
+   "pos": "danh từ, phó từ",
+   "meaning": "một bên; vừa ... vừa",
+   "accept": [
+    "一边",
+    "yìbiān",
+    "yibian"
+   ]
+  },
+  {
+   "id": "1-0437",
+   "hanzi": "一点儿",
+   "pinyin": "yìdiǎnr",
+   "pos": "cụm từ",
+   "meaning": "một chút, một ít",
+   "accept": [
+    "一点儿",
+    "yìdiǎnr",
+    "一点",
+    "yìdiǎn",
+    "yidianr",
+    "yidian"
+   ]
+  },
+  {
+   "id": "1-0438",
+   "hanzi": "一起",
+   "pinyin": "yìqǐ",
+   "pos": "phó từ, danh từ",
+   "meaning": "cùng nhau",
+   "accept": [
+    "一起",
+    "yìqǐ",
+    "一块儿",
+    "yíkuàir",
+    "一块",
+    "yíkuài",
+    "yiqi",
+    "yikuair",
+    "yikuai"
+   ]
+  },
+  {
+   "id": "1-0439",
+   "hanzi": "一些",
+   "pinyin": "yìxiē",
+   "pos": "cụm từ",
+   "meaning": "một số, một vài",
+   "accept": [
+    "一些",
+    "yìxiē",
+    "yixie"
+   ]
+  },
+  {
+   "id": "1-0440",
+   "hanzi": "用",
+   "pinyin": "yòng",
+   "pos": "động từ",
+   "meaning": "dùng",
+   "accept": [
+    "用",
+    "yòng",
+    "yong"
+   ]
+  },
+  {
+   "id": "1-0441",
+   "hanzi": "有",
+   "pinyin": "yǒu",
+   "pos": "động từ",
+   "meaning": "có",
+   "accept": [
+    "有",
+    "yǒu",
+    "you"
+   ]
+  },
+  {
+   "id": "1-0442",
+   "hanzi": "有的",
+   "pinyin": "yǒude",
+   "pos": "đại từ",
+   "meaning": "có cái, có người",
+   "accept": [
+    "有的",
+    "yǒude",
+    "youde"
+   ]
+  },
+  {
+   "id": "1-0443",
+   "hanzi": "有名",
+   "pinyin": "yǒumíng",
+   "pos": "cụm từ",
+   "meaning": "nổi tiếng",
+   "accept": [
+    "有名",
+    "yǒumíng",
+    "youming"
+   ]
+  },
+  {
+   "id": "1-0444",
+   "hanzi": "有时候",
+   "pinyin": "yǒushíhou",
+   "pos": "phó từ",
+   "meaning": "có lúc, đôi khi",
+   "accept": [
+    "有时候",
+    "yǒushíhou",
+    "有时",
+    "yǒushí",
+    "youshihou",
+    "youshi"
+   ]
+  },
+  {
+   "id": "1-0445",
+   "hanzi": "有(一)些",
+   "pinyin": "yǒu(yì)xiē",
+   "pos": "đại từ",
+   "meaning": "có một số",
+   "accept": [
+    "有(一)些",
+    "yǒu(yì)xiē",
+    "有些",
+    "yǒuxiē",
+    "有一些",
+    "yǒuyìxiē",
+    "you(yi)xie",
+    "youxie",
+    "youyixie"
+   ]
+  },
+  {
+   "id": "1-0446",
+   "hanzi": "有用",
+   "pinyin": "yǒuyòng",
+   "pos": "động từ",
+   "meaning": "có ích",
+   "accept": [
+    "有用",
+    "yǒuyòng",
+    "youyong"
+   ]
+  },
+  {
+   "id": "1-0447",
+   "hanzi": "右",
+   "pinyin": "yòu",
+   "pos": "danh từ",
+   "meaning": "phải (bên phải - 1 chữ)",
+   "accept": [
+    "右",
+    "yòu",
+    "you"
+   ]
+  },
+  {
+   "id": "1-0448",
+   "hanzi": "右边",
+   "pinyin": "yòubian",
+   "pos": "danh từ",
+   "meaning": "bên phải",
+   "accept": [
+    "右边",
+    "yòubian",
+    "右面",
+    "yòumiàn",
+    "youbian",
+    "youmian"
+   ]
+  },
+  {
+   "id": "1-0449",
+   "hanzi": "雨",
+   "pinyin": "yǔ",
+   "pos": "danh từ",
+   "meaning": "mưa (danh từ)",
+   "accept": [
+    "雨",
+    "yǔ",
+    "yu"
+   ]
+  },
+  {
+   "id": "1-0450",
+   "hanzi": "元",
+   "pinyin": "yuán",
+   "pos": "lượng từ",
+   "meaning": "đồng (đơn vị tiền tệ)",
+   "accept": [
+    "元",
+    "yuán",
+    "块",
+    "kuài",
+    "yuan",
+    "kuai"
+   ]
+  },
+  {
+   "id": "1-0451",
+   "hanzi": "远",
+   "pinyin": "yuǎn",
+   "pos": "tính từ",
+   "meaning": "xa",
+   "accept": [
+    "远",
+    "yuǎn",
+    "yuan"
+   ]
+  },
+  {
+   "id": "1-0452",
+   "hanzi": "月",
+   "pinyin": "yuè",
+   "pos": "danh từ",
+   "meaning": "tháng",
+   "accept": [
+    "月",
+    "yuè",
+    "yue"
+   ]
+  },
+  {
+   "id": "1-0453",
+   "hanzi": "再",
+   "pinyin": "zài",
+   "pos": "phó từ",
+   "meaning": "lại, nữa",
+   "accept": [
+    "再",
+    "zài",
+    "zai"
+   ]
+  },
+  {
+   "id": "1-0454",
+   "hanzi": "再见",
+   "pinyin": "zàijiàn",
+   "pos": "động từ",
+   "meaning": "tạm biệt",
+   "accept": [
+    "再见",
+    "zàijiàn",
+    "拜拜",
+    "bàibài",
+    "zaijian",
+    "baibai"
+   ]
+  },
+  {
+   "id": "1-0455",
+   "hanzi": "在",
+   "pinyin": "zài",
+   "pos": "động từ, giới từ, phó từ",
+   "meaning": "ở; đang",
+   "accept": [
+    "在",
+    "zài",
+    "zai"
+   ]
+  },
+  {
+   "id": "1-0456",
+   "hanzi": "在家",
+   "pinyin": "zàijiā",
+   "pos": "động từ",
+   "meaning": "ở nhà",
+   "accept": [
+    "在家",
+    "zàijiā",
+    "zaijia"
+   ]
+  },
+  {
+   "id": "1-0457",
+   "hanzi": "早",
+   "pinyin": "zǎo",
+   "pos": "tính từ",
+   "meaning": "sớm",
+   "accept": [
+    "早",
+    "zǎo",
+    "zao"
+   ]
+  },
+  {
+   "id": "1-0458",
+   "hanzi": "早饭",
+   "pinyin": "zǎofàn",
+   "pos": "danh từ",
+   "meaning": "bữa sáng",
+   "accept": [
+    "早饭",
+    "zǎofàn",
+    "早餐",
+    "zǎocān",
+    "zaofan",
+    "zaocan"
+   ]
+  },
+  {
+   "id": "1-0459",
+   "hanzi": "早上",
+   "pinyin": "zǎoshang",
+   "pos": "danh từ",
+   "meaning": "sáng sớm, buổi sáng",
+   "accept": [
+    "早上",
+    "zǎoshang",
+    "上午",
+    "shàngwǔ",
+    "早晨",
+    "zǎochen",
+    "zaoshang",
+    "shangwu",
+    "zaochen"
+   ]
+  },
+  {
+   "id": "1-0460",
+   "hanzi": "怎么",
+   "pinyin": "zěnme",
+   "pos": "đại từ",
+   "meaning": "thế nào, sao",
+   "accept": [
+    "怎么",
+    "zěnme",
+    "zenme"
+   ]
+  },
+  {
+   "id": "1-0461",
+   "hanzi": "站",
+   "pinyin": "zhàn",
+   "pos": "danh từ",
+   "meaning": "trạm, ga",
+   "accept": [
+    "站",
+    "zhàn",
+    "车站",
+    "chēzhàn",
+    "zhan",
+    "chezhan"
+   ]
+  },
+  {
+   "id": "1-0462",
+   "hanzi": "找",
+   "pinyin": "zhǎo",
+   "pos": "động từ",
+   "meaning": "tìm",
+   "accept": [
+    "找",
+    "zhǎo",
+    "zhao"
+   ]
+  },
+  {
+   "id": "1-0463",
+   "hanzi": "找到",
+   "pinyin": "zhǎodào",
+   "pos": "cụm từ",
+   "meaning": "tìm thấy",
+   "accept": [
+    "找到",
+    "zhǎodào",
+    "zhaodao"
+   ]
+  },
+  {
+   "id": "1-0464",
+   "hanzi": "这",
+   "pinyin": "zhè",
+   "pos": "đại từ",
+   "meaning": "này",
+   "accept": [
+    "这",
+    "zhè",
+    "zhe"
+   ]
+  },
+  {
+   "id": "1-0465",
+   "hanzi": "这边",
+   "pinyin": "zhèbiān",
+   "pos": "đại từ",
+   "meaning": "bên này",
+   "accept": [
+    "这边",
+    "zhèbiān",
+    "zhebian"
+   ]
+  },
+  {
+   "id": "1-0466",
+   "hanzi": "这里",
+   "pinyin": "zhèlǐ",
+   "pos": "đại từ",
+   "meaning": "ở đây",
+   "accept": [
+    "这里",
+    "zhèlǐ",
+    "这儿",
+    "zhèr",
+    "zhèli",
+    "zheli",
+    "zher"
+   ]
+  },
+  {
+   "id": "1-0467",
+   "hanzi": "这儿",
+   "pinyin": "zhèr",
+   "pos": "đại từ",
+   "meaning": "chỗ này",
+   "accept": [
+    "这儿",
+    "zhèr",
+    "这里",
+    "zhèlǐ",
+    "zhèli",
+    "zher",
+    "zheli"
+   ]
+  },
+  {
+   "id": "1-0468",
+   "hanzi": "这些",
+   "pinyin": "zhèxiē",
+   "pos": "đại từ",
+   "meaning": "những cái này",
+   "accept": [
+    "这些",
+    "zhèxiē",
+    "zhexie"
+   ]
+  },
+  {
+   "id": "1-0469",
+   "hanzi": "着",
+   "pinyin": "zhe",
+   "pos": "trợ từ",
+   "meaning": "đang (trợ từ 着 - trạng thái tiếp diễn)",
+   "accept": [
+    "着",
+    "zhe"
+   ]
+  },
+  {
+   "id": "1-0470",
+   "hanzi": "真",
+   "pinyin": "zhēn",
+   "pos": "phó từ, tính từ",
+   "meaning": "thật, thật là",
+   "accept": [
+    "真",
+    "zhēn",
+    "zhen"
+   ]
+  },
+  {
+   "id": "1-0471",
+   "hanzi": "真的",
+   "pinyin": "zhēn de",
+   "pos": "cụm từ",
+   "meaning": "thật sự, thật không",
+   "accept": [
+    "真的",
+    "zhēn de",
+    "zhen de"
+   ]
+  },
+  {
+   "id": "1-0472",
+   "hanzi": "正",
+   "pinyin": "zhèng",
+   "pos": "phó từ",
+   "meaning": "đang, đúng lúc (1 chữ)",
+   "accept": [
+    "正",
+    "zhèng",
+    "正在",
+    "zhèngzài",
+    "zheng",
+    "zhengzai"
+   ]
+  },
+  {
+   "id": "1-0473",
+   "hanzi": "正在",
+   "pinyin": "zhèngzài",
+   "pos": "phó từ",
+   "meaning": "đang (làm gì)",
+   "accept": [
+    "正在",
+    "zhèngzài",
+    "正",
+    "zhèng",
+    "在",
+    "zài",
+    "zhengzai",
+    "zheng",
+    "zai"
+   ]
+  },
+  {
+   "id": "1-0474",
+   "hanzi": "知道",
+   "pinyin": "zhīdào",
+   "pos": "động từ",
+   "meaning": "biết",
+   "accept": [
+    "知道",
+    "zhīdào",
+    "zhīdao",
+    "zhidao"
+   ]
+  },
+  {
+   "id": "1-0475",
+   "hanzi": "知识",
+   "pinyin": "zhīshi",
+   "pos": "danh từ",
+   "meaning": "kiến thức, tri thức",
+   "accept": [
+    "知识",
+    "zhīshi",
+    "zhishi"
+   ]
+  },
+  {
+   "id": "1-0476",
+   "hanzi": "中",
+   "pinyin": "zhōng",
+   "pos": "danh từ",
+   "meaning": "giữa, trung (1 chữ)",
+   "accept": [
+    "中",
+    "zhōng",
+    "zhong"
+   ]
+  },
+  {
+   "id": "1-0477",
+   "hanzi": "中国",
+   "pinyin": "Zhōngguó",
+   "pos": "danh từ",
+   "meaning": "Trung Quốc",
+   "accept": [
+    "中国",
+    "Zhōngguó",
+    "Zhongguo"
+   ]
+  },
+  {
+   "id": "1-0478",
+   "hanzi": "中间",
+   "pinyin": "zhōngjiān",
+   "pos": "danh từ",
+   "meaning": "ở giữa, chính giữa",
+   "accept": [
+    "中间",
+    "zhōngjiān",
+    "zhongjian"
+   ]
+  },
+  {
+   "id": "1-0479",
+   "hanzi": "中文",
+   "pinyin": "Zhōngwén",
+   "pos": "danh từ",
+   "meaning": "tiếng Trung",
+   "accept": [
+    "中文",
+    "Zhōngwén",
+    "汉语",
+    "Hànyǔ",
+    "Zhongwen",
+    "Hanyu"
+   ]
+  },
+  {
+   "id": "1-0480",
+   "hanzi": "中午",
+   "pinyin": "zhōngwǔ",
+   "pos": "danh từ",
+   "meaning": "buổi trưa",
+   "accept": [
+    "中午",
+    "zhōngwǔ",
+    "zhongwu"
+   ]
+  },
+  {
+   "id": "1-0481",
+   "hanzi": "中学",
+   "pinyin": "zhōngxué",
+   "pos": "danh từ",
+   "meaning": "trường trung học",
+   "accept": [
+    "中学",
+    "zhōngxué",
+    "zhongxue"
+   ]
+  },
+  {
+   "id": "1-0482",
+   "hanzi": "中学生",
+   "pinyin": "zhōngxuéshēng",
+   "pos": "danh từ",
+   "meaning": "học sinh trung học",
+   "accept": [
+    "中学生",
+    "zhōngxuéshēng",
+    "zhongxuesheng"
+   ]
+  },
+  {
+   "id": "1-0483",
+   "hanzi": "重",
+   "pinyin": "zhòng",
+   "pos": "tính từ",
+   "meaning": "nặng",
+   "accept": [
+    "重",
+    "zhòng",
+    "zhong"
+   ]
+  },
+  {
+   "id": "1-0484",
+   "hanzi": "重要",
+   "pinyin": "zhòngyào",
+   "pos": "tính từ",
+   "meaning": "quan trọng",
+   "accept": [
+    "重要",
+    "zhòngyào",
+    "zhongyao"
+   ]
+  },
+  {
+   "id": "1-0485",
+   "hanzi": "住",
+   "pinyin": "zhù",
+   "pos": "động từ",
+   "meaning": "ở, sống (cư trú)",
+   "accept": [
+    "住",
+    "zhù",
+    "zhu"
+   ]
+  },
+  {
+   "id": "1-0486",
+   "hanzi": "准备",
+   "pinyin": "zhǔnbèi",
+   "pos": "động từ",
+   "meaning": "chuẩn bị",
+   "accept": [
+    "准备",
+    "zhǔnbèi",
+    "zhunbei"
+   ]
+  },
+  {
+   "id": "1-0487",
+   "hanzi": "桌子",
+   "pinyin": "zhuōzi",
+   "pos": "danh từ",
+   "meaning": "cái bàn",
+   "accept": [
+    "桌子",
+    "zhuōzi",
+    "zhuozi"
+   ]
+  },
+  {
+   "id": "1-0488",
+   "hanzi": "字",
+   "pinyin": "zì",
+   "pos": "danh từ",
+   "meaning": "chữ",
+   "accept": [
+    "字",
+    "zì",
+    "zi"
+   ]
+  },
+  {
+   "id": "1-0489",
+   "hanzi": "子",
+   "pinyin": "zi",
+   "pos": "hậu tố",
+   "meaning": "hậu tố danh từ 子 (VD: 桌子)",
+   "accept": [
+    "子",
+    "zi"
+   ]
+  },
+  {
+   "id": "1-0490",
+   "hanzi": "走",
+   "pinyin": "zǒu",
+   "pos": "động từ",
+   "meaning": "đi, đi bộ; rời đi",
+   "accept": [
+    "走",
+    "zǒu",
+    "zou"
+   ]
+  },
+  {
+   "id": "1-0491",
+   "hanzi": "走路",
+   "pinyin": "zǒulù",
+   "pos": "cụm từ",
+   "meaning": "đi bộ (đi đường)",
+   "accept": [
+    "走路",
+    "zǒulù",
+    "zoulu"
+   ]
+  },
+  {
+   "id": "1-0492",
+   "hanzi": "最",
+   "pinyin": "zuì",
+   "pos": "phó từ",
+   "meaning": "nhất",
+   "accept": [
+    "最",
+    "zuì",
+    "zui"
+   ]
+  },
+  {
+   "id": "1-0493",
+   "hanzi": "最好",
+   "pinyin": "zuìhǎo",
+   "pos": "phó từ",
+   "meaning": "tốt nhất là",
+   "accept": [
+    "最好",
+    "zuìhǎo",
+    "zuihao"
+   ]
+  },
+  {
+   "id": "1-0494",
+   "hanzi": "最后",
+   "pinyin": "zuìhòu",
+   "pos": "danh từ",
+   "meaning": "cuối cùng",
+   "accept": [
+    "最后",
+    "zuìhòu",
+    "zuihou"
+   ]
+  },
+  {
+   "id": "1-0495",
+   "hanzi": "昨天",
+   "pinyin": "zuótiān",
+   "pos": "danh từ",
+   "meaning": "hôm qua",
+   "accept": [
+    "昨天",
+    "zuótiān",
+    "zuotian"
+   ]
+  },
+  {
+   "id": "1-0496",
+   "hanzi": "左",
+   "pinyin": "zuǒ",
+   "pos": "danh từ",
+   "meaning": "trái (bên trái - 1 chữ)",
+   "accept": [
+    "左",
+    "zuǒ",
+    "zuo"
+   ]
+  },
+  {
+   "id": "1-0497",
+   "hanzi": "左边",
+   "pinyin": "zuǒbian",
+   "pos": "danh từ",
+   "meaning": "bên trái",
+   "accept": [
+    "左边",
+    "zuǒbian",
+    "左面",
+    "zuǒmiàn",
+    "zuobian",
+    "zuomian"
+   ]
+  },
+  {
+   "id": "1-0498",
+   "hanzi": "坐",
+   "pinyin": "zuò",
+   "pos": "động từ",
+   "meaning": "ngồi",
+   "accept": [
+    "坐",
+    "zuò",
+    "zuo"
+   ]
+  },
+  {
+   "id": "1-0499",
+   "hanzi": "坐下",
+   "pinyin": "zuòxia",
+   "pos": "cụm từ",
+   "meaning": "ngồi xuống",
+   "accept": [
+    "坐下",
+    "zuòxia",
+    "zuòxià",
+    "zuoxia"
+   ]
+  },
+  {
+   "id": "1-0500",
+   "hanzi": "做",
+   "pinyin": "zuò",
+   "pos": "động từ",
+   "meaning": "làm, chế tạo",
+   "accept": [
+    "做",
+    "zuò",
+    "干",
+    "gàn",
+    "zuo",
+    "gan"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "2-0451",
+  "pos": "động từ",
+  "example": {
+   "zh": "他取得了第一名。",
+   "pinyin": "Tā qǔdé le dì yī míng.",
+   "vi": "Anh ấy đã giành được hạng nhất."
+  }
+ },
+ {
+  "id": "2-0452",
+  "pos": "phó từ, tính từ",
+  "example": {
+   "zh": "我全都吃完了。",
+   "pinyin": "Wǒ quán dōu chī wán le.",
+   "vi": "Tôi đã ăn hết sạch rồi."
+  }
+ },
+ {
+  "id": "2-0453",
+  "pos": "danh từ",
+  "example": {
+   "zh": "作业我全部做完了。",
+   "pinyin": "Zuòyè wǒ quánbù zuò wán le.",
+   "vi": "Bài tập tôi đã làm xong toàn bộ rồi."
+  }
+ },
+ {
+  "id": "2-0454",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个节目全国都能看。",
+   "pinyin": "Zhège jiémù quánguó dōu néng kàn.",
+   "vi": "Chương trình này cả nước đều xem được."
+  }
+ },
+ {
+  "id": "2-0455",
+  "pos": "danh từ",
+  "example": {
+   "zh": "春节我们全家一起吃饭。",
+   "pinyin": "Chūnjié wǒmen quánjiā yìqǐ chīfàn.",
+   "vi": "Tết này cả nhà tôi cùng ăn cơm."
+  }
+ },
+ {
+  "id": "2-0456",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这家店全年都开门。",
+   "pinyin": "Zhè jiā diàn quánnián dōu kāimén.",
+   "vi": "Cửa hàng này mở cửa cả năm."
+  }
+ },
+ {
+  "id": "2-0457",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我全身都湿了。",
+   "pinyin": "Wǒ quánshēn dōu shī le.",
+   "vi": "Tôi ướt hết cả người rồi."
+  }
+ },
+ {
+  "id": "2-0458",
+  "pos": "danh từ",
+  "example": {
+   "zh": "全体同学都来了。",
+   "pinyin": "Quántǐ tóngxué dōu lái le.",
+   "vi": "Toàn thể học sinh đều đã đến."
+  }
+ },
+ {
+  "id": "2-0459",
+  "pos": "liên từ",
+  "example": {
+   "zh": "我先吃饭，然后看书。",
+   "pinyin": "Wǒ xiān chīfàn, ránhòu kànshū.",
+   "vi": "Tôi ăn cơm trước, rồi đọc sách."
+  }
+ },
+ {
+  "id": "2-0460",
+  "pos": "động từ, giới từ",
+  "example": {
+   "zh": "妈妈让我早点睡。",
+   "pinyin": "Māma ràng wǒ zǎo diǎn shuì.",
+   "vi": "Mẹ bảo tôi đi ngủ sớm."
+  }
+ },
+ {
+  "id": "2-0461",
+  "pos": "danh từ, tính từ",
+  "example": {
+   "zh": "他对客人很热情。",
+   "pinyin": "Tā duì kèrén hěn rèqíng.",
+   "vi": "Anh ấy rất nhiệt tình với khách."
+  }
+ },
+ {
+  "id": "2-0462",
+  "pos": "danh từ",
+  "example": {
+   "zh": "中国人口很多。",
+   "pinyin": "Zhōngguó rénkǒu hěn duō.",
+   "vi": "Dân số Trung Quốc rất đông."
+  }
+ },
+ {
+  "id": "2-0463",
+  "pos": "danh từ",
+  "example": {
+   "zh": "人们都喜欢春天。",
+   "pinyin": "Rénmen dōu xǐhuan chūntiān.",
+   "vi": "Mọi người đều thích mùa xuân."
+  }
+ },
+ {
+  "id": "2-0464",
+  "pos": "danh từ",
+  "example": {
+   "zh": "来的人数不少。",
+   "pinyin": "Lái de rénshù bù shǎo.",
+   "vi": "Số người đến không ít."
+  }
+ },
+ {
+  "id": "2-0465",
+  "pos": "động từ",
+  "example": {
+   "zh": "我认为这样很好。",
+   "pinyin": "Wǒ rènwéi zhèyàng hěn hǎo.",
+   "vi": "Tôi cho rằng làm như vậy rất tốt."
+  }
+ },
+ {
+  "id": "2-0466",
+  "pos": "danh từ",
+  "example": {
+   "zh": "爸爸每天看日报。",
+   "pinyin": "Bàba měitiān kàn rìbào.",
+   "vi": "Bố mỗi ngày đọc nhật báo."
+  }
+ },
+ {
+  "id": "2-0467",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这段日子很忙。",
+   "pinyin": "Zhè duàn rìzi hěn máng.",
+   "vi": "Những ngày này rất bận."
+  }
+ },
+ {
+  "id": "2-0468",
+  "pos": "liên từ",
+  "example": {
+   "zh": "如果下雨，我们就不去。",
+   "pinyin": "Rúguǒ xià yǔ, wǒmen jiù bú qù.",
+   "vi": "Nếu trời mưa thì chúng tôi sẽ không đi."
+  }
+ },
+ {
+  "id": "2-0469",
+  "pos": "danh từ",
+  "example": {
+   "zh": "请从这个入口进。",
+   "pinyin": "Qǐng cóng zhège rùkǒu jìn.",
+   "vi": "Xin hãy đi vào từ lối này."
+  }
+ },
+ {
+  "id": "2-0470",
+  "pos": "động từ",
+  "example": {
+   "zh": "我们商量一下吧。",
+   "pinyin": "Wǒmen shāngliang yíxià ba.",
+   "vi": "Chúng ta bàn bạc một chút đi."
+  }
+ },
+ {
+  "id": "2-0471",
+  "pos": "danh từ",
+  "example": {
+   "zh": "他是一个商人。",
+   "pinyin": "Tā shì yí ge shāngrén.",
+   "vi": "Anh ấy là một thương nhân."
+  }
+ },
+ {
+  "id": "2-0472",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "我上周去了北京。",
+   "pinyin": "Wǒ shàng zhōu qù le Běijīng.",
+   "vi": "Tuần trước tôi đã đi Bắc Kinh."
+  }
+ },
+ {
+  "id": "2-0473",
+  "pos": "danh từ",
+  "example": {
+   "zh": "只有少数人来了。",
+   "pinyin": "Zhǐ yǒu shǎoshù rén lái le.",
+   "vi": "Chỉ có một số ít người đến."
+  }
+ },
+ {
+  "id": "2-0474",
+  "pos": "danh từ",
+  "example": {
+   "zh": "那个少年很高。",
+   "pinyin": "Nàge shàonián hěn gāo.",
+   "vi": "Cậu thiếu niên kia rất cao."
+  }
+ },
+ {
+  "id": "2-0475",
+  "pos": "danh từ",
+  "example": {
+   "zh": "他身边有一只猫。",
+   "pinyin": "Tā shēnbiān yǒu yì zhī māo.",
+   "vi": "Bên cạnh anh ấy có một con mèo."
+  }
+ },
+ {
+  "id": "2-0476",
+  "pos": "đại từ",
+  "example": {
+   "zh": "你喜欢什么样的房子？",
+   "pinyin": "Nǐ xǐhuan shénmeyàng de fángzi?",
+   "vi": "Bạn thích loại nhà như thế nào?"
+  }
+ },
+ {
+  "id": "2-0477",
+  "pos": "động từ",
+  "example": {
+   "zh": "我妹妹生了一个儿子。",
+   "pinyin": "Wǒ mèimei shēng le yí ge érzi.",
+   "vi": "Em gái tôi đã sinh một bé trai."
+  }
+ },
+ {
+  "id": "2-0478",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个生词是什么意思？",
+   "pinyin": "Zhège shēngcí shì shénme yìsi?",
+   "vi": "Từ mới này có nghĩa là gì?"
+  }
+ },
+ {
+  "id": "2-0479",
+  "pos": "danh từ, động từ",
+  "example": {
+   "zh": "我喜欢现在的生活。",
+   "pinyin": "Wǒ xǐhuan xiànzài de shēnghuó.",
+   "vi": "Tôi thích cuộc sống hiện tại."
+  }
+ },
+ {
+  "id": "2-0480",
+  "pos": "danh từ",
+  "example": {
+   "zh": "她的声音很好听。",
+   "pinyin": "Tā de shēngyīn hěn hǎotīng.",
+   "vi": "Giọng cô ấy rất hay."
+  }
+ },
+ {
+  "id": "2-0481",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我家在这个省。",
+   "pinyin": "Wǒ jiā zài zhège shěng.",
+   "vi": "Nhà tôi ở tỉnh này."
+  }
+ },
+ {
+  "id": "2-0482",
+  "pos": "động từ",
+  "example": {
+   "zh": "我们要省钱。",
+   "pinyin": "Wǒmen yào shěng qián.",
+   "vi": "Chúng ta phải tiết kiệm tiền."
+  }
+ },
+ {
+  "id": "2-0483",
+  "pos": "phó từ",
+  "example": {
+   "zh": "这个地方十分安静。",
+   "pinyin": "Zhège dìfang shífēn ānjìng.",
+   "vi": "Nơi này vô cùng yên tĩnh."
+  }
+ },
+ {
+  "id": "2-0484",
+  "pos": "danh từ, tính từ",
+  "example": {
+   "zh": "这个想法很实际。",
+   "pinyin": "Zhège xiǎngfǎ hěn shíjì.",
+   "vi": "Ý kiến này rất thực tế."
+  }
+ },
+ {
+  "id": "2-0485",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "他在公司实习。",
+   "pinyin": "Tā zài gōngsī shíxí.",
+   "vi": "Anh ấy đang thực tập ở công ty."
+  }
+ },
+ {
+  "id": "2-0486",
+  "pos": "động từ",
+  "example": {
+   "zh": "我要实现我的梦想。",
+   "pinyin": "Wǒ yào shíxiàn wǒ de mèngxiǎng.",
+   "vi": "Tôi muốn thực hiện ước mơ của mình."
+  }
+ },
+ {
+  "id": "2-0487",
+  "pos": "phó từ",
+  "example": {
+   "zh": "实在太好吃了！",
+   "pinyin": "Shízài tài hǎochī le!",
+   "vi": "Thật sự quá ngon!"
+  }
+ },
+ {
+  "id": "2-0488",
+  "pos": "tính từ",
+  "example": {
+   "zh": "他很实在，做事认真。",
+   "pinyin": "Tā hěn shízai, zuòshì rènzhēn.",
+   "vi": "Anh ấy rất thật thà, làm việc nghiêm túc."
+  }
+ },
+ {
+  "id": "2-0489",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这里的食物很好吃。",
+   "pinyin": "Zhèli de shíwù hěn hǎochī.",
+   "vi": "Đồ ăn ở đây rất ngon."
+  }
+ },
+ {
+  "id": "2-0490",
+  "pos": "động từ",
+  "example": {
+   "zh": "请使用这支笔。",
+   "pinyin": "Qǐng shǐyòng zhè zhī bǐ.",
+   "vi": "Xin hãy sử dụng cây bút này."
+  }
+ },
+ {
+  "id": "2-0491",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个市很大。",
+   "pinyin": "Zhège shì hěn dà.",
+   "vi": "Thành phố này rất lớn."
+  }
+ },
+ {
+  "id": "2-0492",
+  "pos": "danh từ",
+  "example": {
+   "zh": "市长今天来了。",
+   "pinyin": "Shìzhǎng jīntiān lái le.",
+   "vi": "Thị trưởng hôm nay đã đến."
+  }
+ },
+ {
+  "id": "2-0493",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我有一件事情要做。",
+   "pinyin": "Wǒ yǒu yí jiàn shìqing yào zuò.",
+   "vi": "Tôi có một việc phải làm."
+  }
+ },
+ {
+  "id": "2-0494",
+  "pos": "động từ",
+  "example": {
+   "zh": "请收下这个礼物。",
+   "pinyin": "Qǐng shōuxià zhège lǐwù.",
+   "vi": "Xin hãy nhận lấy món quà này."
+  }
+ },
+ {
+  "id": "2-0495",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "我昨天收到了你的信。",
+   "pinyin": "Wǒ zuótiān shōudào le nǐ de xìn.",
+   "vi": "Hôm qua tôi đã nhận được thư của bạn."
+  }
+ },
+ {
+  "id": "2-0496",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "他的收入很高。",
+   "pinyin": "Tā de shōurù hěn gāo.",
+   "vi": "Thu nhập của anh ấy rất cao."
+  }
+ },
+ {
+  "id": "2-0497",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我的手表很贵。",
+   "pinyin": "Wǒ de shǒubiǎo hěn guì.",
+   "vi": "Đồng hồ đeo tay của tôi rất đắt."
+  }
+ },
+ {
+  "id": "2-0498",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "他受到了大家的欢迎。",
+   "pinyin": "Tā shòudào le dàjiā de huānyíng.",
+   "vi": "Anh ấy được mọi người hoan nghênh."
+  }
+ },
+ {
+  "id": "2-0499",
+  "pos": "tính từ",
+  "example": {
+   "zh": "今天天气很舒服。",
+   "pinyin": "Jīntiān tiānqì hěn shūfu.",
+   "vi": "Hôm nay thời tiết rất dễ chịu."
+  }
+ },
+ {
+  "id": "2-0500",
+  "pos": "tính từ",
+  "example": {
+   "zh": "这个西瓜很熟。",
+   "pinyin": "Zhège xīguā hěn shú.",
+   "vi": "Quả dưa hấu này chín rồi."
+  }
+ }
+]

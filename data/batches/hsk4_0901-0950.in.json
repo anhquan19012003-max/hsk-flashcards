@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0901",
+  "hanzi": "于是",
+  "pinyin": "yúshì",
+  "pos": "",
+  "meaning": "vì vậy",
+  "level": 4
+ },
+ {
+  "id": "4-0902",
+  "hanzi": "语法",
+  "pinyin": "yǔfǎ",
+  "pos": "",
+  "meaning": "ngữ pháp",
+  "level": 4
+ },
+ {
+  "id": "4-0903",
+  "hanzi": "语音",
+  "pinyin": "yǔ yīn",
+  "pos": "",
+  "meaning": "âm thanh",
+  "level": 4
+ },
+ {
+  "id": "4-0904",
+  "hanzi": "玉",
+  "pinyin": "yù",
+  "pos": "",
+  "meaning": "ngọc",
+  "level": 4
+ },
+ {
+  "id": "4-0905",
+  "hanzi": "玉米",
+  "pinyin": "yùmǐ",
+  "pos": "",
+  "meaning": "ngô",
+  "level": 4
+ },
+ {
+  "id": "4-0906",
+  "hanzi": "预测",
+  "pinyin": "yù cè",
+  "pos": "",
+  "meaning": "dự đoán",
+  "level": 4
+ },
+ {
+  "id": "4-0907",
+  "hanzi": "预订",
+  "pinyin": "yùdìng",
+  "pos": "",
+  "meaning": "đặt trước",
+  "level": 4
+ },
+ {
+  "id": "4-0908",
+  "hanzi": "遇",
+  "pinyin": "yù",
+  "pos": "",
+  "meaning": "gặp (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0909",
+  "hanzi": "遇到",
+  "pinyin": "yùdào",
+  "pos": "",
+  "meaning": "gặp phải",
+  "level": 4
+ },
+ {
+  "id": "4-0910",
+  "hanzi": "遇见",
+  "pinyin": "yù jiàn",
+  "pos": "",
+  "meaning": "gặp",
+  "level": 4
+ },
+ {
+  "id": "4-0911",
+  "hanzi": "原料",
+  "pinyin": "yuánliào",
+  "pos": "",
+  "meaning": "nguyên liệu",
+  "level": 4
+ },
+ {
+  "id": "4-0912",
+  "hanzi": "原则",
+  "pinyin": "yuánzé",
+  "pos": "",
+  "meaning": "nguyên tắc",
+  "level": 4
+ },
+ {
+  "id": "4-0913",
+  "hanzi": "圆",
+  "pinyin": "yuán",
+  "pos": "",
+  "meaning": "tròn",
+  "level": 4
+ },
+ {
+  "id": "4-0914",
+  "hanzi": "圆满",
+  "pinyin": "yuánmǎn",
+  "pos": "",
+  "meaning": "viên mãn",
+  "level": 4
+ },
+ {
+  "id": "4-0915",
+  "hanzi": "约会",
+  "pinyin": "yuēhuì",
+  "pos": "",
+  "meaning": "hẹn hò",
+  "level": 4
+ },
+ {
+  "id": "4-0916",
+  "hanzi": "月底",
+  "pinyin": "yuè dǐ",
+  "pos": "",
+  "meaning": "cuối tháng",
+  "level": 4
+ },
+ {
+  "id": "4-0917",
+  "hanzi": "阅读",
+  "pinyin": "yuèdú",
+  "pos": "",
+  "meaning": "đọc hiểu",
+  "level": 4
+ },
+ {
+  "id": "4-0918",
+  "hanzi": "运动会",
+  "pinyin": "yùn dòng huì",
+  "pos": "",
+  "meaning": "đại hội thể thao",
+  "level": 4
+ },
+ {
+  "id": "4-0919",
+  "hanzi": "运动员",
+  "pinyin": "yùn dòng yuán",
+  "pos": "",
+  "meaning": "vận động viên",
+  "level": 4
+ },
+ {
+  "id": "4-0920",
+  "hanzi": "运气",
+  "pinyin": "yùnqi",
+  "pos": "",
+  "meaning": "vận may",
+  "level": 4
+ },
+ {
+  "id": "4-0921",
+  "hanzi": "运用",
+  "pinyin": "yùnyòng",
+  "pos": "",
+  "meaning": "vận dụng",
+  "level": 4
+ },
+ {
+  "id": "4-0922",
+  "hanzi": "再三",
+  "pinyin": "zàisān",
+  "pos": "",
+  "meaning": "nhiều lần",
+  "level": 4
+ },
+ {
+  "id": "4-0923",
+  "hanzi": "在乎",
+  "pinyin": "zàihu",
+  "pos": "",
+  "meaning": "quan tâm",
+  "level": 4
+ },
+ {
+  "id": "4-0924",
+  "hanzi": "在于",
+  "pinyin": "zàiyú",
+  "pos": "",
+  "meaning": "ở chỗ",
+  "level": 4
+ },
+ {
+  "id": "4-0925",
+  "hanzi": "赞成",
+  "pinyin": "zànchéng",
+  "pos": "",
+  "meaning": "tán thành",
+  "level": 4
+ },
+ {
+  "id": "4-0926",
+  "hanzi": "赞赏",
+  "pinyin": "zàn shǎng",
+  "pos": "",
+  "meaning": "tán thưởng",
+  "level": 4
+ },
+ {
+  "id": "4-0927",
+  "hanzi": "赞助",
+  "pinyin": "zànzhù",
+  "pos": "",
+  "meaning": "tài trợ",
+  "level": 4
+ },
+ {
+  "id": "4-0928",
+  "hanzi": "造型",
+  "pinyin": "zàoxíng",
+  "pos": "",
+  "meaning": "tạo hình",
+  "level": 4
+ },
+ {
+  "id": "4-0929",
+  "hanzi": "战斗",
+  "pinyin": "zhàndòu",
+  "pos": "",
+  "meaning": "chiến đấu",
+  "level": 4
+ },
+ {
+  "id": "4-0930",
+  "hanzi": "战胜",
+  "pinyin": "zhàn shèng",
+  "pos": "",
+  "meaning": "chiến thắng",
+  "level": 4
+ },
+ {
+  "id": "4-0931",
+  "hanzi": "战士",
+  "pinyin": "zhàn shì",
+  "pos": "",
+  "meaning": "chiến sĩ",
+  "level": 4
+ },
+ {
+  "id": "4-0932",
+  "hanzi": "战争",
+  "pinyin": "zhànzhēng",
+  "pos": "",
+  "meaning": "chiến tranh",
+  "level": 4
+ },
+ {
+  "id": "4-0933",
+  "hanzi": "丈夫",
+  "pinyin": "zhàngfu",
+  "pos": "",
+  "meaning": "chồng",
+  "level": 4
+ },
+ {
+  "id": "4-0934",
+  "hanzi": "招呼",
+  "pinyin": "zhāo hu",
+  "pos": "",
+  "meaning": "chào hỏi",
+  "level": 4
+ },
+ {
+  "id": "4-0935",
+  "hanzi": "着",
+  "pinyin": "zhe",
+  "pos": "",
+  "meaning": "đang (trợ từ động thái)",
+  "level": 4
+ },
+ {
+  "id": "4-0936",
+  "hanzi": "着火",
+  "pinyin": "zháohuǒ",
+  "pos": "",
+  "meaning": "bốc cháy",
+  "level": 4
+ },
+ {
+  "id": "4-0937",
+  "hanzi": "着急",
+  "pinyin": "zháojí",
+  "pos": "",
+  "meaning": "sốt ruột",
+  "level": 4
+ },
+ {
+  "id": "4-0938",
+  "hanzi": "召开",
+  "pinyin": "zhàokāi",
+  "pos": "",
+  "meaning": "triệu tập",
+  "level": 4
+ },
+ {
+  "id": "4-0939",
+  "hanzi": "折",
+  "pinyin": "zhé",
+  "pos": "",
+  "meaning": "gãy, bẻ",
+  "level": 4
+ },
+ {
+  "id": "4-0940",
+  "hanzi": "针",
+  "pinyin": "zhēn",
+  "pos": "",
+  "meaning": "kim",
+  "level": 4
+ },
+ {
+  "id": "4-0941",
+  "hanzi": "针对",
+  "pinyin": "zhēnduì",
+  "pos": "",
+  "meaning": "nhằm vào",
+  "level": 4
+ },
+ {
+  "id": "4-0942",
+  "hanzi": "阵",
+  "pinyin": "zhèn",
+  "pos": "",
+  "meaning": "mặt trận",
+  "level": 4
+ },
+ {
+  "id": "4-0943",
+  "hanzi": "争论",
+  "pinyin": "zhēnglùn",
+  "pos": "",
+  "meaning": "tranh luận",
+  "level": 4
+ },
+ {
+  "id": "4-0944",
+  "hanzi": "征服",
+  "pinyin": "zhēngfú",
+  "pos": "",
+  "meaning": "chinh phục",
+  "level": 4
+ },
+ {
+  "id": "4-0945",
+  "hanzi": "征求",
+  "pinyin": "zhēngqiú",
+  "pos": "",
+  "meaning": "xin ý kiến",
+  "level": 4
+ },
+ {
+  "id": "4-0946",
+  "hanzi": "政府",
+  "pinyin": "zhèngfǔ",
+  "pos": "",
+  "meaning": "chính phủ",
+  "level": 4
+ },
+ {
+  "id": "4-0947",
+  "hanzi": "政治",
+  "pinyin": "zhèngzhì",
+  "pos": "",
+  "meaning": "chính trị",
+  "level": 4
+ },
+ {
+  "id": "4-0948",
+  "hanzi": "之后",
+  "pinyin": "zhī hòu",
+  "pos": "",
+  "meaning": "sau đó",
+  "level": 4
+ },
+ {
+  "id": "4-0949",
+  "hanzi": "之间",
+  "pinyin": "zhī jiān",
+  "pos": "",
+  "meaning": "giữa",
+  "level": 4
+ },
+ {
+  "id": "4-0950",
+  "hanzi": "之前",
+  "pinyin": "zhī qián",
+  "pos": "",
+  "meaning": "trước đó",
+  "level": 4
+ }
+]

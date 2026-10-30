@@ -1,0 +1,200 @@
+[
+ {
+  "id": "2-0751",
+  "pos": "đại từ",
+  "example": {
+   "zh": "我自己做饭。",
+   "pinyin": "Wǒ zìjǐ zuò fàn.",
+   "vi": "Tôi tự mình nấu cơm."
+  }
+ },
+ {
+  "id": "2-0752",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我的自行车很新。",
+   "pinyin": "Wǒ de zìxíngchē hěn xīn.",
+   "vi": "Xe đạp của tôi rất mới."
+  }
+ },
+ {
+  "id": "2-0753",
+  "pos": "danh từ, tính từ",
+  "example": {
+   "zh": "星期天我很自由。",
+   "pinyin": "Xīngqītiān wǒ hěn zìyóu.",
+   "vi": "Chủ nhật tôi thoải mái, không bị ràng buộc."
+  }
+ },
+ {
+  "id": "2-0754",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这本字典很好。",
+   "pinyin": "Zhè běn zìdiǎn hěn hǎo.",
+   "vi": "Cuốn từ điển này rất tốt."
+  }
+ },
+ {
+  "id": "2-0755",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "我走过门口。",
+   "pinyin": "Wǒ zǒuguò ménkǒu.",
+   "vi": "Tôi đi qua cửa."
+  }
+ },
+ {
+  "id": "2-0756",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "她走进教室。",
+   "pinyin": "Tā zǒujìn jiàoshì.",
+   "vi": "Cô ấy đi vào lớp học."
+  }
+ },
+ {
+  "id": "2-0757",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "请你走开。",
+   "pinyin": "Qǐng nǐ zǒukāi.",
+   "vi": "Làm ơn tránh ra."
+  }
+ },
+ {
+  "id": "2-0758",
+  "pos": "động từ",
+  "example": {
+   "zh": "我租了一个房子。",
+   "pinyin": "Wǒ zū le yí ge fángzi.",
+   "vi": "Tôi đã thuê một căn nhà."
+  }
+ },
+ {
+  "id": "2-0759",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "我们组有五个人。",
+   "pinyin": "Wǒmen zǔ yǒu wǔ ge rén.",
+   "vi": "Nhóm chúng tôi có năm người."
+  }
+ },
+ {
+  "id": "2-0760",
+  "pos": "động từ",
+  "example": {
+   "zh": "很多人组成一个班。",
+   "pinyin": "Hěn duō rén zǔchéng yí ge bān.",
+   "vi": "Rất nhiều người tạo thành một lớp."
+  }
+ },
+ {
+  "id": "2-0761",
+  "pos": "danh từ",
+  "example": {
+   "zh": "他是我们的组长。",
+   "pinyin": "Tā shì wǒmen de zǔzhǎng.",
+   "vi": "Anh ấy là tổ trưởng của chúng tôi."
+  }
+ },
+ {
+  "id": "2-0762",
+  "pos": "danh từ",
+  "example": {
+   "zh": "她的嘴很小。",
+   "pinyin": "Tā de zuǐ hěn xiǎo.",
+   "vi": "Miệng của cô ấy rất nhỏ."
+  }
+ },
+ {
+  "id": "2-0763",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我最近很忙。",
+   "pinyin": "Wǒ zuìjìn hěn máng.",
+   "vi": "Gần đây tôi rất bận."
+  }
+ },
+ {
+  "id": "2-0764",
+  "pos": "danh từ",
+  "example": {
+   "zh": "他是一个作家。",
+   "pinyin": "Tā shì yí ge zuòjiā.",
+   "vi": "Anh ấy là một nhà văn."
+  }
+ },
+ {
+  "id": "2-0765",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我的作文很好。",
+   "pinyin": "Wǒ de zuòwén hěn hǎo.",
+   "vi": "Bài văn của tôi rất hay."
+  }
+ },
+ {
+  "id": "2-0766",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我做完作业了。",
+   "pinyin": "Wǒ zuòwán zuòyè le.",
+   "vi": "Tôi làm xong bài tập rồi."
+  }
+ },
+ {
+  "id": "2-0767",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个药有很大作用。",
+   "pinyin": "Zhège yào yǒu hěn dà zuòyòng.",
+   "vi": "Thuốc này có tác dụng rất lớn."
+  }
+ },
+ {
+  "id": "2-0768",
+  "pos": "lượng từ",
+  "example": {
+   "zh": "这座山很高。",
+   "pinyin": "Zhè zuò shān hěn gāo.",
+   "vi": "Ngọn núi này rất cao."
+  }
+ },
+ {
+  "id": "2-0769",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这是我的座位。",
+   "pinyin": "Zhè shì wǒ de zuòwèi.",
+   "vi": "Đây là chỗ ngồi của tôi."
+  }
+ },
+ {
+  "id": "2-0770",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "我一定能做到。",
+   "pinyin": "Wǒ yídìng néng zuòdào.",
+   "vi": "Tôi nhất định làm được."
+  }
+ },
+ {
+  "id": "2-0771",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个菜的做法很简单。",
+   "pinyin": "Zhège cài de zuòfǎ hěn jiǎndān.",
+   "vi": "Cách làm món này rất đơn giản."
+  }
+ },
+ {
+  "id": "2-0772",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "妈妈每天做饭。",
+   "pinyin": "Māma měitiān zuòfàn.",
+   "vi": "Mẹ nấu cơm mỗi ngày."
+  }
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0101",
+  "hanzi": "等于",
+  "pinyin": "děngyú",
+  "pos": "",
+  "meaning": "bằng với",
+  "level": 5
+ },
+ {
+  "id": "5-0102",
+  "hanzi": "滴",
+  "pinyin": "dī",
+  "pos": "",
+  "meaning": "giọt",
+  "level": 5
+ },
+ {
+  "id": "5-0103",
+  "hanzi": "敌人",
+  "pinyin": "dírén",
+  "pos": "",
+  "meaning": "kẻ thù",
+  "level": 5
+ },
+ {
+  "id": "5-0104",
+  "hanzi": "递",
+  "pinyin": "dì",
+  "pos": "",
+  "meaning": "đưa, chuyển",
+  "level": 5
+ },
+ {
+  "id": "5-0105",
+  "hanzi": "地毯",
+  "pinyin": "dìtǎn",
+  "pos": "",
+  "meaning": "thảm",
+  "level": 5
+ },
+ {
+  "id": "5-0106",
+  "hanzi": "地震",
+  "pinyin": "dìzhèn",
+  "pos": "",
+  "meaning": "động đất",
+  "level": 5
+ },
+ {
+  "id": "5-0107",
+  "hanzi": "电池",
+  "pinyin": "diànchí",
+  "pos": "",
+  "meaning": "pin",
+  "level": 5
+ },
+ {
+  "id": "5-0108",
+  "hanzi": "顶",
+  "pinyin": "dǐng",
+  "pos": "",
+  "meaning": "đỉnh",
+  "level": 5
+ },
+ {
+  "id": "5-0109",
+  "hanzi": "冻",
+  "pinyin": "dòng",
+  "pos": "",
+  "meaning": "đông lạnh",
+  "level": 5
+ },
+ {
+  "id": "5-0110",
+  "hanzi": "动画片",
+  "pinyin": "dònghuàpià",
+  "pos": "",
+  "meaning": "phim hoạt hình",
+  "level": 5
+ },
+ {
+  "id": "5-0111",
+  "hanzi": "逗",
+  "pinyin": "dòu",
+  "pos": "",
+  "meaning": "trêu chọc",
+  "level": 5
+ },
+ {
+  "id": "5-0112",
+  "hanzi": "独特",
+  "pinyin": "dútè",
+  "pos": "",
+  "meaning": "độc đáo",
+  "level": 5
+ },
+ {
+  "id": "5-0113",
+  "hanzi": "度过",
+  "pinyin": "dùguò",
+  "pos": "",
+  "meaning": "trải qua",
+  "level": 5
+ },
+ {
+  "id": "5-0114",
+  "hanzi": "对比",
+  "pinyin": "duìbǐ",
+  "pos": "",
+  "meaning": "so sánh",
+  "level": 5
+ },
+ {
+  "id": "5-0115",
+  "hanzi": "对待",
+  "pinyin": "duìdài",
+  "pos": "",
+  "meaning": "đối đãi",
+  "level": 5
+ },
+ {
+  "id": "5-0116",
+  "hanzi": "对手",
+  "pinyin": "duìshǒu",
+  "pos": "",
+  "meaning": "đối thủ",
+  "level": 5
+ },
+ {
+  "id": "5-0117",
+  "hanzi": "吨",
+  "pinyin": "dūn",
+  "pos": "",
+  "meaning": "tấn",
+  "level": 5
+ },
+ {
+  "id": "5-0118",
+  "hanzi": "顿",
+  "pinyin": "dùn",
+  "pos": "",
+  "meaning": "bữa (ăn, đánh, mắng...)",
+  "level": 5
+ },
+ {
+  "id": "5-0119",
+  "hanzi": "多亏",
+  "pinyin": "duōkuī",
+  "pos": "",
+  "meaning": "may mà",
+  "level": 5
+ },
+ {
+  "id": "5-0120",
+  "hanzi": "朵",
+  "pinyin": "duǒ",
+  "pos": "",
+  "meaning": "đóa",
+  "level": 5
+ },
+ {
+  "id": "5-0121",
+  "hanzi": "发表",
+  "pinyin": "fābiǎo",
+  "pos": "",
+  "meaning": "phát biểu, công bố",
+  "level": 5
+ },
+ {
+  "id": "5-0122",
+  "hanzi": "发达",
+  "pinyin": "fādá",
+  "pos": "",
+  "meaning": "phát triển",
+  "level": 5
+ },
+ {
+  "id": "5-0123",
+  "hanzi": "发挥",
+  "pinyin": "fāhuī",
+  "pos": "",
+  "meaning": "phát huy",
+  "level": 5
+ },
+ {
+  "id": "5-0124",
+  "hanzi": "发票",
+  "pinyin": "fāpiào",
+  "pos": "",
+  "meaning": "hóa đơn",
+  "level": 5
+ },
+ {
+  "id": "5-0125",
+  "hanzi": "发言",
+  "pinyin": "fāyán",
+  "pos": "",
+  "meaning": "phát biểu",
+  "level": 5
+ },
+ {
+  "id": "5-0126",
+  "hanzi": "罚款",
+  "pinyin": "fákuǎn",
+  "pos": "",
+  "meaning": "phạt tiền",
+  "level": 5
+ },
+ {
+  "id": "5-0127",
+  "hanzi": "法院",
+  "pinyin": "fǎyuàn",
+  "pos": "",
+  "meaning": "tòa án",
+  "level": 5
+ },
+ {
+  "id": "5-0128",
+  "hanzi": "繁荣",
+  "pinyin": "fánróng",
+  "pos": "",
+  "meaning": "phồn vinh",
+  "level": 5
+ },
+ {
+  "id": "5-0129",
+  "hanzi": "反而",
+  "pinyin": "fǎn'ér",
+  "pos": "",
+  "meaning": "ngược lại",
+  "level": 5
+ },
+ {
+  "id": "5-0130",
+  "hanzi": "反应",
+  "pinyin": "fǎnyìng",
+  "pos": "",
+  "meaning": "phản ứng",
+  "level": 5
+ },
+ {
+  "id": "5-0131",
+  "hanzi": "反正",
+  "pinyin": "fǎnzhèng",
+  "pos": "",
+  "meaning": "dù sao",
+  "level": 5
+ },
+ {
+  "id": "5-0132",
+  "hanzi": "范围",
+  "pinyin": "fànwéi",
+  "pos": "",
+  "meaning": "phạm vi",
+  "level": 5
+ },
+ {
+  "id": "5-0133",
+  "hanzi": "方案",
+  "pinyin": "fāng'àn",
+  "pos": "",
+  "meaning": "phương án",
+  "level": 5
+ },
+ {
+  "id": "5-0134",
+  "hanzi": "方式",
+  "pinyin": "fāngshì",
+  "pos": "",
+  "meaning": "phương thức",
+  "level": 5
+ },
+ {
+  "id": "5-0135",
+  "hanzi": "妨碍",
+  "pinyin": "fáng'ài",
+  "pos": "",
+  "meaning": "cản trở",
+  "level": 5
+ },
+ {
+  "id": "5-0136",
+  "hanzi": "肥皂",
+  "pinyin": "féizào",
+  "pos": "",
+  "meaning": "xà phòng",
+  "level": 5
+ },
+ {
+  "id": "5-0137",
+  "hanzi": "分布",
+  "pinyin": "fēnbù",
+  "pos": "",
+  "meaning": "phân bố",
+  "level": 5
+ },
+ {
+  "id": "5-0138",
+  "hanzi": "分手",
+  "pinyin": "fēnshǒu",
+  "pos": "",
+  "meaning": "chia tay",
+  "level": 5
+ },
+ {
+  "id": "5-0139",
+  "hanzi": "风景",
+  "pinyin": "fēngjǐng",
+  "pos": "",
+  "meaning": "phong cảnh",
+  "level": 5
+ },
+ {
+  "id": "5-0140",
+  "hanzi": "风险",
+  "pinyin": "fēngxiǎn",
+  "pos": "",
+  "meaning": "rủi ro",
+  "level": 5
+ },
+ {
+  "id": "5-0141",
+  "hanzi": "讽刺",
+  "pinyin": "fěngcì",
+  "pos": "",
+  "meaning": "châm biếm",
+  "level": 5
+ },
+ {
+  "id": "5-0142",
+  "hanzi": "否认",
+  "pinyin": "fǒurèn",
+  "pos": "",
+  "meaning": "phủ nhận",
+  "level": 5
+ },
+ {
+  "id": "5-0143",
+  "hanzi": "扶",
+  "pinyin": "fú",
+  "pos": "",
+  "meaning": "đỡ",
+  "level": 5
+ },
+ {
+  "id": "5-0144",
+  "hanzi": "复制",
+  "pinyin": "fùzhì",
+  "pos": "",
+  "meaning": "sao chép",
+  "level": 5
+ },
+ {
+  "id": "5-0145",
+  "hanzi": "改进",
+  "pinyin": "gǎijìn",
+  "pos": "",
+  "meaning": "cải tiến",
+  "level": 5
+ },
+ {
+  "id": "5-0146",
+  "hanzi": "改正",
+  "pinyin": "gǎizhèng",
+  "pos": "",
+  "meaning": "sửa sai",
+  "level": 5
+ },
+ {
+  "id": "5-0147",
+  "hanzi": "概括",
+  "pinyin": "gàikuò",
+  "pos": "",
+  "meaning": "khái quát",
+  "level": 5
+ },
+ {
+  "id": "5-0148",
+  "hanzi": "感想",
+  "pinyin": "gǎnxiǎng",
+  "pos": "",
+  "meaning": "cảm tưởng",
+  "level": 5
+ },
+ {
+  "id": "5-0149",
+  "hanzi": "赶快",
+  "pinyin": "gǎnkuài",
+  "pos": "",
+  "meaning": "mau chóng",
+  "level": 5
+ },
+ {
+  "id": "5-0150",
+  "hanzi": "干活儿",
+  "pinyin": "gànhuór",
+  "pos": "",
+  "meaning": "làm việc",
+  "level": 5
+ }
+]

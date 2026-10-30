@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0201",
+  "hanzi": "关机",
+  "pinyin": "guānjī",
+  "pos": "cụm từ",
+  "meaning": "tắt máy",
+  "level": 2
+ },
+ {
+  "id": "2-0202",
+  "hanzi": "关心",
+  "pinyin": "guānxīn",
+  "pos": "động từ",
+  "meaning": "quan tâm",
+  "level": 2
+ },
+ {
+  "id": "2-0203",
+  "hanzi": "观点",
+  "pinyin": "guāndiǎn",
+  "pos": "danh từ",
+  "meaning": "quan điểm (观点)",
+  "level": 2
+ },
+ {
+  "id": "2-0204",
+  "hanzi": "广场",
+  "pinyin": "guǎngchǎng",
+  "pos": "danh từ",
+  "meaning": "quảng trường",
+  "level": 2
+ },
+ {
+  "id": "2-0205",
+  "hanzi": "广告",
+  "pinyin": "guǎnggào",
+  "pos": "danh từ",
+  "meaning": "quảng cáo",
+  "level": 2
+ },
+ {
+  "id": "2-0206",
+  "hanzi": "国际",
+  "pinyin": "guójì",
+  "pos": "danh từ",
+  "meaning": "quốc tế",
+  "level": 2
+ },
+ {
+  "id": "2-0207",
+  "hanzi": "过来",
+  "pinyin": "guòlái",
+  "pos": "động từ",
+  "meaning": "đi tới, lại đây",
+  "level": 2
+ },
+ {
+  "id": "2-0208",
+  "hanzi": "过年",
+  "pinyin": "guònián",
+  "pos": "cụm từ",
+  "meaning": "ăn Tết, đón năm mới",
+  "level": 2
+ },
+ {
+  "id": "2-0209",
+  "hanzi": "过去",
+  "pinyin": "guòqù",
+  "pos": "động từ",
+  "meaning": "đi qua; quá khứ, đã qua",
+  "level": 2
+ },
+ {
+  "id": "2-0210",
+  "hanzi": "过",
+  "pinyin": "guo",
+  "pos": "trợ từ",
+  "meaning": "đã từng (trợ từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0211",
+  "hanzi": "海",
+  "pinyin": "hǎi",
+  "pos": "danh từ",
+  "meaning": "biển (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0212",
+  "hanzi": "海边",
+  "pinyin": "hǎi biān",
+  "pos": "cụm từ",
+  "meaning": "bờ biển",
+  "level": 2
+ },
+ {
+  "id": "2-0213",
+  "hanzi": "喊",
+  "pinyin": "hǎn",
+  "pos": "động từ",
+  "meaning": "hét, kêu, gọi to",
+  "level": 2
+ },
+ {
+  "id": "2-0214",
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "pos": "phó từ",
+  "meaning": "thật, quá (好 + tính từ, VD: 好冷)",
+  "level": 2
+ },
+ {
+  "id": "2-0215",
+  "hanzi": "好处",
+  "pinyin": "hǎochù",
+  "pos": "danh từ",
+  "meaning": "lợi ích, cái lợi",
+  "level": 2
+ },
+ {
+  "id": "2-0216",
+  "hanzi": "好多",
+  "pinyin": "hǎoduō",
+  "pos": "số từ",
+  "meaning": "rất nhiều (好多)",
+  "level": 2
+ },
+ {
+  "id": "2-0217",
+  "hanzi": "好久",
+  "pinyin": "hǎojiǔ",
+  "pos": "tính từ",
+  "meaning": "lâu lắm rồi",
+  "level": 2
+ },
+ {
+  "id": "2-0218",
+  "hanzi": "好人",
+  "pinyin": "hǎorén",
+  "pos": "danh từ",
+  "meaning": "người tốt",
+  "level": 2
+ },
+ {
+  "id": "2-0219",
+  "hanzi": "好事",
+  "pinyin": "hǎoshì",
+  "pos": "danh từ",
+  "meaning": "việc tốt",
+  "level": 2
+ },
+ {
+  "id": "2-0220",
+  "hanzi": "好像",
+  "pinyin": "hǎoxiàng",
+  "pos": "tính từ",
+  "meaning": "hình như, dường như",
+  "level": 2
+ },
+ {
+  "id": "2-0221",
+  "hanzi": "合适",
+  "pinyin": "héshì",
+  "pos": "tính từ",
+  "meaning": "phù hợp, vừa vặn",
+  "level": 2
+ },
+ {
+  "id": "2-0222",
+  "hanzi": "河",
+  "pinyin": "hé",
+  "pos": "danh từ",
+  "meaning": "sông",
+  "level": 2
+ },
+ {
+  "id": "2-0223",
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "pos": "tính từ",
+  "meaning": "đen; tối",
+  "level": 2
+ },
+ {
+  "id": "2-0224",
+  "hanzi": "黑板",
+  "pinyin": "hēibǎn",
+  "pos": "danh từ",
+  "meaning": "bảng đen",
+  "level": 2
+ },
+ {
+  "id": "2-0225",
+  "hanzi": "黑色",
+  "pinyin": "hēisè",
+  "pos": "danh từ",
+  "meaning": "màu đen",
+  "level": 2
+ },
+ {
+  "id": "2-0226",
+  "hanzi": "红",
+  "pinyin": "hóng",
+  "pos": "tính từ",
+  "meaning": "đỏ",
+  "level": 2
+ },
+ {
+  "id": "2-0227",
+  "hanzi": "红色",
+  "pinyin": "hóngsè",
+  "pos": "danh từ",
+  "meaning": "màu đỏ",
+  "level": 2
+ },
+ {
+  "id": "2-0228",
+  "hanzi": "后来",
+  "pinyin": "hòulái",
+  "pos": "danh từ",
+  "meaning": "về sau, sau đó (trong quá khứ)",
+  "level": 2
+ },
+ {
+  "id": "2-0229",
+  "hanzi": "忽然",
+  "pinyin": "hūrán",
+  "pos": "phó từ",
+  "meaning": "đột nhiên",
+  "level": 2
+ },
+ {
+  "id": "2-0230",
+  "hanzi": "湖",
+  "pinyin": "hú",
+  "pos": "danh từ",
+  "meaning": "hồ",
+  "level": 2
+ },
+ {
+  "id": "2-0231",
+  "hanzi": "护照",
+  "pinyin": "hùzhào",
+  "pos": "danh từ",
+  "meaning": "hộ chiếu",
+  "level": 2
+ },
+ {
+  "id": "2-0232",
+  "hanzi": "花",
+  "pinyin": "huā",
+  "pos": "động từ",
+  "meaning": "tiêu, tốn (tiền, thời gian)",
+  "level": 2
+ },
+ {
+  "id": "2-0233",
+  "hanzi": "花园",
+  "pinyin": "huāyuán",
+  "pos": "danh từ",
+  "meaning": "vườn hoa",
+  "level": 2
+ },
+ {
+  "id": "2-0234",
+  "hanzi": "画",
+  "pinyin": "huà",
+  "pos": "động từ",
+  "meaning": "vẽ",
+  "level": 2
+ },
+ {
+  "id": "2-0235",
+  "hanzi": "画家",
+  "pinyin": "huàjiā",
+  "pos": "danh từ",
+  "meaning": "họa sĩ",
+  "level": 2
+ },
+ {
+  "id": "2-0236",
+  "hanzi": "画儿",
+  "pinyin": "huàr",
+  "pos": "danh từ",
+  "meaning": "bức tranh",
+  "level": 2
+ },
+ {
+  "id": "2-0237",
+  "hanzi": "坏处",
+  "pinyin": "huàichù",
+  "pos": "danh từ",
+  "meaning": "tác hại, cái hại",
+  "level": 2
+ },
+ {
+  "id": "2-0238",
+  "hanzi": "坏人",
+  "pinyin": "huàirén",
+  "pos": "danh từ",
+  "meaning": "người xấu",
+  "level": 2
+ },
+ {
+  "id": "2-0239",
+  "hanzi": "欢迎",
+  "pinyin": "huānyíng",
+  "pos": "động từ",
+  "meaning": "hoan nghênh, chào mừng",
+  "level": 2
+ },
+ {
+  "id": "2-0240",
+  "hanzi": "换",
+  "pinyin": "huàn",
+  "pos": "động từ",
+  "meaning": "đổi, thay",
+  "level": 2
+ },
+ {
+  "id": "2-0241",
+  "hanzi": "黄",
+  "pinyin": "huáng",
+  "pos": "tính từ",
+  "meaning": "vàng",
+  "level": 2
+ },
+ {
+  "id": "2-0242",
+  "hanzi": "黄色",
+  "pinyin": "huángsè",
+  "pos": "danh từ",
+  "meaning": "màu vàng",
+  "level": 2
+ },
+ {
+  "id": "2-0243",
+  "hanzi": "回",
+  "pinyin": "huí",
+  "pos": "lượng từ",
+  "meaning": "lần, hồi (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0244",
+  "hanzi": "回国",
+  "pinyin": "huí guó",
+  "pos": "cụm từ",
+  "meaning": "về nước",
+  "level": 2
+ },
+ {
+  "id": "2-0245",
+  "hanzi": "会",
+  "pinyin": "huì",
+  "pos": "động từ",
+  "meaning": "sẽ (khả năng xảy ra)",
+  "level": 2
+ },
+ {
+  "id": "2-0246",
+  "hanzi": "活动",
+  "pinyin": "huódòng",
+  "pos": "danh từ, động từ",
+  "meaning": "hoạt động",
+  "level": 2
+ },
+ {
+  "id": "2-0247",
+  "hanzi": "或",
+  "pinyin": "huò",
+  "pos": "liên từ",
+  "meaning": "hoặc (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0248",
+  "hanzi": "或者",
+  "pinyin": "huòzhě",
+  "pos": "liên từ",
+  "meaning": "hoặc là",
+  "level": 2
+ },
+ {
+  "id": "2-0249",
+  "hanzi": "机会",
+  "pinyin": "jīhuì",
+  "pos": "danh từ",
+  "meaning": "cơ hội",
+  "level": 2
+ },
+ {
+  "id": "2-0250",
+  "hanzi": "鸡",
+  "pinyin": "jī",
+  "pos": "danh từ",
+  "meaning": "con gà",
+  "level": 2
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0151",
+  "hanzi": "话",
+  "pinyin": "huà",
+  "pos": "danh từ",
+  "meaning": "lời nói",
+  "level": 1
+ },
+ {
+  "id": "1-0152",
+  "hanzi": "坏",
+  "pinyin": "huài",
+  "pos": "tính từ",
+  "meaning": "hỏng, xấu",
+  "level": 1
+ },
+ {
+  "id": "1-0153",
+  "hanzi": "还",
+  "pinyin": "huán",
+  "pos": "động từ",
+  "meaning": "trả lại",
+  "level": 1
+ },
+ {
+  "id": "1-0154",
+  "hanzi": "回",
+  "pinyin": "huí",
+  "pos": "động từ",
+  "meaning": "về, quay về",
+  "level": 1
+ },
+ {
+  "id": "1-0155",
+  "hanzi": "回答",
+  "pinyin": "huídá",
+  "pos": "động từ, danh từ",
+  "meaning": "trả lời; câu trả lời",
+  "level": 1
+ },
+ {
+  "id": "1-0156",
+  "hanzi": "回到",
+  "pinyin": "huídào",
+  "pos": "động từ",
+  "meaning": "trở về (đến nơi)",
+  "level": 1
+ },
+ {
+  "id": "1-0157",
+  "hanzi": "回家",
+  "pinyin": "huí jiā",
+  "pos": "cụm từ",
+  "meaning": "về nhà",
+  "level": 1
+ },
+ {
+  "id": "1-0158",
+  "hanzi": "回来",
+  "pinyin": "huílái",
+  "pos": "cụm từ",
+  "meaning": "quay về (về phía người nói)",
+  "level": 1
+ },
+ {
+  "id": "1-0159",
+  "hanzi": "回去",
+  "pinyin": "huíqù",
+  "pos": "cụm từ",
+  "meaning": "quay về (rời chỗ người nói)",
+  "level": 1
+ },
+ {
+  "id": "1-0160",
+  "hanzi": "会",
+  "pinyin": "huì",
+  "pos": "động từ",
+  "meaning": "biết (làm gì), có thể",
+  "level": 1
+ },
+ {
+  "id": "1-0161",
+  "hanzi": "火车",
+  "pinyin": "huǒchē",
+  "pos": "danh từ",
+  "meaning": "tàu hỏa",
+  "level": 1
+ },
+ {
+  "id": "1-0162",
+  "hanzi": "机场",
+  "pinyin": "jīchǎng",
+  "pos": "danh từ",
+  "meaning": "sân bay",
+  "level": 1
+ },
+ {
+  "id": "1-0163",
+  "hanzi": "机票",
+  "pinyin": "jīpiào",
+  "pos": "danh từ",
+  "meaning": "vé máy bay",
+  "level": 1
+ },
+ {
+  "id": "1-0164",
+  "hanzi": "鸡蛋",
+  "pinyin": "jīdàn",
+  "pos": "danh từ",
+  "meaning": "trứng gà",
+  "level": 1
+ },
+ {
+  "id": "1-0165",
+  "hanzi": "几",
+  "pinyin": "jǐ",
+  "pos": "số từ, đại từ",
+  "meaning": "mấy (số nhỏ hơn 10)",
+  "level": 1
+ },
+ {
+  "id": "1-0166",
+  "hanzi": "记",
+  "pinyin": "jì",
+  "pos": "động từ",
+  "meaning": "ghi nhớ, ghi chép",
+  "level": 1
+ },
+ {
+  "id": "1-0167",
+  "hanzi": "记得",
+  "pinyin": "jìde",
+  "pos": "động từ",
+  "meaning": "còn nhớ",
+  "level": 1
+ },
+ {
+  "id": "1-0168",
+  "hanzi": "记住",
+  "pinyin": "jìzhù",
+  "pos": "cụm từ",
+  "meaning": "nhớ kỹ",
+  "level": 1
+ },
+ {
+  "id": "1-0169",
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "pos": "danh từ, lượng từ",
+  "meaning": "nhà, gia đình",
+  "level": 1
+ },
+ {
+  "id": "1-0170",
+  "hanzi": "家里",
+  "pinyin": "jiā li",
+  "pos": "cụm từ",
+  "meaning": "trong nhà",
+  "level": 1
+ },
+ {
+  "id": "1-0171",
+  "hanzi": "家人",
+  "pinyin": "jiārén",
+  "pos": "danh từ",
+  "meaning": "người nhà",
+  "level": 1
+ },
+ {
+  "id": "1-0172",
+  "hanzi": "间",
+  "pinyin": "jiān",
+  "pos": "lượng từ",
+  "meaning": "gian, căn (lượng từ cho phòng)",
+  "level": 1
+ },
+ {
+  "id": "1-0173",
+  "hanzi": "见",
+  "pinyin": "jiàn",
+  "pos": "động từ",
+  "meaning": "gặp, thấy",
+  "level": 1
+ },
+ {
+  "id": "1-0174",
+  "hanzi": "见面",
+  "pinyin": "jiànmiàn",
+  "pos": "cụm từ",
+  "meaning": "gặp mặt",
+  "level": 1
+ },
+ {
+  "id": "1-0175",
+  "hanzi": "教",
+  "pinyin": "jiāo",
+  "pos": "động từ",
+  "meaning": "dạy",
+  "level": 1
+ },
+ {
+  "id": "1-0176",
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "pos": "động từ",
+  "meaning": "gọi, tên là",
+  "level": 1
+ },
+ {
+  "id": "1-0177",
+  "hanzi": "教学楼",
+  "pinyin": "jiàoxuélóu",
+  "pos": "danh từ",
+  "meaning": "tòa nhà giảng dạy",
+  "level": 1
+ },
+ {
+  "id": "1-0178",
+  "hanzi": "姐姐",
+  "pinyin": "jiějie",
+  "pos": "danh từ",
+  "meaning": "chị gái",
+  "level": 1
+ },
+ {
+  "id": "1-0179",
+  "hanzi": "介绍",
+  "pinyin": "jièshào",
+  "pos": "động từ",
+  "meaning": "giới thiệu",
+  "level": 1
+ },
+ {
+  "id": "1-0180",
+  "hanzi": "今年",
+  "pinyin": "jīnnián",
+  "pos": "danh từ",
+  "meaning": "năm nay",
+  "level": 1
+ },
+ {
+  "id": "1-0181",
+  "hanzi": "今天",
+  "pinyin": "jīntiān",
+  "pos": "danh từ",
+  "meaning": "hôm nay",
+  "level": 1
+ },
+ {
+  "id": "1-0182",
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "pos": "động từ",
+  "meaning": "vào",
+  "level": 1
+ },
+ {
+  "id": "1-0183",
+  "hanzi": "进来",
+  "pinyin": "jìnlái",
+  "pos": "cụm từ",
+  "meaning": "đi vào (vào trong đây)",
+  "level": 1
+ },
+ {
+  "id": "1-0184",
+  "hanzi": "进去",
+  "pinyin": "jìnqù",
+  "pos": "cụm từ",
+  "meaning": "đi vào (vào trong đó)",
+  "level": 1
+ },
+ {
+  "id": "1-0185",
+  "hanzi": "九",
+  "pinyin": "jiǔ",
+  "pos": "số từ",
+  "meaning": "số 9 (chín)",
+  "level": 1
+ },
+ {
+  "id": "1-0186",
+  "hanzi": "就",
+  "pinyin": "jiù",
+  "pos": "phó từ",
+  "meaning": "thì, liền, ngay",
+  "level": 1
+ },
+ {
+  "id": "1-0187",
+  "hanzi": "觉得",
+  "pinyin": "juéde",
+  "pos": "động từ",
+  "meaning": "cảm thấy",
+  "level": 1
+ },
+ {
+  "id": "1-0188",
+  "hanzi": "开",
+  "pinyin": "kāi",
+  "pos": "động từ",
+  "meaning": "mở, bật",
+  "level": 1
+ },
+ {
+  "id": "1-0189",
+  "hanzi": "开车",
+  "pinyin": "kāichē",
+  "pos": "cụm từ",
+  "meaning": "lái xe",
+  "level": 1
+ },
+ {
+  "id": "1-0190",
+  "hanzi": "开会",
+  "pinyin": "kāihuì",
+  "pos": "cụm từ",
+  "meaning": "họp",
+  "level": 1
+ },
+ {
+  "id": "1-0191",
+  "hanzi": "开玩笑",
+  "pinyin": "kāi wánxiào",
+  "pos": "cụm từ",
+  "meaning": "nói đùa",
+  "level": 1
+ },
+ {
+  "id": "1-0192",
+  "hanzi": "看",
+  "pinyin": "kàn",
+  "pos": "động từ",
+  "meaning": "xem, nhìn",
+  "level": 1
+ },
+ {
+  "id": "1-0193",
+  "hanzi": "看病",
+  "pinyin": "kànbìng",
+  "pos": "cụm từ",
+  "meaning": "khám bệnh",
+  "level": 1
+ },
+ {
+  "id": "1-0194",
+  "hanzi": "看到",
+  "pinyin": "kàndào",
+  "pos": "cụm từ",
+  "meaning": "nhìn thấy",
+  "level": 1
+ },
+ {
+  "id": "1-0195",
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "pos": "cụm từ",
+  "meaning": "trông thấy",
+  "level": 1
+ },
+ {
+  "id": "1-0196",
+  "hanzi": "考",
+  "pinyin": "kǎo",
+  "pos": "động từ",
+  "meaning": "thi",
+  "level": 1
+ },
+ {
+  "id": "1-0197",
+  "hanzi": "考试",
+  "pinyin": "kǎoshì",
+  "pos": "cụm từ",
+  "meaning": "kỳ thi, thi cử",
+  "level": 1
+ },
+ {
+  "id": "1-0198",
+  "hanzi": "渴",
+  "pinyin": "kě",
+  "pos": "tính từ",
+  "meaning": "khát",
+  "level": 1
+ },
+ {
+  "id": "1-0199",
+  "hanzi": "课",
+  "pinyin": "kè",
+  "pos": "danh từ",
+  "meaning": "tiết học, bài học",
+  "level": 1
+ },
+ {
+  "id": "1-0200",
+  "hanzi": "课本",
+  "pinyin": "kèběn",
+  "pos": "danh từ",
+  "meaning": "sách giáo khoa",
+  "level": 1
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0351",
+  "hanzi": "交警",
+  "pinyin": "jiāojǐng",
+  "pos": "danh từ",
+  "meaning": "cảnh sát giao thông",
+  "level": 3
+ },
+ {
+  "id": "3-0352",
+  "hanzi": "交流",
+  "pinyin": "jiāoliú",
+  "pos": "động từ, danh từ",
+  "meaning": "giao lưu, trao đổi",
+  "level": 3
+ },
+ {
+  "id": "3-0353",
+  "hanzi": "交往",
+  "pinyin": "jiāowǎng",
+  "pos": "động từ",
+  "meaning": "giao thiệp, qua lại",
+  "level": 3
+ },
+ {
+  "id": "3-0354",
+  "hanzi": "交易",
+  "pinyin": "jiāoyì",
+  "pos": "danh từ",
+  "meaning": "giao dịch",
+  "level": 3
+ },
+ {
+  "id": "3-0355",
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "pos": "giới từ",
+  "meaning": "bị, được (bị động - 叫)",
+  "level": 3
+ },
+ {
+  "id": "3-0356",
+  "hanzi": "较",
+  "pinyin": "jiào",
+  "pos": "phó từ",
+  "meaning": "khá, tương đối (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0357",
+  "hanzi": "教材",
+  "pinyin": "jiàocái",
+  "pos": "danh từ",
+  "meaning": "giáo trình",
+  "level": 3
+ },
+ {
+  "id": "3-0358",
+  "hanzi": "教练",
+  "pinyin": "jiàoliàn",
+  "pos": "danh từ",
+  "meaning": "huấn luyện viên",
+  "level": 3
+ },
+ {
+  "id": "3-0359",
+  "hanzi": "结实",
+  "pinyin": "jiēshi",
+  "pos": "tính từ",
+  "meaning": "chắc chắn, bền; khỏe mạnh",
+  "level": 3
+ },
+ {
+  "id": "3-0360",
+  "hanzi": "接待",
+  "pinyin": "jiēdài",
+  "pos": "động từ",
+  "meaning": "tiếp đãi, tiếp đón",
+  "level": 3
+ },
+ {
+  "id": "3-0361",
+  "hanzi": "接近",
+  "pinyin": "jiējìn",
+  "pos": "động từ",
+  "meaning": "tiếp cận, gần với",
+  "level": 3
+ },
+ {
+  "id": "3-0362",
+  "hanzi": "节约",
+  "pinyin": "jiéyuē",
+  "pos": "động từ",
+  "meaning": "tiết kiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0363",
+  "hanzi": "结合",
+  "pinyin": "jiéhé",
+  "pos": "động từ",
+  "meaning": "kết hợp",
+  "level": 3
+ },
+ {
+  "id": "3-0364",
+  "hanzi": "结婚",
+  "pinyin": "jiéhūn",
+  "pos": "cụm từ",
+  "meaning": "kết hôn, cưới",
+  "level": 3
+ },
+ {
+  "id": "3-0365",
+  "hanzi": "结束",
+  "pinyin": "jiéshù",
+  "pos": "động từ",
+  "meaning": "kết thúc",
+  "level": 3
+ },
+ {
+  "id": "3-0366",
+  "hanzi": "解决",
+  "pinyin": "jiějué",
+  "pos": "động từ",
+  "meaning": "giải quyết",
+  "level": 3
+ },
+ {
+  "id": "3-0367",
+  "hanzi": "解开",
+  "pinyin": "jiěkāi",
+  "pos": "cụm từ",
+  "meaning": "cởi ra, tháo ra",
+  "level": 3
+ },
+ {
+  "id": "3-0368",
+  "hanzi": "金",
+  "pinyin": "jīn",
+  "pos": "danh từ",
+  "meaning": "vàng, kim loại",
+  "level": 3
+ },
+ {
+  "id": "3-0369",
+  "hanzi": "金牌",
+  "pinyin": "jīnpái",
+  "pos": "danh từ",
+  "meaning": "huy chương vàng",
+  "level": 3
+ },
+ {
+  "id": "3-0370",
+  "hanzi": "仅",
+  "pinyin": "jǐn",
+  "pos": "phó từ",
+  "meaning": "chỉ (1 chữ, văn viết)",
+  "level": 3
+ },
+ {
+  "id": "3-0371",
+  "hanzi": "仅仅",
+  "pinyin": "jǐnjǐn",
+  "pos": "phó từ",
+  "meaning": "chỉ, vẻn vẹn",
+  "level": 3
+ },
+ {
+  "id": "3-0372",
+  "hanzi": "尽量",
+  "pinyin": "jǐnliàng",
+  "pos": "phó từ",
+  "meaning": "cố gắng hết mức, hết sức",
+  "level": 3
+ },
+ {
+  "id": "3-0373",
+  "hanzi": "紧",
+  "pinyin": "jǐn",
+  "pos": "tính từ",
+  "meaning": "chặt; gấp, căng",
+  "level": 3
+ },
+ {
+  "id": "3-0374",
+  "hanzi": "紧急",
+  "pinyin": "jǐnjí",
+  "pos": "tính từ",
+  "meaning": "khẩn cấp",
+  "level": 3
+ },
+ {
+  "id": "3-0375",
+  "hanzi": "紧张",
+  "pinyin": "jǐnzhāng",
+  "pos": "tính từ",
+  "meaning": "căng thẳng, hồi hộp",
+  "level": 3
+ },
+ {
+  "id": "3-0376",
+  "hanzi": "进步",
+  "pinyin": "jìnbù",
+  "pos": "động từ, tính từ",
+  "meaning": "tiến bộ",
+  "level": 3
+ },
+ {
+  "id": "3-0377",
+  "hanzi": "进一步",
+  "pinyin": "jìnyíbù",
+  "pos": "phó từ",
+  "meaning": "tiến thêm một bước",
+  "level": 3
+ },
+ {
+  "id": "3-0378",
+  "hanzi": "进展",
+  "pinyin": "jìnzhǎn",
+  "pos": "động từ",
+  "meaning": "tiến triển",
+  "level": 3
+ },
+ {
+  "id": "3-0379",
+  "hanzi": "近期",
+  "pinyin": "jìnqī",
+  "pos": "danh từ",
+  "meaning": "thời gian gần (trước hoặc sau)",
+  "level": 3
+ },
+ {
+  "id": "3-0380",
+  "hanzi": "京剧",
+  "pinyin": "jīngjù",
+  "pos": "danh từ",
+  "meaning": "kinh kịch",
+  "level": 3
+ },
+ {
+  "id": "3-0381",
+  "hanzi": "经济",
+  "pinyin": "jīngjì",
+  "pos": "danh từ, tính từ",
+  "meaning": "kinh tế; tiết kiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0382",
+  "hanzi": "经历",
+  "pinyin": "jīnglì",
+  "pos": "động từ, danh từ",
+  "meaning": "trải qua; trải nghiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0383",
+  "hanzi": "经验",
+  "pinyin": "jīngyàn",
+  "pos": "danh từ",
+  "meaning": "kinh nghiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0384",
+  "hanzi": "经营",
+  "pinyin": "jīngyíng",
+  "pos": "động từ",
+  "meaning": "kinh doanh, điều hành",
+  "level": 3
+ },
+ {
+  "id": "3-0385",
+  "hanzi": "精彩",
+  "pinyin": "jīngcǎi",
+  "pos": "tính từ",
+  "meaning": "đặc sắc, hay tuyệt",
+  "level": 3
+ },
+ {
+  "id": "3-0386",
+  "hanzi": "精神",
+  "pinyin": "jīngshén",
+  "pos": "danh từ",
+  "meaning": "tinh thần (jīngshén)",
+  "level": 3
+ },
+ {
+  "id": "3-0387",
+  "hanzi": "精神",
+  "pinyin": "jīngshen",
+  "pos": "tính từ, danh từ",
+  "meaning": "tỉnh táo, có sức sống (jīngshen)",
+  "level": 3
+ },
+ {
+  "id": "3-0388",
+  "hanzi": "景色",
+  "pinyin": "jǐngsè",
+  "pos": "danh từ",
+  "meaning": "cảnh sắc, phong cảnh",
+  "level": 3
+ },
+ {
+  "id": "3-0389",
+  "hanzi": "警察",
+  "pinyin": "jǐngchá",
+  "pos": "danh từ",
+  "meaning": "cảnh sát",
+  "level": 3
+ },
+ {
+  "id": "3-0390",
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "pos": "tính từ, động từ",
+  "meaning": "yên tĩnh, tĩnh (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0391",
+  "hanzi": "久",
+  "pinyin": "jiǔ",
+  "pos": "tính từ",
+  "meaning": "lâu",
+  "level": 3
+ },
+ {
+  "id": "3-0392",
+  "hanzi": "旧",
+  "pinyin": "jiù",
+  "pos": "tính từ",
+  "meaning": "cũ",
+  "level": 3
+ },
+ {
+  "id": "3-0393",
+  "hanzi": "救",
+  "pinyin": "jiù",
+  "pos": "động từ",
+  "meaning": "cứu",
+  "level": 3
+ },
+ {
+  "id": "3-0394",
+  "hanzi": "就是",
+  "pinyin": "jiùshì",
+  "pos": "liên từ",
+  "meaning": "chính là; dù cho",
+  "level": 3
+ },
+ {
+  "id": "3-0395",
+  "hanzi": "就业",
+  "pinyin": "jiùyè",
+  "pos": "cụm từ",
+  "meaning": "có việc làm, đi làm",
+  "level": 3
+ },
+ {
+  "id": "3-0396",
+  "hanzi": "举办",
+  "pinyin": "jǔbàn",
+  "pos": "động từ",
+  "meaning": "tổ chức (举办)",
+  "level": 3
+ },
+ {
+  "id": "3-0397",
+  "hanzi": "具体",
+  "pinyin": "jùtǐ",
+  "pos": "tính từ",
+  "meaning": "cụ thể",
+  "level": 3
+ },
+ {
+  "id": "3-0398",
+  "hanzi": "具有",
+  "pinyin": "jùyǒu",
+  "pos": "động từ",
+  "meaning": "có (đặc điểm, ý nghĩa)",
+  "level": 3
+ },
+ {
+  "id": "3-0399",
+  "hanzi": "剧场",
+  "pinyin": "jùchǎng",
+  "pos": "danh từ",
+  "meaning": "nhà hát, rạp hát",
+  "level": 3
+ },
+ {
+  "id": "3-0400",
+  "hanzi": "据说",
+  "pinyin": "jùshuō",
+  "pos": "động từ",
+  "meaning": "nghe nói, theo người ta nói (据说)",
+  "level": 3
+ }
+]

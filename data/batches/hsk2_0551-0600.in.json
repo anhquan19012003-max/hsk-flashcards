@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0551",
+  "hanzi": "头发",
+  "pinyin": "tóufa",
+  "pos": "danh từ",
+  "meaning": "tóc",
+  "level": 2
+ },
+ {
+  "id": "2-0552",
+  "hanzi": "图片",
+  "pinyin": "túpiàn",
+  "pos": "danh từ",
+  "meaning": "hình ảnh, bức ảnh",
+  "level": 2
+ },
+ {
+  "id": "2-0553",
+  "hanzi": "推",
+  "pinyin": "tuī",
+  "pos": "động từ",
+  "meaning": "đẩy",
+  "level": 2
+ },
+ {
+  "id": "2-0554",
+  "hanzi": "腿",
+  "pinyin": "tuǐ",
+  "pos": "danh từ",
+  "meaning": "chân, cẳng chân",
+  "level": 2
+ },
+ {
+  "id": "2-0555",
+  "hanzi": "外地",
+  "pinyin": "wàidì",
+  "pos": "danh từ",
+  "meaning": "nơi khác, tỉnh khác",
+  "level": 2
+ },
+ {
+  "id": "2-0556",
+  "hanzi": "外卖",
+  "pinyin": "wàimài",
+  "pos": "danh từ, động từ",
+  "meaning": "đồ ăn giao tận nơi",
+  "level": 2
+ },
+ {
+  "id": "2-0557",
+  "hanzi": "完",
+  "pinyin": "wán",
+  "pos": "động từ",
+  "meaning": "xong, hết",
+  "level": 2
+ },
+ {
+  "id": "2-0558",
+  "hanzi": "完成",
+  "pinyin": "wánchéng",
+  "pos": "cụm từ",
+  "meaning": "hoàn thành",
+  "level": 2
+ },
+ {
+  "id": "2-0559",
+  "hanzi": "完全",
+  "pinyin": "wánquán",
+  "pos": "tính từ, phó từ",
+  "meaning": "hoàn toàn",
+  "level": 2
+ },
+ {
+  "id": "2-0560",
+  "hanzi": "晚安",
+  "pinyin": "wǎn'ān",
+  "pos": "động từ",
+  "meaning": "chúc ngủ ngon",
+  "level": 2
+ },
+ {
+  "id": "2-0561",
+  "hanzi": "晚报",
+  "pinyin": "wǎnbào",
+  "pos": "danh từ",
+  "meaning": "báo buổi chiều tối",
+  "level": 2
+ },
+ {
+  "id": "2-0562",
+  "hanzi": "晚餐",
+  "pinyin": "wǎncān",
+  "pos": "danh từ",
+  "meaning": "bữa tối (晚餐)",
+  "level": 2
+ },
+ {
+  "id": "2-0563",
+  "hanzi": "晚会",
+  "pinyin": "wǎnhuì",
+  "pos": "danh từ",
+  "meaning": "dạ hội, buổi liên hoan tối",
+  "level": 2
+ },
+ {
+  "id": "2-0564",
+  "hanzi": "碗",
+  "pinyin": "wǎn",
+  "pos": "danh từ",
+  "meaning": "cái bát, cái chén",
+  "level": 2
+ },
+ {
+  "id": "2-0565",
+  "hanzi": "万",
+  "pinyin": "wàn",
+  "pos": "số từ",
+  "meaning": "vạn, mười nghìn",
+  "level": 2
+ },
+ {
+  "id": "2-0566",
+  "hanzi": "网",
+  "pinyin": "wǎng",
+  "pos": "danh từ",
+  "meaning": "mạng; lưới",
+  "level": 2
+ },
+ {
+  "id": "2-0567",
+  "hanzi": "网球",
+  "pinyin": "wǎngqiú",
+  "pos": "danh từ",
+  "meaning": "quần vợt, tennis",
+  "level": 2
+ },
+ {
+  "id": "2-0568",
+  "hanzi": "网站",
+  "pinyin": "wǎngzhàn",
+  "pos": "danh từ",
+  "meaning": "trang web",
+  "level": 2
+ },
+ {
+  "id": "2-0569",
+  "hanzi": "往",
+  "pinyin": "wǎng",
+  "pos": "động từ, giới từ",
+  "meaning": "về phía, hướng về",
+  "level": 2
+ },
+ {
+  "id": "2-0570",
+  "hanzi": "为",
+  "pinyin": "wèi",
+  "pos": "giới từ",
+  "meaning": "vì, cho (ai)",
+  "level": 2
+ },
+ {
+  "id": "2-0571",
+  "hanzi": "为什么",
+  "pinyin": "wèi shénme",
+  "pos": "cụm từ",
+  "meaning": "tại sao",
+  "level": 2
+ },
+ {
+  "id": "2-0572",
+  "hanzi": "位",
+  "pinyin": "wèi",
+  "pos": "lượng từ",
+  "meaning": "vị, người (lượng từ lịch sự)",
+  "level": 2
+ },
+ {
+  "id": "2-0573",
+  "hanzi": "味道",
+  "pinyin": "wèidào",
+  "pos": "danh từ",
+  "meaning": "mùi vị",
+  "level": 2
+ },
+ {
+  "id": "2-0574",
+  "hanzi": "喂",
+  "pinyin": "wèi",
+  "pos": "thán từ",
+  "meaning": "alô, này (gọi điện, gọi người)",
+  "level": 2
+ },
+ {
+  "id": "2-0575",
+  "hanzi": "温度",
+  "pinyin": "wēndù",
+  "pos": "danh từ",
+  "meaning": "nhiệt độ",
+  "level": 2
+ },
+ {
+  "id": "2-0576",
+  "hanzi": "闻",
+  "pinyin": "wén",
+  "pos": "động từ",
+  "meaning": "ngửi",
+  "level": 2
+ },
+ {
+  "id": "2-0577",
+  "hanzi": "问路",
+  "pinyin": "wènlù",
+  "pos": "động từ",
+  "meaning": "hỏi đường",
+  "level": 2
+ },
+ {
+  "id": "2-0578",
+  "hanzi": "问题",
+  "pinyin": "wèntí",
+  "pos": "danh từ",
+  "meaning": "vấn đề, câu hỏi",
+  "level": 2
+ },
+ {
+  "id": "2-0579",
+  "hanzi": "午餐",
+  "pinyin": "wǔcān",
+  "pos": "danh từ",
+  "meaning": "bữa trưa (午餐)",
+  "level": 2
+ },
+ {
+  "id": "2-0580",
+  "hanzi": "午睡",
+  "pinyin": "wǔshuì",
+  "pos": "danh từ, động từ",
+  "meaning": "ngủ trưa",
+  "level": 2
+ },
+ {
+  "id": "2-0581",
+  "hanzi": "西北",
+  "pinyin": "xīběi",
+  "pos": "danh từ",
+  "meaning": "tây bắc",
+  "level": 2
+ },
+ {
+  "id": "2-0582",
+  "hanzi": "西餐",
+  "pinyin": "xīcān",
+  "pos": "danh từ",
+  "meaning": "đồ ăn Tây, món Âu",
+  "level": 2
+ },
+ {
+  "id": "2-0583",
+  "hanzi": "西方",
+  "pinyin": "xīfāng",
+  "pos": "danh từ",
+  "meaning": "phương Tây",
+  "level": 2
+ },
+ {
+  "id": "2-0584",
+  "hanzi": "西南",
+  "pinyin": "xīnán",
+  "pos": "danh từ",
+  "meaning": "tây nam",
+  "level": 2
+ },
+ {
+  "id": "2-0585",
+  "hanzi": "西医",
+  "pinyin": "xīyī",
+  "pos": "danh từ",
+  "meaning": "Tây y",
+  "level": 2
+ },
+ {
+  "id": "2-0586",
+  "hanzi": "习惯",
+  "pinyin": "xíguàn",
+  "pos": "danh từ, động từ",
+  "meaning": "thói quen; quen với",
+  "level": 2
+ },
+ {
+  "id": "2-0587",
+  "hanzi": "洗衣机",
+  "pinyin": "xǐyījī",
+  "pos": "danh từ",
+  "meaning": "máy giặt",
+  "level": 2
+ },
+ {
+  "id": "2-0588",
+  "hanzi": "洗澡",
+  "pinyin": "xǐzǎo",
+  "pos": "cụm từ",
+  "meaning": "tắm",
+  "level": 2
+ },
+ {
+  "id": "2-0589",
+  "hanzi": "下",
+  "pinyin": "xià",
+  "pos": "lượng từ",
+  "meaning": "cái, lần (động tác ngắn, VD: gõ một cái)",
+  "level": 2
+ },
+ {
+  "id": "2-0590",
+  "hanzi": "下雪",
+  "pinyin": "xià xuě",
+  "pos": "cụm từ",
+  "meaning": "tuyết rơi",
+  "level": 2
+ },
+ {
+  "id": "2-0591",
+  "hanzi": "下周",
+  "pinyin": "xià zhōu",
+  "pos": "cụm từ",
+  "meaning": "tuần sau",
+  "level": 2
+ },
+ {
+  "id": "2-0592",
+  "hanzi": "夏天",
+  "pinyin": "xiàtiān",
+  "pos": "danh từ",
+  "meaning": "mùa hè",
+  "level": 2
+ },
+ {
+  "id": "2-0593",
+  "hanzi": "相同",
+  "pinyin": "xiāngtóng",
+  "pos": "tính từ",
+  "meaning": "giống nhau (相同)",
+  "level": 2
+ },
+ {
+  "id": "2-0594",
+  "hanzi": "相信",
+  "pinyin": "xiāngxìn",
+  "pos": "động từ",
+  "meaning": "tin, tin tưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0595",
+  "hanzi": "响",
+  "pinyin": "xiǎng",
+  "pos": "tính từ",
+  "meaning": "vang, kêu to (âm thanh)",
+  "level": 2
+ },
+ {
+  "id": "2-0596",
+  "hanzi": "想到",
+  "pinyin": "xiǎngdào",
+  "pos": "động từ",
+  "meaning": "nghĩ đến, nghĩ ra",
+  "level": 2
+ },
+ {
+  "id": "2-0597",
+  "hanzi": "想法",
+  "pinyin": "xiǎngfǎ",
+  "pos": "danh từ",
+  "meaning": "suy nghĩ, ý tưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0598",
+  "hanzi": "想起",
+  "pinyin": "xiǎngqǐ",
+  "pos": "động từ",
+  "meaning": "nhớ ra, nhớ lại",
+  "level": 2
+ },
+ {
+  "id": "2-0599",
+  "hanzi": "向",
+  "pinyin": "xiàng",
+  "pos": "giới từ, động từ",
+  "meaning": "về phía, hướng về (向)",
+  "level": 2
+ },
+ {
+  "id": "2-0600",
+  "hanzi": "相机",
+  "pinyin": "xiàngjī",
+  "pos": "danh từ",
+  "meaning": "máy ảnh",
+  "level": 2
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0651",
+  "hanzi": "一路顺风",
+  "pinyin": "yílù shùnfēng",
+  "pos": "cụm từ",
+  "meaning": "thuận buồm xuôi gió",
+  "level": 2
+ },
+ {
+  "id": "2-0652",
+  "hanzi": "已经",
+  "pinyin": "yǐjīng",
+  "pos": "phó từ",
+  "meaning": "đã (đã ... rồi)",
+  "level": 2
+ },
+ {
+  "id": "2-0653",
+  "hanzi": "以后",
+  "pinyin": "yǐhòu",
+  "pos": "danh từ",
+  "meaning": "sau này, về sau",
+  "level": 2
+ },
+ {
+  "id": "2-0654",
+  "hanzi": "以前",
+  "pinyin": "yǐqián",
+  "pos": "danh từ",
+  "meaning": "trước đây",
+  "level": 2
+ },
+ {
+  "id": "2-0655",
+  "hanzi": "以上",
+  "pinyin": "yǐshàng",
+  "pos": "danh từ",
+  "meaning": "trở lên, trên đây",
+  "level": 2
+ },
+ {
+  "id": "2-0656",
+  "hanzi": "以外",
+  "pinyin": "yǐwài",
+  "pos": "danh từ",
+  "meaning": "ngoài ra, ngoài ...",
+  "level": 2
+ },
+ {
+  "id": "2-0657",
+  "hanzi": "以为",
+  "pinyin": "yǐwéi",
+  "pos": "động từ",
+  "meaning": "tưởng là, cứ ngỡ",
+  "level": 2
+ },
+ {
+  "id": "2-0658",
+  "hanzi": "以下",
+  "pinyin": "yǐxià",
+  "pos": "danh từ",
+  "meaning": "trở xuống, dưới đây",
+  "level": 2
+ },
+ {
+  "id": "2-0659",
+  "hanzi": "椅子",
+  "pinyin": "yǐzi",
+  "pos": "danh từ",
+  "meaning": "cái ghế",
+  "level": 2
+ },
+ {
+  "id": "2-0660",
+  "hanzi": "一般",
+  "pinyin": "yìbān",
+  "pos": "tính từ",
+  "meaning": "thông thường, bình thường",
+  "level": 2
+ },
+ {
+  "id": "2-0661",
+  "hanzi": "一点点",
+  "pinyin": "yìdiǎndiǎn",
+  "pos": "cụm từ",
+  "meaning": "một chút xíu",
+  "level": 2
+ },
+ {
+  "id": "2-0662",
+  "hanzi": "一生",
+  "pinyin": "yìshēng",
+  "pos": "danh từ",
+  "meaning": "cả đời",
+  "level": 2
+ },
+ {
+  "id": "2-0663",
+  "hanzi": "一直",
+  "pinyin": "yìzhí",
+  "pos": "phó từ",
+  "meaning": "luôn, suốt, thẳng (liên tục)",
+  "level": 2
+ },
+ {
+  "id": "2-0664",
+  "hanzi": "亿",
+  "pinyin": "yì",
+  "pos": "số từ",
+  "meaning": "trăm triệu",
+  "level": 2
+ },
+ {
+  "id": "2-0665",
+  "hanzi": "意见",
+  "pinyin": "yìjiàn",
+  "pos": "danh từ",
+  "meaning": "ý kiến",
+  "level": 2
+ },
+ {
+  "id": "2-0666",
+  "hanzi": "意思",
+  "pinyin": "yìsi",
+  "pos": "danh từ",
+  "meaning": "ý nghĩa, ý",
+  "level": 2
+ },
+ {
+  "id": "2-0667",
+  "hanzi": "因为",
+  "pinyin": "yīnwèi",
+  "pos": "liên từ, giới từ",
+  "meaning": "bởi vì",
+  "level": 2
+ },
+ {
+  "id": "2-0668",
+  "hanzi": "阴",
+  "pinyin": "yīn",
+  "pos": "tính từ",
+  "meaning": "âm u (trời)",
+  "level": 2
+ },
+ {
+  "id": "2-0669",
+  "hanzi": "阴天",
+  "pinyin": "yīntiān",
+  "pos": "danh từ",
+  "meaning": "trời âm u, ngày nhiều mây",
+  "level": 2
+ },
+ {
+  "id": "2-0670",
+  "hanzi": "音乐节",
+  "pinyin": "yīnyuèjié",
+  "pos": "danh từ",
+  "meaning": "lễ hội âm nhạc",
+  "level": 2
+ },
+ {
+  "id": "2-0671",
+  "hanzi": "音乐",
+  "pinyin": "yīnyuè",
+  "pos": "danh từ",
+  "meaning": "âm nhạc",
+  "level": 2
+ },
+ {
+  "id": "2-0672",
+  "hanzi": "音乐会",
+  "pinyin": "yīnyuèhuì",
+  "pos": "danh từ",
+  "meaning": "buổi hòa nhạc",
+  "level": 2
+ },
+ {
+  "id": "2-0673",
+  "hanzi": "银行",
+  "pinyin": "yínháng",
+  "pos": "danh từ",
+  "meaning": "ngân hàng",
+  "level": 2
+ },
+ {
+  "id": "2-0674",
+  "hanzi": "银行卡",
+  "pinyin": "yínhángkǎ",
+  "pos": "danh từ",
+  "meaning": "thẻ ngân hàng",
+  "level": 2
+ },
+ {
+  "id": "2-0675",
+  "hanzi": "应该",
+  "pinyin": "yīnggāi",
+  "pos": "động từ",
+  "meaning": "nên, cần phải (应该)",
+  "level": 2
+ },
+ {
+  "id": "2-0676",
+  "hanzi": "英文",
+  "pinyin": "Yīngwén",
+  "pos": "danh từ",
+  "meaning": "tiếng Anh (英文)",
+  "level": 2
+ },
+ {
+  "id": "2-0677",
+  "hanzi": "英语",
+  "pinyin": "Yīngyǔ",
+  "pos": "danh từ",
+  "meaning": "tiếng Anh (英语)",
+  "level": 2
+ },
+ {
+  "id": "2-0678",
+  "hanzi": "影片",
+  "pinyin": "yǐngpiàn",
+  "pos": "danh từ",
+  "meaning": "bộ phim (影片)",
+  "level": 2
+ },
+ {
+  "id": "2-0679",
+  "hanzi": "影响",
+  "pinyin": "yǐngxiǎng",
+  "pos": "động từ, danh từ",
+  "meaning": "ảnh hưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0680",
+  "hanzi": "永远",
+  "pinyin": "yǒngyuǎn",
+  "pos": "phó từ",
+  "meaning": "mãi mãi",
+  "level": 2
+ },
+ {
+  "id": "2-0681",
+  "hanzi": "油",
+  "pinyin": "yóu",
+  "pos": "danh từ",
+  "meaning": "dầu",
+  "level": 2
+ },
+ {
+  "id": "2-0682",
+  "hanzi": "游客",
+  "pinyin": "yóukè",
+  "pos": "danh từ",
+  "meaning": "du khách",
+  "level": 2
+ },
+ {
+  "id": "2-0683",
+  "hanzi": "友好",
+  "pinyin": "yǒuhǎo",
+  "pos": "tính từ",
+  "meaning": "hữu nghị, thân thiện",
+  "level": 2
+ },
+ {
+  "id": "2-0684",
+  "hanzi": "有空儿",
+  "pinyin": "yǒukòngr",
+  "pos": "động từ",
+  "meaning": "rảnh, có thời gian rảnh",
+  "level": 2
+ },
+ {
+  "id": "2-0685",
+  "hanzi": "有人",
+  "pinyin": "yǒurén",
+  "pos": "cụm từ",
+  "meaning": "có người",
+  "level": 2
+ },
+ {
+  "id": "2-0686",
+  "hanzi": "有(一)点儿",
+  "pinyin": "yǒu(yì)diǎnr",
+  "pos": "phó từ",
+  "meaning": "hơi, có chút (không vừa ý)",
+  "level": 2
+ },
+ {
+  "id": "2-0687",
+  "hanzi": "有意思",
+  "pinyin": "yǒu yìsi",
+  "pos": "cụm từ",
+  "meaning": "thú vị, hay",
+  "level": 2
+ },
+ {
+  "id": "2-0688",
+  "hanzi": "又",
+  "pinyin": "yòu",
+  "pos": "phó từ",
+  "meaning": "lại (đã xảy ra lặp lại)",
+  "level": 2
+ },
+ {
+  "id": "2-0689",
+  "hanzi": "鱼",
+  "pinyin": "yú",
+  "pos": "danh từ",
+  "meaning": "con cá",
+  "level": 2
+ },
+ {
+  "id": "2-0690",
+  "hanzi": "语言",
+  "pinyin": "yǔyán",
+  "pos": "danh từ",
+  "meaning": "ngôn ngữ",
+  "level": 2
+ },
+ {
+  "id": "2-0691",
+  "hanzi": "原来",
+  "pinyin": "yuánlái",
+  "pos": "tính từ, phó từ",
+  "meaning": "vốn dĩ; hóa ra",
+  "level": 2
+ },
+ {
+  "id": "2-0692",
+  "hanzi": "原因",
+  "pinyin": "yuányīn",
+  "pos": "danh từ",
+  "meaning": "nguyên nhân",
+  "level": 2
+ },
+ {
+  "id": "2-0693",
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "pos": "danh từ",
+  "meaning": "viện; sân (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0694",
+  "hanzi": "院长",
+  "pinyin": "yuànzhǎng",
+  "pos": "danh từ",
+  "meaning": "viện trưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0695",
+  "hanzi": "院子",
+  "pinyin": "yuànzi",
+  "pos": "danh từ",
+  "meaning": "cái sân",
+  "level": 2
+ },
+ {
+  "id": "2-0696",
+  "hanzi": "愿意",
+  "pinyin": "yuànyì",
+  "pos": "động từ",
+  "meaning": "bằng lòng, sẵn lòng",
+  "level": 2
+ },
+ {
+  "id": "2-0697",
+  "hanzi": "月份",
+  "pinyin": "yuèfèn",
+  "pos": "danh từ",
+  "meaning": "tháng (月份)",
+  "level": 2
+ },
+ {
+  "id": "2-0698",
+  "hanzi": "月亮",
+  "pinyin": "yuèliang",
+  "pos": "danh từ",
+  "meaning": "mặt trăng",
+  "level": 2
+ },
+ {
+  "id": "2-0699",
+  "hanzi": "越",
+  "pinyin": "yuè",
+  "pos": "phó từ",
+  "meaning": "càng (越...越...)",
+  "level": 2
+ },
+ {
+  "id": "2-0700",
+  "hanzi": "越来越",
+  "pinyin": "yuè lái yuè",
+  "pos": "cụm từ",
+  "meaning": "ngày càng",
+  "level": 2
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0751",
+  "hanzi": "维持",
+  "pinyin": "wéichí",
+  "pos": "",
+  "meaning": "duy trì",
+  "level": 4
+ },
+ {
+  "id": "4-0752",
+  "hanzi": "维护",
+  "pinyin": "wéihù",
+  "pos": "",
+  "meaning": "bảo vệ",
+  "level": 4
+ },
+ {
+  "id": "4-0753",
+  "hanzi": "维修",
+  "pinyin": "wéixiū",
+  "pos": "",
+  "meaning": "sửa chữa",
+  "level": 4
+ },
+ {
+  "id": "4-0754",
+  "hanzi": "尾巴",
+  "pinyin": "wěiba",
+  "pos": "",
+  "meaning": "cái đuôi",
+  "level": 4
+ },
+ {
+  "id": "4-0755",
+  "hanzi": "未必",
+  "pinyin": "wèibì",
+  "pos": "",
+  "meaning": "chưa chắc",
+  "level": 4
+ },
+ {
+  "id": "4-0756",
+  "hanzi": "未来",
+  "pinyin": "wèilái",
+  "pos": "",
+  "meaning": "tương lai",
+  "level": 4
+ },
+ {
+  "id": "4-0757",
+  "hanzi": "位于",
+  "pinyin": "wèiyú",
+  "pos": "",
+  "meaning": "nằm ở",
+  "level": 4
+ },
+ {
+  "id": "4-0758",
+  "hanzi": "位置",
+  "pinyin": "wèizhì",
+  "pos": "",
+  "meaning": "vị trí",
+  "level": 4
+ },
+ {
+  "id": "4-0759",
+  "hanzi": "味儿",
+  "pinyin": "wèir",
+  "pos": "",
+  "meaning": "mùi vị",
+  "level": 4
+ },
+ {
+  "id": "4-0760",
+  "hanzi": "喂",
+  "pinyin": "wèi",
+  "pos": "động từ",
+  "meaning": "cho ăn (động từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0761",
+  "hanzi": "稳",
+  "pinyin": "wěn",
+  "pos": "",
+  "meaning": "vững vàng",
+  "level": 4
+ },
+ {
+  "id": "4-0762",
+  "hanzi": "稳定",
+  "pinyin": "wěndìng",
+  "pos": "",
+  "meaning": "ổn định",
+  "level": 4
+ },
+ {
+  "id": "4-0763",
+  "hanzi": "问候",
+  "pinyin": "wènhòu",
+  "pos": "",
+  "meaning": "hỏi thăm",
+  "level": 4
+ },
+ {
+  "id": "4-0764",
+  "hanzi": "无",
+  "pinyin": "wú",
+  "pos": "",
+  "meaning": "không, không có (văn viết)",
+  "level": 4
+ },
+ {
+  "id": "4-0765",
+  "hanzi": "无法",
+  "pinyin": "wú fǎ",
+  "pos": "",
+  "meaning": "không thể",
+  "level": 4
+ },
+ {
+  "id": "4-0766",
+  "hanzi": "无聊",
+  "pinyin": "wúliáo",
+  "pos": "",
+  "meaning": "nhàm chán",
+  "level": 4
+ },
+ {
+  "id": "4-0767",
+  "hanzi": "无论",
+  "pinyin": "wúlùn",
+  "pos": "",
+  "meaning": "bất kể",
+  "level": 4
+ },
+ {
+  "id": "4-0768",
+  "hanzi": "无数",
+  "pinyin": "wúshù",
+  "pos": "",
+  "meaning": "vô số",
+  "level": 4
+ },
+ {
+  "id": "4-0769",
+  "hanzi": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "pos": "",
+  "meaning": "không quan trọng",
+  "level": 4
+ },
+ {
+  "id": "4-0770",
+  "hanzi": "无限",
+  "pinyin": "wú xiàn",
+  "pos": "",
+  "meaning": "vô hạn",
+  "level": 4
+ },
+ {
+  "id": "4-0771",
+  "hanzi": "五颜六色",
+  "pinyin": "wǔ yán liù sè",
+  "pos": "",
+  "meaning": "nhiều màu sắc",
+  "level": 4
+ },
+ {
+  "id": "4-0772",
+  "hanzi": "误会",
+  "pinyin": "wùhuì",
+  "pos": "",
+  "meaning": "hiểu lầm",
+  "level": 4
+ },
+ {
+  "id": "4-0773",
+  "hanzi": "西瓜",
+  "pinyin": "xīguā",
+  "pos": "",
+  "meaning": "dưa hấu",
+  "level": 4
+ },
+ {
+  "id": "4-0774",
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "pos": "",
+  "meaning": "hút, hít",
+  "level": 4
+ },
+ {
+  "id": "4-0775",
+  "hanzi": "吸管",
+  "pinyin": "xī guǎn",
+  "pos": "",
+  "meaning": "ống hút",
+  "level": 4
+ },
+ {
+  "id": "4-0776",
+  "hanzi": "吸收",
+  "pinyin": "xīshōu",
+  "pos": "",
+  "meaning": "hấp thụ",
+  "level": 4
+ },
+ {
+  "id": "4-0777",
+  "hanzi": "吸烟",
+  "pinyin": "xī yān",
+  "pos": "",
+  "meaning": "hút thuốc",
+  "level": 4
+ },
+ {
+  "id": "4-0778",
+  "hanzi": "吸引",
+  "pinyin": "xīyǐn",
+  "pos": "",
+  "meaning": "thu hút",
+  "level": 4
+ },
+ {
+  "id": "4-0779",
+  "hanzi": "喜爱",
+  "pinyin": "xǐ ài",
+  "pos": "",
+  "meaning": "yêu thích",
+  "level": 4
+ },
+ {
+  "id": "4-0780",
+  "hanzi": "系列",
+  "pinyin": "xìliè",
+  "pos": "",
+  "meaning": "loạt, chuỗi",
+  "level": 4
+ },
+ {
+  "id": "4-0781",
+  "hanzi": "系统",
+  "pinyin": "xìtǒng",
+  "pos": "",
+  "meaning": "hệ thống",
+  "level": 4
+ },
+ {
+  "id": "4-0782",
+  "hanzi": "细",
+  "pinyin": "xì",
+  "pos": "",
+  "meaning": "mỏng, nhỏ",
+  "level": 4
+ },
+ {
+  "id": "4-0783",
+  "hanzi": "细节",
+  "pinyin": "xìjié",
+  "pos": "",
+  "meaning": "chi tiết",
+  "level": 4
+ },
+ {
+  "id": "4-0784",
+  "hanzi": "细致",
+  "pinyin": "xìzhì",
+  "pos": "",
+  "meaning": "tỉ mỉ",
+  "level": 4
+ },
+ {
+  "id": "4-0785",
+  "hanzi": "下个月",
+  "pinyin": "xià gè yuè",
+  "pos": "",
+  "meaning": "tháng sau",
+  "level": 4
+ },
+ {
+  "id": "4-0786",
+  "hanzi": "下降",
+  "pinyin": "xià jiàng",
+  "pos": "",
+  "meaning": "giảm xuống",
+  "level": 4
+ },
+ {
+  "id": "4-0787",
+  "hanzi": "下楼",
+  "pinyin": "xià lóu",
+  "pos": "",
+  "meaning": "xuống lầu",
+  "level": 4
+ },
+ {
+  "id": "4-0788",
+  "hanzi": "下载",
+  "pinyin": "xiàzài",
+  "pos": "",
+  "meaning": "tải xuống",
+  "level": 4
+ },
+ {
+  "id": "4-0789",
+  "hanzi": "夏季",
+  "pinyin": "xià jì",
+  "pos": "",
+  "meaning": "mùa hè",
+  "level": 4
+ },
+ {
+  "id": "4-0790",
+  "hanzi": "鲜",
+  "pinyin": "xiān",
+  "pos": "",
+  "meaning": "tươi",
+  "level": 4
+ },
+ {
+  "id": "4-0791",
+  "hanzi": "鲜花",
+  "pinyin": "xiān huā",
+  "pos": "",
+  "meaning": "hoa tươi",
+  "level": 4
+ },
+ {
+  "id": "4-0792",
+  "hanzi": "鲜明",
+  "pinyin": "xiānmíng",
+  "pos": "",
+  "meaning": "rõ ràng",
+  "level": 4
+ },
+ {
+  "id": "4-0793",
+  "hanzi": "咸",
+  "pinyin": "xián",
+  "pos": "",
+  "meaning": "mặn",
+  "level": 4
+ },
+ {
+  "id": "4-0794",
+  "hanzi": "显著",
+  "pinyin": "xiǎnzhù",
+  "pos": "",
+  "meaning": "nổi bật",
+  "level": 4
+ },
+ {
+  "id": "4-0795",
+  "hanzi": "县",
+  "pinyin": "xiàn",
+  "pos": "",
+  "meaning": "huyện",
+  "level": 4
+ },
+ {
+  "id": "4-0796",
+  "hanzi": "限制",
+  "pinyin": "xiànzhì",
+  "pos": "",
+  "meaning": "hạn chế",
+  "level": 4
+ },
+ {
+  "id": "4-0797",
+  "hanzi": "相处",
+  "pinyin": "xiāngchǔ",
+  "pos": "",
+  "meaning": "sống hòa thuận",
+  "level": 4
+ },
+ {
+  "id": "4-0798",
+  "hanzi": "相反",
+  "pinyin": "xiāngfǎn",
+  "pos": "",
+  "meaning": "trái ngược",
+  "level": 4
+ },
+ {
+  "id": "4-0799",
+  "hanzi": "箱",
+  "pinyin": "xiāng",
+  "pos": "",
+  "meaning": "thùng",
+  "level": 4
+ },
+ {
+  "id": "4-0800",
+  "hanzi": "箱子",
+  "pinyin": "xiāng zi",
+  "pos": "",
+  "meaning": "cái hộp",
+  "level": 4
+ }
+]

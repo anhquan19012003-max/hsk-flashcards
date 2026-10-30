@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1-0451",
+    "pos": "tính từ",
+    "example": {
+      "zh": "我家很远。",
+      "pinyin": "Wǒ jiā hěn yuǎn.",
+      "vi": "Nhà tôi rất xa."
+    }
+  },
+  {
+    "id": "1-0452",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我一月去北京。",
+      "pinyin": "Wǒ yī yuè qù Běijīng.",
+      "vi": "Tôi đi Bắc Kinh vào tháng Một."
+    }
+  },
+  {
+    "id": "1-0453",
+    "pos": "phó từ",
+    "example": {
+      "zh": "你再吃吗？",
+      "pinyin": "Nǐ zài chī ma?",
+      "vi": "Bạn ăn nữa không?"
+    }
+  },
+  {
+    "id": "1-0454",
+    "pos": "động từ",
+    "example": {
+      "zh": "我们明天再见。",
+      "pinyin": "Wǒmen míngtiān zàijiàn.",
+      "vi": "Ngày mai chúng ta gặp lại."
+    }
+  },
+  {
+    "id": "1-0455",
+    "pos": "động từ, giới từ, phó từ",
+    "example": {
+      "zh": "他在学校。",
+      "pinyin": "Tā zài xuéxiào.",
+      "vi": "Anh ấy ở trường."
+    }
+  },
+  {
+    "id": "1-0456",
+    "pos": "động từ",
+    "example": {
+      "zh": "妈妈在家做饭。",
+      "pinyin": "Māma zài jiā zuòfàn.",
+      "vi": "Mẹ ở nhà nấu cơm."
+    }
+  },
+  {
+    "id": "1-0457",
+    "pos": "tính từ",
+    "example": {
+      "zh": "今天我很早来。",
+      "pinyin": "Jīntiān wǒ hěn zǎo lái.",
+      "vi": "Hôm nay tôi đến sớm."
+    }
+  },
+  {
+    "id": "1-0458",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我吃早饭。",
+      "pinyin": "Wǒ chī zǎofàn.",
+      "vi": "Tôi ăn bữa sáng."
+    }
+  },
+  {
+    "id": "1-0459",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我早上喝茶。",
+      "pinyin": "Wǒ zǎoshang hē chá.",
+      "vi": "Buổi sáng tôi uống trà."
+    }
+  },
+  {
+    "id": "1-0460",
+    "pos": "đại từ",
+    "example": {
+      "zh": "你怎么不吃？",
+      "pinyin": "Nǐ zěnme bù chī?",
+      "vi": "Sao bạn không ăn?"
+    }
+  },
+  {
+    "id": "1-0461",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我们在站见。",
+      "pinyin": "Wǒmen zài zhàn jiàn.",
+      "vi": "Chúng ta gặp nhau ở ga."
+    }
+  },
+  {
+    "id": "1-0462",
+    "pos": "động từ",
+    "example": {
+      "zh": "我找书。",
+      "pinyin": "Wǒ zhǎo shū.",
+      "vi": "Tôi tìm sách."
+    }
+  },
+  {
+    "id": "1-0463",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "我找到了我的书。",
+      "pinyin": "Wǒ zhǎodào le wǒ de shū.",
+      "vi": "Tôi đã tìm thấy sách của mình."
+    }
+  },
+  {
+    "id": "1-0464",
+    "pos": "đại từ",
+    "example": {
+      "zh": "这个很好。",
+      "pinyin": "Zhège hěn hǎo.",
+      "vi": "Cái này rất tốt."
+    }
+  },
+  {
+    "id": "1-0465",
+    "pos": "đại từ",
+    "example": {
+      "zh": "你来这边。",
+      "pinyin": "Nǐ lái zhèbiān.",
+      "vi": "Bạn qua bên này."
+    }
+  },
+  {
+    "id": "1-0466",
+    "pos": "đại từ",
+    "example": {
+      "zh": "这里有人吗？",
+      "pinyin": "Zhèlǐ yǒu rén ma?",
+      "vi": "Ở đây có ai không?"
+    }
+  },
+  {
+    "id": "1-0467",
+    "pos": "đại từ",
+    "example": {
+      "zh": "这儿有水。",
+      "pinyin": "Zhèr yǒu shuǐ.",
+      "vi": "Chỗ này có nước."
+    }
+  },
+  {
+    "id": "1-0468",
+    "pos": "đại từ",
+    "example": {
+      "zh": "这些是我的。",
+      "pinyin": "Zhèxiē shì wǒ de.",
+      "vi": "Những cái này là của tôi."
+    }
+  },
+  {
+    "id": "1-0469",
+    "pos": "trợ từ",
+    "example": {
+      "zh": "他坐着看书。",
+      "pinyin": "Tā zuòzhe kàn shū.",
+      "vi": "Anh ấy ngồi đọc sách."
+    }
+  },
+  {
+    "id": "1-0470",
+    "pos": "phó từ, tính từ",
+    "example": {
+      "zh": "你真好！",
+      "pinyin": "Nǐ zhēn hǎo!",
+      "vi": "Bạn thật tốt!"
+    }
+  },
+  {
+    "id": "1-0471",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "这是真的吗？",
+      "pinyin": "Zhè shì zhēn de ma?",
+      "vi": "Cái này là thật không?"
+    }
+  },
+  {
+    "id": "1-0472",
+    "pos": "phó từ",
+    "example": {
+      "zh": "他正看书。",
+      "pinyin": "Tā zhèng kàn shū.",
+      "vi": "Anh ấy đang đọc sách."
+    }
+  },
+  {
+    "id": "1-0473",
+    "pos": "phó từ",
+    "example": {
+      "zh": "他正在写字。",
+      "pinyin": "Tā zhèngzài xiě zì.",
+      "vi": "Anh ấy đang viết chữ."
+    }
+  },
+  {
+    "id": "1-0474",
+    "pos": "động từ",
+    "example": {
+      "zh": "我知道你的名字。",
+      "pinyin": "Wǒ zhīdào nǐ de míngzi.",
+      "vi": "Tôi biết tên bạn."
+    }
+  },
+  {
+    "id": "1-0475",
+    "pos": "danh từ",
+    "example": {
+      "zh": "他有很多知识。",
+      "pinyin": "Tā yǒu hěn duō zhīshi.",
+      "vi": "Anh ấy có nhiều kiến thức."
+    }
+  },
+  {
+    "id": "1-0476",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我们中有人去。",
+      "pinyin": "Wǒmen zhōng yǒu rén qù.",
+      "vi": "Trong chúng tôi có người đi."
+    }
+  },
+  {
+    "id": "1-0477",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我去中国。",
+      "pinyin": "Wǒ qù Zhōngguó.",
+      "vi": "Tôi đi Trung Quốc."
+    }
+  },
+  {
+    "id": "1-0478",
+    "pos": "danh từ",
+    "example": {
+      "zh": "书在桌子中间。",
+      "pinyin": "Shū zài zhuōzi zhōngjiān.",
+      "vi": "Sách ở giữa bàn."
+    }
+  },
+  {
+    "id": "1-0479",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我学中文。",
+      "pinyin": "Wǒ xué Zhōngwén.",
+      "vi": "Tôi học tiếng Trung."
+    }
+  },
+  {
+    "id": "1-0480",
+    "pos": "danh từ",
+    "example": {
+      "zh": "中午我吃饭。",
+      "pinyin": "Zhōngwǔ wǒ chī fàn.",
+      "vi": "Buổi trưa tôi ăn cơm."
+    }
+  },
+  {
+    "id": "1-0481",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我的弟弟在中学。",
+      "pinyin": "Wǒ de dìdi zài zhōngxué.",
+      "vi": "Em trai tôi học ở trường trung học."
+    }
+  },
+  {
+    "id": "1-0482",
+    "pos": "danh từ",
+    "example": {
+      "zh": "中学生在学校。",
+      "pinyin": "Zhōngxuéshēng zài xuéxiào.",
+      "vi": "Học sinh trung học ở trường."
+    }
+  },
+  {
+    "id": "1-0483",
+    "pos": "tính từ",
+    "example": {
+      "zh": "这本书很重。",
+      "pinyin": "Zhè běn shū hěn zhòng.",
+      "vi": "Cuốn sách này rất nặng."
+    }
+  },
+  {
+    "id": "1-0484",
+    "pos": "tính từ",
+    "example": {
+      "zh": "这很重要。",
+      "pinyin": "Zhè hěn zhòngyào.",
+      "vi": "Cái này rất quan trọng."
+    }
+  },
+  {
+    "id": "1-0485",
+    "pos": "động từ",
+    "example": {
+      "zh": "我住在北京。",
+      "pinyin": "Wǒ zhù zài Běijīng.",
+      "vi": "Tôi sống ở Bắc Kinh."
+    }
+  },
+  {
+    "id": "1-0486",
+    "pos": "động từ",
+    "example": {
+      "zh": "我们准备吃饭。",
+      "pinyin": "Wǒmen zhǔnbèi chī fàn.",
+      "vi": "Chúng tôi chuẩn bị ăn cơm."
+    }
+  },
+  {
+    "id": "1-0487",
+    "pos": "danh từ",
+    "example": {
+      "zh": "桌子上有书。",
+      "pinyin": "Zhuōzi shàng yǒu shū.",
+      "vi": "Trên bàn có sách."
+    }
+  },
+  {
+    "id": "1-0488",
+    "pos": "danh từ",
+    "example": {
+      "zh": "这个字是什么？",
+      "pinyin": "Zhège zì shì shénme?",
+      "vi": "Chữ này là gì?"
+    }
+  },
+  {
+    "id": "1-0489",
+    "pos": "hậu tố",
+    "example": {
+      "zh": "桌子很大。",
+      "pinyin": "Zhuōzi hěn dà.",
+      "vi": "Cái bàn rất to."
+    }
+  },
+  {
+    "id": "1-0490",
+    "pos": "động từ",
+    "example": {
+      "zh": "我们走吧。",
+      "pinyin": "Wǒmen zǒu ba.",
+      "vi": "Chúng ta đi thôi."
+    }
+  },
+  {
+    "id": "1-0491",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "我喜欢走路。",
+      "pinyin": "Wǒ xǐhuan zǒulù.",
+      "vi": "Tôi thích đi bộ."
+    }
+  },
+  {
+    "id": "1-0492",
+    "pos": "phó từ",
+    "example": {
+      "zh": "我最喜欢中国。",
+      "pinyin": "Wǒ zuì xǐhuan Zhōngguó.",
+      "vi": "Tôi thích Trung Quốc nhất."
+    }
+  },
+  {
+    "id": "1-0493",
+    "pos": "phó từ",
+    "example": {
+      "zh": "你最好早点来。",
+      "pinyin": "Nǐ zuìhǎo zǎo diǎn lái.",
+      "vi": "Tốt nhất là bạn đến sớm."
+    }
+  },
+  {
+    "id": "1-0494",
+    "pos": "danh từ",
+    "example": {
+      "zh": "最后我们回家。",
+      "pinyin": "Zuìhòu wǒmen huí jiā.",
+      "vi": "Cuối cùng chúng tôi về nhà."
+    }
+  },
+  {
+    "id": "1-0495",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我昨天在家。",
+      "pinyin": "Wǒ zuótiān zài jiā.",
+      "vi": "Hôm qua tôi ở nhà."
+    }
+  },
+  {
+    "id": "1-0496",
+    "pos": "danh từ",
+    "example": {
+      "zh": "他用左手写字。",
+      "pinyin": "Tā yòng zuǒ shǒu xiě zì.",
+      "vi": "Anh ấy dùng tay trái viết chữ."
+    }
+  },
+  {
+    "id": "1-0497",
+    "pos": "danh từ",
+    "example": {
+      "zh": "书在左边。",
+      "pinyin": "Shū zài zuǒbian.",
+      "vi": "Sách ở bên trái."
+    }
+  },
+  {
+    "id": "1-0498",
+    "pos": "động từ",
+    "example": {
+      "zh": "我坐车去学校。",
+      "pinyin": "Wǒ zuò chē qù xuéxiào.",
+      "vi": "Tôi đi học bằng xe."
+    }
+  },
+  {
+    "id": "1-0499",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "你坐下吧。",
+      "pinyin": "Nǐ zuòxia ba.",
+      "vi": "Bạn ngồi xuống đi."
+    }
+  },
+  {
+    "id": "1-0500",
+    "pos": "động từ",
+    "example": {
+      "zh": "你做什么？",
+      "pinyin": "Nǐ zuò shénme?",
+      "vi": "Bạn làm gì?"
+    }
+  }
+]

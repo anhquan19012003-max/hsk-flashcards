@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0001",
+  "hanzi": "唉",
+  "pinyin": "āi",
+  "pos": "",
+  "meaning": "than ôi",
+  "level": 5
+ },
+ {
+  "id": "5-0002",
+  "hanzi": "爱心",
+  "pinyin": "àixīn",
+  "pos": "",
+  "meaning": "lòng nhân ái",
+  "level": 5
+ },
+ {
+  "id": "5-0003",
+  "hanzi": "安慰",
+  "pinyin": "ānwèi",
+  "pos": "",
+  "meaning": "an ủi",
+  "level": 5
+ },
+ {
+  "id": "5-0004",
+  "hanzi": "岸",
+  "pinyin": "àn",
+  "pos": "",
+  "meaning": "bờ",
+  "level": 5
+ },
+ {
+  "id": "5-0005",
+  "hanzi": "熬夜",
+  "pinyin": "áoyè",
+  "pos": "",
+  "meaning": "thức khuya",
+  "level": 5
+ },
+ {
+  "id": "5-0006",
+  "hanzi": "包含",
+  "pinyin": "bāohán",
+  "pos": "",
+  "meaning": "bao gồm",
+  "level": 5
+ },
+ {
+  "id": "5-0007",
+  "hanzi": "宝贵",
+  "pinyin": "bǎoguì",
+  "pos": "",
+  "meaning": "quý báu",
+  "level": 5
+ },
+ {
+  "id": "5-0008",
+  "hanzi": "保存",
+  "pinyin": "bǎocún",
+  "pos": "",
+  "meaning": "bảo tồn",
+  "level": 5
+ },
+ {
+  "id": "5-0009",
+  "hanzi": "保留",
+  "pinyin": "bǎoliú",
+  "pos": "",
+  "meaning": "giữ lại",
+  "level": 5
+ },
+ {
+  "id": "5-0010",
+  "hanzi": "报到",
+  "pinyin": "bàodào",
+  "pos": "",
+  "meaning": "báo danh",
+  "level": 5
+ },
+ {
+  "id": "5-0011",
+  "hanzi": "报告",
+  "pinyin": "bàogào",
+  "pos": "",
+  "meaning": "báo cáo",
+  "level": 5
+ },
+ {
+  "id": "5-0012",
+  "hanzi": "悲观",
+  "pinyin": "bēiguān",
+  "pos": "",
+  "meaning": "bi quan",
+  "level": 5
+ },
+ {
+  "id": "5-0013",
+  "hanzi": "背景",
+  "pinyin": "bèijǐng",
+  "pos": "",
+  "meaning": "bối cảnh",
+  "level": 5
+ },
+ {
+  "id": "5-0014",
+  "hanzi": "被子",
+  "pinyin": "bèizi",
+  "pos": "",
+  "meaning": "chăn",
+  "level": 5
+ },
+ {
+  "id": "5-0015",
+  "hanzi": "本科",
+  "pinyin": "běnkē",
+  "pos": "",
+  "meaning": "đại học chính quy",
+  "level": 5
+ },
+ {
+  "id": "5-0016",
+  "hanzi": "本领",
+  "pinyin": "běnlǐng",
+  "pos": "",
+  "meaning": "bản lĩnh",
+  "level": 5
+ },
+ {
+  "id": "5-0017",
+  "hanzi": "比例",
+  "pinyin": "bǐlì",
+  "pos": "",
+  "meaning": "tỷ lệ",
+  "level": 5
+ },
+ {
+  "id": "5-0018",
+  "hanzi": "必然",
+  "pinyin": "bìrán",
+  "pos": "",
+  "meaning": "tất yếu",
+  "level": 5
+ },
+ {
+  "id": "5-0019",
+  "hanzi": "必要",
+  "pinyin": "bìyào",
+  "pos": "",
+  "meaning": "cần thiết",
+  "level": 5
+ },
+ {
+  "id": "5-0020",
+  "hanzi": "鞭炮",
+  "pinyin": "biānpào",
+  "pos": "",
+  "meaning": "pháo",
+  "level": 5
+ },
+ {
+  "id": "5-0021",
+  "hanzi": "辩论",
+  "pinyin": "biànlùn",
+  "pos": "",
+  "meaning": "tranh luận",
+  "level": 5
+ },
+ {
+  "id": "5-0022",
+  "hanzi": "标志",
+  "pinyin": "biāozhì",
+  "pos": "",
+  "meaning": "ký hiệu",
+  "level": 5
+ },
+ {
+  "id": "5-0023",
+  "hanzi": "表达",
+  "pinyin": "biǎodá",
+  "pos": "",
+  "meaning": "biểu đạt",
+  "level": 5
+ },
+ {
+  "id": "5-0024",
+  "hanzi": "表面",
+  "pinyin": "biǎomiàn",
+  "pos": "",
+  "meaning": "bề mặt",
+  "level": 5
+ },
+ {
+  "id": "5-0025",
+  "hanzi": "表情",
+  "pinyin": "biǎoqíng",
+  "pos": "",
+  "meaning": "biểu cảm",
+  "level": 5
+ },
+ {
+  "id": "5-0026",
+  "hanzi": "表现",
+  "pinyin": "biǎoxiàn",
+  "pos": "",
+  "meaning": "thể hiện",
+  "level": 5
+ },
+ {
+  "id": "5-0027",
+  "hanzi": "冰激凌",
+  "pinyin": "bīngjīlíng",
+  "pos": "",
+  "meaning": "kem",
+  "level": 5
+ },
+ {
+  "id": "5-0028",
+  "hanzi": "玻璃",
+  "pinyin": "bōli",
+  "pos": "",
+  "meaning": "kính",
+  "level": 5
+ },
+ {
+  "id": "5-0029",
+  "hanzi": "博物馆",
+  "pinyin": "bówùguǎn",
+  "pos": "",
+  "meaning": "viện bảo tàng",
+  "level": 5
+ },
+ {
+  "id": "5-0030",
+  "hanzi": "不断",
+  "pinyin": "búduàn",
+  "pos": "",
+  "meaning": "liên tục",
+  "level": 5
+ },
+ {
+  "id": "5-0031",
+  "hanzi": "不见得",
+  "pinyin": "bújiàndé",
+  "pos": "",
+  "meaning": "chưa chắc",
+  "level": 5
+ },
+ {
+  "id": "5-0032",
+  "hanzi": "不耐烦",
+  "pinyin": "búnàifán",
+  "pos": "",
+  "meaning": "thiếu kiên nhẫn",
+  "level": 5
+ },
+ {
+  "id": "5-0033",
+  "hanzi": "补充",
+  "pinyin": "bǔchōng",
+  "pos": "",
+  "meaning": "bổ sung",
+  "level": 5
+ },
+ {
+  "id": "5-0034",
+  "hanzi": "不然",
+  "pinyin": "bùrán",
+  "pos": "",
+  "meaning": "nếu không thì",
+  "level": 5
+ },
+ {
+  "id": "5-0035",
+  "hanzi": "不足",
+  "pinyin": "bùzú",
+  "pos": "",
+  "meaning": "không đủ",
+  "level": 5
+ },
+ {
+  "id": "5-0036",
+  "hanzi": "部门",
+  "pinyin": "bùmén",
+  "pos": "",
+  "meaning": "bộ phận",
+  "level": 5
+ },
+ {
+  "id": "5-0037",
+  "hanzi": "财产",
+  "pinyin": "cáichǎn",
+  "pos": "",
+  "meaning": "tài sản",
+  "level": 5
+ },
+ {
+  "id": "5-0038",
+  "hanzi": "踩",
+  "pinyin": "cǎi",
+  "pos": "",
+  "meaning": "dẫm lên",
+  "level": 5
+ },
+ {
+  "id": "5-0039",
+  "hanzi": "采取",
+  "pinyin": "cǎiqǔ",
+  "pos": "",
+  "meaning": "áp dụng",
+  "level": 5
+ },
+ {
+  "id": "5-0040",
+  "hanzi": "参考",
+  "pinyin": "cānkǎo",
+  "pos": "",
+  "meaning": "tham khảo",
+  "level": 5
+ },
+ {
+  "id": "5-0041",
+  "hanzi": "操场",
+  "pinyin": "cāochǎng",
+  "pos": "",
+  "meaning": "sân vận động",
+  "level": 5
+ },
+ {
+  "id": "5-0042",
+  "hanzi": "插",
+  "pinyin": "chā",
+  "pos": "",
+  "meaning": "cắm, chèn",
+  "level": 5
+ },
+ {
+  "id": "5-0043",
+  "hanzi": "叉子",
+  "pinyin": "chāzi",
+  "pos": "",
+  "meaning": "nĩa",
+  "level": 5
+ },
+ {
+  "id": "5-0044",
+  "hanzi": "拆",
+  "pinyin": "chāi",
+  "pos": "",
+  "meaning": "tháo, gỡ",
+  "level": 5
+ },
+ {
+  "id": "5-0045",
+  "hanzi": "产生",
+  "pinyin": "chǎnshēng",
+  "pos": "",
+  "meaning": "tạo ra",
+  "level": 5
+ },
+ {
+  "id": "5-0046",
+  "hanzi": "常识",
+  "pinyin": "chángshí",
+  "pos": "",
+  "meaning": "kiến thức thường thức",
+  "level": 5
+ },
+ {
+  "id": "5-0047",
+  "hanzi": "潮湿",
+  "pinyin": "cháoshī",
+  "pos": "",
+  "meaning": "ẩm ướt",
+  "level": 5
+ },
+ {
+  "id": "5-0048",
+  "hanzi": "吵",
+  "pinyin": "chǎo",
+  "pos": "",
+  "meaning": "ồn ào",
+  "level": 5
+ },
+ {
+  "id": "5-0049",
+  "hanzi": "车库",
+  "pinyin": "chēkù",
+  "pos": "",
+  "meaning": "ga-ra",
+  "level": 5
+ },
+ {
+  "id": "5-0050",
+  "hanzi": "彻底",
+  "pinyin": "chèdǐ",
+  "pos": "",
+  "meaning": "triệt để",
+  "level": 5
+ }
+]

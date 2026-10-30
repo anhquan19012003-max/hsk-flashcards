@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0151",
+  "hanzi": "高级",
+  "pinyin": "gāojí",
+  "pos": "",
+  "meaning": "cao cấp",
+  "level": 5
+ },
+ {
+  "id": "5-0152",
+  "hanzi": "告别",
+  "pinyin": "gàobié",
+  "pos": "",
+  "meaning": "tạm biệt",
+  "level": 5
+ },
+ {
+  "id": "5-0153",
+  "hanzi": "隔壁",
+  "pinyin": "gébì",
+  "pos": "",
+  "meaning": "hàng xóm",
+  "level": 5
+ },
+ {
+  "id": "5-0154",
+  "hanzi": "个人",
+  "pinyin": "gèrén",
+  "pos": "",
+  "meaning": "cá nhân",
+  "level": 5
+ },
+ {
+  "id": "5-0155",
+  "hanzi": "各自",
+  "pinyin": "gèzì",
+  "pos": "",
+  "meaning": "mỗi người",
+  "level": 5
+ },
+ {
+  "id": "5-0156",
+  "hanzi": "根本",
+  "pinyin": "gēnběn",
+  "pos": "",
+  "meaning": "căn bản",
+  "level": 5
+ },
+ {
+  "id": "5-0157",
+  "hanzi": "公开",
+  "pinyin": "gōngkāi",
+  "pos": "",
+  "meaning": "công khai",
+  "level": 5
+ },
+ {
+  "id": "5-0158",
+  "hanzi": "公平",
+  "pinyin": "gōngpíng",
+  "pos": "",
+  "meaning": "công bằng",
+  "level": 5
+ },
+ {
+  "id": "5-0159",
+  "hanzi": "公寓",
+  "pinyin": "gōngyù",
+  "pos": "",
+  "meaning": "căn hộ",
+  "level": 5
+ },
+ {
+  "id": "5-0160",
+  "hanzi": "工厂",
+  "pinyin": "gōngchǎng",
+  "pos": "",
+  "meaning": "nhà máy",
+  "level": 5
+ },
+ {
+  "id": "5-0161",
+  "hanzi": "工具",
+  "pinyin": "gōngjù",
+  "pos": "",
+  "meaning": "công cụ",
+  "level": 5
+ },
+ {
+  "id": "5-0162",
+  "hanzi": "工业",
+  "pinyin": "gōngyè",
+  "pos": "",
+  "meaning": "công nghiệp",
+  "level": 5
+ },
+ {
+  "id": "5-0163",
+  "hanzi": "功能",
+  "pinyin": "gōngnéng",
+  "pos": "",
+  "meaning": "chức năng",
+  "level": 5
+ },
+ {
+  "id": "5-0164",
+  "hanzi": "沟通",
+  "pinyin": "gōutōng",
+  "pos": "",
+  "meaning": "giao tiếp",
+  "level": 5
+ },
+ {
+  "id": "5-0165",
+  "hanzi": "姑娘",
+  "pinyin": "gūniang",
+  "pos": "",
+  "meaning": "cô gái",
+  "level": 5
+ },
+ {
+  "id": "5-0166",
+  "hanzi": "古代",
+  "pinyin": "gǔdài",
+  "pos": "",
+  "meaning": "cổ đại",
+  "level": 5
+ },
+ {
+  "id": "5-0167",
+  "hanzi": "鼓掌",
+  "pinyin": "gǔzhǎng",
+  "pos": "",
+  "meaning": "vỗ tay",
+  "level": 5
+ },
+ {
+  "id": "5-0168",
+  "hanzi": "骨头",
+  "pinyin": "gǔtou",
+  "pos": "",
+  "meaning": "xương",
+  "level": 5
+ },
+ {
+  "id": "5-0169",
+  "hanzi": "乖",
+  "pinyin": "guāi",
+  "pos": "",
+  "meaning": "ngoan ngoãn",
+  "level": 5
+ },
+ {
+  "id": "5-0170",
+  "hanzi": "怪不得",
+  "pinyin": "guàibude",
+  "pos": "",
+  "meaning": "thảo nào",
+  "level": 5
+ },
+ {
+  "id": "5-0171",
+  "hanzi": "观察",
+  "pinyin": "guānchá",
+  "pos": "",
+  "meaning": "quan sát",
+  "level": 5
+ },
+ {
+  "id": "5-0172",
+  "hanzi": "观念",
+  "pinyin": "guānniàn",
+  "pos": "",
+  "meaning": "quan niệm",
+  "level": 5
+ },
+ {
+  "id": "5-0173",
+  "hanzi": "冠军",
+  "pinyin": "guànjūn",
+  "pos": "",
+  "meaning": "quán quân",
+  "level": 5
+ },
+ {
+  "id": "5-0174",
+  "hanzi": "光滑",
+  "pinyin": "guānghuá",
+  "pos": "",
+  "meaning": "mịn màng",
+  "level": 5
+ },
+ {
+  "id": "5-0175",
+  "hanzi": "光明",
+  "pinyin": "guāngmíng",
+  "pos": "",
+  "meaning": "ánh sáng",
+  "level": 5
+ },
+ {
+  "id": "5-0176",
+  "hanzi": "广大",
+  "pinyin": "guǎngdà",
+  "pos": "",
+  "meaning": "rộng lớn",
+  "level": 5
+ },
+ {
+  "id": "5-0177",
+  "hanzi": "规律",
+  "pinyin": "guīlǜ",
+  "pos": "",
+  "meaning": "quy luật",
+  "level": 5
+ },
+ {
+  "id": "5-0178",
+  "hanzi": "规则",
+  "pinyin": "guīzé",
+  "pos": "",
+  "meaning": "quy tắc",
+  "level": 5
+ },
+ {
+  "id": "5-0179",
+  "hanzi": "滚",
+  "pinyin": "gǔn",
+  "pos": "",
+  "meaning": "lăn, cút",
+  "level": 5
+ },
+ {
+  "id": "5-0180",
+  "hanzi": "国庆节",
+  "pinyin": "guóqìngjié",
+  "pos": "",
+  "meaning": "Quốc khánh",
+  "level": 5
+ },
+ {
+  "id": "5-0181",
+  "hanzi": "果实",
+  "pinyin": "guǒshí",
+  "pos": "",
+  "meaning": "quả",
+  "level": 5
+ },
+ {
+  "id": "5-0182",
+  "hanzi": "过敏",
+  "pinyin": "guòmǐn",
+  "pos": "",
+  "meaning": "dị ứng",
+  "level": 5
+ },
+ {
+  "id": "5-0183",
+  "hanzi": "海鲜",
+  "pinyin": "hǎixiān",
+  "pos": "",
+  "meaning": "hải sản",
+  "level": 5
+ },
+ {
+  "id": "5-0184",
+  "hanzi": "豪华",
+  "pinyin": "háohuá",
+  "pos": "",
+  "meaning": "sang trọng",
+  "level": 5
+ },
+ {
+  "id": "5-0185",
+  "hanzi": "好奇",
+  "pinyin": "hàoqí",
+  "pos": "",
+  "meaning": "tò mò",
+  "level": 5
+ },
+ {
+  "id": "5-0186",
+  "hanzi": "何必",
+  "pinyin": "hébì",
+  "pos": "",
+  "meaning": "hà tất",
+  "level": 5
+ },
+ {
+  "id": "5-0187",
+  "hanzi": "合法",
+  "pinyin": "héfǎ",
+  "pos": "",
+  "meaning": "hợp pháp",
+  "level": 5
+ },
+ {
+  "id": "5-0188",
+  "hanzi": "合理",
+  "pinyin": "hélǐ",
+  "pos": "",
+  "meaning": "hợp lý",
+  "level": 5
+ },
+ {
+  "id": "5-0189",
+  "hanzi": "合同",
+  "pinyin": "hétong",
+  "pos": "",
+  "meaning": "hợp đồng",
+  "level": 5
+ },
+ {
+  "id": "5-0190",
+  "hanzi": "合作",
+  "pinyin": "hézuò",
+  "pos": "",
+  "meaning": "hợp tác",
+  "level": 5
+ },
+ {
+  "id": "5-0191",
+  "hanzi": "恨",
+  "pinyin": "hèn",
+  "pos": "",
+  "meaning": "căm ghét",
+  "level": 5
+ },
+ {
+  "id": "5-0192",
+  "hanzi": "猴子",
+  "pinyin": "hóuzi",
+  "pos": "",
+  "meaning": "con khỉ",
+  "level": 5
+ },
+ {
+  "id": "5-0193",
+  "hanzi": "后背",
+  "pinyin": "hòubèi",
+  "pos": "",
+  "meaning": "lưng",
+  "level": 5
+ },
+ {
+  "id": "5-0194",
+  "hanzi": "忽视",
+  "pinyin": "hūshì",
+  "pos": "",
+  "meaning": "coi thường",
+  "level": 5
+ },
+ {
+  "id": "5-0195",
+  "hanzi": "壶",
+  "pinyin": "hú",
+  "pos": "",
+  "meaning": "ấm",
+  "level": 5
+ },
+ {
+  "id": "5-0196",
+  "hanzi": "胡说",
+  "pinyin": "húshuō",
+  "pos": "",
+  "meaning": "nói bậy",
+  "level": 5
+ },
+ {
+  "id": "5-0197",
+  "hanzi": "糊涂",
+  "pinyin": "hútu",
+  "pos": "",
+  "meaning": "mơ hồ",
+  "level": 5
+ },
+ {
+  "id": "5-0198",
+  "hanzi": "花生",
+  "pinyin": "huāshēng",
+  "pos": "",
+  "meaning": "đậu phộng",
+  "level": 5
+ },
+ {
+  "id": "5-0199",
+  "hanzi": "划",
+  "pinyin": "huá",
+  "pos": "",
+  "meaning": "chèo (thuyền)",
+  "level": 5
+ },
+ {
+  "id": "5-0200",
+  "hanzi": "话题",
+  "pinyin": "huàtí",
+  "pos": "",
+  "meaning": "chủ đề",
+  "level": 5
+ }
+]

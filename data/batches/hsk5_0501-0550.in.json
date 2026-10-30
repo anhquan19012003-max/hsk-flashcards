@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0501",
+  "hanzi": "吸取",
+  "pinyin": "xīqǔ",
+  "pos": "",
+  "meaning": "tiếp thu",
+  "level": 5
+ },
+ {
+  "id": "5-0502",
+  "hanzi": "系统",
+  "pinyin": "xìtǒng",
+  "pos": "",
+  "meaning": "hệ thống",
+  "level": 5
+ },
+ {
+  "id": "5-0503",
+  "hanzi": "戏剧",
+  "pinyin": "xìjù",
+  "pos": "",
+  "meaning": "kịch",
+  "level": 5
+ },
+ {
+  "id": "5-0504",
+  "hanzi": "吓",
+  "pinyin": "xià",
+  "pos": "",
+  "meaning": "giật mình",
+  "level": 5
+ },
+ {
+  "id": "5-0505",
+  "hanzi": "夏令营",
+  "pinyin": "xiàlìngyíng",
+  "pos": "",
+  "meaning": "trại hè",
+  "level": 5
+ },
+ {
+  "id": "5-0506",
+  "hanzi": "下载",
+  "pinyin": "xiàzài",
+  "pos": "",
+  "meaning": "tải xuống",
+  "level": 5
+ },
+ {
+  "id": "5-0507",
+  "hanzi": "显然",
+  "pinyin": "xiǎnrán",
+  "pos": "",
+  "meaning": "rõ ràng",
+  "level": 5
+ },
+ {
+  "id": "5-0508",
+  "hanzi": "县",
+  "pinyin": "xiàn",
+  "pos": "",
+  "meaning": "huyện",
+  "level": 5
+ },
+ {
+  "id": "5-0509",
+  "hanzi": "现象",
+  "pinyin": "xiànxiàng",
+  "pos": "",
+  "meaning": "hiện tượng",
+  "level": 5
+ },
+ {
+  "id": "5-0510",
+  "hanzi": "香肠",
+  "pinyin": "xiāngcháng",
+  "pos": "",
+  "meaning": "xúc xích",
+  "level": 5
+ },
+ {
+  "id": "5-0511",
+  "hanzi": "相当",
+  "pinyin": "xiāngdāng",
+  "pos": "",
+  "meaning": "khá là",
+  "level": 5
+ },
+ {
+  "id": "5-0512",
+  "hanzi": "相似",
+  "pinyin": "xiāngsì",
+  "pos": "",
+  "meaning": "tương tự",
+  "level": 5
+ },
+ {
+  "id": "5-0513",
+  "hanzi": "想念",
+  "pinyin": "xiǎngniàn",
+  "pos": "",
+  "meaning": "nhớ nhung",
+  "level": 5
+ },
+ {
+  "id": "5-0514",
+  "hanzi": "享受",
+  "pinyin": "xiǎngshòu",
+  "pos": "",
+  "meaning": "tận hưởng",
+  "level": 5
+ },
+ {
+  "id": "5-0515",
+  "hanzi": "项链",
+  "pinyin": "xiàngliàn",
+  "pos": "",
+  "meaning": "dây chuyền",
+  "level": 5
+ },
+ {
+  "id": "5-0516",
+  "hanzi": "象征",
+  "pinyin": "xiàngzhēng",
+  "pos": "",
+  "meaning": "biểu tượng",
+  "level": 5
+ },
+ {
+  "id": "5-0517",
+  "hanzi": "消极",
+  "pinyin": "xiāojí",
+  "pos": "",
+  "meaning": "tiêu cực",
+  "level": 5
+ },
+ {
+  "id": "5-0518",
+  "hanzi": "消失",
+  "pinyin": "xiāoshī",
+  "pos": "",
+  "meaning": "biến mất",
+  "level": 5
+ },
+ {
+  "id": "5-0519",
+  "hanzi": "小气",
+  "pinyin": "xiǎoqi",
+  "pos": "",
+  "meaning": "keo kiệt",
+  "level": 5
+ },
+ {
+  "id": "5-0520",
+  "hanzi": "孝顺",
+  "pinyin": "xiàoshun",
+  "pos": "",
+  "meaning": "hiếu thảo",
+  "level": 5
+ },
+ {
+  "id": "5-0521",
+  "hanzi": "斜",
+  "pinyin": "xié",
+  "pos": "",
+  "meaning": "nghiêng",
+  "level": 5
+ },
+ {
+  "id": "5-0522",
+  "hanzi": "写作",
+  "pinyin": "xiězuò",
+  "pos": "",
+  "meaning": "viết văn",
+  "level": 5
+ },
+ {
+  "id": "5-0523",
+  "hanzi": "心理",
+  "pinyin": "xīnlǐ",
+  "pos": "",
+  "meaning": "tâm lý",
+  "level": 5
+ },
+ {
+  "id": "5-0524",
+  "hanzi": "心脏",
+  "pinyin": "xīnzàng",
+  "pos": "",
+  "meaning": "tim",
+  "level": 5
+ },
+ {
+  "id": "5-0525",
+  "hanzi": "信任",
+  "pinyin": "xìnrèn",
+  "pos": "",
+  "meaning": "tin tưởng",
+  "level": 5
+ },
+ {
+  "id": "5-0526",
+  "hanzi": "行为",
+  "pinyin": "xíngwéi",
+  "pos": "",
+  "meaning": "hành vi",
+  "level": 5
+ },
+ {
+  "id": "5-0527",
+  "hanzi": "形容",
+  "pinyin": "xíngróng",
+  "pos": "",
+  "meaning": "miêu tả",
+  "level": 5
+ },
+ {
+  "id": "5-0528",
+  "hanzi": "形势",
+  "pinyin": "xíngshì",
+  "pos": "",
+  "meaning": "tình hình",
+  "level": 5
+ },
+ {
+  "id": "5-0529",
+  "hanzi": "形状",
+  "pinyin": "xíngzhuàng",
+  "pos": "",
+  "meaning": "hình dạng",
+  "level": 5
+ },
+ {
+  "id": "5-0530",
+  "hanzi": "幸运",
+  "pinyin": "xìngyùn",
+  "pos": "",
+  "meaning": "may mắn",
+  "level": 5
+ },
+ {
+  "id": "5-0531",
+  "hanzi": "兄弟",
+  "pinyin": "xiōngdì",
+  "pos": "",
+  "meaning": "anh em",
+  "level": 5
+ },
+ {
+  "id": "5-0532",
+  "hanzi": "虚心",
+  "pinyin": "xūxīn",
+  "pos": "",
+  "meaning": "khiêm tốn",
+  "level": 5
+ },
+ {
+  "id": "5-0533",
+  "hanzi": "宣布",
+  "pinyin": "xuānbù",
+  "pos": "",
+  "meaning": "tuyên bố",
+  "level": 5
+ },
+ {
+  "id": "5-0534",
+  "hanzi": "学术",
+  "pinyin": "xuéshù",
+  "pos": "",
+  "meaning": "học thuật",
+  "level": 5
+ },
+ {
+  "id": "5-0535",
+  "hanzi": "询问",
+  "pinyin": "xúnwèn",
+  "pos": "",
+  "meaning": "hỏi thăm",
+  "level": 5
+ },
+ {
+  "id": "5-0536",
+  "hanzi": "训练",
+  "pinyin": "xùnliàn",
+  "pos": "",
+  "meaning": "huấn luyện",
+  "level": 5
+ },
+ {
+  "id": "5-0537",
+  "hanzi": "押金",
+  "pinyin": "yājīn",
+  "pos": "",
+  "meaning": "tiền đặt cọc",
+  "level": 5
+ },
+ {
+  "id": "5-0538",
+  "hanzi": "牙齿",
+  "pinyin": "yáchǐ",
+  "pos": "",
+  "meaning": "răng",
+  "level": 5
+ },
+ {
+  "id": "5-0539",
+  "hanzi": "宴会",
+  "pinyin": "yànhuì",
+  "pos": "",
+  "meaning": "tiệc lớn",
+  "level": 5
+ },
+ {
+  "id": "5-0540",
+  "hanzi": "痒",
+  "pinyin": "yǎng",
+  "pos": "",
+  "meaning": "ngứa",
+  "level": 5
+ },
+ {
+  "id": "5-0541",
+  "hanzi": "样式",
+  "pinyin": "yàngshì",
+  "pos": "",
+  "meaning": "kiểu dáng",
+  "level": 5
+ },
+ {
+  "id": "5-0542",
+  "hanzi": "腰",
+  "pinyin": "yāo",
+  "pos": "",
+  "meaning": "eo",
+  "level": 5
+ },
+ {
+  "id": "5-0543",
+  "hanzi": "咬",
+  "pinyin": "yǎo",
+  "pos": "",
+  "meaning": "cắn",
+  "level": 5
+ },
+ {
+  "id": "5-0544",
+  "hanzi": "夜",
+  "pinyin": "yè",
+  "pos": "",
+  "meaning": "đêm",
+  "level": 5
+ },
+ {
+  "id": "5-0545",
+  "hanzi": "业余",
+  "pinyin": "yèyú",
+  "pos": "",
+  "meaning": "nghiệp dư",
+  "level": 5
+ },
+ {
+  "id": "5-0546",
+  "hanzi": "依然",
+  "pinyin": "yīrán",
+  "pos": "",
+  "meaning": "vẫn",
+  "level": 5
+ },
+ {
+  "id": "5-0547",
+  "hanzi": "一旦",
+  "pinyin": "yídàn",
+  "pos": "",
+  "meaning": "một khi",
+  "level": 5
+ },
+ {
+  "id": "5-0548",
+  "hanzi": "一致",
+  "pinyin": "yízhì",
+  "pos": "",
+  "meaning": "nhất trí",
+  "level": 5
+ },
+ {
+  "id": "5-0549",
+  "hanzi": "一再",
+  "pinyin": "yízài",
+  "pos": "",
+  "meaning": "lặp đi lặp lại",
+  "level": 5
+ },
+ {
+  "id": "5-0550",
+  "hanzi": "移民",
+  "pinyin": "yímín",
+  "pos": "",
+  "meaning": "di cư",
+  "level": 5
+ }
+]

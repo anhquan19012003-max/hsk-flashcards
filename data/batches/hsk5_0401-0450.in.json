@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0401",
+  "hanzi": "晒",
+  "pinyin": "shài",
+  "pos": "",
+  "meaning": "phơi nắng",
+  "level": 5
+ },
+ {
+  "id": "5-0402",
+  "hanzi": "闪电",
+  "pinyin": "shǎndiàn",
+  "pos": "",
+  "meaning": "tia chớp",
+  "level": 5
+ },
+ {
+  "id": "5-0403",
+  "hanzi": "善于",
+  "pinyin": "shànyú",
+  "pos": "",
+  "meaning": "giỏi về",
+  "level": 5
+ },
+ {
+  "id": "5-0404",
+  "hanzi": "商品",
+  "pinyin": "shāngpǐn",
+  "pos": "",
+  "meaning": "hàng hóa",
+  "level": 5
+ },
+ {
+  "id": "5-0405",
+  "hanzi": "商务",
+  "pinyin": "shāngwù",
+  "pos": "",
+  "meaning": "thương vụ",
+  "level": 5
+ },
+ {
+  "id": "5-0406",
+  "hanzi": "伤害",
+  "pinyin": "shānghài",
+  "pos": "",
+  "meaning": "tổn thương",
+  "level": 5
+ },
+ {
+  "id": "5-0407",
+  "hanzi": "舍不得",
+  "pinyin": "shěbude",
+  "pos": "",
+  "meaning": "tiếc không nỡ",
+  "level": 5
+ },
+ {
+  "id": "5-0408",
+  "hanzi": "设计",
+  "pinyin": "shèjì",
+  "pos": "",
+  "meaning": "thiết kế",
+  "level": 5
+ },
+ {
+  "id": "5-0409",
+  "hanzi": "摄影",
+  "pinyin": "shèyǐng",
+  "pos": "",
+  "meaning": "nhiếp ảnh",
+  "level": 5
+ },
+ {
+  "id": "5-0410",
+  "hanzi": "伸",
+  "pinyin": "shēn",
+  "pos": "",
+  "meaning": "duỗi ra",
+  "level": 5
+ },
+ {
+  "id": "5-0411",
+  "hanzi": "深刻",
+  "pinyin": "shēnkè",
+  "pos": "",
+  "meaning": "sâu sắc",
+  "level": 5
+ },
+ {
+  "id": "5-0412",
+  "hanzi": "身份",
+  "pinyin": "shēnfèn",
+  "pos": "",
+  "meaning": "thân phận",
+  "level": 5
+ },
+ {
+  "id": "5-0413",
+  "hanzi": "神秘",
+  "pinyin": "shénmì",
+  "pos": "",
+  "meaning": "thần bí",
+  "level": 5
+ },
+ {
+  "id": "5-0414",
+  "hanzi": "生动",
+  "pinyin": "shēngdòng",
+  "pos": "",
+  "meaning": "sinh động",
+  "level": 5
+ },
+ {
+  "id": "5-0415",
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "pos": "",
+  "meaning": "sinh trưởng",
+  "level": 5
+ },
+ {
+  "id": "5-0416",
+  "hanzi": "诗",
+  "pinyin": "shī",
+  "pos": "",
+  "meaning": "thơ",
+  "level": 5
+ },
+ {
+  "id": "5-0417",
+  "hanzi": "失眠",
+  "pinyin": "shīmián",
+  "pos": "",
+  "meaning": "mất ngủ",
+  "level": 5
+ },
+ {
+  "id": "5-0418",
+  "hanzi": "狮子",
+  "pinyin": "shīzi",
+  "pos": "",
+  "meaning": "sư tử",
+  "level": 5
+ },
+ {
+  "id": "5-0419",
+  "hanzi": "时代",
+  "pinyin": "shídài",
+  "pos": "",
+  "meaning": "thời đại",
+  "level": 5
+ },
+ {
+  "id": "5-0420",
+  "hanzi": "时髦",
+  "pinyin": "shímáo",
+  "pos": "",
+  "meaning": "hợp thời",
+  "level": 5
+ },
+ {
+  "id": "5-0421",
+  "hanzi": "时尚",
+  "pinyin": "shíshàng",
+  "pos": "",
+  "meaning": "thời thượng",
+  "level": 5
+ },
+ {
+  "id": "5-0422",
+  "hanzi": "实习",
+  "pinyin": "shíxí",
+  "pos": "",
+  "meaning": "thực tập",
+  "level": 5
+ },
+ {
+  "id": "5-0423",
+  "hanzi": "实验",
+  "pinyin": "shíyàn",
+  "pos": "",
+  "meaning": "thí nghiệm",
+  "level": 5
+ },
+ {
+  "id": "5-0424",
+  "hanzi": "石头",
+  "pinyin": "shítou",
+  "pos": "",
+  "meaning": "đá",
+  "level": 5
+ },
+ {
+  "id": "5-0425",
+  "hanzi": "使劲儿",
+  "pinyin": "shǐjìnr",
+  "pos": "",
+  "meaning": "dùng sức",
+  "level": 5
+ },
+ {
+  "id": "5-0426",
+  "hanzi": "始终",
+  "pinyin": "shǐzhōng",
+  "pos": "",
+  "meaning": "trước sau",
+  "level": 5
+ },
+ {
+  "id": "5-0427",
+  "hanzi": "试卷",
+  "pinyin": "shìjuàn",
+  "pos": "",
+  "meaning": "đề thi",
+  "level": 5
+ },
+ {
+  "id": "5-0428",
+  "hanzi": "市场",
+  "pinyin": "shìchǎng",
+  "pos": "",
+  "meaning": "thị trường",
+  "level": 5
+ },
+ {
+  "id": "5-0429",
+  "hanzi": "事物",
+  "pinyin": "shìwù",
+  "pos": "",
+  "meaning": "sự vật",
+  "level": 5
+ },
+ {
+  "id": "5-0430",
+  "hanzi": "收据",
+  "pinyin": "shōujù",
+  "pos": "",
+  "meaning": "biên lai",
+  "level": 5
+ },
+ {
+  "id": "5-0431",
+  "hanzi": "手工",
+  "pinyin": "shǒugōng",
+  "pos": "",
+  "meaning": "thủ công",
+  "level": 5
+ },
+ {
+  "id": "5-0432",
+  "hanzi": "手术",
+  "pinyin": "shǒushù",
+  "pos": "",
+  "meaning": "phẫu thuật",
+  "level": 5
+ },
+ {
+  "id": "5-0433",
+  "hanzi": "手续",
+  "pinyin": "shǒuxù",
+  "pos": "",
+  "meaning": "thủ tục",
+  "level": 5
+ },
+ {
+  "id": "5-0434",
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "pos": "",
+  "meaning": "đầu tiên",
+  "level": 5
+ },
+ {
+  "id": "5-0435",
+  "hanzi": "受伤",
+  "pinyin": "shòushāng",
+  "pos": "",
+  "meaning": "bị thương",
+  "level": 5
+ },
+ {
+  "id": "5-0436",
+  "hanzi": "寿命",
+  "pinyin": "shòumìng",
+  "pos": "",
+  "meaning": "tuổi thọ",
+  "level": 5
+ },
+ {
+  "id": "5-0437",
+  "hanzi": "书架",
+  "pinyin": "shūjià",
+  "pos": "",
+  "meaning": "giá sách",
+  "level": 5
+ },
+ {
+  "id": "5-0438",
+  "hanzi": "输入",
+  "pinyin": "shūrù",
+  "pos": "",
+  "meaning": "nhập vào",
+  "level": 5
+ },
+ {
+  "id": "5-0439",
+  "hanzi": "熟练",
+  "pinyin": "shúliàn",
+  "pos": "",
+  "meaning": "thành thạo",
+  "level": 5
+ },
+ {
+  "id": "5-0440",
+  "hanzi": "鼠标",
+  "pinyin": "shǔbiāo",
+  "pos": "",
+  "meaning": "chuột máy tính",
+  "level": 5
+ },
+ {
+  "id": "5-0441",
+  "hanzi": "数据",
+  "pinyin": "shùjù",
+  "pos": "",
+  "meaning": "dữ liệu",
+  "level": 5
+ },
+ {
+  "id": "5-0442",
+  "hanzi": "数码",
+  "pinyin": "shùmǎ",
+  "pos": "",
+  "meaning": "kỹ thuật số",
+  "level": 5
+ },
+ {
+  "id": "5-0443",
+  "hanzi": "摔倒",
+  "pinyin": "shuāidǎo",
+  "pos": "",
+  "meaning": "ngã",
+  "level": 5
+ },
+ {
+  "id": "5-0444",
+  "hanzi": "双方",
+  "pinyin": "shuāngfāng",
+  "pos": "",
+  "meaning": "hai bên",
+  "level": 5
+ },
+ {
+  "id": "5-0445",
+  "hanzi": "税",
+  "pinyin": "shuì",
+  "pos": "",
+  "meaning": "thuế",
+  "level": 5
+ },
+ {
+  "id": "5-0446",
+  "hanzi": "说服",
+  "pinyin": "shuōfú",
+  "pos": "",
+  "meaning": "thuyết phục",
+  "level": 5
+ },
+ {
+  "id": "5-0447",
+  "hanzi": "丝绸",
+  "pinyin": "sīchóu",
+  "pos": "",
+  "meaning": "lụa",
+  "level": 5
+ },
+ {
+  "id": "5-0448",
+  "hanzi": "思想",
+  "pinyin": "sīxiǎng",
+  "pos": "",
+  "meaning": "tư tưởng",
+  "level": 5
+ },
+ {
+  "id": "5-0449",
+  "hanzi": "似乎",
+  "pinyin": "sìhū",
+  "pos": "",
+  "meaning": "dường như",
+  "level": 5
+ },
+ {
+  "id": "5-0450",
+  "hanzi": "随身",
+  "pinyin": "suíshēn",
+  "pos": "",
+  "meaning": "mang theo người",
+  "level": 5
+ }
+]

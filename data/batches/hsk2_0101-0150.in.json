@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0101",
+  "hanzi": "带",
+  "pinyin": "dài",
+  "pos": "động từ",
+  "meaning": "mang theo, đem theo",
+  "level": 2
+ },
+ {
+  "id": "2-0102",
+  "hanzi": "带来",
+  "pinyin": "dàilái",
+  "pos": "động từ",
+  "meaning": "mang đến, mang lại",
+  "level": 2
+ },
+ {
+  "id": "2-0103",
+  "hanzi": "单位",
+  "pinyin": "dānwèi",
+  "pos": "danh từ",
+  "meaning": "đơn vị, cơ quan",
+  "level": 2
+ },
+ {
+  "id": "2-0104",
+  "hanzi": "但",
+  "pinyin": "dàn",
+  "pos": "liên từ",
+  "meaning": "nhưng (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0105",
+  "hanzi": "但是",
+  "pinyin": "dànshì",
+  "pos": "liên từ",
+  "meaning": "nhưng, thế nhưng",
+  "level": 2
+ },
+ {
+  "id": "2-0106",
+  "hanzi": "蛋",
+  "pinyin": "dàn",
+  "pos": "danh từ",
+  "meaning": "trứng",
+  "level": 2
+ },
+ {
+  "id": "2-0107",
+  "hanzi": "当",
+  "pinyin": "dāng",
+  "pos": "động từ, giới từ",
+  "meaning": "làm, đảm nhiệm; khi (lúc)",
+  "level": 2
+ },
+ {
+  "id": "2-0108",
+  "hanzi": "当时",
+  "pinyin": "dāngshí",
+  "pos": "danh từ",
+  "meaning": "lúc đó, khi ấy (trong quá khứ)",
+  "level": 2
+ },
+ {
+  "id": "2-0109",
+  "hanzi": "倒",
+  "pinyin": "dǎo",
+  "pos": "động từ",
+  "meaning": "ngã, đổ (té ngã)",
+  "level": 2
+ },
+ {
+  "id": "2-0110",
+  "hanzi": "到处",
+  "pinyin": "dàochù",
+  "pos": "phó từ",
+  "meaning": "khắp nơi",
+  "level": 2
+ },
+ {
+  "id": "2-0111",
+  "hanzi": "倒",
+  "pinyin": "dào",
+  "pos": "động từ",
+  "meaning": "rót (nước); đảo ngược",
+  "level": 2
+ },
+ {
+  "id": "2-0112",
+  "hanzi": "道",
+  "pinyin": "dào",
+  "pos": "lượng từ",
+  "meaning": "món (ăn), đạo (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0113",
+  "hanzi": "道理",
+  "pinyin": "dàolǐ",
+  "pos": "danh từ",
+  "meaning": "đạo lý, lý lẽ",
+  "level": 2
+ },
+ {
+  "id": "2-0114",
+  "hanzi": "道路",
+  "pinyin": "dàolù",
+  "pos": "danh từ",
+  "meaning": "con đường, đường sá",
+  "level": 2
+ },
+ {
+  "id": "2-0115",
+  "hanzi": "得",
+  "pinyin": "dé",
+  "pos": "động từ",
+  "meaning": "được, đạt (điểm...)",
+  "level": 2
+ },
+ {
+  "id": "2-0116",
+  "hanzi": "得出",
+  "pinyin": "déchū",
+  "pos": "động từ",
+  "meaning": "rút ra (kết luận)",
+  "level": 2
+ },
+ {
+  "id": "2-0117",
+  "hanzi": "的话",
+  "pinyin": "dehuà",
+  "pos": "trợ từ",
+  "meaning": "nếu ... thì (... 的话)",
+  "level": 2
+ },
+ {
+  "id": "2-0118",
+  "hanzi": "得",
+  "pinyin": "de",
+  "pos": "trợ từ",
+  "meaning": "trợ từ bổ ngữ 得 (VD: 说得好)",
+  "level": 2
+ },
+ {
+  "id": "2-0119",
+  "hanzi": "灯",
+  "pinyin": "dēng",
+  "pos": "danh từ",
+  "meaning": "đèn",
+  "level": 2
+ },
+ {
+  "id": "2-0120",
+  "hanzi": "等",
+  "pinyin": "děng",
+  "pos": "trợ từ, danh từ",
+  "meaning": "vân vân, v.v.",
+  "level": 2
+ },
+ {
+  "id": "2-0121",
+  "hanzi": "等到",
+  "pinyin": "děngdào",
+  "pos": "giới từ",
+  "meaning": "đợi đến khi",
+  "level": 2
+ },
+ {
+  "id": "2-0122",
+  "hanzi": "等于",
+  "pinyin": "děngyú",
+  "pos": "động từ",
+  "meaning": "bằng, tương đương với",
+  "level": 2
+ },
+ {
+  "id": "2-0123",
+  "hanzi": "低",
+  "pinyin": "dī",
+  "pos": "tính từ, động từ",
+  "meaning": "thấp; cúi (đầu)",
+  "level": 2
+ },
+ {
+  "id": "2-0124",
+  "hanzi": "地球",
+  "pinyin": "dìqiú",
+  "pos": "danh từ",
+  "meaning": "trái đất, địa cầu",
+  "level": 2
+ },
+ {
+  "id": "2-0125",
+  "hanzi": "地铁",
+  "pinyin": "dìtiě",
+  "pos": "danh từ",
+  "meaning": "tàu điện ngầm",
+  "level": 2
+ },
+ {
+  "id": "2-0126",
+  "hanzi": "地铁站",
+  "pinyin": "dìtiězhàn",
+  "pos": "danh từ",
+  "meaning": "ga tàu điện ngầm",
+  "level": 2
+ },
+ {
+  "id": "2-0127",
+  "hanzi": "点头",
+  "pinyin": "diǎntóu",
+  "pos": "cụm từ",
+  "meaning": "gật đầu",
+  "level": 2
+ },
+ {
+  "id": "2-0128",
+  "hanzi": "店",
+  "pinyin": "diàn",
+  "pos": "danh từ",
+  "meaning": "cửa hàng, tiệm (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0129",
+  "hanzi": "掉",
+  "pinyin": "diào",
+  "pos": "động từ",
+  "meaning": "rơi, đánh rơi, mất",
+  "level": 2
+ },
+ {
+  "id": "2-0130",
+  "hanzi": "东北",
+  "pinyin": "dōngběi",
+  "pos": "danh từ",
+  "meaning": "đông bắc",
+  "level": 2
+ },
+ {
+  "id": "2-0131",
+  "hanzi": "东方",
+  "pinyin": "dōngfāng",
+  "pos": "danh từ",
+  "meaning": "phương Đông",
+  "level": 2
+ },
+ {
+  "id": "2-0132",
+  "hanzi": "东南",
+  "pinyin": "dōngnán",
+  "pos": "danh từ",
+  "meaning": "đông nam",
+  "level": 2
+ },
+ {
+  "id": "2-0133",
+  "hanzi": "冬天",
+  "pinyin": "dōngtiān",
+  "pos": "danh từ",
+  "meaning": "mùa đông",
+  "level": 2
+ },
+ {
+  "id": "2-0134",
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "pos": "động từ",
+  "meaning": "hiểu (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0135",
+  "hanzi": "懂得",
+  "pinyin": "dǒngde",
+  "pos": "động từ",
+  "meaning": "hiểu được, hiểu rõ",
+  "level": 2
+ },
+ {
+  "id": "2-0136",
+  "hanzi": "动物",
+  "pinyin": "dòngwù",
+  "pos": "danh từ",
+  "meaning": "động vật",
+  "level": 2
+ },
+ {
+  "id": "2-0137",
+  "hanzi": "动物园",
+  "pinyin": "dòngwùyuán",
+  "pos": "danh từ",
+  "meaning": "sở thú, vườn bách thú",
+  "level": 2
+ },
+ {
+  "id": "2-0138",
+  "hanzi": "读音",
+  "pinyin": "dúyīn",
+  "pos": "danh từ",
+  "meaning": "cách đọc, âm đọc",
+  "level": 2
+ },
+ {
+  "id": "2-0139",
+  "hanzi": "度",
+  "pinyin": "dù",
+  "pos": "danh từ, lượng từ",
+  "meaning": "độ (nhiệt độ), mức độ",
+  "level": 2
+ },
+ {
+  "id": "2-0140",
+  "hanzi": "短",
+  "pinyin": "duǎn",
+  "pos": "tính từ",
+  "meaning": "ngắn",
+  "level": 2
+ },
+ {
+  "id": "2-0141",
+  "hanzi": "短信",
+  "pinyin": "duǎnxìn",
+  "pos": "danh từ",
+  "meaning": "tin nhắn (SMS)",
+  "level": 2
+ },
+ {
+  "id": "2-0142",
+  "hanzi": "段",
+  "pinyin": "duàn",
+  "pos": "lượng từ",
+  "meaning": "đoạn, khúc",
+  "level": 2
+ },
+ {
+  "id": "2-0143",
+  "hanzi": "队",
+  "pinyin": "duì",
+  "pos": "danh từ",
+  "meaning": "đội, hàng (người)",
+  "level": 2
+ },
+ {
+  "id": "2-0144",
+  "hanzi": "队长",
+  "pinyin": "duìzhǎng",
+  "pos": "danh từ",
+  "meaning": "đội trưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0145",
+  "hanzi": "对",
+  "pinyin": "duì",
+  "pos": "giới từ, động từ",
+  "meaning": "đối với; đối xử",
+  "level": 2
+ },
+ {
+  "id": "2-0146",
+  "hanzi": "对话",
+  "pinyin": "duìhuà",
+  "pos": "động từ, danh từ",
+  "meaning": "đối thoại, hội thoại",
+  "level": 2
+ },
+ {
+  "id": "2-0147",
+  "hanzi": "对面",
+  "pinyin": "duìmiàn",
+  "pos": "danh từ",
+  "meaning": "đối diện",
+  "level": 2
+ },
+ {
+  "id": "2-0148",
+  "hanzi": "多",
+  "pinyin": "duō",
+  "pos": "phó từ",
+  "meaning": "bao (多 + tính từ, hỏi mức độ: 多大, 多高)",
+  "level": 2
+ },
+ {
+  "id": "2-0149",
+  "hanzi": "多久",
+  "pinyin": "duōjiǔ",
+  "pos": "đại từ",
+  "meaning": "bao lâu",
+  "level": 2
+ },
+ {
+  "id": "2-0150",
+  "hanzi": "多么",
+  "pinyin": "duōme",
+  "pos": "phó từ",
+  "meaning": "biết bao, biết mấy",
+  "level": 2
+ }
+]

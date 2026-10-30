@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0701",
+  "hanzi": "提问",
+  "pinyin": "tíwèn",
+  "pos": "động từ",
+  "meaning": "đặt câu hỏi",
+  "level": 3
+ },
+ {
+  "id": "3-0702",
+  "hanzi": "题目",
+  "pinyin": "tímù",
+  "pos": "danh từ",
+  "meaning": "đề bài, đầu đề",
+  "level": 3
+ },
+ {
+  "id": "3-0703",
+  "hanzi": "体会",
+  "pinyin": "tǐhuì",
+  "pos": "động từ, danh từ",
+  "meaning": "thể hội, lĩnh hội",
+  "level": 3
+ },
+ {
+  "id": "3-0704",
+  "hanzi": "体现",
+  "pinyin": "tǐxiàn",
+  "pos": "động từ",
+  "meaning": "thể hiện",
+  "level": 3
+ },
+ {
+  "id": "3-0705",
+  "hanzi": "体验",
+  "pinyin": "tǐyàn",
+  "pos": "động từ",
+  "meaning": "trải nghiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0706",
+  "hanzi": "天空",
+  "pinyin": "tiānkōng",
+  "pos": "danh từ",
+  "meaning": "bầu trời",
+  "level": 3
+ },
+ {
+  "id": "3-0707",
+  "hanzi": "甜",
+  "pinyin": "tián",
+  "pos": "tính từ",
+  "meaning": "ngọt",
+  "level": 3
+ },
+ {
+  "id": "3-0708",
+  "hanzi": "调",
+  "pinyin": "tiáo",
+  "pos": "động từ",
+  "meaning": "điều chỉnh, pha (tiáo)",
+  "level": 3
+ },
+ {
+  "id": "3-0709",
+  "hanzi": "调整",
+  "pinyin": "tiáozhěng",
+  "pos": "động từ",
+  "meaning": "điều chỉnh",
+  "level": 3
+ },
+ {
+  "id": "3-0710",
+  "hanzi": "跳",
+  "pinyin": "tiào",
+  "pos": "động từ",
+  "meaning": "nhảy (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0711",
+  "hanzi": "跳高",
+  "pinyin": "tiàogāo",
+  "pos": "động từ",
+  "meaning": "nhảy cao",
+  "level": 3
+ },
+ {
+  "id": "3-0712",
+  "hanzi": "跳舞",
+  "pinyin": "tiàowǔ",
+  "pos": "cụm từ",
+  "meaning": "khiêu vũ, nhảy múa",
+  "level": 3
+ },
+ {
+  "id": "3-0713",
+  "hanzi": "跳远",
+  "pinyin": "tiàoyuǎn",
+  "pos": "động từ",
+  "meaning": "nhảy xa",
+  "level": 3
+ },
+ {
+  "id": "3-0714",
+  "hanzi": "铁",
+  "pinyin": "tiě",
+  "pos": "danh từ",
+  "meaning": "sắt",
+  "level": 3
+ },
+ {
+  "id": "3-0715",
+  "hanzi": "铁路",
+  "pinyin": "tiělù",
+  "pos": "danh từ",
+  "meaning": "đường sắt",
+  "level": 3
+ },
+ {
+  "id": "3-0716",
+  "hanzi": "听力",
+  "pinyin": "tīnglì",
+  "pos": "danh từ",
+  "meaning": "kỹ năng nghe, thính lực",
+  "level": 3
+ },
+ {
+  "id": "3-0717",
+  "hanzi": "听众",
+  "pinyin": "tīngzhòng",
+  "pos": "danh từ",
+  "meaning": "thính giả",
+  "level": 3
+ },
+ {
+  "id": "3-0718",
+  "hanzi": "停止",
+  "pinyin": "tíngzhǐ",
+  "pos": "động từ",
+  "meaning": "dừng lại, đình chỉ",
+  "level": 3
+ },
+ {
+  "id": "3-0719",
+  "hanzi": "通常",
+  "pinyin": "tōngcháng",
+  "pos": "tính từ",
+  "meaning": "thông thường",
+  "level": 3
+ },
+ {
+  "id": "3-0720",
+  "hanzi": "通信",
+  "pinyin": "tōngxìn",
+  "pos": "cụm từ",
+  "meaning": "liên lạc, thông tin liên lạc",
+  "level": 3
+ },
+ {
+  "id": "3-0721",
+  "hanzi": "同意",
+  "pinyin": "tóngyì",
+  "pos": "động từ",
+  "meaning": "đồng ý",
+  "level": 3
+ },
+ {
+  "id": "3-0722",
+  "hanzi": "痛",
+  "pinyin": "tòng",
+  "pos": "tính từ",
+  "meaning": "đau, đau đớn",
+  "level": 3
+ },
+ {
+  "id": "3-0723",
+  "hanzi": "痛苦",
+  "pinyin": "tòngkǔ",
+  "pos": "tính từ",
+  "meaning": "đau khổ",
+  "level": 3
+ },
+ {
+  "id": "3-0724",
+  "hanzi": "头",
+  "pinyin": "tóu",
+  "pos": "tính từ",
+  "meaning": "đầu tiên (头 + số lượng)",
+  "level": 3
+ },
+ {
+  "id": "3-0725",
+  "hanzi": "头脑",
+  "pinyin": "tóunǎo",
+  "pos": "danh từ",
+  "meaning": "đầu óc",
+  "level": 3
+ },
+ {
+  "id": "3-0726",
+  "hanzi": "突出",
+  "pinyin": "tūchū",
+  "pos": "tính từ, động từ",
+  "meaning": "nổi bật; làm nổi bật",
+  "level": 3
+ },
+ {
+  "id": "3-0727",
+  "hanzi": "突然",
+  "pinyin": "tūrán",
+  "pos": "tính từ",
+  "meaning": "đột ngột, bất ngờ",
+  "level": 3
+ },
+ {
+  "id": "3-0728",
+  "hanzi": "图",
+  "pinyin": "tú",
+  "pos": "danh từ",
+  "meaning": "hình vẽ, bản vẽ (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0729",
+  "hanzi": "图画",
+  "pinyin": "túhuà",
+  "pos": "danh từ",
+  "meaning": "tranh vẽ, hình vẽ",
+  "level": 3
+ },
+ {
+  "id": "3-0730",
+  "hanzi": "土",
+  "pinyin": "tǔ",
+  "pos": "danh từ",
+  "meaning": "đất",
+  "level": 3
+ },
+ {
+  "id": "3-0731",
+  "hanzi": "团",
+  "pinyin": "tuán",
+  "pos": "danh từ, lượng từ",
+  "meaning": "đoàn; nắm, cục",
+  "level": 3
+ },
+ {
+  "id": "3-0732",
+  "hanzi": "团结",
+  "pinyin": "tuánjié",
+  "pos": "động từ",
+  "meaning": "đoàn kết",
+  "level": 3
+ },
+ {
+  "id": "3-0733",
+  "hanzi": "团体",
+  "pinyin": "tuántǐ",
+  "pos": "danh từ",
+  "meaning": "đoàn thể",
+  "level": 3
+ },
+ {
+  "id": "3-0734",
+  "hanzi": "推动",
+  "pinyin": "tuīdòng",
+  "pos": "cụm từ",
+  "meaning": "thúc đẩy (推动)",
+  "level": 3
+ },
+ {
+  "id": "3-0735",
+  "hanzi": "推广",
+  "pinyin": "tuīguǎng",
+  "pos": "động từ",
+  "meaning": "mở rộng, phổ biến rộng rãi",
+  "level": 3
+ },
+ {
+  "id": "3-0736",
+  "hanzi": "推进",
+  "pinyin": "tuījìn",
+  "pos": "động từ",
+  "meaning": "đẩy mạnh, đẩy tới (推进)",
+  "level": 3
+ },
+ {
+  "id": "3-0737",
+  "hanzi": "推开",
+  "pinyin": "tuīkāi",
+  "pos": "cụm từ",
+  "meaning": "đẩy ra",
+  "level": 3
+ },
+ {
+  "id": "3-0738",
+  "hanzi": "退",
+  "pinyin": "tuì",
+  "pos": "động từ",
+  "meaning": "lùi; trả lại (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0739",
+  "hanzi": "退出",
+  "pinyin": "tuìchū",
+  "pos": "động từ",
+  "meaning": "rút khỏi; đăng xuất",
+  "level": 3
+ },
+ {
+  "id": "3-0740",
+  "hanzi": "退休",
+  "pinyin": "tuìxiū",
+  "pos": "cụm từ",
+  "meaning": "nghỉ hưu",
+  "level": 3
+ },
+ {
+  "id": "3-0741",
+  "hanzi": "外交",
+  "pinyin": "wàijiāo",
+  "pos": "danh từ",
+  "meaning": "ngoại giao",
+  "level": 3
+ },
+ {
+  "id": "3-0742",
+  "hanzi": "外面",
+  "pinyin": "wàimiàn",
+  "pos": "danh từ",
+  "meaning": "bên ngoài (外面)",
+  "level": 3
+ },
+ {
+  "id": "3-0743",
+  "hanzi": "外文",
+  "pinyin": "wàiwén",
+  "pos": "danh từ",
+  "meaning": "tiếng nước ngoài (外文)",
+  "level": 3
+ },
+ {
+  "id": "3-0744",
+  "hanzi": "完美",
+  "pinyin": "wánměi",
+  "pos": "tính từ",
+  "meaning": "hoàn mỹ, hoàn hảo",
+  "level": 3
+ },
+ {
+  "id": "3-0745",
+  "hanzi": "完善",
+  "pinyin": "wánshàn",
+  "pos": "tính từ, động từ",
+  "meaning": "hoàn thiện",
+  "level": 3
+ },
+ {
+  "id": "3-0746",
+  "hanzi": "完整",
+  "pinyin": "wánzhěng",
+  "pos": "tính từ",
+  "meaning": "hoàn chỉnh, nguyên vẹn",
+  "level": 3
+ },
+ {
+  "id": "3-0747",
+  "hanzi": "玩具",
+  "pinyin": "wánjù",
+  "pos": "danh từ",
+  "meaning": "đồ chơi",
+  "level": 3
+ },
+ {
+  "id": "3-0748",
+  "hanzi": "往往",
+  "pinyin": "wǎngwǎng",
+  "pos": "phó từ",
+  "meaning": "thường thường (theo quy luật)",
+  "level": 3
+ },
+ {
+  "id": "3-0749",
+  "hanzi": "危害",
+  "pinyin": "wēihài",
+  "pos": "động từ, danh từ",
+  "meaning": "gây hại; tác hại",
+  "level": 3
+ },
+ {
+  "id": "3-0750",
+  "hanzi": "危险",
+  "pinyin": "wēixiǎn",
+  "pos": "tính từ, danh từ",
+  "meaning": "nguy hiểm",
+  "level": 3
+ }
+]

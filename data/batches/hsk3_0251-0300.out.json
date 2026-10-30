@@ -1,0 +1,452 @@
+[
+  {
+    "id": "3-0251",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我的功课做完了。",
+      "pinyin": "Wǒ de gōngkè zuò wán le.",
+      "vi": "Bài tập về nhà của tôi làm xong rồi."
+    }
+  },
+  {
+    "id": "3-0252",
+    "pos": "danh từ",
+    "example": {
+      "zh": "这个手机的功能很多。",
+      "pinyin": "Zhège shǒujī de gōngnéng hěn duō.",
+      "vi": "Chiếc điện thoại này có rất nhiều chức năng."
+    }
+  },
+  {
+    "id": "3-0253",
+    "pos": "tính từ",
+    "example": {
+      "zh": "我们有很多共同的朋友。",
+      "pinyin": "Wǒmen yǒu hěn duō gòngtóng de péngyou.",
+      "vi": "Chúng tôi có rất nhiều bạn chung."
+    }
+  },
+  {
+    "id": "3-0254",
+    "pos": "động từ",
+    "example": {
+      "zh": "这个班共有二十个学生。",
+      "pinyin": "Zhège bān gòngyǒu èrshí gè xuésheng.",
+      "vi": "Lớp này tổng cộng có hai mươi học sinh."
+    }
+  },
+  {
+    "id": "3-0255",
+    "pos": "danh từ",
+    "example": {
+      "zh": "那个姑娘很漂亮。",
+      "pinyin": "Nàge gūniang hěn piàoliang.",
+      "vi": "Cô gái kia rất xinh đẹp."
+    }
+  },
+  {
+    "id": "3-0256",
+    "pos": "tính từ",
+    "example": {
+      "zh": "我喜欢看古书。",
+      "pinyin": "Wǒ xǐhuan kàn gǔshū.",
+      "vi": "Tôi thích đọc sách cổ."
+    }
+  },
+  {
+    "id": "3-0257",
+    "pos": "danh từ",
+    "example": {
+      "zh": "古代人没有手机。",
+      "pinyin": "Gǔdài rén méiyǒu shǒujī.",
+      "vi": "Người xưa không có điện thoại."
+    }
+  },
+  {
+    "id": "3-0258",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我的故乡在南方。",
+      "pinyin": "Wǒ de gùxiāng zài nánfāng.",
+      "vi": "Quê hương tôi ở miền Nam."
+    }
+  },
+  {
+    "id": "3-0259",
+    "pos": "động từ",
+    "example": {
+      "zh": "我把衣服挂在门上。",
+      "pinyin": "Wǒ bǎ yīfu guà zài mén shang.",
+      "vi": "Tôi treo quần áo lên cửa."
+    }
+  },
+  {
+    "id": "3-0260",
+    "pos": "danh từ, động từ",
+    "example": {
+      "zh": "我们的关系很好。",
+      "pinyin": "Wǒmen de guānxi hěn hǎo.",
+      "vi": "Quan hệ của chúng tôi rất tốt."
+    }
+  },
+  {
+    "id": "3-0261",
+    "pos": "động từ",
+    "example": {
+      "zh": "老师很关注我的学习。",
+      "pinyin": "Lǎoshī hěn guānzhù wǒ de xuéxí.",
+      "vi": "Thầy giáo rất quan tâm đến việc học của tôi."
+    }
+  },
+  {
+    "id": "3-0262",
+    "pos": "động từ",
+    "example": {
+      "zh": "我每天观察天气。",
+      "pinyin": "Wǒ měitiān guānchá tiānqì.",
+      "vi": "Mỗi ngày tôi quan sát thời tiết."
+    }
+  },
+  {
+    "id": "3-0263",
+    "pos": "động từ",
+    "example": {
+      "zh": "我们一起观看比赛。",
+      "pinyin": "Wǒmen yìqǐ guānkàn bǐsài.",
+      "vi": "Chúng tôi cùng xem trận đấu."
+    }
+  },
+  {
+    "id": "3-0264",
+    "pos": "danh từ",
+    "example": {
+      "zh": "他的观念很新。",
+      "pinyin": "Tā de guānniàn hěn xīn.",
+      "vi": "Quan niệm của anh ấy rất mới."
+    }
+  },
+  {
+    "id": "3-0265",
+    "pos": "danh từ",
+    "example": {
+      "zh": "电影院里有很多观众。",
+      "pinyin": "Diànyǐngyuàn lǐ yǒu hěn duō guānzhòng.",
+      "vi": "Trong rạp chiếu phim có rất nhiều khán giả."
+    }
+  },
+  {
+    "id": "3-0266",
+    "pos": "động từ",
+    "example": {
+      "zh": "这件事你别管。",
+      "pinyin": "Zhè jiàn shì nǐ bié guǎn.",
+      "vi": "Chuyện này bạn đừng can thiệp."
+    }
+  },
+  {
+    "id": "3-0267",
+    "pos": "động từ",
+    "example": {
+      "zh": "他负责管理这家商店。",
+      "pinyin": "Tā fùzé guǎnlǐ zhè jiā shāngdiàn.",
+      "vi": "Anh ấy phụ trách quản lý cửa hàng này."
+    }
+  },
+  {
+    "id": "3-0268",
+    "pos": "danh từ, tính từ, phó từ",
+    "example": {
+      "zh": "屋子里的光很亮。",
+      "pinyin": "Wūzi lǐ de guāng hěn liàng.",
+      "vi": "Ánh sáng trong phòng rất sáng."
+    }
+  },
+  {
+    "id": "3-0269",
+    "pos": "tính từ, danh từ",
+    "example": {
+      "zh": "未来很光明。",
+      "pinyin": "Wèilái hěn guāngmíng.",
+      "vi": "Tương lai rất tươi sáng."
+    }
+  },
+  {
+    "id": "3-0270",
+    "pos": "động từ, danh từ",
+    "example": {
+      "zh": "车站里有广播。",
+      "pinyin": "Chēzhàn lǐ yǒu guǎngbō.",
+      "vi": "Trong nhà ga có tiếng thông báo qua loa."
+    }
+  },
+  {
+    "id": "3-0271",
+    "pos": "tính từ",
+    "example": {
+      "zh": "大海很广大。",
+      "pinyin": "Dàhǎi hěn guǎngdà.",
+      "vi": "Biển cả rất rộng lớn."
+    }
+  },
+  {
+    "id": "3-0272",
+    "pos": "động từ, danh từ",
+    "example": {
+      "zh": "学校有规定，不能迟到。",
+      "pinyin": "Xuéxiào yǒu guīdìng, bù néng chídào.",
+      "vi": "Trường có quy định, không được đi học muộn."
+    }
+  },
+  {
+    "id": "3-0273",
+    "pos": "tính từ, danh từ, động từ",
+    "example": {
+      "zh": "写字要规范。",
+      "pinyin": "Xiězì yào guīfàn.",
+      "vi": "Viết chữ phải theo đúng quy chuẩn."
+    }
+  },
+  {
+    "id": "3-0274",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "国内有很多大学。",
+      "pinyin": "Guó nèi yǒu hěn duō dàxué.",
+      "vi": "Trong nước có rất nhiều trường đại học."
+    }
+  },
+  {
+    "id": "3-0275",
+    "pos": "danh từ",
+    "example": {
+      "zh": "国庆节那天我们放假。",
+      "pinyin": "Guóqìng jié nà tiān wǒmen fàngjià.",
+      "vi": "Ngày Quốc khánh chúng tôi được nghỉ."
+    }
+  },
+  {
+    "id": "3-0276",
+    "pos": "phó từ",
+    "example": {
+      "zh": "他说下雨，果然下雨了。",
+      "pinyin": "Tā shuō xià yǔ, guǒrán xià yǔ le.",
+      "vi": "Anh ấy nói trời sẽ mưa, quả nhiên trời mưa thật."
+    }
+  },
+  {
+    "id": "3-0277",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我想喝一杯果汁。",
+      "pinyin": "Wǒ xiǎng hē yì bēi guǒzhī.",
+      "vi": "Tôi muốn uống một ly nước ép trái cây."
+    }
+  },
+  {
+    "id": "3-0278",
+    "pos": "danh từ",
+    "example": {
+      "zh": "学习的过程很有意思。",
+      "pinyin": "Xuéxí de guòchéng hěn yǒu yìsi.",
+      "vi": "Quá trình học rất thú vị."
+    }
+  },
+  {
+    "id": "3-0279",
+    "pos": "danh từ",
+    "example": {
+      "zh": "过去我不喜欢运动。",
+      "pinyin": "Guòqù wǒ bù xǐhuan yùndòng.",
+      "vi": "Trước đây tôi không thích thể thao."
+    }
+  },
+  {
+    "id": "3-0280",
+    "pos": "từ tượng thanh",
+    "example": {
+      "zh": "他听了笑话，哈哈大笑。",
+      "pinyin": "Tā tīngle xiàohua, hāhā dàxiào.",
+      "vi": "Nghe xong câu chuyện cười, anh ấy cười ha ha."
+    }
+  },
+  {
+    "id": "3-0281",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我们在海关等了很久。",
+      "pinyin": "Wǒmen zài hǎiguān děngle hěn jiǔ.",
+      "vi": "Chúng tôi đợi ở hải quan rất lâu."
+    }
+  },
+  {
+    "id": "3-0282",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "我一点儿也不害怕。",
+      "pinyin": "Wǒ yìdiǎnr yě bú hàipà.",
+      "vi": "Tôi chút nào cũng không sợ."
+    }
+  },
+  {
+    "id": "3-0283",
+    "pos": "lượng từ",
+    "example": {
+      "zh": "第一行有五个字。",
+      "pinyin": "Dì yī háng yǒu wǔ gè zì.",
+      "vi": "Hàng thứ nhất có năm chữ."
+    }
+  },
+  {
+    "id": "3-0284",
+    "pos": "tính từ, phó từ",
+    "example": {
+      "zh": "你要好好学习。",
+      "pinyin": "Nǐ yào hǎohǎo xuéxí.",
+      "vi": "Bạn phải học hành cho thật tốt."
+    }
+  },
+  {
+    "id": "3-0285",
+    "pos": "tính từ",
+    "example": {
+      "zh": "孩子对新东西很好奇。",
+      "pinyin": "Háizi duì xīn dōngxi hěn hàoqí.",
+      "vi": "Trẻ con rất tò mò về đồ mới."
+    }
+  },
+  {
+    "id": "3-0286",
+    "pos": "động từ",
+    "example": {
+      "zh": "请把门合上。",
+      "pinyin": "Qǐng bǎ mén hé shàng.",
+      "vi": "Xin khép cửa lại."
+    }
+  },
+  {
+    "id": "3-0287",
+    "pos": "tính từ",
+    "example": {
+      "zh": "这家店是合法的。",
+      "pinyin": "Zhè jiā diàn shì héfǎ de.",
+      "vi": "Cửa hàng này hoạt động hợp pháp."
+    }
+  },
+  {
+    "id": "3-0288",
+    "pos": "tính từ",
+    "example": {
+      "zh": "他考试合格了。",
+      "pinyin": "Tā kǎoshì hégé le.",
+      "vi": "Anh ấy thi đã đạt yêu cầu rồi."
+    }
+  },
+  {
+    "id": "3-0289",
+    "pos": "tính từ",
+    "example": {
+      "zh": "你的想法很合理。",
+      "pinyin": "Nǐ de xiǎngfǎ hěn hélǐ.",
+      "vi": "Ý kiến của bạn rất hợp lý."
+    }
+  },
+  {
+    "id": "3-0290",
+    "pos": "động từ",
+    "example": {
+      "zh": "我和朋友合作做饭。",
+      "pinyin": "Wǒ hé péngyou hézuò zuò fàn.",
+      "vi": "Tôi cùng bạn hợp tác nấu cơm."
+    }
+  },
+  {
+    "id": "3-0291",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我们希望生活和平。",
+      "pinyin": "Wǒmen xīwàng shēnghuó hépíng.",
+      "vi": "Chúng tôi mong cuộc sống luôn hòa bình."
+    }
+  },
+  {
+    "id": "3-0292",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我喜欢喝红茶。",
+      "pinyin": "Wǒ xǐhuan hē hóngchá.",
+      "vi": "Tôi thích uống hồng trà."
+    }
+  },
+  {
+    "id": "3-0293",
+    "pos": "danh từ",
+    "example": {
+      "zh": "这瓶红酒很贵。",
+      "pinyin": "Zhè píng hóngjiǔ hěn guì.",
+      "vi": "Chai rượu vang đỏ này rất đắt."
+    }
+  },
+  {
+    "id": "3-0294",
+    "pos": "danh từ",
+    "example": {
+      "zh": "你不听话会有后果。",
+      "pinyin": "Nǐ bù tīnghuà huì yǒu hòuguǒ.",
+      "vi": "Bạn không nghe lời thì sẽ có hậu quả."
+    }
+  },
+  {
+    "id": "3-0295",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我的书包在桌子后面。",
+      "pinyin": "Wǒ de shūbāo zài zhuōzi hòumiàn.",
+      "vi": "Cặp sách của tôi ở phía sau cái bàn."
+    }
+  },
+  {
+    "id": "3-0296",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我后年去中国。",
+      "pinyin": "Wǒ hòunián qù Zhōngguó.",
+      "vi": "Năm sau nữa tôi sẽ đi Trung Quốc."
+    }
+  },
+  {
+    "id": "3-0297",
+    "pos": "danh từ",
+    "example": {
+      "zh": "现在很多人用互联网。",
+      "pinyin": "Xiànzài hěn duō rén yòng hùliánwǎng.",
+      "vi": "Bây giờ nhiều người dùng mạng Internet."
+    }
+  },
+  {
+    "id": "3-0298",
+    "pos": "phó từ",
+    "example": {
+      "zh": "我们应该互相帮助。",
+      "pinyin": "Wǒmen yīnggāi hùxiāng bāngzhù.",
+      "vi": "Chúng ta nên giúp đỡ lẫn nhau."
+    }
+  },
+  {
+    "id": "3-0299",
+    "pos": "động từ",
+    "example": {
+      "zh": "周末我们去公园划船。",
+      "pinyin": "Zhōumò wǒmen qù gōngyuán huáchuán.",
+      "vi": "Cuối tuần chúng tôi đi công viên chèo thuyền."
+    }
+  },
+  {
+    "id": "3-0300",
+    "pos": "danh từ",
+    "example": {
+      "zh": "他是华人，会说中文。",
+      "pinyin": "Tā shì huárén, huì shuō Zhōngwén.",
+      "vi": "Anh ấy là người Hoa, biết nói tiếng Trung."
+    }
+  }
+]

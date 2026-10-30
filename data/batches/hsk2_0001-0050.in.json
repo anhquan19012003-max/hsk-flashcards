@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0001",
+  "hanzi": "啊",
+  "pinyin": "a",
+  "pos": "trợ từ",
+  "meaning": "à, nhé, nhỉ (trợ từ ngữ khí)",
+  "level": 2
+ },
+ {
+  "id": "2-0002",
+  "hanzi": "爱情",
+  "pinyin": "àiqíng",
+  "pos": "danh từ",
+  "meaning": "tình yêu (tình cảm lứa đôi)",
+  "level": 2
+ },
+ {
+  "id": "2-0003",
+  "hanzi": "爱人",
+  "pinyin": "àiren",
+  "pos": "danh từ",
+  "meaning": "vợ hoặc chồng, người yêu",
+  "level": 2
+ },
+ {
+  "id": "2-0004",
+  "hanzi": "安静",
+  "pinyin": "ānjìng",
+  "pos": "tính từ, động từ",
+  "meaning": "yên tĩnh",
+  "level": 2
+ },
+ {
+  "id": "2-0005",
+  "hanzi": "安全",
+  "pinyin": "ānquán",
+  "pos": "tính từ, danh từ",
+  "meaning": "an toàn",
+  "level": 2
+ },
+ {
+  "id": "2-0006",
+  "hanzi": "白色",
+  "pinyin": "báisè",
+  "pos": "danh từ",
+  "meaning": "màu trắng",
+  "level": 2
+ },
+ {
+  "id": "2-0007",
+  "hanzi": "班长",
+  "pinyin": "bānzhǎng",
+  "pos": "danh từ",
+  "meaning": "lớp trưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0008",
+  "hanzi": "办",
+  "pinyin": "bàn",
+  "pos": "động từ",
+  "meaning": "làm, xử lý (công việc)",
+  "level": 2
+ },
+ {
+  "id": "2-0009",
+  "hanzi": "办法",
+  "pinyin": "bànfǎ",
+  "pos": "danh từ",
+  "meaning": "biện pháp, cách",
+  "level": 2
+ },
+ {
+  "id": "2-0010",
+  "hanzi": "办公室",
+  "pinyin": "bàngōngshì",
+  "pos": "danh từ",
+  "meaning": "văn phòng",
+  "level": 2
+ },
+ {
+  "id": "2-0011",
+  "hanzi": "半夜",
+  "pinyin": "bànyè",
+  "pos": "danh từ",
+  "meaning": "nửa đêm",
+  "level": 2
+ },
+ {
+  "id": "2-0012",
+  "hanzi": "帮助",
+  "pinyin": "bāngzhù",
+  "pos": "động từ",
+  "meaning": "giúp đỡ (帮助)",
+  "level": 2
+ },
+ {
+  "id": "2-0013",
+  "hanzi": "饱",
+  "pinyin": "bǎo",
+  "pos": "tính từ",
+  "meaning": "no (ăn no)",
+  "level": 2
+ },
+ {
+  "id": "2-0014",
+  "hanzi": "报名",
+  "pinyin": "bàomíng",
+  "pos": "cụm từ",
+  "meaning": "đăng ký (ghi danh)",
+  "level": 2
+ },
+ {
+  "id": "2-0015",
+  "hanzi": "报纸",
+  "pinyin": "bàozhǐ",
+  "pos": "danh từ",
+  "meaning": "báo giấy, tờ báo",
+  "level": 2
+ },
+ {
+  "id": "2-0016",
+  "hanzi": "北方",
+  "pinyin": "běifāng",
+  "pos": "danh từ",
+  "meaning": "miền Bắc, phương Bắc",
+  "level": 2
+ },
+ {
+  "id": "2-0017",
+  "hanzi": "背",
+  "pinyin": "bèi",
+  "pos": "động từ",
+  "meaning": "học thuộc lòng; cõng",
+  "level": 2
+ },
+ {
+  "id": "2-0018",
+  "hanzi": "比如",
+  "pinyin": "bǐrú",
+  "pos": "động từ",
+  "meaning": "ví dụ (比如)",
+  "level": 2
+ },
+ {
+  "id": "2-0019",
+  "hanzi": "比如说",
+  "pinyin": "bǐrú shuō",
+  "pos": "cụm từ",
+  "meaning": "ví dụ như là",
+  "level": 2
+ },
+ {
+  "id": "2-0020",
+  "hanzi": "笔",
+  "pinyin": "bǐ",
+  "pos": "danh từ, lượng từ",
+  "meaning": "cái bút; khoản (tiền)",
+  "level": 2
+ },
+ {
+  "id": "2-0021",
+  "hanzi": "笔记",
+  "pinyin": "bǐjì",
+  "pos": "danh từ",
+  "meaning": "ghi chép, bài ghi",
+  "level": 2
+ },
+ {
+  "id": "2-0022",
+  "hanzi": "笔记本",
+  "pinyin": "bǐjìběn",
+  "pos": "danh từ",
+  "meaning": "sổ ghi chép; máy tính xách tay",
+  "level": 2
+ },
+ {
+  "id": "2-0023",
+  "hanzi": "必须",
+  "pinyin": "bìxū",
+  "pos": "phó từ",
+  "meaning": "bắt buộc phải",
+  "level": 2
+ },
+ {
+  "id": "2-0024",
+  "hanzi": "边",
+  "pinyin": "biān",
+  "pos": "danh từ",
+  "meaning": "bên, cạnh, mép",
+  "level": 2
+ },
+ {
+  "id": "2-0025",
+  "hanzi": "变",
+  "pinyin": "biàn",
+  "pos": "động từ",
+  "meaning": "thay đổi, biến (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0026",
+  "hanzi": "变成",
+  "pinyin": "biànchéng",
+  "pos": "động từ",
+  "meaning": "biến thành, trở thành",
+  "level": 2
+ },
+ {
+  "id": "2-0027",
+  "hanzi": "遍",
+  "pinyin": "biàn",
+  "pos": "lượng từ",
+  "meaning": "lần, lượt (từ đầu đến cuối)",
+  "level": 2
+ },
+ {
+  "id": "2-0028",
+  "hanzi": "表",
+  "pinyin": "biǎo",
+  "pos": "danh từ",
+  "meaning": "đồng hồ (đeo tay); bảng biểu",
+  "level": 2
+ },
+ {
+  "id": "2-0029",
+  "hanzi": "表示",
+  "pinyin": "biǎoshì",
+  "pos": "danh từ, động từ",
+  "meaning": "biểu thị, bày tỏ",
+  "level": 2
+ },
+ {
+  "id": "2-0030",
+  "hanzi": "不错",
+  "pinyin": "búcuò",
+  "pos": "tính từ",
+  "meaning": "không tệ, khá tốt",
+  "level": 2
+ },
+ {
+  "id": "2-0031",
+  "hanzi": "不但",
+  "pinyin": "búdàn",
+  "pos": "liên từ",
+  "meaning": "không những",
+  "level": 2
+ },
+ {
+  "id": "2-0032",
+  "hanzi": "不够",
+  "pinyin": "búgòu",
+  "pos": "động từ, phó từ",
+  "meaning": "không đủ",
+  "level": 2
+ },
+ {
+  "id": "2-0033",
+  "hanzi": "不过",
+  "pinyin": "búguò",
+  "pos": "liên từ",
+  "meaning": "có điều, tuy nhiên",
+  "level": 2
+ },
+ {
+  "id": "2-0034",
+  "hanzi": "不太",
+  "pinyin": "bú tài",
+  "pos": "cụm từ",
+  "meaning": "không ... lắm (不太)",
+  "level": 2
+ },
+ {
+  "id": "2-0035",
+  "hanzi": "不要",
+  "pinyin": "búyào",
+  "pos": "phó từ",
+  "meaning": "đừng, không được (不要)",
+  "level": 2
+ },
+ {
+  "id": "2-0036",
+  "hanzi": "不好意思",
+  "pinyin": "bù hǎoyìsi",
+  "pos": "tính từ",
+  "meaning": "ngại quá, xin lỗi (ngượng)",
+  "level": 2
+ },
+ {
+  "id": "2-0037",
+  "hanzi": "不久",
+  "pinyin": "bùjiǔ",
+  "pos": "tính từ",
+  "meaning": "không lâu (sau)",
+  "level": 2
+ },
+ {
+  "id": "2-0038",
+  "hanzi": "不满",
+  "pinyin": "bùmǎn",
+  "pos": "tính từ",
+  "meaning": "bất mãn, không hài lòng",
+  "level": 2
+ },
+ {
+  "id": "2-0039",
+  "hanzi": "不如",
+  "pinyin": "bùrú",
+  "pos": "động từ",
+  "meaning": "không bằng",
+  "level": 2
+ },
+ {
+  "id": "2-0040",
+  "hanzi": "不少",
+  "pinyin": "bù shǎo",
+  "pos": "cụm từ",
+  "meaning": "không ít",
+  "level": 2
+ },
+ {
+  "id": "2-0041",
+  "hanzi": "不同",
+  "pinyin": "bù tóng",
+  "pos": "cụm từ",
+  "meaning": "khác nhau",
+  "level": 2
+ },
+ {
+  "id": "2-0042",
+  "hanzi": "不行",
+  "pinyin": "bùxíng",
+  "pos": "động từ, tính từ",
+  "meaning": "không được, không ổn",
+  "level": 2
+ },
+ {
+  "id": "2-0043",
+  "hanzi": "不一定",
+  "pinyin": "bùyídìng",
+  "pos": "phó từ",
+  "meaning": "chưa chắc, không nhất định",
+  "level": 2
+ },
+ {
+  "id": "2-0044",
+  "hanzi": "不一会儿",
+  "pinyin": "bù yíhuìr",
+  "pos": "cụm từ",
+  "meaning": "chẳng mấy chốc",
+  "level": 2
+ },
+ {
+  "id": "2-0045",
+  "hanzi": "部分",
+  "pinyin": "bùfen",
+  "pos": "danh từ",
+  "meaning": "bộ phận, phần",
+  "level": 2
+ },
+ {
+  "id": "2-0046",
+  "hanzi": "才",
+  "pinyin": "cái",
+  "pos": "phó từ",
+  "meaning": "mới (muộn, chậm hơn dự kiến)",
+  "level": 2
+ },
+ {
+  "id": "2-0047",
+  "hanzi": "菜单",
+  "pinyin": "càidān",
+  "pos": "danh từ",
+  "meaning": "thực đơn",
+  "level": 2
+ },
+ {
+  "id": "2-0048",
+  "hanzi": "参观",
+  "pinyin": "cānguān",
+  "pos": "động từ",
+  "meaning": "tham quan",
+  "level": 2
+ },
+ {
+  "id": "2-0049",
+  "hanzi": "参加",
+  "pinyin": "cānjiā",
+  "pos": "động từ",
+  "meaning": "tham gia",
+  "level": 2
+ },
+ {
+  "id": "2-0050",
+  "hanzi": "草",
+  "pinyin": "cǎo",
+  "pos": "danh từ",
+  "meaning": "cỏ",
+  "level": 2
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0301",
+  "hanzi": "龙",
+  "pinyin": "lóng",
+  "pos": "",
+  "meaning": "rồng",
+  "level": 5
+ },
+ {
+  "id": "5-0302",
+  "hanzi": "漏",
+  "pinyin": "lòu",
+  "pos": "",
+  "meaning": "rò rỉ",
+  "level": 5
+ },
+ {
+  "id": "5-0303",
+  "hanzi": "陆地",
+  "pinyin": "lùdì",
+  "pos": "",
+  "meaning": "đất liền",
+  "level": 5
+ },
+ {
+  "id": "5-0304",
+  "hanzi": "录取",
+  "pinyin": "lùqǔ",
+  "pos": "",
+  "meaning": "trúng tuyển",
+  "level": 5
+ },
+ {
+  "id": "5-0305",
+  "hanzi": "论文",
+  "pinyin": "lùnwén",
+  "pos": "",
+  "meaning": "luận văn",
+  "level": 5
+ },
+ {
+  "id": "5-0306",
+  "hanzi": "落后",
+  "pinyin": "luòhòu",
+  "pos": "",
+  "meaning": "tụt hậu",
+  "level": 5
+ },
+ {
+  "id": "5-0307",
+  "hanzi": "骂",
+  "pinyin": "mà",
+  "pos": "",
+  "meaning": "mắng",
+  "level": 5
+ },
+ {
+  "id": "5-0308",
+  "hanzi": "麦克风",
+  "pinyin": "màikèfēng",
+  "pos": "",
+  "meaning": "micro",
+  "level": 5
+ },
+ {
+  "id": "5-0309",
+  "hanzi": "满足",
+  "pinyin": "mǎnzú",
+  "pos": "",
+  "meaning": "làm hài lòng",
+  "level": 5
+ },
+ {
+  "id": "5-0310",
+  "hanzi": "冒险",
+  "pinyin": "màoxiǎn",
+  "pos": "",
+  "meaning": "mạo hiểm",
+  "level": 5
+ },
+ {
+  "id": "5-0311",
+  "hanzi": "眉毛",
+  "pinyin": "méimao",
+  "pos": "",
+  "meaning": "lông mày",
+  "level": 5
+ },
+ {
+  "id": "5-0312",
+  "hanzi": "美术",
+  "pinyin": "měishù",
+  "pos": "",
+  "meaning": "mỹ thuật",
+  "level": 5
+ },
+ {
+  "id": "5-0313",
+  "hanzi": "秘密",
+  "pinyin": "mìmì",
+  "pos": "",
+  "meaning": "bí mật",
+  "level": 5
+ },
+ {
+  "id": "5-0314",
+  "hanzi": "面对",
+  "pinyin": "miànduì",
+  "pos": "",
+  "meaning": "đối mặt",
+  "level": 5
+ },
+ {
+  "id": "5-0315",
+  "hanzi": "面临",
+  "pinyin": "miànlín",
+  "pos": "",
+  "meaning": "đang đối mặt",
+  "level": 5
+ },
+ {
+  "id": "5-0316",
+  "hanzi": "苗条",
+  "pinyin": "miáotiao",
+  "pos": "",
+  "meaning": "thon thả",
+  "level": 5
+ },
+ {
+  "id": "5-0317",
+  "hanzi": "明确",
+  "pinyin": "míngquè",
+  "pos": "",
+  "meaning": "làm rõ",
+  "level": 5
+ },
+ {
+  "id": "5-0318",
+  "hanzi": "明显",
+  "pinyin": "míngxiǎn",
+  "pos": "",
+  "meaning": "rõ ràng",
+  "level": 5
+ },
+ {
+  "id": "5-0319",
+  "hanzi": "名牌",
+  "pinyin": "míngpái",
+  "pos": "",
+  "meaning": "thương hiệu nổi tiếng",
+  "level": 5
+ },
+ {
+  "id": "5-0320",
+  "hanzi": "名胜古迹",
+  "pinyin": "míngshèng gǔjì",
+  "pos": "",
+  "meaning": "danh lam thắng cảnh",
+  "level": 5
+ },
+ {
+  "id": "5-0321",
+  "hanzi": "命令",
+  "pinyin": "mìnglìng",
+  "pos": "",
+  "meaning": "mệnh lệnh",
+  "level": 5
+ },
+ {
+  "id": "5-0322",
+  "hanzi": "摸",
+  "pinyin": "mō",
+  "pos": "",
+  "meaning": "sờ, chạm",
+  "level": 5
+ },
+ {
+  "id": "5-0323",
+  "hanzi": "模糊",
+  "pinyin": "móhu",
+  "pos": "",
+  "meaning": "mơ hồ",
+  "level": 5
+ },
+ {
+  "id": "5-0324",
+  "hanzi": "摩托车",
+  "pinyin": "mótuōchē",
+  "pos": "",
+  "meaning": "xe máy",
+  "level": 5
+ },
+ {
+  "id": "5-0325",
+  "hanzi": "某",
+  "pinyin": "mǒu",
+  "pos": "",
+  "meaning": "nào đó",
+  "level": 5
+ },
+ {
+  "id": "5-0326",
+  "hanzi": "目标",
+  "pinyin": "mùbiāo",
+  "pos": "",
+  "meaning": "mục tiêu",
+  "level": 5
+ },
+ {
+  "id": "5-0327",
+  "hanzi": "目录",
+  "pinyin": "mùlù",
+  "pos": "",
+  "meaning": "mục lục",
+  "level": 5
+ },
+ {
+  "id": "5-0328",
+  "hanzi": "木头",
+  "pinyin": "mùtou",
+  "pos": "",
+  "meaning": "gỗ",
+  "level": 5
+ },
+ {
+  "id": "5-0329",
+  "hanzi": "哪怕",
+  "pinyin": "nǎpà",
+  "pos": "",
+  "meaning": "cho dù",
+  "level": 5
+ },
+ {
+  "id": "5-0330",
+  "hanzi": "难免",
+  "pinyin": "nánmiǎn",
+  "pos": "",
+  "meaning": "khó tránh khỏi",
+  "level": 5
+ },
+ {
+  "id": "5-0331",
+  "hanzi": "脑袋",
+  "pinyin": "nǎodai",
+  "pos": "",
+  "meaning": "cái đầu",
+  "level": 5
+ },
+ {
+  "id": "5-0332",
+  "hanzi": "内科",
+  "pinyin": "nèikē",
+  "pos": "",
+  "meaning": "nội khoa",
+  "level": 5
+ },
+ {
+  "id": "5-0333",
+  "hanzi": "嫩",
+  "pinyin": "nèn",
+  "pos": "",
+  "meaning": "mềm, non",
+  "level": 5
+ },
+ {
+  "id": "5-0334",
+  "hanzi": "能干",
+  "pinyin": "nénggàn",
+  "pos": "",
+  "meaning": "giỏi giang",
+  "level": 5
+ },
+ {
+  "id": "5-0335",
+  "hanzi": "能源",
+  "pinyin": "néngyuán",
+  "pos": "",
+  "meaning": "năng lượng",
+  "level": 5
+ },
+ {
+  "id": "5-0336",
+  "hanzi": "年代",
+  "pinyin": "niándài",
+  "pos": "",
+  "meaning": "thập niên",
+  "level": 5
+ },
+ {
+  "id": "5-0337",
+  "hanzi": "年纪",
+  "pinyin": "niánjì",
+  "pos": "",
+  "meaning": "tuổi tác",
+  "level": 5
+ },
+ {
+  "id": "5-0338",
+  "hanzi": "宁可",
+  "pinyin": "nìngkě",
+  "pos": "",
+  "meaning": "thà rằng",
+  "level": 5
+ },
+ {
+  "id": "5-0339",
+  "hanzi": "牛仔裤",
+  "pinyin": "niúzǎikù",
+  "pos": "",
+  "meaning": "quần bò",
+  "level": 5
+ },
+ {
+  "id": "5-0340",
+  "hanzi": "农村",
+  "pinyin": "nóngcūn",
+  "pos": "",
+  "meaning": "nông thôn",
+  "level": 5
+ },
+ {
+  "id": "5-0341",
+  "hanzi": "农业",
+  "pinyin": "nóngyè",
+  "pos": "",
+  "meaning": "nông nghiệp",
+  "level": 5
+ },
+ {
+  "id": "5-0342",
+  "hanzi": "女士",
+  "pinyin": "nǚshì",
+  "pos": "",
+  "meaning": "quý bà",
+  "level": 5
+ },
+ {
+  "id": "5-0343",
+  "hanzi": "派",
+  "pinyin": "pài",
+  "pos": "",
+  "meaning": "phái",
+  "level": 5
+ },
+ {
+  "id": "5-0344",
+  "hanzi": "赔偿",
+  "pinyin": "péicháng",
+  "pos": "",
+  "meaning": "bồi thường",
+  "level": 5
+ },
+ {
+  "id": "5-0345",
+  "hanzi": "培养",
+  "pinyin": "péiyǎng",
+  "pos": "",
+  "meaning": "bồi dưỡng",
+  "level": 5
+ },
+ {
+  "id": "5-0346",
+  "hanzi": "配合",
+  "pinyin": "pèihé",
+  "pos": "",
+  "meaning": "phối hợp",
+  "level": 5
+ },
+ {
+  "id": "5-0347",
+  "hanzi": "披",
+  "pinyin": "pī",
+  "pos": "",
+  "meaning": "khoác lên",
+  "level": 5
+ },
+ {
+  "id": "5-0348",
+  "hanzi": "片面",
+  "pinyin": "piànmiàn",
+  "pos": "",
+  "meaning": "phiến diện",
+  "level": 5
+ },
+ {
+  "id": "5-0349",
+  "hanzi": "拼音",
+  "pinyin": "pīnyīn",
+  "pos": "",
+  "meaning": "phiên âm",
+  "level": 5
+ },
+ {
+  "id": "5-0350",
+  "hanzi": "平",
+  "pinyin": "píng",
+  "pos": "",
+  "meaning": "bằng phẳng",
+  "level": 5
+ }
+]

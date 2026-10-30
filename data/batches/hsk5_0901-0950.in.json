@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0901",
+  "hanzi": "经营",
+  "pinyin": "jīngyíng",
+  "pos": "",
+  "meaning": "kinh doanh",
+  "level": 5
+ },
+ {
+  "id": "5-0902",
+  "hanzi": "酒吧",
+  "pinyin": "jiǔbā",
+  "pos": "",
+  "meaning": "quán bar",
+  "level": 5
+ },
+ {
+  "id": "5-0903",
+  "hanzi": "救护车",
+  "pinyin": "jiùhùchē",
+  "pos": "",
+  "meaning": "xe cứu thương",
+  "level": 5
+ },
+ {
+  "id": "5-0904",
+  "hanzi": "居然",
+  "pinyin": "jūrán",
+  "pos": "",
+  "meaning": "vậy mà, lại",
+  "level": 5
+ },
+ {
+  "id": "5-0905",
+  "hanzi": "具体",
+  "pinyin": "jùtǐ",
+  "pos": "",
+  "meaning": "cụ thể",
+  "level": 5
+ },
+ {
+  "id": "5-0906",
+  "hanzi": "俱乐部",
+  "pinyin": "jùlèbù",
+  "pos": "",
+  "meaning": "câu lạc bộ",
+  "level": 5
+ },
+ {
+  "id": "5-0907",
+  "hanzi": "据说",
+  "pinyin": "jùshuō",
+  "pos": "",
+  "meaning": "nghe nói",
+  "level": 5
+ },
+ {
+  "id": "5-0908",
+  "hanzi": "捐",
+  "pinyin": "juān",
+  "pos": "",
+  "meaning": "quyên góp",
+  "level": 5
+ },
+ {
+  "id": "5-0909",
+  "hanzi": "决心",
+  "pinyin": "juéxīn",
+  "pos": "",
+  "meaning": "quyết tâm",
+  "level": 5
+ },
+ {
+  "id": "5-0910",
+  "hanzi": "角色",
+  "pinyin": "juésè",
+  "pos": "",
+  "meaning": "vai diễn",
+  "level": 5
+ },
+ {
+  "id": "5-0911",
+  "hanzi": "均匀",
+  "pinyin": "jūnyún",
+  "pos": "",
+  "meaning": "đều đặn",
+  "level": 5
+ },
+ {
+  "id": "5-0912",
+  "hanzi": "卡车",
+  "pinyin": "kǎchē",
+  "pos": "",
+  "meaning": "xe tải",
+  "level": 5
+ },
+ {
+  "id": "5-0913",
+  "hanzi": "开发",
+  "pinyin": "kāifā",
+  "pos": "",
+  "meaning": "phát triển",
+  "level": 5
+ },
+ {
+  "id": "5-0914",
+  "hanzi": "开幕式",
+  "pinyin": "kāimùshì",
+  "pos": "",
+  "meaning": "lễ khai mạc",
+  "level": 5
+ },
+ {
+  "id": "5-0915",
+  "hanzi": "看望",
+  "pinyin": "kànwàng",
+  "pos": "",
+  "meaning": "thăm hỏi",
+  "level": 5
+ },
+ {
+  "id": "5-0916",
+  "hanzi": "靠",
+  "pinyin": "kào",
+  "pos": "",
+  "meaning": "dựa vào",
+  "level": 5
+ },
+ {
+  "id": "5-0917",
+  "hanzi": "颗",
+  "pinyin": "kē",
+  "pos": "",
+  "meaning": "hạt, viên",
+  "level": 5
+ },
+ {
+  "id": "5-0918",
+  "hanzi": "可靠",
+  "pinyin": "kěkào",
+  "pos": "",
+  "meaning": "đáng tin cậy",
+  "level": 5
+ },
+ {
+  "id": "5-0919",
+  "hanzi": "课程",
+  "pinyin": "kèchéng",
+  "pos": "",
+  "meaning": "khóa học",
+  "level": 5
+ },
+ {
+  "id": "5-0920",
+  "hanzi": "克服",
+  "pinyin": "kèfú",
+  "pos": "",
+  "meaning": "vượt qua",
+  "level": 5
+ },
+ {
+  "id": "5-0921",
+  "hanzi": "刻苦",
+  "pinyin": "kèkǔ",
+  "pos": "",
+  "meaning": "chịu khó",
+  "level": 5
+ },
+ {
+  "id": "5-0922",
+  "hanzi": "空间",
+  "pinyin": "kōngjiān",
+  "pos": "",
+  "meaning": "không gian",
+  "level": 5
+ },
+ {
+  "id": "5-0923",
+  "hanzi": "空闲",
+  "pinyin": "kòngxián",
+  "pos": "",
+  "meaning": "rảnh rỗi",
+  "level": 5
+ },
+ {
+  "id": "5-0924",
+  "hanzi": "夸张",
+  "pinyin": "kuāzhāng",
+  "pos": "",
+  "meaning": "phóng đại",
+  "level": 5
+ },
+ {
+  "id": "5-0925",
+  "hanzi": "会计",
+  "pinyin": "kuàijì",
+  "pos": "",
+  "meaning": "kế toán",
+  "level": 5
+ },
+ {
+  "id": "5-0926",
+  "hanzi": "宽",
+  "pinyin": "kuān",
+  "pos": "",
+  "meaning": "rộng",
+  "level": 5
+ },
+ {
+  "id": "5-0927",
+  "hanzi": "昆虫",
+  "pinyin": "kūnchóng",
+  "pos": "",
+  "meaning": "côn trùng",
+  "level": 5
+ },
+ {
+  "id": "5-0928",
+  "hanzi": "拦",
+  "pinyin": "lán",
+  "pos": "",
+  "meaning": "chặn",
+  "level": 5
+ },
+ {
+  "id": "5-0929",
+  "hanzi": "朗读",
+  "pinyin": "lǎngdú",
+  "pos": "",
+  "meaning": "đọc to",
+  "level": 5
+ },
+ {
+  "id": "5-0930",
+  "hanzi": "劳驾",
+  "pinyin": "láojià",
+  "pos": "",
+  "meaning": "làm phiền",
+  "level": 5
+ },
+ {
+  "id": "5-0931",
+  "hanzi": "老百姓",
+  "pinyin": "lǎobǎixìng",
+  "pos": "",
+  "meaning": "người dân thường",
+  "level": 5
+ },
+ {
+  "id": "5-0932",
+  "hanzi": "老实",
+  "pinyin": "lǎoshi",
+  "pos": "",
+  "meaning": "thật thà",
+  "level": 5
+ },
+ {
+  "id": "5-0933",
+  "hanzi": "老婆",
+  "pinyin": "lǎopo",
+  "pos": "",
+  "meaning": "vợ",
+  "level": 5
+ },
+ {
+  "id": "5-0934",
+  "hanzi": "乐观",
+  "pinyin": "lèguān",
+  "pos": "",
+  "meaning": "lạc quan",
+  "level": 5
+ },
+ {
+  "id": "5-0935",
+  "hanzi": "雷",
+  "pinyin": "léi",
+  "pos": "",
+  "meaning": "sấm",
+  "level": 5
+ },
+ {
+  "id": "5-0936",
+  "hanzi": "类型",
+  "pinyin": "lèixíng",
+  "pos": "",
+  "meaning": "loại hình",
+  "level": 5
+ },
+ {
+  "id": "5-0937",
+  "hanzi": "冷淡",
+  "pinyin": "lěngdàn",
+  "pos": "",
+  "meaning": "lạnh nhạt",
+  "level": 5
+ },
+ {
+  "id": "5-0938",
+  "hanzi": "梨",
+  "pinyin": "lí",
+  "pos": "",
+  "meaning": "lê",
+  "level": 5
+ },
+ {
+  "id": "5-0939",
+  "hanzi": "离婚",
+  "pinyin": "líhūn",
+  "pos": "",
+  "meaning": "ly hôn",
+  "level": 5
+ },
+ {
+  "id": "5-0940",
+  "hanzi": "厘米",
+  "pinyin": "límǐ",
+  "pos": "",
+  "meaning": "cm",
+  "level": 5
+ },
+ {
+  "id": "5-0941",
+  "hanzi": "立即",
+  "pinyin": "lìjí",
+  "pos": "",
+  "meaning": "ngay lập tức",
+  "level": 5
+ },
+ {
+  "id": "5-0942",
+  "hanzi": "利润",
+  "pinyin": "lìrùn",
+  "pos": "",
+  "meaning": "lợi nhuận",
+  "level": 5
+ },
+ {
+  "id": "5-0943",
+  "hanzi": "利益",
+  "pinyin": "lìyì",
+  "pos": "",
+  "meaning": "lợi ích",
+  "level": 5
+ },
+ {
+  "id": "5-0944",
+  "hanzi": "连续",
+  "pinyin": "liánxù",
+  "pos": "",
+  "meaning": "liên tục",
+  "level": 5
+ },
+ {
+  "id": "5-0945",
+  "hanzi": "恋爱",
+  "pinyin": "liàn'ài",
+  "pos": "",
+  "meaning": "yêu đương",
+  "level": 5
+ },
+ {
+  "id": "5-0946",
+  "hanzi": "良好",
+  "pinyin": "liánghǎo",
+  "pos": "",
+  "meaning": "tốt đẹp",
+  "level": 5
+ },
+ {
+  "id": "5-0947",
+  "hanzi": "粮食",
+  "pinyin": "liángshi",
+  "pos": "",
+  "meaning": "lương thực",
+  "level": 5
+ },
+ {
+  "id": "5-0948",
+  "hanzi": "亮",
+  "pinyin": "liàng",
+  "pos": "",
+  "meaning": "sáng",
+  "level": 5
+ },
+ {
+  "id": "5-0949",
+  "hanzi": "铃",
+  "pinyin": "líng",
+  "pos": "",
+  "meaning": "chuông",
+  "level": 5
+ },
+ {
+  "id": "5-0950",
+  "hanzi": "零件",
+  "pinyin": "língjiàn",
+  "pos": "",
+  "meaning": "linh kiện",
+  "level": 5
+ }
+]

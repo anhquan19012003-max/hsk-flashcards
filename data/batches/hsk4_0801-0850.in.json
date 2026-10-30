@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0801",
+  "hanzi": "想念",
+  "pinyin": "xiǎngniàn",
+  "pos": "",
+  "meaning": "nhớ",
+  "level": 4
+ },
+ {
+  "id": "4-0802",
+  "hanzi": "想象",
+  "pinyin": "xiǎngxiàng",
+  "pos": "",
+  "meaning": "tưởng tượng",
+  "level": 4
+ },
+ {
+  "id": "4-0803",
+  "hanzi": "项",
+  "pinyin": "xiàng",
+  "pos": "",
+  "meaning": "hạng mục",
+  "level": 4
+ },
+ {
+  "id": "4-0804",
+  "hanzi": "项目",
+  "pinyin": "xiàngmù",
+  "pos": "",
+  "meaning": "dự án",
+  "level": 4
+ },
+ {
+  "id": "4-0805",
+  "hanzi": "相片",
+  "pinyin": "xiàng piàn",
+  "pos": "",
+  "meaning": "bức ảnh",
+  "level": 4
+ },
+ {
+  "id": "4-0806",
+  "hanzi": "消化",
+  "pinyin": "xiāohuà",
+  "pos": "",
+  "meaning": "tiêu hóa",
+  "level": 4
+ },
+ {
+  "id": "4-0807",
+  "hanzi": "销售",
+  "pinyin": "xiāoshòu",
+  "pos": "",
+  "meaning": "bán hàng",
+  "level": 4
+ },
+ {
+  "id": "4-0808",
+  "hanzi": "小吃",
+  "pinyin": "xiǎochī",
+  "pos": "",
+  "meaning": "món ăn vặt",
+  "level": 4
+ },
+ {
+  "id": "4-0809",
+  "hanzi": "小伙子",
+  "pinyin": "xiǎohuǒzi",
+  "pos": "",
+  "meaning": "chàng trai",
+  "level": 4
+ },
+ {
+  "id": "4-0810",
+  "hanzi": "小型",
+  "pinyin": "xiǎo xíng",
+  "pos": "",
+  "meaning": "quy mô nhỏ",
+  "level": 4
+ },
+ {
+  "id": "4-0811",
+  "hanzi": "效率",
+  "pinyin": "xiàolǜ",
+  "pos": "",
+  "meaning": "hiệu suất",
+  "level": 4
+ },
+ {
+  "id": "4-0812",
+  "hanzi": "些",
+  "pinyin": "xiē",
+  "pos": "",
+  "meaning": "một ít, vài (lượng từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0813",
+  "hanzi": "心理",
+  "pinyin": "xīnlǐ",
+  "pos": "",
+  "meaning": "tâm lý",
+  "level": 4
+ },
+ {
+  "id": "4-0814",
+  "hanzi": "新郎",
+  "pinyin": "xīnláng",
+  "pos": "",
+  "meaning": "chú rể",
+  "level": 4
+ },
+ {
+  "id": "4-0815",
+  "hanzi": "新娘",
+  "pinyin": "xīnniáng",
+  "pos": "",
+  "meaning": "cô dâu",
+  "level": 4
+ },
+ {
+  "id": "4-0816",
+  "hanzi": "新鲜",
+  "pinyin": "xīnxiān",
+  "pos": "",
+  "meaning": "tươi mới",
+  "level": 4
+ },
+ {
+  "id": "4-0817",
+  "hanzi": "新型",
+  "pinyin": "xīn xíng",
+  "pos": "",
+  "meaning": "kiểu mới",
+  "level": 4
+ },
+ {
+  "id": "4-0818",
+  "hanzi": "兴奋",
+  "pinyin": "xīngfèn",
+  "pos": "",
+  "meaning": "phấn khích",
+  "level": 4
+ },
+ {
+  "id": "4-0819",
+  "hanzi": "形容",
+  "pinyin": "xíngróng",
+  "pos": "",
+  "meaning": "miêu tả",
+  "level": 4
+ },
+ {
+  "id": "4-0820",
+  "hanzi": "形势",
+  "pinyin": "xíngshì",
+  "pos": "",
+  "meaning": "tình hình",
+  "level": 4
+ },
+ {
+  "id": "4-0821",
+  "hanzi": "型",
+  "pinyin": "xíng",
+  "pos": "",
+  "meaning": "kiểu",
+  "level": 4
+ },
+ {
+  "id": "4-0822",
+  "hanzi": "型号",
+  "pinyin": "xíng hào",
+  "pos": "",
+  "meaning": "mẫu mã",
+  "level": 4
+ },
+ {
+  "id": "4-0823",
+  "hanzi": "醒",
+  "pinyin": "xǐng",
+  "pos": "",
+  "meaning": "tỉnh dậy",
+  "level": 4
+ },
+ {
+  "id": "4-0824",
+  "hanzi": "兴趣",
+  "pinyin": "xìng qù",
+  "pos": "",
+  "meaning": "hứng thú",
+  "level": 4
+ },
+ {
+  "id": "4-0825",
+  "hanzi": "性质",
+  "pinyin": "xìngzhì",
+  "pos": "",
+  "meaning": "tính chất",
+  "level": 4
+ },
+ {
+  "id": "4-0826",
+  "hanzi": "兄弟",
+  "pinyin": "xiōngdì",
+  "pos": "",
+  "meaning": "anh em",
+  "level": 4
+ },
+ {
+  "id": "4-0827",
+  "hanzi": "胸部",
+  "pinyin": "xiōng bù",
+  "pos": "",
+  "meaning": "ngực",
+  "level": 4
+ },
+ {
+  "id": "4-0828",
+  "hanzi": "修理",
+  "pinyin": "xiūlǐ",
+  "pos": "",
+  "meaning": "sửa chữa",
+  "level": 4
+ },
+ {
+  "id": "4-0829",
+  "hanzi": "选择",
+  "pinyin": "xuǎnzé",
+  "pos": "",
+  "meaning": "lựa chọn",
+  "level": 4
+ },
+ {
+  "id": "4-0830",
+  "hanzi": "学分",
+  "pinyin": "xué fēn",
+  "pos": "",
+  "meaning": "tín chỉ",
+  "level": 4
+ },
+ {
+  "id": "4-0831",
+  "hanzi": "学年",
+  "pinyin": "xué nián",
+  "pos": "",
+  "meaning": "năm học",
+  "level": 4
+ },
+ {
+  "id": "4-0832",
+  "hanzi": "学时",
+  "pinyin": "xué shí",
+  "pos": "",
+  "meaning": "tiết học",
+  "level": 4
+ },
+ {
+  "id": "4-0833",
+  "hanzi": "学术",
+  "pinyin": "xuéshù",
+  "pos": "",
+  "meaning": "học thuật",
+  "level": 4
+ },
+ {
+  "id": "4-0834",
+  "hanzi": "学问",
+  "pinyin": "xuéwen",
+  "pos": "",
+  "meaning": "kiến thức",
+  "level": 4
+ },
+ {
+  "id": "4-0835",
+  "hanzi": "寻找",
+  "pinyin": "xúnzhǎo",
+  "pos": "",
+  "meaning": "tìm kiếm",
+  "level": 4
+ },
+ {
+  "id": "4-0836",
+  "hanzi": "迅速",
+  "pinyin": "xùnsù",
+  "pos": "",
+  "meaning": "nhanh chóng",
+  "level": 4
+ },
+ {
+  "id": "4-0837",
+  "hanzi": "牙",
+  "pinyin": "yá",
+  "pos": "",
+  "meaning": "răng",
+  "level": 4
+ },
+ {
+  "id": "4-0838",
+  "hanzi": "牙刷",
+  "pinyin": "yá shuā",
+  "pos": "",
+  "meaning": "bàn chải đánh răng",
+  "level": 4
+ },
+ {
+  "id": "4-0839",
+  "hanzi": "亚运会",
+  "pinyin": "yà yùn huì",
+  "pos": "",
+  "meaning": "á vận hội",
+  "level": 4
+ },
+ {
+  "id": "4-0840",
+  "hanzi": "呀",
+  "pinyin": "ya",
+  "pos": "",
+  "meaning": "a (thán từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0841",
+  "hanzi": "延长",
+  "pinyin": "yáncháng",
+  "pos": "",
+  "meaning": "kéo dài",
+  "level": 4
+ },
+ {
+  "id": "4-0842",
+  "hanzi": "延期",
+  "pinyin": "yánqī",
+  "pos": "",
+  "meaning": "trì hoãn",
+  "level": 4
+ },
+ {
+  "id": "4-0843",
+  "hanzi": "延续",
+  "pinyin": "yánxù",
+  "pos": "",
+  "meaning": "tiếp tục",
+  "level": 4
+ },
+ {
+  "id": "4-0844",
+  "hanzi": "严",
+  "pinyin": "yán",
+  "pos": "",
+  "meaning": "nghiêm khắc (1 chữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0845",
+  "hanzi": "严格",
+  "pinyin": "yángé",
+  "pos": "",
+  "meaning": "nghiêm ngặt",
+  "level": 4
+ },
+ {
+  "id": "4-0846",
+  "hanzi": "严重",
+  "pinyin": "yánzhòng",
+  "pos": "",
+  "meaning": "nghiêm trọng",
+  "level": 4
+ },
+ {
+  "id": "4-0847",
+  "hanzi": "研究",
+  "pinyin": "yánjiū",
+  "pos": "",
+  "meaning": "nghiên cứu",
+  "level": 4
+ },
+ {
+  "id": "4-0848",
+  "hanzi": "研究生",
+  "pinyin": "yán jiū shēng",
+  "pos": "",
+  "meaning": "học viên cao học",
+  "level": 4
+ },
+ {
+  "id": "4-0849",
+  "hanzi": "研制",
+  "pinyin": "yán zhì",
+  "pos": "",
+  "meaning": "chế tạo",
+  "level": 4
+ },
+ {
+  "id": "4-0850",
+  "hanzi": "盐",
+  "pinyin": "yán",
+  "pos": "",
+  "meaning": "muối",
+  "level": 4
+ }
+]

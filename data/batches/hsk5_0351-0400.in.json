@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0351",
+  "hanzi": "平常",
+  "pinyin": "píngcháng",
+  "pos": "",
+  "meaning": "thông thường",
+  "level": 5
+ },
+ {
+  "id": "5-0352",
+  "hanzi": "平方",
+  "pinyin": "píngfāng",
+  "pos": "",
+  "meaning": "bình phương",
+  "level": 5
+ },
+ {
+  "id": "5-0353",
+  "hanzi": "平静",
+  "pinyin": "píngjìng",
+  "pos": "",
+  "meaning": "yên lặng",
+  "level": 5
+ },
+ {
+  "id": "5-0354",
+  "hanzi": "评价",
+  "pinyin": "píngjià",
+  "pos": "",
+  "meaning": "đánh giá",
+  "level": 5
+ },
+ {
+  "id": "5-0355",
+  "hanzi": "破坏",
+  "pinyin": "pòhuài",
+  "pos": "",
+  "meaning": "phá hoại",
+  "level": 5
+ },
+ {
+  "id": "5-0356",
+  "hanzi": "期待",
+  "pinyin": "qīdài",
+  "pos": "",
+  "meaning": "mong đợi",
+  "level": 5
+ },
+ {
+  "id": "5-0357",
+  "hanzi": "奇迹",
+  "pinyin": "qíjì",
+  "pos": "",
+  "meaning": "kỳ tích",
+  "level": 5
+ },
+ {
+  "id": "5-0358",
+  "hanzi": "启发",
+  "pinyin": "qǐfā",
+  "pos": "",
+  "meaning": "gợi mở",
+  "level": 5
+ },
+ {
+  "id": "5-0359",
+  "hanzi": "气氛",
+  "pinyin": "qìfēn",
+  "pos": "",
+  "meaning": "bầu không khí",
+  "level": 5
+ },
+ {
+  "id": "5-0360",
+  "hanzi": "汽油",
+  "pinyin": "qìyóu",
+  "pos": "",
+  "meaning": "xăng",
+  "level": 5
+ },
+ {
+  "id": "5-0361",
+  "hanzi": "谦虚",
+  "pinyin": "qiānxū",
+  "pos": "",
+  "meaning": "khiêm tốn",
+  "level": 5
+ },
+ {
+  "id": "5-0362",
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "pos": "",
+  "meaning": "ký",
+  "level": 5
+ },
+ {
+  "id": "5-0363",
+  "hanzi": "浅",
+  "pinyin": "qiǎn",
+  "pos": "",
+  "meaning": "nông",
+  "level": 5
+ },
+ {
+  "id": "5-0364",
+  "hanzi": "枪",
+  "pinyin": "qiāng",
+  "pos": "",
+  "meaning": "súng",
+  "level": 5
+ },
+ {
+  "id": "5-0365",
+  "hanzi": "强调",
+  "pinyin": "qiángdiào",
+  "pos": "",
+  "meaning": "nhấn mạnh",
+  "level": 5
+ },
+ {
+  "id": "5-0366",
+  "hanzi": "抢",
+  "pinyin": "qiǎng",
+  "pos": "",
+  "meaning": "cướp",
+  "level": 5
+ },
+ {
+  "id": "5-0367",
+  "hanzi": "悄悄",
+  "pinyin": "qiāoqiāo",
+  "pos": "",
+  "meaning": "lặng lẽ",
+  "level": 5
+ },
+ {
+  "id": "5-0368",
+  "hanzi": "瞧",
+  "pinyin": "qiáo",
+  "pos": "",
+  "meaning": "nhìn",
+  "level": 5
+ },
+ {
+  "id": "5-0369",
+  "hanzi": "巧妙",
+  "pinyin": "qiǎomiào",
+  "pos": "",
+  "meaning": "khéo léo",
+  "level": 5
+ },
+ {
+  "id": "5-0370",
+  "hanzi": "亲爱",
+  "pinyin": "qīn'ài",
+  "pos": "",
+  "meaning": "thân yêu",
+  "level": 5
+ },
+ {
+  "id": "5-0371",
+  "hanzi": "亲切",
+  "pinyin": "qīnqiè",
+  "pos": "",
+  "meaning": "thân mật",
+  "level": 5
+ },
+ {
+  "id": "5-0372",
+  "hanzi": "勤奋",
+  "pinyin": "qínfèn",
+  "pos": "",
+  "meaning": "chăm chỉ",
+  "level": 5
+ },
+ {
+  "id": "5-0373",
+  "hanzi": "青春",
+  "pinyin": "qīngchūn",
+  "pos": "",
+  "meaning": "tuổi trẻ",
+  "level": 5
+ },
+ {
+  "id": "5-0374",
+  "hanzi": "轻视",
+  "pinyin": "qīngshì",
+  "pos": "",
+  "meaning": "coi thường",
+  "level": 5
+ },
+ {
+  "id": "5-0375",
+  "hanzi": "请求",
+  "pinyin": "qǐngqiú",
+  "pos": "",
+  "meaning": "thỉnh cầu",
+  "level": 5
+ },
+ {
+  "id": "5-0376",
+  "hanzi": "球迷",
+  "pinyin": "qiúmí",
+  "pos": "",
+  "meaning": "người hâm mộ bóng đá",
+  "level": 5
+ },
+ {
+  "id": "5-0377",
+  "hanzi": "趋势",
+  "pinyin": "qūshì",
+  "pos": "",
+  "meaning": "xu hướng",
+  "level": 5
+ },
+ {
+  "id": "5-0378",
+  "hanzi": "去世",
+  "pinyin": "qùshì",
+  "pos": "",
+  "meaning": "qua đời",
+  "level": 5
+ },
+ {
+  "id": "5-0379",
+  "hanzi": "权力",
+  "pinyin": "quánlì",
+  "pos": "",
+  "meaning": "quyền lực",
+  "level": 5
+ },
+ {
+  "id": "5-0380",
+  "hanzi": "劝",
+  "pinyin": "quàn",
+  "pos": "",
+  "meaning": "khuyên nhủ",
+  "level": 5
+ },
+ {
+  "id": "5-0381",
+  "hanzi": "缺乏",
+  "pinyin": "quēfá",
+  "pos": "",
+  "meaning": "thiếu",
+  "level": 5
+ },
+ {
+  "id": "5-0382",
+  "hanzi": "确认",
+  "pinyin": "quèrèn",
+  "pos": "",
+  "meaning": "xác nhận",
+  "level": 5
+ },
+ {
+  "id": "5-0383",
+  "hanzi": "群",
+  "pinyin": "qún",
+  "pos": "",
+  "meaning": "nhóm",
+  "level": 5
+ },
+ {
+  "id": "5-0384",
+  "hanzi": "燃烧",
+  "pinyin": "ránshāo",
+  "pos": "",
+  "meaning": "cháy",
+  "level": 5
+ },
+ {
+  "id": "5-0385",
+  "hanzi": "绕",
+  "pinyin": "rào",
+  "pos": "",
+  "meaning": "đi vòng",
+  "level": 5
+ },
+ {
+  "id": "5-0386",
+  "hanzi": "热爱",
+  "pinyin": "rè'ài",
+  "pos": "",
+  "meaning": "yêu tha thiết",
+  "level": 5
+ },
+ {
+  "id": "5-0387",
+  "hanzi": "热心",
+  "pinyin": "rèxīn",
+  "pos": "",
+  "meaning": "nhiệt tình",
+  "level": 5
+ },
+ {
+  "id": "5-0388",
+  "hanzi": "人才",
+  "pinyin": "réncái",
+  "pos": "",
+  "meaning": "nhân tài",
+  "level": 5
+ },
+ {
+  "id": "5-0389",
+  "hanzi": "人类",
+  "pinyin": "rénlèi",
+  "pos": "",
+  "meaning": "loài người",
+  "level": 5
+ },
+ {
+  "id": "5-0390",
+  "hanzi": "人生",
+  "pinyin": "rénshēng",
+  "pos": "",
+  "meaning": "cuộc đời",
+  "level": 5
+ },
+ {
+  "id": "5-0391",
+  "hanzi": "人物",
+  "pinyin": "rénwù",
+  "pos": "",
+  "meaning": "nhân vật",
+  "level": 5
+ },
+ {
+  "id": "5-0392",
+  "hanzi": "忍不住",
+  "pinyin": "rěnbuzhù",
+  "pos": "",
+  "meaning": "không nhịn được",
+  "level": 5
+ },
+ {
+  "id": "5-0393",
+  "hanzi": "日程",
+  "pinyin": "rìchéng",
+  "pos": "",
+  "meaning": "lịch trình",
+  "level": 5
+ },
+ {
+  "id": "5-0394",
+  "hanzi": "日历",
+  "pinyin": "rìlì",
+  "pos": "",
+  "meaning": "lịch",
+  "level": 5
+ },
+ {
+  "id": "5-0395",
+  "hanzi": "日用品",
+  "pinyin": "rìyòngpǐn",
+  "pos": "",
+  "meaning": "đồ dùng hàng ngày",
+  "level": 5
+ },
+ {
+  "id": "5-0396",
+  "hanzi": "如何",
+  "pinyin": "rúhé",
+  "pos": "",
+  "meaning": "như thế nào",
+  "level": 5
+ },
+ {
+  "id": "5-0397",
+  "hanzi": "软件",
+  "pinyin": "ruǎnjiàn",
+  "pos": "",
+  "meaning": "phần mềm",
+  "level": 5
+ },
+ {
+  "id": "5-0398",
+  "hanzi": "洒",
+  "pinyin": "sǎ",
+  "pos": "",
+  "meaning": "rắc, vẩy",
+  "level": 5
+ },
+ {
+  "id": "5-0399",
+  "hanzi": "嗓子",
+  "pinyin": "sǎngzi",
+  "pos": "",
+  "meaning": "cổ họng",
+  "level": 5
+ },
+ {
+  "id": "5-0400",
+  "hanzi": "沙滩",
+  "pinyin": "shātān",
+  "pos": "",
+  "meaning": "bãi biển",
+  "level": 5
+ }
+]

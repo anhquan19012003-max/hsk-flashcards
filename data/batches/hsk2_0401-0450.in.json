@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0401",
+  "hanzi": "鸟",
+  "pinyin": "niǎo",
+  "pos": "danh từ",
+  "meaning": "con chim",
+  "level": 2
+ },
+ {
+  "id": "2-0402",
+  "hanzi": "弄",
+  "pinyin": "nòng",
+  "pos": "động từ",
+  "meaning": "làm (khẩu ngữ), khiến",
+  "level": 2
+ },
+ {
+  "id": "2-0403",
+  "hanzi": "努力",
+  "pinyin": "nǔlì",
+  "pos": "tính từ",
+  "meaning": "nỗ lực, cố gắng",
+  "level": 2
+ },
+ {
+  "id": "2-0404",
+  "hanzi": "爬",
+  "pinyin": "pá",
+  "pos": "động từ",
+  "meaning": "trèo, bò",
+  "level": 2
+ },
+ {
+  "id": "2-0405",
+  "hanzi": "爬山",
+  "pinyin": "pá shān",
+  "pos": "cụm từ",
+  "meaning": "leo núi",
+  "level": 2
+ },
+ {
+  "id": "2-0406",
+  "hanzi": "怕",
+  "pinyin": "pà",
+  "pos": "động từ",
+  "meaning": "sợ",
+  "level": 2
+ },
+ {
+  "id": "2-0407",
+  "hanzi": "排",
+  "pinyin": "pái",
+  "pos": "danh từ, lượng từ",
+  "meaning": "hàng, dãy",
+  "level": 2
+ },
+ {
+  "id": "2-0408",
+  "hanzi": "排队",
+  "pinyin": "páiduì",
+  "pos": "cụm từ",
+  "meaning": "xếp hàng",
+  "level": 2
+ },
+ {
+  "id": "2-0409",
+  "hanzi": "排球",
+  "pinyin": "páiqiú",
+  "pos": "danh từ",
+  "meaning": "bóng chuyền",
+  "level": 2
+ },
+ {
+  "id": "2-0410",
+  "hanzi": "碰",
+  "pinyin": "pèng",
+  "pos": "động từ",
+  "meaning": "chạm, va",
+  "level": 2
+ },
+ {
+  "id": "2-0411",
+  "hanzi": "碰到",
+  "pinyin": "pèngdào",
+  "pos": "cụm từ",
+  "meaning": "đụng phải; tình cờ gặp (碰到)",
+  "level": 2
+ },
+ {
+  "id": "2-0412",
+  "hanzi": "碰见",
+  "pinyin": "pèngjiàn",
+  "pos": "cụm từ",
+  "meaning": "tình cờ gặp (碰见)",
+  "level": 2
+ },
+ {
+  "id": "2-0413",
+  "hanzi": "篇",
+  "pinyin": "piān",
+  "pos": "lượng từ",
+  "meaning": "bài (văn), mẩu (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0414",
+  "hanzi": "便宜",
+  "pinyin": "piányi",
+  "pos": "tính từ, danh từ",
+  "meaning": "rẻ",
+  "level": 2
+ },
+ {
+  "id": "2-0415",
+  "hanzi": "片",
+  "pinyin": "piàn",
+  "pos": "lượng từ",
+  "meaning": "miếng, tấm, viên (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0416",
+  "hanzi": "漂亮",
+  "pinyin": "piàoliang",
+  "pos": "tính từ",
+  "meaning": "xinh đẹp",
+  "level": 2
+ },
+ {
+  "id": "2-0417",
+  "hanzi": "平",
+  "pinyin": "píng",
+  "pos": "tính từ",
+  "meaning": "bằng phẳng",
+  "level": 2
+ },
+ {
+  "id": "2-0418",
+  "hanzi": "平安",
+  "pinyin": "píng'ān",
+  "pos": "tính từ",
+  "meaning": "bình an",
+  "level": 2
+ },
+ {
+  "id": "2-0419",
+  "hanzi": "平常",
+  "pinyin": "píngcháng",
+  "pos": "danh từ, tính từ",
+  "meaning": "bình thường; ngày thường",
+  "level": 2
+ },
+ {
+  "id": "2-0420",
+  "hanzi": "平等",
+  "pinyin": "píngděng",
+  "pos": "tính từ",
+  "meaning": "bình đẳng",
+  "level": 2
+ },
+ {
+  "id": "2-0421",
+  "hanzi": "平时",
+  "pinyin": "píngshí",
+  "pos": "danh từ",
+  "meaning": "lúc bình thường, ngày thường",
+  "level": 2
+ },
+ {
+  "id": "2-0422",
+  "hanzi": "瓶",
+  "pinyin": "píng",
+  "pos": "danh từ, lượng từ",
+  "meaning": "chai, lọ (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0423",
+  "hanzi": "瓶子",
+  "pinyin": "píngzi",
+  "pos": "danh từ",
+  "meaning": "cái chai, cái lọ",
+  "level": 2
+ },
+ {
+  "id": "2-0424",
+  "hanzi": "普通",
+  "pinyin": "pǔtōng",
+  "pos": "tính từ",
+  "meaning": "phổ thông, bình thường",
+  "level": 2
+ },
+ {
+  "id": "2-0425",
+  "hanzi": "普通话",
+  "pinyin": "pǔtōnghuà",
+  "pos": "danh từ",
+  "meaning": "tiếng Phổ thông",
+  "level": 2
+ },
+ {
+  "id": "2-0426",
+  "hanzi": "其他",
+  "pinyin": "qítā",
+  "pos": "đại từ",
+  "meaning": "khác, cái khác (其他)",
+  "level": 2
+ },
+ {
+  "id": "2-0427",
+  "hanzi": "其中",
+  "pinyin": "qízhōng",
+  "pos": "danh từ",
+  "meaning": "trong đó",
+  "level": 2
+ },
+ {
+  "id": "2-0428",
+  "hanzi": "骑",
+  "pinyin": "qí",
+  "pos": "động từ",
+  "meaning": "cưỡi, đi (xe đạp, ngựa)",
+  "level": 2
+ },
+ {
+  "id": "2-0429",
+  "hanzi": "骑车",
+  "pinyin": "qí chē",
+  "pos": "cụm từ",
+  "meaning": "đạp xe, đi xe đạp",
+  "level": 2
+ },
+ {
+  "id": "2-0430",
+  "hanzi": "起飞",
+  "pinyin": "qǐfēi",
+  "pos": "động từ",
+  "meaning": "cất cánh",
+  "level": 2
+ },
+ {
+  "id": "2-0431",
+  "hanzi": "气",
+  "pinyin": "qì",
+  "pos": "động từ, danh từ",
+  "meaning": "chọc tức; khí, hơi",
+  "level": 2
+ },
+ {
+  "id": "2-0432",
+  "hanzi": "气温",
+  "pinyin": "qìwēn",
+  "pos": "danh từ",
+  "meaning": "nhiệt độ không khí",
+  "level": 2
+ },
+ {
+  "id": "2-0433",
+  "hanzi": "千",
+  "pinyin": "qiān",
+  "pos": "số từ",
+  "meaning": "nghìn",
+  "level": 2
+ },
+ {
+  "id": "2-0434",
+  "hanzi": "千克",
+  "pinyin": "qiānkè",
+  "pos": "lượng từ",
+  "meaning": "kilôgam (千克)",
+  "level": 2
+ },
+ {
+  "id": "2-0435",
+  "hanzi": "前年",
+  "pinyin": "qiánnián",
+  "pos": "danh từ",
+  "meaning": "năm kia",
+  "level": 2
+ },
+ {
+  "id": "2-0436",
+  "hanzi": "墙",
+  "pinyin": "qiáng",
+  "pos": "danh từ",
+  "meaning": "bức tường",
+  "level": 2
+ },
+ {
+  "id": "2-0437",
+  "hanzi": "青年",
+  "pinyin": "qīngnián",
+  "pos": "danh từ",
+  "meaning": "thanh niên",
+  "level": 2
+ },
+ {
+  "id": "2-0438",
+  "hanzi": "青少年",
+  "pinyin": "qīngshàonián",
+  "pos": "danh từ",
+  "meaning": "thanh thiếu niên",
+  "level": 2
+ },
+ {
+  "id": "2-0439",
+  "hanzi": "轻",
+  "pinyin": "qīng",
+  "pos": "tính từ",
+  "meaning": "nhẹ",
+  "level": 2
+ },
+ {
+  "id": "2-0440",
+  "hanzi": "清楚",
+  "pinyin": "qīngchu",
+  "pos": "tính từ",
+  "meaning": "rõ ràng",
+  "level": 2
+ },
+ {
+  "id": "2-0441",
+  "hanzi": "晴",
+  "pinyin": "qíng",
+  "pos": "tính từ",
+  "meaning": "nắng, quang (trời)",
+  "level": 2
+ },
+ {
+  "id": "2-0442",
+  "hanzi": "晴天",
+  "pinyin": "qíngtiān",
+  "pos": "danh từ",
+  "meaning": "ngày nắng",
+  "level": 2
+ },
+ {
+  "id": "2-0443",
+  "hanzi": "请客",
+  "pinyin": "qǐngkè",
+  "pos": "cụm từ",
+  "meaning": "mời khách, đãi (bao ăn)",
+  "level": 2
+ },
+ {
+  "id": "2-0444",
+  "hanzi": "请求",
+  "pinyin": "qǐngqiú",
+  "pos": "động từ, danh từ",
+  "meaning": "thỉnh cầu, đề nghị",
+  "level": 2
+ },
+ {
+  "id": "2-0445",
+  "hanzi": "秋天",
+  "pinyin": "qiūtiān",
+  "pos": "danh từ",
+  "meaning": "mùa thu",
+  "level": 2
+ },
+ {
+  "id": "2-0446",
+  "hanzi": "求",
+  "pinyin": "qiú",
+  "pos": "động từ",
+  "meaning": "cầu xin, nhờ",
+  "level": 2
+ },
+ {
+  "id": "2-0447",
+  "hanzi": "球场",
+  "pinyin": "qiúchǎng",
+  "pos": "danh từ",
+  "meaning": "sân bóng",
+  "level": 2
+ },
+ {
+  "id": "2-0448",
+  "hanzi": "球队",
+  "pinyin": "qiúduì",
+  "pos": "danh từ",
+  "meaning": "đội bóng",
+  "level": 2
+ },
+ {
+  "id": "2-0449",
+  "hanzi": "球鞋",
+  "pinyin": "qiúxié",
+  "pos": "danh từ",
+  "meaning": "giày thể thao",
+  "level": 2
+ },
+ {
+  "id": "2-0450",
+  "hanzi": "取",
+  "pinyin": "qǔ",
+  "pos": "động từ",
+  "meaning": "lấy, rút (tiền)",
+  "level": 2
+ }
+]

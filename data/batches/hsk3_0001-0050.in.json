@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0001",
+  "hanzi": "爱心",
+  "pinyin": "àixīn",
+  "pos": "danh từ",
+  "meaning": "lòng yêu thương",
+  "level": 3
+ },
+ {
+  "id": "3-0002",
+  "hanzi": "安排",
+  "pinyin": "ānpái",
+  "pos": "động từ, danh từ",
+  "meaning": "sắp xếp, bố trí",
+  "level": 3
+ },
+ {
+  "id": "3-0003",
+  "hanzi": "安装",
+  "pinyin": "ānzhuāng",
+  "pos": "động từ",
+  "meaning": "lắp đặt, cài đặt",
+  "level": 3
+ },
+ {
+  "id": "3-0004",
+  "hanzi": "按",
+  "pinyin": "àn",
+  "pos": "động từ, giới từ",
+  "meaning": "ấn, bấm; theo (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0005",
+  "hanzi": "按照",
+  "pinyin": "ànzhào",
+  "pos": "giới từ",
+  "meaning": "theo, căn cứ theo",
+  "level": 3
+ },
+ {
+  "id": "3-0006",
+  "hanzi": "把",
+  "pinyin": "bǎ",
+  "pos": "giới từ",
+  "meaning": "đem, lấy (giới từ câu chữ 把)",
+  "level": 3
+ },
+ {
+  "id": "3-0007",
+  "hanzi": "把",
+  "pinyin": "bǎ",
+  "pos": "lượng từ",
+  "meaning": "cái, chiếc (vật có tay cầm); nắm",
+  "level": 3
+ },
+ {
+  "id": "3-0008",
+  "hanzi": "把握",
+  "pinyin": "bǎwò",
+  "pos": "động từ, danh từ",
+  "meaning": "nắm chắc; sự chắc chắn",
+  "level": 3
+ },
+ {
+  "id": "3-0009",
+  "hanzi": "白",
+  "pinyin": "bái",
+  "pos": "phó từ",
+  "meaning": "uổng công, vô ích (phó từ)",
+  "level": 3
+ },
+ {
+  "id": "3-0010",
+  "hanzi": "白菜",
+  "pinyin": "báicài",
+  "pos": "danh từ",
+  "meaning": "cải thảo",
+  "level": 3
+ },
+ {
+  "id": "3-0011",
+  "hanzi": "班级",
+  "pinyin": "bānjí",
+  "pos": "danh từ",
+  "meaning": "lớp học, khối lớp (班级)",
+  "level": 3
+ },
+ {
+  "id": "3-0012",
+  "hanzi": "搬",
+  "pinyin": "bān",
+  "pos": "động từ",
+  "meaning": "chuyển, khuân, dọn",
+  "level": 3
+ },
+ {
+  "id": "3-0013",
+  "hanzi": "搬家",
+  "pinyin": "bānjiā",
+  "pos": "cụm từ",
+  "meaning": "chuyển nhà",
+  "level": 3
+ },
+ {
+  "id": "3-0014",
+  "hanzi": "板",
+  "pinyin": "bǎn",
+  "pos": "danh từ",
+  "meaning": "tấm ván, bảng",
+  "level": 3
+ },
+ {
+  "id": "3-0015",
+  "hanzi": "办理",
+  "pinyin": "bànlǐ",
+  "pos": "động từ",
+  "meaning": "làm (thủ tục), giải quyết",
+  "level": 3
+ },
+ {
+  "id": "3-0016",
+  "hanzi": "保",
+  "pinyin": "bǎo",
+  "pos": "động từ",
+  "meaning": "giữ, bảo vệ (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0017",
+  "hanzi": "保安",
+  "pinyin": "bǎo'ān",
+  "pos": "danh từ",
+  "meaning": "nhân viên bảo vệ",
+  "level": 3
+ },
+ {
+  "id": "3-0018",
+  "hanzi": "保持",
+  "pinyin": "bǎochí",
+  "pos": "động từ",
+  "meaning": "giữ gìn, duy trì",
+  "level": 3
+ },
+ {
+  "id": "3-0019",
+  "hanzi": "保存",
+  "pinyin": "bǎocún",
+  "pos": "động từ",
+  "meaning": "bảo tồn, lưu lại (lưu file)",
+  "level": 3
+ },
+ {
+  "id": "3-0020",
+  "hanzi": "保护",
+  "pinyin": "bǎohù",
+  "pos": "động từ",
+  "meaning": "bảo vệ, bảo hộ",
+  "level": 3
+ },
+ {
+  "id": "3-0021",
+  "hanzi": "保留",
+  "pinyin": "bǎoliú",
+  "pos": "động từ",
+  "meaning": "giữ lại, bảo lưu",
+  "level": 3
+ },
+ {
+  "id": "3-0022",
+  "hanzi": "保险",
+  "pinyin": "bǎoxiǎn",
+  "pos": "danh từ, tính từ",
+  "meaning": "bảo hiểm; an toàn",
+  "level": 3
+ },
+ {
+  "id": "3-0023",
+  "hanzi": "保证",
+  "pinyin": "bǎozhèng",
+  "pos": "động từ, danh từ",
+  "meaning": "bảo đảm, cam đoan",
+  "level": 3
+ },
+ {
+  "id": "3-0024",
+  "hanzi": "报",
+  "pinyin": "bào",
+  "pos": "danh từ",
+  "meaning": "báo, tờ báo (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0025",
+  "hanzi": "报到",
+  "pinyin": "bàodào",
+  "pos": "cụm từ",
+  "meaning": "báo danh, trình diện",
+  "level": 3
+ },
+ {
+  "id": "3-0026",
+  "hanzi": "报道",
+  "pinyin": "bàodào",
+  "pos": "động từ, danh từ",
+  "meaning": "đưa tin; bản tin",
+  "level": 3
+ },
+ {
+  "id": "3-0027",
+  "hanzi": "报告",
+  "pinyin": "bàogào",
+  "pos": "động từ, danh từ",
+  "meaning": "báo cáo; bản báo cáo",
+  "level": 3
+ },
+ {
+  "id": "3-0028",
+  "hanzi": "背",
+  "pinyin": "bēi",
+  "pos": "động từ",
+  "meaning": "cõng, đeo (trên lưng)",
+  "level": 3
+ },
+ {
+  "id": "3-0029",
+  "hanzi": "北部",
+  "pinyin": "běibù",
+  "pos": "danh từ",
+  "meaning": "miền Bắc, phía Bắc (北部)",
+  "level": 3
+ },
+ {
+  "id": "3-0030",
+  "hanzi": "背",
+  "pinyin": "bèi",
+  "pos": "danh từ",
+  "meaning": "lưng",
+  "level": 3
+ },
+ {
+  "id": "3-0031",
+  "hanzi": "背后",
+  "pinyin": "bèihòu",
+  "pos": "danh từ",
+  "meaning": "sau lưng, phía sau",
+  "level": 3
+ },
+ {
+  "id": "3-0032",
+  "hanzi": "被",
+  "pinyin": "bèi",
+  "pos": "giới từ",
+  "meaning": "bị, được (câu bị động)",
+  "level": 3
+ },
+ {
+  "id": "3-0033",
+  "hanzi": "被子",
+  "pinyin": "bèizi",
+  "pos": "danh từ",
+  "meaning": "cái chăn",
+  "level": 3
+ },
+ {
+  "id": "3-0034",
+  "hanzi": "本来",
+  "pinyin": "běnlái",
+  "pos": "phó từ, tính từ",
+  "meaning": "vốn dĩ, lẽ ra",
+  "level": 3
+ },
+ {
+  "id": "3-0035",
+  "hanzi": "本领",
+  "pinyin": "běnlǐng",
+  "pos": "danh từ",
+  "meaning": "bản lĩnh, năng lực (本领)",
+  "level": 3
+ },
+ {
+  "id": "3-0036",
+  "hanzi": "本事",
+  "pinyin": "běnshi",
+  "pos": "danh từ",
+  "meaning": "bản lĩnh, tài cán (本事)",
+  "level": 3
+ },
+ {
+  "id": "3-0037",
+  "hanzi": "比较",
+  "pinyin": "bǐjiào",
+  "pos": "phó từ, động từ",
+  "meaning": "khá, tương đối; so sánh",
+  "level": 3
+ },
+ {
+  "id": "3-0038",
+  "hanzi": "比例",
+  "pinyin": "bǐlì",
+  "pos": "danh từ",
+  "meaning": "tỷ lệ",
+  "level": 3
+ },
+ {
+  "id": "3-0039",
+  "hanzi": "比赛",
+  "pinyin": "bǐsài",
+  "pos": "động từ, danh từ",
+  "meaning": "thi đấu; trận đấu",
+  "level": 3
+ },
+ {
+  "id": "3-0040",
+  "hanzi": "必然",
+  "pinyin": "bìrán",
+  "pos": "tính từ",
+  "meaning": "tất nhiên, tất yếu",
+  "level": 3
+ },
+ {
+  "id": "3-0041",
+  "hanzi": "必要",
+  "pinyin": "bìyào",
+  "pos": "tính từ, danh từ",
+  "meaning": "cần thiết",
+  "level": 3
+ },
+ {
+  "id": "3-0042",
+  "hanzi": "变化",
+  "pinyin": "biànhuà",
+  "pos": "động từ, danh từ",
+  "meaning": "thay đổi, biến hóa",
+  "level": 3
+ },
+ {
+  "id": "3-0043",
+  "hanzi": "变为",
+  "pinyin": "biànwéi",
+  "pos": "cụm từ",
+  "meaning": "biến thành, trở thành (变为)",
+  "level": 3
+ },
+ {
+  "id": "3-0044",
+  "hanzi": "标题",
+  "pinyin": "biāotí",
+  "pos": "danh từ",
+  "meaning": "tiêu đề",
+  "level": 3
+ },
+ {
+  "id": "3-0045",
+  "hanzi": "标准",
+  "pinyin": "biāozhǔn",
+  "pos": "danh từ, tính từ",
+  "meaning": "tiêu chuẩn; chuẩn",
+  "level": 3
+ },
+ {
+  "id": "3-0046",
+  "hanzi": "表达",
+  "pinyin": "biǎodá",
+  "pos": "động từ",
+  "meaning": "diễn đạt, bày tỏ",
+  "level": 3
+ },
+ {
+  "id": "3-0047",
+  "hanzi": "表格",
+  "pinyin": "biǎogé",
+  "pos": "danh từ",
+  "meaning": "bảng biểu, biểu mẫu",
+  "level": 3
+ },
+ {
+  "id": "3-0048",
+  "hanzi": "表面",
+  "pinyin": "biǎomiàn",
+  "pos": "danh từ",
+  "meaning": "bề mặt, bề ngoài",
+  "level": 3
+ },
+ {
+  "id": "3-0049",
+  "hanzi": "表明",
+  "pinyin": "biǎomíng",
+  "pos": "động từ",
+  "meaning": "cho thấy, chứng tỏ",
+  "level": 3
+ },
+ {
+  "id": "3-0050",
+  "hanzi": "表现",
+  "pinyin": "biǎoxiàn",
+  "pos": "động từ, danh từ",
+  "meaning": "thể hiện; biểu hiện",
+  "level": 3
+ }
+]

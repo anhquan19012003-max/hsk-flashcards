@@ -1,0 +1,452 @@
+[
+ {
+  "id": "3-0051",
+  "pos": "động từ, danh từ",
+  "example": {
+    "zh": "孩子们在表演唱歌。",
+    "pinyin": "Háizimen zài biǎoyǎn chànggē.",
+    "vi": "Bọn trẻ đang biểu diễn hát."
+  }
+ },
+ {
+  "id": "3-0052",
+  "pos": "phó từ, liên từ",
+  "example": {
+    "zh": "我并不累。",
+    "pinyin": "Wǒ bìng bú lèi.",
+    "vi": "Tôi không hề mệt."
+  }
+ },
+ {
+  "id": "3-0053",
+  "pos": "liên từ",
+  "example": {
+    "zh": "他很聪明，并且很努力。",
+    "pinyin": "Tā hěn cōngmíng, bìngqiě hěn nǔlì.",
+    "vi": "Anh ấy rất thông minh, hơn nữa còn rất chăm chỉ."
+  }
+ },
+ {
+  "id": "3-0054",
+  "pos": "cụm từ",
+  "example": {
+    "zh": "这个节目每天晚上播出。",
+    "pinyin": "Zhège jiémù měitiān wǎnshang bōchū.",
+    "vi": "Chương trình này phát sóng mỗi tối."
+  }
+ },
+ {
+  "id": "3-0055",
+  "pos": "động từ",
+  "example": {
+    "zh": "老师在播放音乐。",
+    "pinyin": "Lǎoshī zài bōfàng yīnyuè.",
+    "vi": "Thầy giáo đang phát nhạc."
+  }
+ },
+ {
+  "id": "3-0056",
+  "pos": "phó từ",
+  "example": {
+    "zh": "你不必来，我自己去。",
+    "pinyin": "Nǐ búbì lái, wǒ zìjǐ qù.",
+    "vi": "Bạn không cần đến, tôi tự đi."
+  }
+ },
+ {
+  "id": "3-0057",
+  "pos": "phó từ, động từ",
+  "example": {
+    "zh": "他不断学习汉语。",
+    "pinyin": "Tā búduàn xuéxí Hànyǔ.",
+    "vi": "Anh ấy không ngừng học tiếng Trung."
+  }
+ },
+ {
+  "id": "3-0058",
+  "pos": "liên từ",
+  "example": {
+    "zh": "不论天气怎么样，我都去跑步。",
+    "pinyin": "Búlùn tiānqì zěnmeyàng, wǒ dōu qù pǎobù.",
+    "vi": "Bất kể thời tiết thế nào, tôi vẫn đi chạy bộ."
+  }
+ },
+ {
+  "id": "3-0059",
+  "pos": "động từ",
+  "example": {
+    "zh": "他在补作业。",
+    "pinyin": "Tā zài bǔ zuòyè.",
+    "vi": "Cậu ấy đang làm bù bài tập."
+  }
+ },
+ {
+  "id": "3-0060",
+  "pos": "động từ, danh từ",
+  "example": {
+    "zh": "请你补充一下。",
+    "pinyin": "Qǐng nǐ bǔchōng yíxià.",
+    "vi": "Bạn hãy bổ sung thêm một chút nhé."
+  }
+ },
+ {
+  "id": "3-0061",
+  "pos": "tính từ",
+  "example": {
+    "zh": "他看起来很不安。",
+    "pinyin": "Tā kàn qǐlái hěn bù'ān.",
+    "vi": "Anh ấy trông có vẻ bất an."
+  }
+ },
+ {
+  "id": "3-0062",
+  "pos": "cụm từ",
+  "example": {
+    "zh": "下雨了，我们不得不回家。",
+    "pinyin": "Xiàyǔ le, wǒmen bùdébù huí jiā.",
+    "vi": "Trời mưa rồi, chúng tôi đành phải về nhà."
+  }
+ },
+ {
+  "id": "3-0063",
+  "pos": "phó từ, liên từ",
+  "example": {
+    "zh": "他不光会唱歌，还会跳舞。",
+    "pinyin": "Tā bùguāng huì chànggē, hái huì tiàowǔ.",
+    "vi": "Anh ấy không những biết hát mà còn biết nhảy."
+  }
+ },
+ {
+  "id": "3-0064",
+  "pos": "liên từ",
+  "example": {
+    "zh": "这个饭店不仅好吃，而且便宜。",
+    "pinyin": "Zhège fàndiàn bùjǐn hǎochī, érqiě piányi.",
+    "vi": "Quán ăn này không chỉ ngon mà còn rẻ."
+  }
+ },
+ {
+  "id": "3-0065",
+  "pos": "danh từ",
+  "example": {
+    "zh": "这件衣服是布做的。",
+    "pinyin": "Zhè jiàn yīfu shì bù zuò de.",
+    "vi": "Chiếc áo này được làm bằng vải."
+  }
+ },
+ {
+  "id": "3-0066",
+  "pos": "danh từ, lượng từ",
+  "example": {
+    "zh": "他向前走了一步。",
+    "pinyin": "Tā xiàng qián zǒu le yí bù.",
+    "vi": "Anh ấy bước về phía trước một bước."
+  }
+ },
+ {
+  "id": "3-0067",
+  "pos": "danh từ, lượng từ",
+  "example": {
+    "zh": "这部电影很有意思。",
+    "pinyin": "Zhè bù diànyǐng hěn yǒu yìsi.",
+    "vi": "Bộ phim này rất thú vị."
+  }
+ },
+ {
+  "id": "3-0068",
+  "pos": "danh từ",
+  "example": {
+    "zh": "我在这个部门工作。",
+    "pinyin": "Wǒ zài zhège bùmén gōngzuò.",
+    "vi": "Tôi làm việc ở phòng ban này."
+  }
+ },
+ {
+  "id": "3-0069",
+  "pos": "danh từ",
+  "example": {
+    "zh": "他是我们的部长。",
+    "pinyin": "Tā shì wǒmen de bùzhǎng.",
+    "vi": "Ông ấy là bộ trưởng của chúng tôi."
+  }
+ },
+ {
+  "id": "3-0070",
+  "pos": "danh từ",
+  "example": {
+    "zh": "他很有才能。",
+    "pinyin": "Tā hěn yǒu cáinéng.",
+    "vi": "Anh ấy rất có tài năng."
+  }
+ },
+ {
+  "id": "3-0071",
+  "pos": "động từ",
+  "example": {
+    "zh": "老师采取了新方法。",
+    "pinyin": "Lǎoshī cǎiqǔ le xīn fāngfǎ.",
+    "vi": "Thầy giáo đã áp dụng phương pháp mới."
+  }
+ },
+ {
+  "id": "3-0072",
+  "pos": "động từ",
+  "example": {
+    "zh": "他采用了简单的办法。",
+    "pinyin": "Tā cǎiyòng le jiǎndān de bànfǎ.",
+    "vi": "Anh ấy đã áp dụng cách làm đơn giản."
+  }
+ },
+ {
+  "id": "3-0073",
+  "pos": "danh từ",
+  "example": {
+    "zh": "这张画是彩色的。",
+    "pinyin": "Zhè zhāng huà shì cǎisè de.",
+    "vi": "Bức tranh này là tranh màu."
+  }
+ },
+ {
+  "id": "3-0074",
+  "pos": "phó từ",
+  "example": {
+    "zh": "我曾经去过北京。",
+    "pinyin": "Wǒ céngjīng qù guo Běijīng.",
+    "vi": "Tôi đã từng đến Bắc Kinh."
+  }
+ },
+ {
+  "id": "3-0075",
+  "pos": "động từ",
+  "example": {
+    "zh": "这件事产生了影响。",
+    "pinyin": "Zhè jiàn shì chǎnshēng le yǐngxiǎng.",
+    "vi": "Việc này đã gây ra ảnh hưởng."
+  }
+ },
+ {
+  "id": "3-0076",
+  "pos": "danh từ",
+  "example": {
+    "zh": "长城很长。",
+    "pinyin": "Chángchéng hěn cháng.",
+    "vi": "Vạn Lý Trường Thành rất dài."
+  }
+ },
+ {
+  "id": "3-0077",
+  "pos": "danh từ",
+  "example": {
+    "zh": "每个人都有自己的长处。",
+    "pinyin": "Měi gè rén dōu yǒu zìjǐ de chángchù.",
+    "vi": "Mỗi người đều có sở trường riêng."
+  }
+ },
+ {
+  "id": "3-0078",
+  "pos": "danh từ",
+  "example": {
+    "zh": "我们是长期朋友。",
+    "pinyin": "Wǒmen shì chángqī péngyou.",
+    "vi": "Chúng tôi là bạn lâu dài."
+  }
+ },
+ {
+  "id": "3-0079",
+  "pos": "danh từ",
+  "example": {
+    "zh": "他爸爸在一家工厂工作。",
+    "pinyin": "Tā bàba zài yì jiā gōngchǎng gōngzuò.",
+    "vi": "Bố anh ấy làm việc ở một nhà máy."
+  }
+ },
+ {
+  "id": "3-0080",
+  "pos": "danh từ",
+  "example": {
+    "zh": "这个场合很重要。",
+    "pinyin": "Zhège chǎnghé hěn zhòngyào.",
+    "vi": "Dịp này rất quan trọng."
+  }
+ },
+ {
+  "id": "3-0081",
+  "pos": "danh từ",
+  "example": {
+    "zh": "图书馆是学习的场所。",
+    "pinyin": "Túshūguǎn shì xuéxí de chǎngsuǒ.",
+    "vi": "Thư viện là nơi học tập."
+  }
+ },
+ {
+  "id": "3-0082",
+  "pos": "tính từ",
+  "example": {
+    "zh": "这个电脑超级快。",
+    "pinyin": "Zhège diànnǎo chāojí kuài.",
+    "vi": "Chiếc máy tính này siêu nhanh."
+  }
+ },
+ {
+  "id": "3-0083",
+  "pos": "giới từ, động từ",
+  "example": {
+    "zh": "他朝我笑了一下。",
+    "pinyin": "Tā cháo wǒ xiào le yíxià.",
+    "vi": "Anh ấy quay về phía tôi cười một cái."
+  }
+ },
+ {
+  "id": "3-0084",
+  "pos": "tính từ, động từ",
+  "example": {
+    "zh": "外面很吵。",
+    "pinyin": "Wàimiàn hěn chǎo.",
+    "vi": "Bên ngoài rất ồn."
+  }
+ },
+ {
+  "id": "3-0085",
+  "pos": "cụm từ",
+  "example": {
+    "zh": "他们经常吵架。",
+    "pinyin": "Tāmen jīngcháng chǎojià.",
+    "vi": "Hai người họ thường cãi nhau."
+  }
+ },
+ {
+  "id": "3-0086",
+  "pos": "danh từ",
+  "example": {
+    "zh": "我买了一件白衬衫。",
+    "pinyin": "Wǒ mǎi le yí jiàn bái chènshān.",
+    "vi": "Tôi đã mua một chiếc áo sơ mi trắng."
+  }
+ },
+ {
+  "id": "3-0087",
+  "pos": "danh từ",
+  "example": {
+    "zh": "这件衬衣很漂亮。",
+    "pinyin": "Zhè jiàn chènyī hěn piàoliang.",
+    "vi": "Chiếc áo sơ mi này rất đẹp."
+  }
+ },
+ {
+  "id": "3-0088",
+  "pos": "cụm từ",
+  "example": {
+    "zh": "这里被称为花城。",
+    "pinyin": "Zhèli bèi chēngwéi Huāchéng.",
+    "vi": "Nơi này được gọi là Hoa thành."
+  }
+ },
+ {
+  "id": "3-0089",
+  "pos": "động từ, tính từ",
+  "example": {
+    "zh": "他终于成功了。",
+    "pinyin": "Tā zhōngyú chénggōng le.",
+    "vi": "Cuối cùng anh ấy đã thành công."
+  }
+ },
+ {
+  "id": "3-0090",
+  "pos": "danh từ",
+  "example": {
+    "zh": "我们的努力有了成果。",
+    "pinyin": "Wǒmen de nǔlì yǒu le chéngguǒ.",
+    "vi": "Sự nỗ lực của chúng tôi đã có thành quả."
+  }
+ },
+ {
+  "id": "3-0091",
+  "pos": "danh từ, động từ",
+  "example": {
+    "zh": "他的成就很大。",
+    "pinyin": "Tā de chéngjiù hěn dà.",
+    "vi": "Thành tựu của anh ấy rất lớn."
+  }
+ },
+ {
+  "id": "3-0092",
+  "pos": "động từ",
+  "example": {
+    "zh": "公司去年成立了。",
+    "pinyin": "Gōngsī qùnián chénglì le.",
+    "vi": "Công ty được thành lập vào năm ngoái."
+  }
+ },
+ {
+  "id": "3-0093",
+  "pos": "tính từ",
+  "example": {
+    "zh": "他做事很成熟。",
+    "pinyin": "Tā zuòshì hěn chéngshú.",
+    "vi": "Anh ấy làm việc rất chín chắn."
+  }
+ },
+ {
+  "id": "3-0094",
+  "pos": "danh từ",
+  "example": {
+    "zh": "他是我们班的成员。",
+    "pinyin": "Tā shì wǒmen bān de chéngyuán.",
+    "vi": "Cậu ấy là thành viên trong lớp chúng tôi."
+  }
+ },
+ {
+  "id": "3-0095",
+  "pos": "động từ",
+  "example": {
+    "zh": "孩子在快乐中成长。",
+    "pinyin": "Háizi zài kuàilè zhōng chéngzhǎng.",
+    "vi": "Đứa trẻ lớn lên trong niềm vui."
+  }
+ },
+ {
+  "id": "3-0096",
+  "pos": "danh từ",
+  "example": {
+    "zh": "这座城很大。",
+    "pinyin": "Zhè zuò chéng hěn dà.",
+    "vi": "Thành phố này rất lớn."
+  }
+ },
+ {
+  "id": "3-0097",
+  "pos": "danh từ",
+  "example": {
+    "zh": "这个城市很干净。",
+    "pinyin": "Zhège chéngshì hěn gānjìng.",
+    "vi": "Thành phố này rất sạch sẽ."
+  }
+ },
+ {
+  "id": "3-0098",
+  "pos": "danh từ",
+  "example": {
+    "zh": "天气冷到什么程度？",
+    "pinyin": "Tiānqì lěng dào shénme chéngdù?",
+    "vi": "Trời lạnh đến mức nào?"
+  }
+ },
+ {
+  "id": "3-0099",
+  "pos": "động từ",
+  "example": {
+    "zh": "雨持续了一天。",
+    "pinyin": "Yǔ chíxù le yì tiān.",
+    "vi": "Mưa kéo dài cả một ngày."
+  }
+ },
+ {
+  "id": "3-0100",
+  "pos": "động từ",
+  "example": {
+    "zh": "教室里充满了声音。",
+    "pinyin": "Jiàoshì lǐ chōngmǎn le shēngyīn.",
+    "vi": "Trong lớp học tràn ngập tiếng động."
+  }
+ }
+]

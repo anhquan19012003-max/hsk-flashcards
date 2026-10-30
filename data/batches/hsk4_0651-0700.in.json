@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0651",
+  "hanzi": "是否",
+  "pinyin": "shìfǒu",
+  "pos": "",
+  "meaning": "có hay không",
+  "level": 4
+ },
+ {
+  "id": "4-0652",
+  "hanzi": "收回",
+  "pinyin": "shōu huí",
+  "pos": "",
+  "meaning": "thu hồi",
+  "level": 4
+ },
+ {
+  "id": "4-0653",
+  "hanzi": "收获",
+  "pinyin": "shōuhuò",
+  "pos": "",
+  "meaning": "thu hoạch",
+  "level": 4
+ },
+ {
+  "id": "4-0654",
+  "hanzi": "收益",
+  "pinyin": "shōuyì",
+  "pos": "",
+  "meaning": "lợi nhuận",
+  "level": 4
+ },
+ {
+  "id": "4-0655",
+  "hanzi": "手工",
+  "pinyin": "shǒugōng",
+  "pos": "",
+  "meaning": "thủ công",
+  "level": 4
+ },
+ {
+  "id": "4-0656",
+  "hanzi": "手里",
+  "pinyin": "shǒu lǐ",
+  "pos": "",
+  "meaning": "trong tay",
+  "level": 4
+ },
+ {
+  "id": "4-0657",
+  "hanzi": "手术",
+  "pinyin": "shǒushù",
+  "pos": "",
+  "meaning": "phẫu thuật",
+  "level": 4
+ },
+ {
+  "id": "4-0658",
+  "hanzi": "手套",
+  "pinyin": "shǒutào",
+  "pos": "",
+  "meaning": "găng tay",
+  "level": 4
+ },
+ {
+  "id": "4-0659",
+  "hanzi": "守",
+  "pinyin": "shǒu",
+  "pos": "",
+  "meaning": "canh giữ",
+  "level": 4
+ },
+ {
+  "id": "4-0660",
+  "hanzi": "首",
+  "pinyin": "shǒu",
+  "pos": "lượng từ",
+  "meaning": "bài (lượng từ cho bài hát, bài thơ)",
+  "level": 4
+ },
+ {
+  "id": "4-0661",
+  "hanzi": "受不了",
+  "pinyin": "shòubuliǎo",
+  "pos": "",
+  "meaning": "không chịu nổi",
+  "level": 4
+ },
+ {
+  "id": "4-0662",
+  "hanzi": "售货员",
+  "pinyin": "shòuhuòyuán",
+  "pos": "",
+  "meaning": "nhân viên bán hàng",
+  "level": 4
+ },
+ {
+  "id": "4-0663",
+  "hanzi": "叔叔",
+  "pinyin": "shūshu",
+  "pos": "",
+  "meaning": "chú",
+  "level": 4
+ },
+ {
+  "id": "4-0664",
+  "hanzi": "舒适",
+  "pinyin": "shūshì",
+  "pos": "",
+  "meaning": "thoải mái",
+  "level": 4
+ },
+ {
+  "id": "4-0665",
+  "hanzi": "熟练",
+  "pinyin": "shúliàn",
+  "pos": "",
+  "meaning": "thành thạo",
+  "level": 4
+ },
+ {
+  "id": "4-0666",
+  "hanzi": "暑假",
+  "pinyin": "shǔ jià",
+  "pos": "",
+  "meaning": "kỳ nghỉ hè",
+  "level": 4
+ },
+ {
+  "id": "4-0667",
+  "hanzi": "树林",
+  "pinyin": "shù lín",
+  "pos": "",
+  "meaning": "rừng cây",
+  "level": 4
+ },
+ {
+  "id": "4-0668",
+  "hanzi": "树叶",
+  "pinyin": "shù yè",
+  "pos": "",
+  "meaning": "lá cây",
+  "level": 4
+ },
+ {
+  "id": "4-0669",
+  "hanzi": "数据",
+  "pinyin": "shùjù",
+  "pos": "",
+  "meaning": "dữ liệu",
+  "level": 4
+ },
+ {
+  "id": "4-0670",
+  "hanzi": "数码",
+  "pinyin": "shùmǎ",
+  "pos": "",
+  "meaning": "kỹ thuật số",
+  "level": 4
+ },
+ {
+  "id": "4-0671",
+  "hanzi": "刷",
+  "pinyin": "shuā",
+  "pos": "",
+  "meaning": "chải, đánh",
+  "level": 4
+ },
+ {
+  "id": "4-0672",
+  "hanzi": "刷牙",
+  "pinyin": "shuāyá",
+  "pos": "",
+  "meaning": "đánh răng",
+  "level": 4
+ },
+ {
+  "id": "4-0673",
+  "hanzi": "刷子",
+  "pinyin": "shuā zi",
+  "pos": "",
+  "meaning": "bàn chải",
+  "level": 4
+ },
+ {
+  "id": "4-0674",
+  "hanzi": "帅",
+  "pinyin": "shuài",
+  "pos": "",
+  "meaning": "đẹp trai",
+  "level": 4
+ },
+ {
+  "id": "4-0675",
+  "hanzi": "帅哥",
+  "pinyin": "shuài gē",
+  "pos": "",
+  "meaning": "anh chàng đẹp trai",
+  "level": 4
+ },
+ {
+  "id": "4-0676",
+  "hanzi": "率先",
+  "pinyin": "shuài xiān",
+  "pos": "",
+  "meaning": "dẫn đầu",
+  "level": 4
+ },
+ {
+  "id": "4-0677",
+  "hanzi": "睡着",
+  "pinyin": "shuì zháo",
+  "pos": "",
+  "meaning": "ngủ thiếp đi",
+  "level": 4
+ },
+ {
+  "id": "4-0678",
+  "hanzi": "顺序",
+  "pinyin": "shùnxù",
+  "pos": "",
+  "meaning": "trật tự",
+  "level": 4
+ },
+ {
+  "id": "4-0679",
+  "hanzi": "说不定",
+  "pinyin": "shuōbudìng",
+  "pos": "",
+  "meaning": "có thể",
+  "level": 4
+ },
+ {
+  "id": "4-0680",
+  "hanzi": "说服",
+  "pinyin": "shuōfú",
+  "pos": "",
+  "meaning": "thuyết phục",
+  "level": 4
+ },
+ {
+  "id": "4-0681",
+  "hanzi": "思考",
+  "pinyin": "sīkǎo",
+  "pos": "",
+  "meaning": "suy nghĩ",
+  "level": 4
+ },
+ {
+  "id": "4-0682",
+  "hanzi": "似乎",
+  "pinyin": "sìhū",
+  "pos": "",
+  "meaning": "hình như",
+  "level": 4
+ },
+ {
+  "id": "4-0683",
+  "hanzi": "松",
+  "pinyin": "sōng",
+  "pos": "",
+  "meaning": "lỏng, thư giãn",
+  "level": 4
+ },
+ {
+  "id": "4-0684",
+  "hanzi": "松树",
+  "pinyin": "sōng shù",
+  "pos": "",
+  "meaning": "cây thông",
+  "level": 4
+ },
+ {
+  "id": "4-0685",
+  "hanzi": "塑料",
+  "pinyin": "sù liào",
+  "pos": "",
+  "meaning": "nhựa",
+  "level": 4
+ },
+ {
+  "id": "4-0686",
+  "hanzi": "塑料袋",
+  "pinyin": "sùliàodài",
+  "pos": "",
+  "meaning": "túi ni lông",
+  "level": 4
+ },
+ {
+  "id": "4-0687",
+  "hanzi": "酸",
+  "pinyin": "suān",
+  "pos": "",
+  "meaning": "chua",
+  "level": 4
+ },
+ {
+  "id": "4-0688",
+  "hanzi": "酸奶",
+  "pinyin": "suān nǎi",
+  "pos": "",
+  "meaning": "sữa chua",
+  "level": 4
+ },
+ {
+  "id": "4-0689",
+  "hanzi": "随手",
+  "pinyin": "suíshǒu",
+  "pos": "",
+  "meaning": "tiện tay",
+  "level": 4
+ },
+ {
+  "id": "4-0690",
+  "hanzi": "孙女",
+  "pinyin": "sūn nǚ",
+  "pos": "",
+  "meaning": "cháu gái",
+  "level": 4
+ },
+ {
+  "id": "4-0691",
+  "hanzi": "孙子",
+  "pinyin": "sūnzi",
+  "pos": "",
+  "meaning": "cháu trai",
+  "level": 4
+ },
+ {
+  "id": "4-0692",
+  "hanzi": "缩短",
+  "pinyin": "suōduǎn",
+  "pos": "",
+  "meaning": "rút ngắn",
+  "level": 4
+ },
+ {
+  "id": "4-0693",
+  "hanzi": "缩小",
+  "pinyin": "suō xiǎo",
+  "pos": "",
+  "meaning": "thu nhỏ",
+  "level": 4
+ },
+ {
+  "id": "4-0694",
+  "hanzi": "台阶",
+  "pinyin": "táijiē",
+  "pos": "",
+  "meaning": "bậc thang",
+  "level": 4
+ },
+ {
+  "id": "4-0695",
+  "hanzi": "台上",
+  "pinyin": "tái shàng",
+  "pos": "",
+  "meaning": "trên sân khấu",
+  "level": 4
+ },
+ {
+  "id": "4-0696",
+  "hanzi": "躺",
+  "pinyin": "tǎng",
+  "pos": "",
+  "meaning": "nằm",
+  "level": 4
+ },
+ {
+  "id": "4-0697",
+  "hanzi": "套餐",
+  "pinyin": "tào cān",
+  "pos": "",
+  "meaning": "suất ăn",
+  "level": 4
+ },
+ {
+  "id": "4-0698",
+  "hanzi": "特价",
+  "pinyin": "tè jià",
+  "pos": "",
+  "meaning": "giá đặc biệt",
+  "level": 4
+ },
+ {
+  "id": "4-0699",
+  "hanzi": "特殊",
+  "pinyin": "tèshū",
+  "pos": "",
+  "meaning": "đặc biệt",
+  "level": 4
+ },
+ {
+  "id": "4-0700",
+  "hanzi": "特征",
+  "pinyin": "tèzhēng",
+  "pos": "",
+  "meaning": "đặc trưng",
+  "level": 4
+ }
+]

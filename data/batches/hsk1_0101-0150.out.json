@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1-0101",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我的房间很干净。",
+      "pinyin": "Wǒ de fángjiān hěn gānjìng.",
+      "vi": "Phòng của tôi rất sạch sẽ."
+    }
+  },
+  {
+    "id": "1-0102",
+    "pos": "danh từ",
+    "example": {
+      "zh": "这个房子很大。",
+      "pinyin": "Zhège fángzi hěn dà.",
+      "vi": "Ngôi nhà này rất to."
+    }
+  },
+  {
+    "id": "1-0103",
+    "pos": "động từ",
+    "example": {
+      "zh": "书放在桌子上。",
+      "pinyin": "Shū fàng zài zhuōzi shàng.",
+      "vi": "Sách để trên bàn."
+    }
+  },
+  {
+    "id": "1-0104",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "明天放假。",
+      "pinyin": "Míngtiān fàngjià.",
+      "vi": "Ngày mai được nghỉ."
+    }
+  },
+  {
+    "id": "1-0105",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "我们五点放学。",
+      "pinyin": "Wǒmen wǔ diǎn fàngxué.",
+      "vi": "Chúng tôi tan học lúc năm giờ."
+    }
+  },
+  {
+    "id": "1-0106",
+    "pos": "động từ",
+    "example": {
+      "zh": "我想飞。",
+      "pinyin": "Wǒ xiǎng fēi.",
+      "vi": "Tôi muốn bay."
+    }
+  },
+  {
+    "id": "1-0107",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我坐飞机去北京。",
+      "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+      "vi": "Tôi đi Bắc Kinh bằng máy bay."
+    }
+  },
+  {
+    "id": "1-0108",
+    "pos": "phó từ",
+    "example": {
+      "zh": "天气非常好。",
+      "pinyin": "Tiānqì fēicháng hǎo.",
+      "vi": "Thời tiết hôm nay rất đẹp."
+    }
+  },
+  {
+    "id": "1-0109",
+    "pos": "danh từ, lượng từ",
+    "example": {
+      "zh": "现在八点十分。",
+      "pinyin": "Xiànzài bā diǎn shí fēn.",
+      "vi": "Bây giờ là tám giờ mười phút."
+    }
+  },
+  {
+    "id": "1-0110",
+    "pos": "danh từ",
+    "example": {
+      "zh": "风很大。",
+      "pinyin": "Fēng hěn dà.",
+      "vi": "Gió rất to."
+    }
+  },
+  {
+    "id": "1-0111",
+    "pos": "tính từ",
+    "example": {
+      "zh": "衣服还没干。",
+      "pinyin": "Yīfu hái méi gān.",
+      "vi": "Quần áo vẫn chưa khô."
+    }
+  },
+  {
+    "id": "1-0112",
+    "pos": "tính từ",
+    "example": {
+      "zh": "他的手很干净。",
+      "pinyin": "Tā de shǒu hěn gānjìng.",
+      "vi": "Tay của anh ấy rất sạch sẽ."
+    }
+  },
+  {
+    "id": "1-0113",
+    "pos": "động từ",
+    "example": {
+      "zh": "工作我来干。",
+      "pinyin": "Gōngzuò wǒ lái gàn.",
+      "vi": "Việc này để tôi làm."
+    }
+  },
+  {
+    "id": "1-0114",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "你今天干什么？",
+      "pinyin": "Nǐ jīntiān gàn shénme?",
+      "vi": "Hôm nay bạn làm gì?"
+    }
+  },
+  {
+    "id": "1-0115",
+    "pos": "tính từ",
+    "example": {
+      "zh": "他很高。",
+      "pinyin": "Tā hěn gāo.",
+      "vi": "Anh ấy rất cao."
+    }
+  },
+  {
+    "id": "1-0116",
+    "pos": "tính từ",
+    "example": {
+      "zh": "认识你，我很高兴。",
+      "pinyin": "Rènshi nǐ, wǒ hěn gāoxìng.",
+      "vi": "Được biết bạn, tôi rất vui."
+    }
+  },
+  {
+    "id": "1-0117",
+    "pos": "động từ",
+    "example": {
+      "zh": "请告诉我。",
+      "pinyin": "Qǐng gàosu wǒ.",
+      "vi": "Xin hãy cho tôi biết."
+    }
+  },
+  {
+    "id": "1-0118",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我哥哥是老师。",
+      "pinyin": "Wǒ gēge shì lǎoshī.",
+      "vi": "Anh trai tôi là giáo viên."
+    }
+  },
+  {
+    "id": "1-0119",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我喜欢唱歌。",
+      "pinyin": "Wǒ xǐhuan chàng gē.",
+      "vi": "Tôi thích hát."
+    }
+  },
+  {
+    "id": "1-0120",
+    "pos": "lượng từ",
+    "example": {
+      "zh": "我有一个苹果。",
+      "pinyin": "Wǒ yǒu yí ge píngguǒ.",
+      "vi": "Tôi có một quả táo."
+    }
+  },
+  {
+    "id": "1-0121",
+    "pos": "động từ, giới từ",
+    "example": {
+      "zh": "妈妈给我钱。",
+      "pinyin": "Māma gěi wǒ qián.",
+      "vi": "Mẹ cho tôi tiền."
+    }
+  },
+  {
+    "id": "1-0122",
+    "pos": "giới từ, liên từ, động từ",
+    "example": {
+      "zh": "我跟你去。",
+      "pinyin": "Wǒ gēn nǐ qù.",
+      "vi": "Tôi đi với bạn."
+    }
+  },
+  {
+    "id": "1-0123",
+    "pos": "danh từ",
+    "example": {
+      "zh": "工人很忙。",
+      "pinyin": "Gōngrén hěn máng.",
+      "vi": "Công nhân rất bận."
+    }
+  },
+  {
+    "id": "1-0124",
+    "pos": "động từ, danh từ",
+    "example": {
+      "zh": "我每天工作。",
+      "pinyin": "Wǒ měitiān gōngzuò.",
+      "vi": "Tôi làm việc mỗi ngày."
+    }
+  },
+  {
+    "id": "1-0125",
+    "pos": "động từ",
+    "example": {
+      "zh": "请关门。",
+      "pinyin": "Qǐng guān mén.",
+      "vi": "Xin hãy đóng cửa."
+    }
+  },
+  {
+    "id": "1-0126",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "门关上了。",
+      "pinyin": "Mén guānshang le.",
+      "vi": "Cửa đã đóng lại rồi."
+    }
+  },
+  {
+    "id": "1-0127",
+    "pos": "tính từ",
+    "example": {
+      "zh": "这个东西很贵。",
+      "pinyin": "Zhège dōngxi hěn guì.",
+      "vi": "Món đồ này rất đắt."
+    }
+  },
+  {
+    "id": "1-0128",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我是中国人。",
+      "pinyin": "Wǒ shì Zhōngguó rén.",
+      "vi": "Tôi là người Trung Quốc."
+    }
+  },
+  {
+    "id": "1-0129",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我们的国家很大。",
+      "pinyin": "Wǒmen de guójiā hěn dà.",
+      "vi": "Đất nước chúng tôi rất rộng."
+    }
+  },
+  {
+    "id": "1-0130",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "我想去国外。",
+      "pinyin": "Wǒ xiǎng qù guó wài.",
+      "vi": "Tôi muốn đi nước ngoài."
+    }
+  },
+  {
+    "id": "1-0131",
+    "pos": "động từ",
+    "example": {
+      "zh": "我过马路。",
+      "pinyin": "Wǒ guò mǎlù.",
+      "vi": "Tôi băng qua đường."
+    }
+  },
+  {
+    "id": "1-0132",
+    "pos": "phó từ",
+    "example": {
+      "zh": "我还没吃饭。",
+      "pinyin": "Wǒ hái méi chī fàn.",
+      "vi": "Tôi vẫn chưa ăn cơm."
+    }
+  },
+  {
+    "id": "1-0133",
+    "pos": "phó từ, liên từ",
+    "example": {
+      "zh": "你喝水还是喝茶？",
+      "pinyin": "Nǐ hē shuǐ háishi hē chá?",
+      "vi": "Bạn uống nước hay uống trà?"
+    }
+  },
+  {
+    "id": "1-0134",
+    "pos": "cụm từ",
+    "example": {
+      "zh": "我还有钱。",
+      "pinyin": "Wǒ hái yǒu qián.",
+      "vi": "Tôi vẫn còn tiền."
+    }
+  },
+  {
+    "id": "1-0135",
+    "pos": "danh từ",
+    "example": {
+      "zh": "孩子在看书。",
+      "pinyin": "Háizi zài kàn shū.",
+      "vi": "Đứa trẻ đang đọc sách."
+    }
+  },
+  {
+    "id": "1-0136",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我学汉语。",
+      "pinyin": "Wǒ xué Hànyǔ.",
+      "vi": "Tôi học tiếng Hán."
+    }
+  },
+  {
+    "id": "1-0137",
+    "pos": "danh từ",
+    "example": {
+      "zh": "我认识这个汉字。",
+      "pinyin": "Wǒ rènshi zhège Hànzì.",
+      "vi": "Tôi biết chữ Hán này."
+    }
+  },
+  {
+    "id": "1-0138",
+    "pos": "tính từ",
+    "example": {
+      "zh": "你的汉语很好。",
+      "pinyin": "Nǐ de Hànyǔ hěn hǎo.",
+      "vi": "Tiếng Hán của bạn rất tốt."
+    }
+  },
+  {
+    "id": "1-0139",
+    "pos": "tính từ",
+    "example": {
+      "zh": "这个苹果很好吃。",
+      "pinyin": "Zhège píngguǒ hěn hǎochī.",
+      "vi": "Quả táo này rất ngon."
+    }
+  },
+  {
+    "id": "1-0140",
+    "pos": "tính từ",
+    "example": {
+      "zh": "你的衣服很好看。",
+      "pinyin": "Nǐ de yīfu hěn hǎokàn.",
+      "vi": "Quần áo của bạn rất đẹp."
+    }
+  },
+  {
+    "id": "1-0141",
+    "pos": "tính từ",
+    "example": {
+      "zh": "她唱歌很好听。",
+      "pinyin": "Tā chàng gē hěn hǎotīng.",
+      "vi": "Cô ấy hát rất hay."
+    }
+  },
+  {
+    "id": "1-0142",
+    "pos": "tính từ",
+    "example": {
+      "zh": "公园很好玩儿。",
+      "pinyin": "Gōngyuán hěn hǎowánr.",
+      "vi": "Công viên rất vui."
+    }
+  },
+  {
+    "id": "1-0143",
+    "pos": "danh từ, lượng từ",
+    "example": {
+      "zh": "今天几号？",
+      "pinyin": "Jīntiān jǐ hào?",
+      "vi": "Hôm nay là ngày mấy?"
+    }
+  },
+  {
+    "id": "1-0144",
+    "pos": "động từ",
+    "example": {
+      "zh": "我想喝水。",
+      "pinyin": "Wǒ xiǎng hē shuǐ.",
+      "vi": "Tôi muốn uống nước."
+    }
+  },
+  {
+    "id": "1-0145",
+    "pos": "giới từ, liên từ",
+    "example": {
+      "zh": "我和你是朋友。",
+      "pinyin": "Wǒ hé nǐ shì péngyou.",
+      "vi": "Tôi và bạn là bạn bè."
+    }
+  },
+  {
+    "id": "1-0146",
+    "pos": "phó từ",
+    "example": {
+      "zh": "我很好。",
+      "pinyin": "Wǒ hěn hǎo.",
+      "vi": "Tôi rất khỏe."
+    }
+  },
+  {
+    "id": "1-0147",
+    "pos": "danh từ",
+    "example": {
+      "zh": "放学后我去公园。",
+      "pinyin": "Fàngxué hòu wǒ qù gōngyuán.",
+      "vi": "Sau giờ tan học, tôi đi công viên."
+    }
+  },
+  {
+    "id": "1-0148",
+    "pos": "danh từ",
+    "example": {
+      "zh": "学校后边有一个公园。",
+      "pinyin": "Xuéxiào hòubian yǒu yí ge gōngyuán.",
+      "vi": "Phía sau trường học có một công viên."
+    }
+  },
+  {
+    "id": "1-0149",
+    "pos": "danh từ",
+    "example": {
+      "zh": "后天我们去北京。",
+      "pinyin": "Hòutiān wǒmen qù Běijīng.",
+      "vi": "Ngày kia chúng tôi đi Bắc Kinh."
+    }
+  },
+  {
+    "id": "1-0150",
+    "pos": "danh từ",
+    "example": {
+      "zh": "花是红的。",
+      "pinyin": "Huā shì hóng de.",
+      "vi": "Bông hoa này màu đỏ."
+    }
+  }
+]

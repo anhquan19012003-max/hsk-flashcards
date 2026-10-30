@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-1101",
+  "hanzi": "逃避",
+  "pinyin": "táobì",
+  "pos": "",
+  "meaning": "trốn tránh",
+  "level": 5
+ },
+ {
+  "id": "5-1102",
+  "hanzi": "特殊",
+  "pinyin": "tèshū",
+  "pos": "",
+  "meaning": "đặc biệt",
+  "level": 5
+ },
+ {
+  "id": "5-1103",
+  "hanzi": "特征",
+  "pinyin": "tèzhēng",
+  "pos": "",
+  "meaning": "đặc trưng",
+  "level": 5
+ },
+ {
+  "id": "5-1104",
+  "hanzi": "疼爱",
+  "pinyin": "téng'ài",
+  "pos": "",
+  "meaning": "yêu thương",
+  "level": 5
+ },
+ {
+  "id": "5-1105",
+  "hanzi": "提纲",
+  "pinyin": "tígāng",
+  "pos": "",
+  "meaning": "đề cương",
+  "level": 5
+ },
+ {
+  "id": "5-1106",
+  "hanzi": "提问",
+  "pinyin": "tíwèn",
+  "pos": "",
+  "meaning": "đặt câu hỏi",
+  "level": 5
+ },
+ {
+  "id": "5-1107",
+  "hanzi": "体会",
+  "pinyin": "tǐhuì",
+  "pos": "",
+  "meaning": "lĩnh hội, cảm nhận",
+  "level": 5
+ },
+ {
+  "id": "5-1108",
+  "hanzi": "体现",
+  "pinyin": "tǐxiàn",
+  "pos": "",
+  "meaning": "thể hiện",
+  "level": 5
+ },
+ {
+  "id": "5-1109",
+  "hanzi": "调皮",
+  "pinyin": "tiáopí",
+  "pos": "",
+  "meaning": "nghịch ngợm",
+  "level": 5
+ },
+ {
+  "id": "5-1110",
+  "hanzi": "挑战",
+  "pinyin": "tiǎozhàn",
+  "pos": "",
+  "meaning": "thách thức",
+  "level": 5
+ },
+ {
+  "id": "5-1111",
+  "hanzi": "痛苦",
+  "pinyin": "tòngkǔ",
+  "pos": "",
+  "meaning": "đau đớn",
+  "level": 5
+ },
+ {
+  "id": "5-1112",
+  "hanzi": "投入",
+  "pinyin": "tóurù",
+  "pos": "",
+  "meaning": "đầu tư, dốc hết",
+  "level": 5
+ },
+ {
+  "id": "5-1113",
+  "hanzi": "透明",
+  "pinyin": "tòumíng",
+  "pos": "",
+  "meaning": "trong suốt",
+  "level": 5
+ },
+ {
+  "id": "5-1114",
+  "hanzi": "土地",
+  "pinyin": "tǔdì",
+  "pos": "",
+  "meaning": "đất đai",
+  "level": 5
+ },
+ {
+  "id": "5-1115",
+  "hanzi": "吐",
+  "pinyin": "tù",
+  "pos": "",
+  "meaning": "nhổ, nôn",
+  "level": 5
+ },
+ {
+  "id": "5-1116",
+  "hanzi": "团",
+  "pinyin": "tuán",
+  "pos": "",
+  "meaning": "nhóm",
+  "level": 5
+ },
+ {
+  "id": "5-1117",
+  "hanzi": "推广",
+  "pinyin": "tuīguǎng",
+  "pos": "",
+  "meaning": "phổ biến, quảng bá",
+  "level": 5
+ },
+ {
+  "id": "5-1118",
+  "hanzi": "退步",
+  "pinyin": "tuìbù",
+  "pos": "",
+  "meaning": "thụt lùi",
+  "level": 5
+ },
+ {
+  "id": "5-1119",
+  "hanzi": "歪",
+  "pinyin": "wāi",
+  "pos": "",
+  "meaning": "lệch, nghiêng",
+  "level": 5
+ },
+ {
+  "id": "5-1120",
+  "hanzi": "外交",
+  "pinyin": "wàijiāo",
+  "pos": "",
+  "meaning": "ngoại giao",
+  "level": 5
+ },
+ {
+  "id": "5-1121",
+  "hanzi": "完美",
+  "pinyin": "wánměi",
+  "pos": "",
+  "meaning": "hoàn mỹ",
+  "level": 5
+ },
+ {
+  "id": "5-1122",
+  "hanzi": "完善",
+  "pinyin": "wánshàn",
+  "pos": "",
+  "meaning": "hoàn thiện",
+  "level": 5
+ },
+ {
+  "id": "5-1123",
+  "hanzi": "王子",
+  "pinyin": "wángzǐ",
+  "pos": "",
+  "meaning": "hoàng tử",
+  "level": 5
+ },
+ {
+  "id": "5-1124",
+  "hanzi": "往返",
+  "pinyin": "wǎngfǎn",
+  "pos": "",
+  "meaning": "đi lại",
+  "level": 5
+ },
+ {
+  "id": "5-1125",
+  "hanzi": "网络",
+  "pinyin": "wǎngluò",
+  "pos": "",
+  "meaning": "mạng lưới",
+  "level": 5
+ },
+ {
+  "id": "5-1126",
+  "hanzi": "危害",
+  "pinyin": "wēihài",
+  "pos": "",
+  "meaning": "nguy hại",
+  "level": 5
+ },
+ {
+  "id": "5-1127",
+  "hanzi": "微笑",
+  "pinyin": "wēixiào",
+  "pos": "",
+  "meaning": "mỉm cười",
+  "level": 5
+ },
+ {
+  "id": "5-1128",
+  "hanzi": "违反",
+  "pinyin": "wéifǎn",
+  "pos": "",
+  "meaning": "vi phạm",
+  "level": 5
+ },
+ {
+  "id": "5-1129",
+  "hanzi": "围巾",
+  "pinyin": "wéijīn",
+  "pos": "",
+  "meaning": "khăn quàng cổ",
+  "level": 5
+ },
+ {
+  "id": "5-1130",
+  "hanzi": "唯一",
+  "pinyin": "wéiyī",
+  "pos": "",
+  "meaning": "duy nhất",
+  "level": 5
+ },
+ {
+  "id": "5-1131",
+  "hanzi": "伟大",
+  "pinyin": "wěidà",
+  "pos": "",
+  "meaning": "vĩ đại",
+  "level": 5
+ },
+ {
+  "id": "5-1132",
+  "hanzi": "胃口",
+  "pinyin": "wèikǒu",
+  "pos": "",
+  "meaning": "khẩu vị",
+  "level": 5
+ },
+ {
+  "id": "5-1133",
+  "hanzi": "位置",
+  "pinyin": "wèizhì",
+  "pos": "",
+  "meaning": "vị trí",
+  "level": 5
+ },
+ {
+  "id": "5-1134",
+  "hanzi": "未来",
+  "pinyin": "wèilái",
+  "pos": "",
+  "meaning": "tương lai",
+  "level": 5
+ },
+ {
+  "id": "5-1135",
+  "hanzi": "温暖",
+  "pinyin": "wēnnuǎn",
+  "pos": "",
+  "meaning": "ấm áp",
+  "level": 5
+ },
+ {
+  "id": "5-1136",
+  "hanzi": "闻",
+  "pinyin": "wén",
+  "pos": "",
+  "meaning": "ngửi",
+  "level": 5
+ },
+ {
+  "id": "5-1137",
+  "hanzi": "文件",
+  "pinyin": "wénjiàn",
+  "pos": "",
+  "meaning": "tài liệu",
+  "level": 5
+ },
+ {
+  "id": "5-1138",
+  "hanzi": "文明",
+  "pinyin": "wénmíng",
+  "pos": "",
+  "meaning": "văn minh",
+  "level": 5
+ },
+ {
+  "id": "5-1139",
+  "hanzi": "文字",
+  "pinyin": "wénzì",
+  "pos": "",
+  "meaning": "chữ viết",
+  "level": 5
+ },
+ {
+  "id": "5-1140",
+  "hanzi": "吻",
+  "pinyin": "wěn",
+  "pos": "",
+  "meaning": "hôn",
+  "level": 5
+ },
+ {
+  "id": "5-1141",
+  "hanzi": "握手",
+  "pinyin": "wòshǒu",
+  "pos": "",
+  "meaning": "bắt tay",
+  "level": 5
+ },
+ {
+  "id": "5-1142",
+  "hanzi": "屋子",
+  "pinyin": "wūzi",
+  "pos": "",
+  "meaning": "căn phòng",
+  "level": 5
+ },
+ {
+  "id": "5-1143",
+  "hanzi": "无奈",
+  "pinyin": "wúnài",
+  "pos": "",
+  "meaning": "bất đắc dĩ",
+  "level": 5
+ },
+ {
+  "id": "5-1144",
+  "hanzi": "无所谓",
+  "pinyin": "wúsuǒwèi",
+  "pos": "",
+  "meaning": "không sao cả",
+  "level": 5
+ },
+ {
+  "id": "5-1145",
+  "hanzi": "武术",
+  "pinyin": "wǔshù",
+  "pos": "",
+  "meaning": "võ thuật",
+  "level": 5
+ },
+ {
+  "id": "5-1146",
+  "hanzi": "雾",
+  "pinyin": "wù",
+  "pos": "",
+  "meaning": "sương mù",
+  "level": 5
+ },
+ {
+  "id": "5-1147",
+  "hanzi": "物理",
+  "pinyin": "wùlǐ",
+  "pos": "",
+  "meaning": "vật lý học",
+  "level": 5
+ },
+ {
+  "id": "5-1148",
+  "hanzi": "吸收",
+  "pinyin": "xīshōu",
+  "pos": "",
+  "meaning": "hấp thụ",
+  "level": 5
+ },
+ {
+  "id": "5-1149",
+  "hanzi": "系",
+  "pinyin": "xì",
+  "pos": "",
+  "meaning": "khoa (trường đại học)",
+  "level": 5
+ },
+ {
+  "id": "5-1150",
+  "hanzi": "细节",
+  "pinyin": "xìjié",
+  "pos": "",
+  "meaning": "chi tiết",
+  "level": 5
+ }
+]

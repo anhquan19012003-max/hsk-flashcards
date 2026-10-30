@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0251",
+  "hanzi": "功课",
+  "pinyin": "gōngkè",
+  "pos": "danh từ",
+  "meaning": "bài vở, bài tập",
+  "level": 3
+ },
+ {
+  "id": "3-0252",
+  "hanzi": "功能",
+  "pinyin": "gōngnéng",
+  "pos": "danh từ",
+  "meaning": "chức năng, tính năng",
+  "level": 3
+ },
+ {
+  "id": "3-0253",
+  "hanzi": "共同",
+  "pinyin": "gòngtóng",
+  "pos": "tính từ",
+  "meaning": "chung, cùng",
+  "level": 3
+ },
+ {
+  "id": "3-0254",
+  "hanzi": "共有",
+  "pinyin": "gòngyǒu",
+  "pos": "động từ",
+  "meaning": "tổng cộng có; sở hữu chung",
+  "level": 3
+ },
+ {
+  "id": "3-0255",
+  "hanzi": "姑娘",
+  "pinyin": "gūniang",
+  "pos": "danh từ",
+  "meaning": "cô gái",
+  "level": 3
+ },
+ {
+  "id": "3-0256",
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "pos": "tính từ",
+  "meaning": "cổ, xưa",
+  "level": 3
+ },
+ {
+  "id": "3-0257",
+  "hanzi": "古代",
+  "pinyin": "gǔdài",
+  "pos": "danh từ",
+  "meaning": "cổ đại, thời xưa",
+  "level": 3
+ },
+ {
+  "id": "3-0258",
+  "hanzi": "故乡",
+  "pinyin": "gùxiāng",
+  "pos": "danh từ",
+  "meaning": "quê hương (故乡)",
+  "level": 3
+ },
+ {
+  "id": "3-0259",
+  "hanzi": "挂",
+  "pinyin": "guà",
+  "pos": "động từ",
+  "meaning": "treo, móc",
+  "level": 3
+ },
+ {
+  "id": "3-0260",
+  "hanzi": "关系",
+  "pinyin": "guānxi",
+  "pos": "danh từ, động từ",
+  "meaning": "quan hệ; liên quan",
+  "level": 3
+ },
+ {
+  "id": "3-0261",
+  "hanzi": "关注",
+  "pinyin": "guānzhù",
+  "pos": "động từ",
+  "meaning": "quan tâm, theo dõi",
+  "level": 3
+ },
+ {
+  "id": "3-0262",
+  "hanzi": "观察",
+  "pinyin": "guānchá",
+  "pos": "động từ",
+  "meaning": "quan sát",
+  "level": 3
+ },
+ {
+  "id": "3-0263",
+  "hanzi": "观看",
+  "pinyin": "guānkàn",
+  "pos": "động từ",
+  "meaning": "xem, theo dõi (biểu diễn)",
+  "level": 3
+ },
+ {
+  "id": "3-0264",
+  "hanzi": "观念",
+  "pinyin": "guānniàn",
+  "pos": "danh từ",
+  "meaning": "quan niệm",
+  "level": 3
+ },
+ {
+  "id": "3-0265",
+  "hanzi": "观众",
+  "pinyin": "guānzhòng",
+  "pos": "danh từ",
+  "meaning": "khán giả",
+  "level": 3
+ },
+ {
+  "id": "3-0266",
+  "hanzi": "管",
+  "pinyin": "guǎn",
+  "pos": "động từ",
+  "meaning": "quản, trông nom (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0267",
+  "hanzi": "管理",
+  "pinyin": "guǎnlǐ",
+  "pos": "động từ",
+  "meaning": "quản lý",
+  "level": 3
+ },
+ {
+  "id": "3-0268",
+  "hanzi": "光",
+  "pinyin": "guāng",
+  "pos": "danh từ, tính từ, phó từ",
+  "meaning": "ánh sáng; hết sạch; chỉ",
+  "level": 3
+ },
+ {
+  "id": "3-0269",
+  "hanzi": "光明",
+  "pinyin": "guāngmíng",
+  "pos": "tính từ, danh từ",
+  "meaning": "tươi sáng; ánh sáng",
+  "level": 3
+ },
+ {
+  "id": "3-0270",
+  "hanzi": "广播",
+  "pinyin": "guǎngbō",
+  "pos": "động từ, danh từ",
+  "meaning": "phát thanh; chương trình phát thanh",
+  "level": 3
+ },
+ {
+  "id": "3-0271",
+  "hanzi": "广大",
+  "pinyin": "guǎngdà",
+  "pos": "tính từ",
+  "meaning": "rộng lớn, đông đảo",
+  "level": 3
+ },
+ {
+  "id": "3-0272",
+  "hanzi": "规定",
+  "pinyin": "guīdìng",
+  "pos": "động từ, danh từ",
+  "meaning": "quy định",
+  "level": 3
+ },
+ {
+  "id": "3-0273",
+  "hanzi": "规范",
+  "pinyin": "guīfàn",
+  "pos": "tính từ, danh từ, động từ",
+  "meaning": "quy phạm, chuẩn mực",
+  "level": 3
+ },
+ {
+  "id": "3-0274",
+  "hanzi": "国内",
+  "pinyin": "guó nèi",
+  "pos": "cụm từ",
+  "meaning": "trong nước",
+  "level": 3
+ },
+ {
+  "id": "3-0275",
+  "hanzi": "国庆",
+  "pinyin": "guóqìng",
+  "pos": "danh từ",
+  "meaning": "quốc khánh",
+  "level": 3
+ },
+ {
+  "id": "3-0276",
+  "hanzi": "果然",
+  "pinyin": "guǒrán",
+  "pos": "phó từ",
+  "meaning": "quả nhiên",
+  "level": 3
+ },
+ {
+  "id": "3-0277",
+  "hanzi": "果汁",
+  "pinyin": "guǒzhī",
+  "pos": "danh từ",
+  "meaning": "nước ép trái cây",
+  "level": 3
+ },
+ {
+  "id": "3-0278",
+  "hanzi": "过程",
+  "pinyin": "guòchéng",
+  "pos": "danh từ",
+  "meaning": "quá trình",
+  "level": 3
+ },
+ {
+  "id": "3-0279",
+  "hanzi": "过去",
+  "pinyin": "guòqù",
+  "pos": "danh từ",
+  "meaning": "quá khứ, trước đây (danh từ)",
+  "level": 3
+ },
+ {
+  "id": "3-0280",
+  "hanzi": "哈哈",
+  "pinyin": "hāhā",
+  "pos": "từ tượng thanh",
+  "meaning": "ha ha (tiếng cười)",
+  "level": 3
+ },
+ {
+  "id": "3-0281",
+  "hanzi": "海关",
+  "pinyin": "hǎiguān",
+  "pos": "danh từ",
+  "meaning": "hải quan",
+  "level": 3
+ },
+ {
+  "id": "3-0282",
+  "hanzi": "害怕",
+  "pinyin": "hàipà",
+  "pos": "cụm từ",
+  "meaning": "sợ hãi",
+  "level": 3
+ },
+ {
+  "id": "3-0283",
+  "hanzi": "行",
+  "pinyin": "háng",
+  "pos": "lượng từ",
+  "meaning": "hàng, dòng",
+  "level": 3
+ },
+ {
+  "id": "3-0284",
+  "hanzi": "好好",
+  "pinyin": "hǎohǎo",
+  "pos": "tính từ, phó từ",
+  "meaning": "cho thật tốt, đàng hoàng",
+  "level": 3
+ },
+ {
+  "id": "3-0285",
+  "hanzi": "好奇",
+  "pinyin": "hàoqí",
+  "pos": "tính từ",
+  "meaning": "tò mò, hiếu kỳ",
+  "level": 3
+ },
+ {
+  "id": "3-0286",
+  "hanzi": "合",
+  "pinyin": "hé",
+  "pos": "động từ",
+  "meaning": "hợp, gộp; khép lại",
+  "level": 3
+ },
+ {
+  "id": "3-0287",
+  "hanzi": "合法",
+  "pinyin": "héfǎ",
+  "pos": "tính từ",
+  "meaning": "hợp pháp",
+  "level": 3
+ },
+ {
+  "id": "3-0288",
+  "hanzi": "合格",
+  "pinyin": "hégé",
+  "pos": "tính từ",
+  "meaning": "đạt tiêu chuẩn, đạt yêu cầu",
+  "level": 3
+ },
+ {
+  "id": "3-0289",
+  "hanzi": "合理",
+  "pinyin": "hélǐ",
+  "pos": "tính từ",
+  "meaning": "hợp lý",
+  "level": 3
+ },
+ {
+  "id": "3-0290",
+  "hanzi": "合作",
+  "pinyin": "hézuò",
+  "pos": "động từ",
+  "meaning": "hợp tác",
+  "level": 3
+ },
+ {
+  "id": "3-0291",
+  "hanzi": "和平",
+  "pinyin": "hépíng",
+  "pos": "danh từ",
+  "meaning": "hòa bình",
+  "level": 3
+ },
+ {
+  "id": "3-0292",
+  "hanzi": "红茶",
+  "pinyin": "hóngchá",
+  "pos": "danh từ",
+  "meaning": "hồng trà, trà đen",
+  "level": 3
+ },
+ {
+  "id": "3-0293",
+  "hanzi": "红酒",
+  "pinyin": "hóngjiǔ",
+  "pos": "danh từ",
+  "meaning": "rượu vang đỏ",
+  "level": 3
+ },
+ {
+  "id": "3-0294",
+  "hanzi": "后果",
+  "pinyin": "hòuguǒ",
+  "pos": "danh từ",
+  "meaning": "hậu quả",
+  "level": 3
+ },
+ {
+  "id": "3-0295",
+  "hanzi": "后面",
+  "pinyin": "hòumiàn",
+  "pos": "danh từ",
+  "meaning": "phía sau (后面)",
+  "level": 3
+ },
+ {
+  "id": "3-0296",
+  "hanzi": "后年",
+  "pinyin": "hòunián",
+  "pos": "danh từ",
+  "meaning": "năm sau nữa (2 năm tới)",
+  "level": 3
+ },
+ {
+  "id": "3-0297",
+  "hanzi": "互联网",
+  "pinyin": "hùliánwǎng",
+  "pos": "danh từ",
+  "meaning": "mạng Internet",
+  "level": 3
+ },
+ {
+  "id": "3-0298",
+  "hanzi": "互相",
+  "pinyin": "hùxiāng",
+  "pos": "phó từ",
+  "meaning": "lẫn nhau (互相)",
+  "level": 3
+ },
+ {
+  "id": "3-0299",
+  "hanzi": "划船",
+  "pinyin": "huáchuán",
+  "pos": "động từ",
+  "meaning": "chèo thuyền",
+  "level": 3
+ },
+ {
+  "id": "3-0300",
+  "hanzi": "华人",
+  "pinyin": "huárén",
+  "pos": "danh từ",
+  "meaning": "người Hoa",
+  "level": 3
+ }
+]

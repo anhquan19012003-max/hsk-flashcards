@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0001",
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "pos": "động từ",
+  "meaning": "yêu, yêu thích",
+  "level": 1
+ },
+ {
+  "id": "1-0002",
+  "hanzi": "爱好",
+  "pinyin": "àihào",
+  "pos": "động từ, danh từ",
+  "meaning": "sở thích; ham thích",
+  "level": 1
+ },
+ {
+  "id": "1-0003",
+  "hanzi": "八",
+  "pinyin": "bā",
+  "pos": "số từ",
+  "meaning": "số 8 (tám)",
+  "level": 1
+ },
+ {
+  "id": "1-0004",
+  "hanzi": "爸爸",
+  "pinyin": "bàba",
+  "pos": "danh từ",
+  "meaning": "bố",
+  "level": 1
+ },
+ {
+  "id": "1-0005",
+  "hanzi": "吧",
+  "pinyin": "ba",
+  "pos": "trợ từ",
+  "meaning": "nhé, nhỉ, đi (trợ từ cuối câu)",
+  "level": 1
+ },
+ {
+  "id": "1-0006",
+  "hanzi": "白",
+  "pinyin": "bái",
+  "pos": "tính từ",
+  "meaning": "trắng",
+  "level": 1
+ },
+ {
+  "id": "1-0007",
+  "hanzi": "白天",
+  "pinyin": "báitiān",
+  "pos": "danh từ",
+  "meaning": "ban ngày",
+  "level": 1
+ },
+ {
+  "id": "1-0008",
+  "hanzi": "百",
+  "pinyin": "bǎi",
+  "pos": "số từ",
+  "meaning": "trăm",
+  "level": 1
+ },
+ {
+  "id": "1-0009",
+  "hanzi": "班",
+  "pinyin": "bān",
+  "pos": "danh từ, lượng từ",
+  "meaning": "lớp học; ca (làm việc)",
+  "level": 1
+ },
+ {
+  "id": "1-0010",
+  "hanzi": "半",
+  "pinyin": "bàn",
+  "pos": "số từ",
+  "meaning": "một nửa",
+  "level": 1
+ },
+ {
+  "id": "1-0011",
+  "hanzi": "半年",
+  "pinyin": "bàn nián",
+  "pos": "cụm từ",
+  "meaning": "nửa năm",
+  "level": 1
+ },
+ {
+  "id": "1-0012",
+  "hanzi": "半天",
+  "pinyin": "bàntiān",
+  "pos": "cụm từ",
+  "meaning": "nửa ngày",
+  "level": 1
+ },
+ {
+  "id": "1-0013",
+  "hanzi": "帮",
+  "pinyin": "bāng",
+  "pos": "động từ",
+  "meaning": "giúp (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0014",
+  "hanzi": "帮忙",
+  "pinyin": "bāngmáng",
+  "pos": "cụm từ",
+  "meaning": "giúp đỡ, giúp một tay",
+  "level": 1
+ },
+ {
+  "id": "1-0015",
+  "hanzi": "包",
+  "pinyin": "bāo",
+  "pos": "danh từ, lượng từ, động từ",
+  "meaning": "túi, bao, gói; bọc",
+  "level": 1
+ },
+ {
+  "id": "1-0016",
+  "hanzi": "包子",
+  "pinyin": "bāozi",
+  "pos": "danh từ",
+  "meaning": "bánh bao",
+  "level": 1
+ },
+ {
+  "id": "1-0017",
+  "hanzi": "杯",
+  "pinyin": "bēi",
+  "pos": "lượng từ",
+  "meaning": "cốc, ly (lượng từ)",
+  "level": 1
+ },
+ {
+  "id": "1-0018",
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "pos": "danh từ",
+  "meaning": "chiếc cốc, cái ly",
+  "level": 1
+ },
+ {
+  "id": "1-0019",
+  "hanzi": "北",
+  "pinyin": "běi",
+  "pos": "danh từ",
+  "meaning": "bắc (hướng bắc)",
+  "level": 1
+ },
+ {
+  "id": "1-0020",
+  "hanzi": "北边",
+  "pinyin": "běibian",
+  "pos": "danh từ",
+  "meaning": "phía bắc",
+  "level": 1
+ },
+ {
+  "id": "1-0021",
+  "hanzi": "北京",
+  "pinyin": "Běijīng",
+  "pos": "danh từ",
+  "meaning": "Bắc Kinh",
+  "level": 1
+ },
+ {
+  "id": "1-0022",
+  "hanzi": "本",
+  "pinyin": "běn",
+  "pos": "lượng từ",
+  "meaning": "cuốn, quyển (lượng từ cho sách vở)",
+  "level": 1
+ },
+ {
+  "id": "1-0023",
+  "hanzi": "本子",
+  "pinyin": "běnzi",
+  "pos": "danh từ",
+  "meaning": "quyển vở",
+  "level": 1
+ },
+ {
+  "id": "1-0024",
+  "hanzi": "比",
+  "pinyin": "bǐ",
+  "pos": "giới từ, động từ",
+  "meaning": "so với, hơn; so sánh",
+  "level": 1
+ },
+ {
+  "id": "1-0025",
+  "hanzi": "别",
+  "pinyin": "bié",
+  "pos": "phó từ",
+  "meaning": "đừng, chớ",
+  "level": 1
+ },
+ {
+  "id": "1-0026",
+  "hanzi": "别的",
+  "pinyin": "biéde",
+  "pos": "đại từ",
+  "meaning": "cái khác, khác",
+  "level": 1
+ },
+ {
+  "id": "1-0027",
+  "hanzi": "别人",
+  "pinyin": "biérén",
+  "pos": "đại từ",
+  "meaning": "người khác",
+  "level": 1
+ },
+ {
+  "id": "1-0028",
+  "hanzi": "病",
+  "pinyin": "bìng",
+  "pos": "danh từ, động từ",
+  "meaning": "bệnh; bị ốm",
+  "level": 1
+ },
+ {
+  "id": "1-0029",
+  "hanzi": "病人",
+  "pinyin": "bìngrén",
+  "pos": "danh từ",
+  "meaning": "bệnh nhân",
+  "level": 1
+ },
+ {
+  "id": "1-0030",
+  "hanzi": "不大",
+  "pinyin": "bú dà",
+  "pos": "cụm từ",
+  "meaning": "không ... lắm; ít khi",
+  "level": 1
+ },
+ {
+  "id": "1-0031",
+  "hanzi": "不对",
+  "pinyin": "búduì",
+  "pos": "tính từ",
+  "meaning": "không đúng",
+  "level": 1
+ },
+ {
+  "id": "1-0032",
+  "hanzi": "不客气",
+  "pinyin": "bú kèqì",
+  "pos": "cụm từ",
+  "meaning": "không có chi (đáp lời cảm ơn)",
+  "level": 1
+ },
+ {
+  "id": "1-0033",
+  "hanzi": "不用",
+  "pinyin": "búyòng",
+  "pos": "phó từ",
+  "meaning": "không cần",
+  "level": 1
+ },
+ {
+  "id": "1-0034",
+  "hanzi": "不",
+  "pinyin": "bù",
+  "pos": "phó từ",
+  "meaning": "không, chẳng",
+  "level": 1
+ },
+ {
+  "id": "1-0035",
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "pos": "danh từ",
+  "meaning": "món ăn, rau",
+  "level": 1
+ },
+ {
+  "id": "1-0036",
+  "hanzi": "茶",
+  "pinyin": "chá",
+  "pos": "danh từ",
+  "meaning": "trà",
+  "level": 1
+ },
+ {
+  "id": "1-0037",
+  "hanzi": "差",
+  "pinyin": "chà",
+  "pos": "động từ, tính từ",
+  "meaning": "thiếu, kém; tệ",
+  "level": 1
+ },
+ {
+  "id": "1-0038",
+  "hanzi": "常",
+  "pinyin": "cháng",
+  "pos": "phó từ",
+  "meaning": "thường (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0039",
+  "hanzi": "常常",
+  "pinyin": "chángcháng",
+  "pos": "phó từ",
+  "meaning": "thường xuyên",
+  "level": 1
+ },
+ {
+  "id": "1-0040",
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "pos": "động từ",
+  "meaning": "hát (1 chữ), ca",
+  "level": 1
+ },
+ {
+  "id": "1-0041",
+  "hanzi": "唱歌",
+  "pinyin": "chànggē",
+  "pos": "cụm từ",
+  "meaning": "hát (hát bài hát)",
+  "level": 1
+ },
+ {
+  "id": "1-0042",
+  "hanzi": "车",
+  "pinyin": "chē",
+  "pos": "danh từ",
+  "meaning": "xe",
+  "level": 1
+ },
+ {
+  "id": "1-0043",
+  "hanzi": "车票",
+  "pinyin": "chēpiào",
+  "pos": "danh từ",
+  "meaning": "vé xe",
+  "level": 1
+ },
+ {
+  "id": "1-0044",
+  "hanzi": "车上",
+  "pinyin": "chē shang",
+  "pos": "cụm từ",
+  "meaning": "trên xe",
+  "level": 1
+ },
+ {
+  "id": "1-0045",
+  "hanzi": "车站",
+  "pinyin": "chēzhàn",
+  "pos": "danh từ",
+  "meaning": "bến xe, ga",
+  "level": 1
+ },
+ {
+  "id": "1-0046",
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "pos": "động từ",
+  "meaning": "ăn",
+  "level": 1
+ },
+ {
+  "id": "1-0047",
+  "hanzi": "吃饭",
+  "pinyin": "chīfàn",
+  "pos": "cụm từ",
+  "meaning": "ăn cơm",
+  "level": 1
+ },
+ {
+  "id": "1-0048",
+  "hanzi": "出",
+  "pinyin": "chū",
+  "pos": "động từ",
+  "meaning": "ra, xuất",
+  "level": 1
+ },
+ {
+  "id": "1-0049",
+  "hanzi": "出来",
+  "pinyin": "chūlái",
+  "pos": "cụm từ",
+  "meaning": "đi ra, ra đây",
+  "level": 1
+ },
+ {
+  "id": "1-0050",
+  "hanzi": "出去",
+  "pinyin": "chūqù",
+  "pos": "cụm từ",
+  "meaning": "ra ngoài",
+  "level": 1
+ }
+]

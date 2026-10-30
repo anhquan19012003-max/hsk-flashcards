@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0501",
+  "hanzi": "毛巾",
+  "pinyin": "máojīn",
+  "pos": "",
+  "meaning": "khăn tắm",
+  "level": 4
+ },
+ {
+  "id": "4-0502",
+  "hanzi": "毛衣",
+  "pinyin": "máoyī",
+  "pos": "",
+  "meaning": "áo len",
+  "level": 4
+ },
+ {
+  "id": "4-0503",
+  "hanzi": "帽子",
+  "pinyin": "màozi",
+  "pos": "",
+  "meaning": "mũ",
+  "level": 4
+ },
+ {
+  "id": "4-0504",
+  "hanzi": "没错",
+  "pinyin": "méicuò",
+  "pos": "",
+  "meaning": "đúng rồi",
+  "level": 4
+ },
+ {
+  "id": "4-0505",
+  "hanzi": "没法儿",
+  "pinyin": "méi fǎr",
+  "pos": "",
+  "meaning": "không có cách nào",
+  "level": 4
+ },
+ {
+  "id": "4-0506",
+  "hanzi": "没想到",
+  "pinyin": "méi xiǎngdào",
+  "pos": "",
+  "meaning": "không ngờ",
+  "level": 4
+ },
+ {
+  "id": "4-0507",
+  "hanzi": "美金",
+  "pinyin": "měijīn",
+  "pos": "",
+  "meaning": "đô la Mỹ",
+  "level": 4
+ },
+ {
+  "id": "4-0508",
+  "hanzi": "美女",
+  "pinyin": "měinǚ",
+  "pos": "",
+  "meaning": "người đẹp, mỹ nữ",
+  "level": 4
+ },
+ {
+  "id": "4-0509",
+  "hanzi": "梦",
+  "pinyin": "mèng",
+  "pos": "",
+  "meaning": "giấc mơ",
+  "level": 4
+ },
+ {
+  "id": "4-0510",
+  "hanzi": "梦见",
+  "pinyin": "mèngjiàn",
+  "pos": "",
+  "meaning": "mơ thấy",
+  "level": 4
+ },
+ {
+  "id": "4-0511",
+  "hanzi": "梦想",
+  "pinyin": "mèngxiǎng",
+  "pos": "",
+  "meaning": "mơ ước",
+  "level": 4
+ },
+ {
+  "id": "4-0512",
+  "hanzi": "秘密",
+  "pinyin": "mìmì",
+  "pos": "",
+  "meaning": "bí mật",
+  "level": 4
+ },
+ {
+  "id": "4-0513",
+  "hanzi": "秘书",
+  "pinyin": "mìshū",
+  "pos": "",
+  "meaning": "thư ký",
+  "level": 4
+ },
+ {
+  "id": "4-0514",
+  "hanzi": "密",
+  "pinyin": "mì",
+  "pos": "",
+  "meaning": "dày đặc",
+  "level": 4
+ },
+ {
+  "id": "4-0515",
+  "hanzi": "密码",
+  "pinyin": "mìmǎ",
+  "pos": "",
+  "meaning": "mật khẩu",
+  "level": 4
+ },
+ {
+  "id": "4-0516",
+  "hanzi": "密切",
+  "pinyin": "mìqiè",
+  "pos": "",
+  "meaning": "mật thiết",
+  "level": 4
+ },
+ {
+  "id": "4-0517",
+  "hanzi": "免费",
+  "pinyin": "miǎnfèi",
+  "pos": "",
+  "meaning": "miễn phí",
+  "level": 4
+ },
+ {
+  "id": "4-0518",
+  "hanzi": "面临",
+  "pinyin": "miànlín",
+  "pos": "",
+  "meaning": "đối mặt",
+  "level": 4
+ },
+ {
+  "id": "4-0519",
+  "hanzi": "面试",
+  "pinyin": "miànshì",
+  "pos": "",
+  "meaning": "phỏng vấn",
+  "level": 4
+ },
+ {
+  "id": "4-0520",
+  "hanzi": "描述",
+  "pinyin": "miáoshù",
+  "pos": "",
+  "meaning": "miêu tả",
+  "level": 4
+ },
+ {
+  "id": "4-0521",
+  "hanzi": "描写",
+  "pinyin": "miáoxiě",
+  "pos": "",
+  "meaning": "diễn tả",
+  "level": 4
+ },
+ {
+  "id": "4-0522",
+  "hanzi": "名牌儿",
+  "pinyin": "míngpáir",
+  "pos": "",
+  "meaning": "thương hiệu nổi tiếng",
+  "level": 4
+ },
+ {
+  "id": "4-0523",
+  "hanzi": "名片",
+  "pinyin": "míngpiàn",
+  "pos": "",
+  "meaning": "danh thiếp",
+  "level": 4
+ },
+ {
+  "id": "4-0524",
+  "hanzi": "名人",
+  "pinyin": "míngrén",
+  "pos": "",
+  "meaning": "người nổi tiếng",
+  "level": 4
+ },
+ {
+  "id": "4-0525",
+  "hanzi": "摸",
+  "pinyin": "mō",
+  "pos": "",
+  "meaning": "sờ",
+  "level": 4
+ },
+ {
+  "id": "4-0526",
+  "hanzi": "模特儿",
+  "pinyin": "mótèr",
+  "pos": "",
+  "meaning": "người mẫu",
+  "level": 4
+ },
+ {
+  "id": "4-0527",
+  "hanzi": "模型",
+  "pinyin": "móxíng",
+  "pos": "",
+  "meaning": "mô hình",
+  "level": 4
+ },
+ {
+  "id": "4-0528",
+  "hanzi": "末",
+  "pinyin": "mò",
+  "pos": "",
+  "meaning": "cuối cùng",
+  "level": 4
+ },
+ {
+  "id": "4-0529",
+  "hanzi": "默默",
+  "pinyin": "mòmò",
+  "pos": "",
+  "meaning": "im lặng",
+  "level": 4
+ },
+ {
+  "id": "4-0530",
+  "hanzi": "哪怕",
+  "pinyin": "nǎpà",
+  "pos": "",
+  "meaning": "dù cho",
+  "level": 4
+ },
+ {
+  "id": "4-0531",
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "pos": "",
+  "meaning": "nào (哪 - HSK4)",
+  "level": 4
+ },
+ {
+  "id": "4-0532",
+  "hanzi": "男女",
+  "pinyin": "nánnǚ",
+  "pos": "",
+  "meaning": "nam nữ",
+  "level": 4
+ },
+ {
+  "id": "4-0533",
+  "hanzi": "男士",
+  "pinyin": "nánshì",
+  "pos": "",
+  "meaning": "quý ông",
+  "level": 4
+ },
+ {
+  "id": "4-0534",
+  "hanzi": "难免",
+  "pinyin": "nánmiǎn",
+  "pos": "",
+  "meaning": "khó tránh",
+  "level": 4
+ },
+ {
+  "id": "4-0535",
+  "hanzi": "脑袋",
+  "pinyin": "nǎodai",
+  "pos": "",
+  "meaning": "đầu",
+  "level": 4
+ },
+ {
+  "id": "4-0536",
+  "hanzi": "闹",
+  "pinyin": "nào",
+  "pos": "",
+  "meaning": "ồn ào",
+  "level": 4
+ },
+ {
+  "id": "4-0537",
+  "hanzi": "闹钟",
+  "pinyin": "nàozhōng",
+  "pos": "",
+  "meaning": "đồng hồ báo thức",
+  "level": 4
+ },
+ {
+  "id": "4-0538",
+  "hanzi": "内部",
+  "pinyin": "nèibù",
+  "pos": "",
+  "meaning": "nội bộ",
+  "level": 4
+ },
+ {
+  "id": "4-0539",
+  "hanzi": "内科",
+  "pinyin": "nèikē",
+  "pos": "",
+  "meaning": "nội khoa",
+  "level": 4
+ },
+ {
+  "id": "4-0540",
+  "hanzi": "能干",
+  "pinyin": "nénggàn",
+  "pos": "",
+  "meaning": "giỏi giang",
+  "level": 4
+ },
+ {
+  "id": "4-0541",
+  "hanzi": "宁静",
+  "pinyin": "níngjìng",
+  "pos": "",
+  "meaning": "yên bình",
+  "level": 4
+ },
+ {
+  "id": "4-0542",
+  "hanzi": "浓",
+  "pinyin": "nóng",
+  "pos": "",
+  "meaning": "đậm, đặc",
+  "level": 4
+ },
+ {
+  "id": "4-0543",
+  "hanzi": "女士",
+  "pinyin": "nǚshì",
+  "pos": "",
+  "meaning": "quý cô",
+  "level": 4
+ },
+ {
+  "id": "4-0544",
+  "hanzi": "暖气",
+  "pinyin": "nuǎnqì",
+  "pos": "",
+  "meaning": "máy sưởi",
+  "level": 4
+ },
+ {
+  "id": "4-0545",
+  "hanzi": "拍照",
+  "pinyin": "pāizhào",
+  "pos": "",
+  "meaning": "chụp ảnh",
+  "level": 4
+ },
+ {
+  "id": "4-0546",
+  "hanzi": "排列",
+  "pinyin": "páiliè",
+  "pos": "",
+  "meaning": "sắp xếp",
+  "level": 4
+ },
+ {
+  "id": "4-0547",
+  "hanzi": "牌",
+  "pinyin": "pái",
+  "pos": "",
+  "meaning": "nhãn hiệu / bảng hiệu",
+  "level": 4
+ },
+ {
+  "id": "4-0548",
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "pos": "danh từ, lượng từ",
+  "meaning": "cái đĩa; ván (cờ) (lượng từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0549",
+  "hanzi": "盘子",
+  "pinyin": "pánzi",
+  "pos": "",
+  "meaning": "cái đĩa",
+  "level": 4
+ },
+ {
+  "id": "4-0550",
+  "hanzi": "胖子",
+  "pinyin": "pàngzi",
+  "pos": "",
+  "meaning": "người mập",
+  "level": 4
+ }
+]

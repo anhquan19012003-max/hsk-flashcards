@@ -1,0 +1,452 @@
+[
+ {
+  "id": "3-0101",
+  "pos": "phó từ",
+  "example": {
+   "zh": "他把作业重做了一遍。",
+   "pinyin": "Tā bǎ zuòyè chóng zuò le yí biàn.",
+   "vi": "Anh ấy làm lại bài tập một lần nữa."
+  }
+ },
+ {
+  "id": "3-0102",
+  "pos": "phó từ",
+  "example": {
+   "zh": "我们初次见面。",
+   "pinyin": "Wǒmen chūcì jiànmiàn.",
+   "vi": "Đây là lần đầu chúng tôi gặp nhau."
+  }
+ },
+ {
+  "id": "3-0103",
+  "pos": "tiền tố",
+  "example": {
+   "zh": "他初一回家。",
+   "pinyin": "Tā chūyī huí jiā.",
+   "vi": "Anh ấy về nhà vào ngày mùng một."
+  }
+ },
+ {
+  "id": "3-0104",
+  "pos": "tính từ",
+  "example": {
+   "zh": "这个计划只是初步的。",
+   "pinyin": "Zhège jìhuà zhǐshì chūbù de.",
+   "vi": "Kế hoạch này mới chỉ là bước đầu."
+  }
+ },
+ {
+  "id": "3-0105",
+  "pos": "tính từ",
+  "example": {
+   "zh": "他在学初级汉语。",
+   "pinyin": "Tā zài xué chūjí Hànyǔ.",
+   "vi": "Anh ấy đang học tiếng Hán sơ cấp."
+  }
+ },
+ {
+  "id": "3-0106",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我弟弟上初中了。",
+   "pinyin": "Wǒ dìdi shàng chūzhōng le.",
+   "vi": "Em trai tôi đã vào trung học cơ sở rồi."
+  }
+ },
+ {
+  "id": "3-0107",
+  "pos": "giới từ",
+  "example": {
+   "zh": "除了周末以外，我每天都学习。",
+   "pinyin": "Chúle zhōumò yǐwài, wǒ měitiān dōu xuéxí.",
+   "vi": "Trừ cuối tuần ra, ngày nào tôi cũng học."
+  }
+ },
+ {
+  "id": "3-0108",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "这件事我来处理。",
+   "pinyin": "Zhè jiàn shì wǒ lái chǔlǐ.",
+   "vi": "Việc này để tôi xử lý."
+  }
+ },
+ {
+  "id": "3-0109",
+  "pos": "động từ",
+  "example": {
+   "zh": "他把好消息传给了朋友。",
+   "pinyin": "Tā bǎ hǎo xiāoxi chuán gěi le péngyou.",
+   "vi": "Anh ấy đã báo tin vui cho bạn bè."
+  }
+ },
+ {
+  "id": "3-0110",
+  "pos": "động từ",
+  "example": {
+   "zh": "这个消息传播得很快。",
+   "pinyin": "Zhège xiāoxi chuánbō de hěn kuài.",
+   "vi": "Tin này lan truyền rất nhanh."
+  }
+ },
+ {
+  "id": "3-0111",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "远处传来了音乐声。",
+   "pinyin": "Yuǎnchù chuánlái le yīnyuè shēng.",
+   "vi": "Từ xa vọng lại tiếng nhạc."
+  }
+ },
+ {
+  "id": "3-0112",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "这个故事是一个传说。",
+   "pinyin": "Zhège gùshi shì yí ge chuánshuō.",
+   "vi": "Câu chuyện này là một truyền thuyết."
+  }
+ },
+ {
+  "id": "3-0113",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "我们要努力创新。",
+   "pinyin": "Wǒmen yào nǔlì chuàngxīn.",
+   "vi": "Chúng ta phải nỗ lực đổi mới."
+  }
+ },
+ {
+  "id": "3-0114",
+  "pos": "động từ",
+  "example": {
+   "zh": "他毕业后想创业。",
+   "pinyin": "Tā bìyè hòu xiǎng chuàngyè.",
+   "vi": "Sau khi tốt nghiệp, anh ấy muốn khởi nghiệp."
+  }
+ },
+ {
+  "id": "3-0115",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "他们创造了新的机会。",
+   "pinyin": "Tāmen chuàngzào le xīn de jīhuì.",
+   "vi": "Họ đã tạo ra nhiều cơ hội mới."
+  }
+ },
+ {
+  "id": "3-0116",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "她喜欢创作音乐。",
+   "pinyin": "Tā xǐhuan chuàngzuò yīnyuè.",
+   "vi": "Cô ấy thích sáng tác nhạc."
+  }
+ },
+ {
+  "id": "3-0117",
+  "pos": "phó từ",
+  "example": {
+   "zh": "我从来没去过北京。",
+   "pinyin": "Wǒ cónglái méi qù guo Běijīng.",
+   "vi": "Tôi chưa từng đến Bắc Kinh."
+  }
+ },
+ {
+  "id": "3-0118",
+  "pos": "danh từ",
+  "example": {
+   "zh": "从前这里是一个小村子。",
+   "pinyin": "Cóngqián zhèlǐ shì yí ge xiǎo cūnzi.",
+   "vi": "Ngày xưa nơi này là một ngôi làng nhỏ."
+  }
+ },
+ {
+  "id": "3-0119",
+  "pos": "động từ",
+  "example": {
+   "zh": "他从事教育工作。",
+   "pinyin": "Tā cóngshì jiàoyù gōngzuò.",
+   "vi": "Anh ấy làm công tác giáo dục."
+  }
+ },
+ {
+  "id": "3-0120",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我们村里有一条河。",
+   "pinyin": "Wǒmen cūn lǐ yǒu yì tiáo hé.",
+   "vi": "Trong làng chúng tôi có một con sông."
+  }
+ },
+ {
+  "id": "3-0121",
+  "pos": "động từ",
+  "example": {
+   "zh": "我在银行存了钱。",
+   "pinyin": "Wǒ zài yínháng cún le qián.",
+   "vi": "Tôi đã gửi tiền ở ngân hàng."
+  }
+ },
+ {
+  "id": "3-0122",
+  "pos": "động từ",
+  "example": {
+   "zh": "这个问题确实存在。",
+   "pinyin": "Zhège wèntí quèshí cúnzài.",
+   "vi": "Vấn đề này quả thật tồn tại."
+  }
+ },
+ {
+  "id": "3-0123",
+  "pos": "tính từ, danh từ",
+  "example": {
+   "zh": "这个句子有一个错误。",
+   "pinyin": "Zhège jùzi yǒu yí ge cuòwù.",
+   "vi": "Câu này có một lỗi sai."
+  }
+ },
+ {
+  "id": "3-0124",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "他的成绩达到了八十分。",
+   "pinyin": "Tā de chéngjì dádào le bāshí fēn.",
+   "vi": "Điểm của anh ấy đã đạt tám mươi điểm."
+  }
+ },
+ {
+  "id": "3-0125",
+  "pos": "cụm từ",
+  "example": {
+   "zh": "小孩子打破了杯子。",
+   "pinyin": "Xiǎoháizi dǎpò le bēizi.",
+   "vi": "Đứa bé làm vỡ cái cốc rồi."
+  }
+ },
+ {
+  "id": "3-0126",
+  "pos": "động từ",
+  "example": {
+   "zh": "我想打听一下火车时间。",
+   "pinyin": "Wǒ xiǎng dǎting yíxià huǒchē shíjiān.",
+   "vi": "Tôi muốn hỏi thăm giờ tàu."
+  }
+ },
+ {
+  "id": "3-0127",
+  "pos": "tính từ, phó từ",
+  "example": {
+   "zh": "这件事大概是真的。",
+   "pinyin": "Zhè jiàn shì dàgài shì zhēn de.",
+   "vi": "Chuyện này có lẽ là thật."
+  }
+ },
+ {
+  "id": "3-0128",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我明天去大使馆。",
+   "pinyin": "Wǒ míngtiān qù dàshǐguǎn.",
+   "vi": "Ngày mai tôi đi đại sứ quán."
+  }
+ },
+ {
+  "id": "3-0129",
+  "pos": "phó từ",
+  "example": {
+   "zh": "他大约十点到。",
+   "pinyin": "Tā dàyuē shí diǎn dào.",
+   "vi": "Khoảng mười giờ anh ấy sẽ đến."
+  }
+ },
+ {
+  "id": "3-0130",
+  "pos": "danh từ",
+  "example": {
+   "zh": "大夫让我多休息。",
+   "pinyin": "Dàifu ràng wǒ duō xiūxi.",
+   "vi": "Bác sĩ bảo tôi nghỉ ngơi nhiều."
+  }
+ },
+ {
+  "id": "3-0131",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "我可以代你去。",
+   "pinyin": "Wǒ kěyǐ dài nǐ qù.",
+   "vi": "Tôi có thể đi thay bạn."
+  }
+ },
+ {
+  "id": "3-0132",
+  "pos": "danh từ, động từ",
+  "example": {
+   "zh": "他代表我们班发言。",
+   "pinyin": "Tā dàibiǎo wǒmen bān fāyán.",
+   "vi": "Anh ấy thay mặt lớp chúng tôi phát biểu."
+  }
+ },
+ {
+  "id": "3-0133",
+  "pos": "danh từ",
+  "example": {
+   "zh": "代表团下午到北京。",
+   "pinyin": "Dàibiǎotuán xiàwǔ dào Běijīng.",
+   "vi": "Đoàn đại biểu sẽ đến Bắc Kinh vào chiều nay."
+  }
+ },
+ {
+  "id": "3-0134",
+  "pos": "động từ",
+  "example": {
+   "zh": "这个活动带动了经济。",
+   "pinyin": "Zhège huódòng dàidòng le jīngjì.",
+   "vi": "Hoạt động này đã thúc đẩy kinh tế."
+  }
+ },
+ {
+  "id": "3-0135",
+  "pos": "động từ",
+  "example": {
+   "zh": "老师带领我们去公园。",
+   "pinyin": "Lǎoshī dàilǐng wǒmen qù gōngyuán.",
+   "vi": "Cô giáo dẫn chúng tôi đi công viên."
+  }
+ },
+ {
+  "id": "3-0136",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这一课是第三单元。",
+   "pinyin": "Zhè yí kè shì dì sān dānyuán.",
+   "vi": "Bài này thuộc đơn nguyên thứ ba."
+  }
+ },
+ {
+  "id": "3-0137",
+  "pos": "danh từ",
+  "example": {
+   "zh": "当初我不知道这件事。",
+   "pinyin": "Dāngchū wǒ bù zhī dào zhè jiàn shì.",
+   "vi": "Lúc đầu tôi không biết chuyện này."
+  }
+ },
+ {
+  "id": "3-0138",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我们去当地的超市买菜。",
+   "pinyin": "Wǒmen qù dāngdì de chāoshì mǎi cài.",
+   "vi": "Chúng tôi đi siêu thị địa phương mua rau."
+  }
+ },
+ {
+  "id": "3-0139",
+  "pos": "phó từ, tính từ",
+  "example": {
+   "zh": "你当然可以来。",
+   "pinyin": "Nǐ dāngrán kěyǐ lái.",
+   "vi": "Tất nhiên bạn có thể đến."
+  }
+ },
+ {
+  "id": "3-0140",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我坐在他们当中。",
+   "pinyin": "Wǒ zuò zài tāmen dāngzhōng.",
+   "vi": "Tôi ngồi ở giữa bọn họ."
+  }
+ },
+ {
+  "id": "3-0141",
+  "pos": "danh từ",
+  "example": {
+   "zh": "请用刀切一下苹果。",
+   "pinyin": "Qǐng yòng dāo qiē yíxià píngguǒ.",
+   "vi": "Hãy dùng dao cắt quả táo một chút."
+  }
+ },
+ {
+  "id": "3-0142",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "这部电影的导演很有名。",
+   "pinyin": "Zhè bù diànyǐng de dǎoyǎn hěn yǒumíng.",
+   "vi": "Đạo diễn của bộ phim này rất nổi tiếng."
+  }
+ },
+ {
+  "id": "3-0143",
+  "pos": "động từ",
+  "example": {
+   "zh": "火车八点到达北京。",
+   "pinyin": "Huǒchē bā diǎn dàodá Běijīng.",
+   "vi": "Tàu đến Bắc Kinh lúc tám giờ."
+  }
+ },
+ {
+  "id": "3-0144",
+  "pos": "phó từ",
+  "example": {
+   "zh": "你到底去不去？",
+   "pinyin": "Nǐ dàodǐ qù bu qù?",
+   "vi": "Rốt cuộc bạn có đi hay không?"
+  }
+ },
+ {
+  "id": "3-0145",
+  "pos": "động từ, danh từ",
+  "example": {
+   "zh": "我们队得分了。",
+   "pinyin": "Wǒmen duì défēn le.",
+   "vi": "Đội chúng tôi đã ghi điểm rồi."
+  }
+ },
+ {
+  "id": "3-0146",
+  "pos": "động từ",
+  "example": {
+   "zh": "请在这里等待一下。",
+   "pinyin": "Qǐng zài zhèlǐ děngdài yíxià.",
+   "vi": "Xin chờ ở đây một lát."
+  }
+ },
+ {
+  "id": "3-0147",
+  "pos": "danh từ",
+  "example": {
+   "zh": "书在桌子底下。",
+   "pinyin": "Shū zài zhuōzi dǐxia.",
+   "vi": "Quyển sách ở dưới bàn."
+  }
+ },
+ {
+  "id": "3-0148",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个地区的天气很好。",
+   "pinyin": "Zhège dìqū de tiānqì hěn hǎo.",
+   "vi": "Thời tiết ở khu vực này rất tốt."
+  }
+ },
+ {
+  "id": "3-0149",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我喜欢看电视剧。",
+   "pinyin": "Wǒ xǐhuan kàn diànshìjù.",
+   "vi": "Tôi thích xem phim truyền hình."
+  }
+ },
+ {
+  "id": "3-0150",
+  "pos": "danh từ",
+  "example": {
+   "zh": "他在电视台工作。",
+   "pinyin": "Tā zài diànshìtái gōngzuò.",
+   "vi": "Anh ấy làm việc ở đài truyền hình."
+  }
+ }
+]

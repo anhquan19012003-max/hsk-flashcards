@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0001",
+  "hanzi": "阿姨",
+  "pinyin": "āyí",
+  "pos": "",
+  "meaning": "cô, dì, thím",
+  "level": 4
+ },
+ {
+  "id": "4-0002",
+  "hanzi": "啊",
+  "pinyin": "a",
+  "pos": "",
+  "meaning": "a, à (thán từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0003",
+  "hanzi": "矮",
+  "pinyin": "ǎi",
+  "pos": "",
+  "meaning": "thấp",
+  "level": 4
+ },
+ {
+  "id": "4-0004",
+  "hanzi": "矮小",
+  "pinyin": "ǎixiǎo",
+  "pos": "",
+  "meaning": "thấp bé",
+  "level": 4
+ },
+ {
+  "id": "4-0005",
+  "hanzi": "爱国",
+  "pinyin": "àiguó",
+  "pos": "",
+  "meaning": "yêu nước",
+  "level": 4
+ },
+ {
+  "id": "4-0006",
+  "hanzi": "爱护",
+  "pinyin": "àihù",
+  "pos": "",
+  "meaning": "yêu quý, chăm sóc",
+  "level": 4
+ },
+ {
+  "id": "4-0007",
+  "hanzi": "安",
+  "pinyin": "ān",
+  "pos": "",
+  "meaning": "yên ổn; lắp đặt",
+  "level": 4
+ },
+ {
+  "id": "4-0008",
+  "hanzi": "安置",
+  "pinyin": "ānzhì",
+  "pos": "",
+  "meaning": "bố trí, sắp xếp",
+  "level": 4
+ },
+ {
+  "id": "4-0009",
+  "hanzi": "按时",
+  "pinyin": "ànshí",
+  "pos": "",
+  "meaning": "đúng giờ",
+  "level": 4
+ },
+ {
+  "id": "4-0010",
+  "hanzi": "暗",
+  "pinyin": "àn",
+  "pos": "",
+  "meaning": "tối",
+  "level": 4
+ },
+ {
+  "id": "4-0011",
+  "hanzi": "暗示",
+  "pinyin": "ànshì",
+  "pos": "",
+  "meaning": "ám chỉ, gợi ý",
+  "level": 4
+ },
+ {
+  "id": "4-0012",
+  "hanzi": "巴士",
+  "pinyin": "bāshì",
+  "pos": "",
+  "meaning": "xe buýt",
+  "level": 4
+ },
+ {
+  "id": "4-0013",
+  "hanzi": "百货",
+  "pinyin": "bǎihuò",
+  "pos": "",
+  "meaning": "bách hóa",
+  "level": 4
+ },
+ {
+  "id": "4-0014",
+  "hanzi": "摆",
+  "pinyin": "bǎi",
+  "pos": "",
+  "meaning": "đặt, bày; dao động",
+  "level": 4
+ },
+ {
+  "id": "4-0015",
+  "hanzi": "摆动",
+  "pinyin": "bǎidòng",
+  "pos": "",
+  "meaning": "dao động, lắc lư",
+  "level": 4
+ },
+ {
+  "id": "4-0016",
+  "hanzi": "摆脱",
+  "pinyin": "bǎituō",
+  "pos": "",
+  "meaning": "thoát khỏi",
+  "level": 4
+ },
+ {
+  "id": "4-0017",
+  "hanzi": "败",
+  "pinyin": "bài",
+  "pos": "",
+  "meaning": "thất bại",
+  "level": 4
+ },
+ {
+  "id": "4-0018",
+  "hanzi": "办事",
+  "pinyin": "bànshì",
+  "pos": "",
+  "meaning": "làm việc, giải quyết công việc",
+  "level": 4
+ },
+ {
+  "id": "4-0019",
+  "hanzi": "包裹",
+  "pinyin": "bāoguǒ",
+  "pos": "",
+  "meaning": "gói hàng",
+  "level": 4
+ },
+ {
+  "id": "4-0020",
+  "hanzi": "包含",
+  "pinyin": "bāohán",
+  "pos": "",
+  "meaning": "bao hàm",
+  "level": 4
+ },
+ {
+  "id": "4-0021",
+  "hanzi": "包括",
+  "pinyin": "bāokuò",
+  "pos": "",
+  "meaning": "bao gồm",
+  "level": 4
+ },
+ {
+  "id": "4-0022",
+  "hanzi": "薄",
+  "pinyin": "báo",
+  "pos": "",
+  "meaning": "mỏng",
+  "level": 4
+ },
+ {
+  "id": "4-0023",
+  "hanzi": "宝",
+  "pinyin": "bǎo",
+  "pos": "",
+  "meaning": "báu vật, quý giá",
+  "level": 4
+ },
+ {
+  "id": "4-0024",
+  "hanzi": "宝宝",
+  "pinyin": "bǎobao",
+  "pos": "",
+  "meaning": "em bé",
+  "level": 4
+ },
+ {
+  "id": "4-0025",
+  "hanzi": "宝贝",
+  "pinyin": "bǎobèi",
+  "pos": "",
+  "meaning": "cục cưng, bảo bối",
+  "level": 4
+ },
+ {
+  "id": "4-0026",
+  "hanzi": "宝贵",
+  "pinyin": "bǎoguì",
+  "pos": "",
+  "meaning": "quý giá",
+  "level": 4
+ },
+ {
+  "id": "4-0027",
+  "hanzi": "宝石",
+  "pinyin": "bǎoshí",
+  "pos": "",
+  "meaning": "đá quý",
+  "level": 4
+ },
+ {
+  "id": "4-0028",
+  "hanzi": "保密",
+  "pinyin": "bǎomì",
+  "pos": "",
+  "meaning": "giữ bí mật",
+  "level": 4
+ },
+ {
+  "id": "4-0029",
+  "hanzi": "保守",
+  "pinyin": "bǎoshǒu",
+  "pos": "",
+  "meaning": "bảo thủ",
+  "level": 4
+ },
+ {
+  "id": "4-0030",
+  "hanzi": "抱",
+  "pinyin": "bào",
+  "pos": "",
+  "meaning": "ôm",
+  "level": 4
+ },
+ {
+  "id": "4-0031",
+  "hanzi": "背景",
+  "pinyin": "bèijǐng",
+  "pos": "",
+  "meaning": "bối cảnh",
+  "level": 4
+ },
+ {
+  "id": "4-0032",
+  "hanzi": "倍",
+  "pinyin": "bèi",
+  "pos": "",
+  "meaning": "lần, gấp (bội số)",
+  "level": 4
+ },
+ {
+  "id": "4-0033",
+  "hanzi": "被迫",
+  "pinyin": "bèipò",
+  "pos": "",
+  "meaning": "bị ép buộc",
+  "level": 4
+ },
+ {
+  "id": "4-0034",
+  "hanzi": "本科",
+  "pinyin": "běnkē",
+  "pos": "",
+  "meaning": "đại học chính quy",
+  "level": 4
+ },
+ {
+  "id": "4-0035",
+  "hanzi": "笨",
+  "pinyin": "bèn",
+  "pos": "",
+  "meaning": "ngốc nghếch",
+  "level": 4
+ },
+ {
+  "id": "4-0036",
+  "hanzi": "比分",
+  "pinyin": "bǐfēn",
+  "pos": "",
+  "meaning": "tỉ số",
+  "level": 4
+ },
+ {
+  "id": "4-0037",
+  "hanzi": "毕业",
+  "pinyin": "bìyè",
+  "pos": "",
+  "meaning": "tốt nghiệp",
+  "level": 4
+ },
+ {
+  "id": "4-0038",
+  "hanzi": "毕业生",
+  "pinyin": "bìyèshēng",
+  "pos": "",
+  "meaning": "sinh viên tốt nghiệp",
+  "level": 4
+ },
+ {
+  "id": "4-0039",
+  "hanzi": "避",
+  "pinyin": "bì",
+  "pos": "",
+  "meaning": "tránh",
+  "level": 4
+ },
+ {
+  "id": "4-0040",
+  "hanzi": "避免",
+  "pinyin": "bìmiǎn",
+  "pos": "",
+  "meaning": "phòng tránh",
+  "level": 4
+ },
+ {
+  "id": "4-0041",
+  "hanzi": "编",
+  "pinyin": "biān",
+  "pos": "",
+  "meaning": "biên soạn",
+  "level": 4
+ },
+ {
+  "id": "4-0042",
+  "hanzi": "辩论",
+  "pinyin": "biànlùn",
+  "pos": "",
+  "meaning": "tranh luận",
+  "level": 4
+ },
+ {
+  "id": "4-0043",
+  "hanzi": "标志",
+  "pinyin": "biāozhì",
+  "pos": "",
+  "meaning": "ký hiệu, biểu tượng",
+  "level": 4
+ },
+ {
+  "id": "4-0044",
+  "hanzi": "表情",
+  "pinyin": "biǎoqíng",
+  "pos": "",
+  "meaning": "biểu cảm",
+  "level": 4
+ },
+ {
+  "id": "4-0045",
+  "hanzi": "表扬",
+  "pinyin": "biǎoyáng",
+  "pos": "",
+  "meaning": "khen ngợi",
+  "level": 4
+ },
+ {
+  "id": "4-0046",
+  "hanzi": "别",
+  "pinyin": "bié",
+  "pos": "động từ",
+  "meaning": "đừng; chia ra (động từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0047",
+  "hanzi": "冰",
+  "pinyin": "bīng",
+  "pos": "",
+  "meaning": "đá (lạnh)",
+  "level": 4
+ },
+ {
+  "id": "4-0048",
+  "hanzi": "冰箱",
+  "pinyin": "bīngxiāng",
+  "pos": "",
+  "meaning": "tủ lạnh",
+  "level": 4
+ },
+ {
+  "id": "4-0049",
+  "hanzi": "冰雪",
+  "pinyin": "bīngxuě",
+  "pos": "",
+  "meaning": "băng tuyết",
+  "level": 4
+ },
+ {
+  "id": "4-0050",
+  "hanzi": "兵",
+  "pinyin": "bīng",
+  "pos": "",
+  "meaning": "binh lính",
+  "level": 4
+ }
+]

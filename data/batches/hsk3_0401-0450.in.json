@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0401",
+  "hanzi": "决定",
+  "pinyin": "juédìng",
+  "pos": "động từ, danh từ",
+  "meaning": "quyết định",
+  "level": 3
+ },
+ {
+  "id": "3-0402",
+  "hanzi": "决赛",
+  "pinyin": "juésài",
+  "pos": "danh từ",
+  "meaning": "trận chung kết",
+  "level": 3
+ },
+ {
+  "id": "3-0403",
+  "hanzi": "决心",
+  "pinyin": "juéxīn",
+  "pos": "danh từ, động từ",
+  "meaning": "quyết tâm",
+  "level": 3
+ },
+ {
+  "id": "3-0404",
+  "hanzi": "绝对",
+  "pinyin": "juéduì",
+  "pos": "phó từ",
+  "meaning": "tuyệt đối, hoàn toàn",
+  "level": 3
+ },
+ {
+  "id": "3-0405",
+  "hanzi": "咖啡",
+  "pinyin": "kāfēi",
+  "pos": "danh từ",
+  "meaning": "cà phê",
+  "level": 3
+ },
+ {
+  "id": "3-0406",
+  "hanzi": "开发",
+  "pinyin": "kāifā",
+  "pos": "động từ",
+  "meaning": "khai thác, phát triển (phần mềm, tài nguyên)",
+  "level": 3
+ },
+ {
+  "id": "3-0407",
+  "hanzi": "开放",
+  "pinyin": "kāifàng",
+  "pos": "động từ",
+  "meaning": "mở cửa; nở (hoa)",
+  "level": 3
+ },
+ {
+  "id": "3-0408",
+  "hanzi": "开始",
+  "pinyin": "kāishǐ",
+  "pos": "động từ, danh từ",
+  "meaning": "bắt đầu",
+  "level": 3
+ },
+ {
+  "id": "3-0409",
+  "hanzi": "开业",
+  "pinyin": "kāiyè",
+  "pos": "cụm từ",
+  "meaning": "khai trương, mở cửa kinh doanh",
+  "level": 3
+ },
+ {
+  "id": "3-0410",
+  "hanzi": "开展",
+  "pinyin": "kāizhǎn",
+  "pos": "động từ",
+  "meaning": "triển khai, phát động",
+  "level": 3
+ },
+ {
+  "id": "3-0411",
+  "hanzi": "看起来",
+  "pinyin": "kànqǐlai",
+  "pos": "cụm từ",
+  "meaning": "xem ra, có vẻ (看起来)",
+  "level": 3
+ },
+ {
+  "id": "3-0412",
+  "hanzi": "看上去",
+  "pinyin": "kàn shàngqu",
+  "pos": "cụm từ",
+  "meaning": "trông có vẻ (看上去)",
+  "level": 3
+ },
+ {
+  "id": "3-0413",
+  "hanzi": "考验",
+  "pinyin": "kǎoyàn",
+  "pos": "động từ",
+  "meaning": "thử thách",
+  "level": 3
+ },
+ {
+  "id": "3-0414",
+  "hanzi": "科技",
+  "pinyin": "kējì",
+  "pos": "danh từ",
+  "meaning": "khoa học kỹ thuật",
+  "level": 3
+ },
+ {
+  "id": "3-0415",
+  "hanzi": "可靠",
+  "pinyin": "kěkào",
+  "pos": "tính từ",
+  "meaning": "đáng tin cậy",
+  "level": 3
+ },
+ {
+  "id": "3-0416",
+  "hanzi": "可乐",
+  "pinyin": "kělè",
+  "pos": "danh từ",
+  "meaning": "coca cola, nước cola",
+  "level": 3
+ },
+ {
+  "id": "3-0417",
+  "hanzi": "克服",
+  "pinyin": "kèfú",
+  "pos": "động từ",
+  "meaning": "khắc phục",
+  "level": 3
+ },
+ {
+  "id": "3-0418",
+  "hanzi": "客观",
+  "pinyin": "kèguān",
+  "pos": "tính từ",
+  "meaning": "khách quan",
+  "level": 3
+ },
+ {
+  "id": "3-0419",
+  "hanzi": "课程",
+  "pinyin": "kèchéng",
+  "pos": "danh từ",
+  "meaning": "chương trình học, khóa học",
+  "level": 3
+ },
+ {
+  "id": "3-0420",
+  "hanzi": "空",
+  "pinyin": "kōng",
+  "pos": "tính từ, phó từ",
+  "meaning": "trống, rỗng; uổng công",
+  "level": 3
+ },
+ {
+  "id": "3-0421",
+  "hanzi": "空调",
+  "pinyin": "kōngtiáo",
+  "pos": "danh từ",
+  "meaning": "điều hòa",
+  "level": 3
+ },
+ {
+  "id": "3-0422",
+  "hanzi": "恐怕",
+  "pinyin": "kǒngpà",
+  "pos": "phó từ",
+  "meaning": "e rằng, sợ rằng",
+  "level": 3
+ },
+ {
+  "id": "3-0423",
+  "hanzi": "空儿",
+  "pinyin": "kòngr",
+  "pos": "danh từ",
+  "meaning": "thời gian rảnh, chỗ trống",
+  "level": 3
+ },
+ {
+  "id": "3-0424",
+  "hanzi": "裤子",
+  "pinyin": "kùzi",
+  "pos": "danh từ",
+  "meaning": "quần dài",
+  "level": 3
+ },
+ {
+  "id": "3-0425",
+  "hanzi": "快速",
+  "pinyin": "kuàisù",
+  "pos": "tính từ",
+  "meaning": "nhanh chóng, tốc độ nhanh",
+  "level": 3
+ },
+ {
+  "id": "3-0426",
+  "hanzi": "困",
+  "pinyin": "kùn",
+  "pos": "tính từ, động từ",
+  "meaning": "buồn ngủ; bị vây khốn",
+  "level": 3
+ },
+ {
+  "id": "3-0427",
+  "hanzi": "困难",
+  "pinyin": "kùnnan",
+  "pos": "danh từ, tính từ",
+  "meaning": "khó khăn",
+  "level": 3
+ },
+ {
+  "id": "3-0428",
+  "hanzi": "浪费",
+  "pinyin": "làngfèi",
+  "pos": "động từ",
+  "meaning": "lãng phí",
+  "level": 3
+ },
+ {
+  "id": "3-0429",
+  "hanzi": "老百姓",
+  "pinyin": "lǎobǎixìng",
+  "pos": "danh từ",
+  "meaning": "dân thường, người dân",
+  "level": 3
+ },
+ {
+  "id": "3-0430",
+  "hanzi": "老板",
+  "pinyin": "lǎobǎn",
+  "pos": "danh từ",
+  "meaning": "ông chủ, sếp",
+  "level": 3
+ },
+ {
+  "id": "3-0431",
+  "hanzi": "老太太",
+  "pinyin": "lǎotàitai",
+  "pos": "danh từ",
+  "meaning": "bà cụ",
+  "level": 3
+ },
+ {
+  "id": "3-0432",
+  "hanzi": "老头儿",
+  "pinyin": "lǎotóur",
+  "pos": "danh từ",
+  "meaning": "ông cụ, ông già",
+  "level": 3
+ },
+ {
+  "id": "3-0433",
+  "hanzi": "乐",
+  "pinyin": "lè",
+  "pos": "động từ",
+  "meaning": "vui, cười",
+  "level": 3
+ },
+ {
+  "id": "3-0434",
+  "hanzi": "乐观",
+  "pinyin": "lèguān",
+  "pos": "tính từ",
+  "meaning": "lạc quan",
+  "level": 3
+ },
+ {
+  "id": "3-0435",
+  "hanzi": "类",
+  "pinyin": "lèi",
+  "pos": "danh từ, lượng từ",
+  "meaning": "loại",
+  "level": 3
+ },
+ {
+  "id": "3-0436",
+  "hanzi": "类似",
+  "pinyin": "lèisì",
+  "pos": "động từ, tính từ",
+  "meaning": "tương tự (类似)",
+  "level": 3
+ },
+ {
+  "id": "3-0437",
+  "hanzi": "离婚",
+  "pinyin": "líhūn",
+  "pos": "cụm từ",
+  "meaning": "ly hôn",
+  "level": 3
+ },
+ {
+  "id": "3-0438",
+  "hanzi": "里面",
+  "pinyin": "lǐmiàn",
+  "pos": "danh từ",
+  "meaning": "bên trong (里面)",
+  "level": 3
+ },
+ {
+  "id": "3-0439",
+  "hanzi": "理发",
+  "pinyin": "lǐfà",
+  "pos": "cụm từ",
+  "meaning": "cắt tóc",
+  "level": 3
+ },
+ {
+  "id": "3-0440",
+  "hanzi": "理解",
+  "pinyin": "lǐjiě",
+  "pos": "động từ",
+  "meaning": "hiểu, thấu hiểu",
+  "level": 3
+ },
+ {
+  "id": "3-0441",
+  "hanzi": "理论",
+  "pinyin": "lǐlùn",
+  "pos": "danh từ",
+  "meaning": "lý luận, lý thuyết",
+  "level": 3
+ },
+ {
+  "id": "3-0442",
+  "hanzi": "理由",
+  "pinyin": "lǐyóu",
+  "pos": "danh từ",
+  "meaning": "lý do",
+  "level": 3
+ },
+ {
+  "id": "3-0443",
+  "hanzi": "力",
+  "pinyin": "lì",
+  "pos": "danh từ",
+  "meaning": "sức, lực (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0444",
+  "hanzi": "力量",
+  "pinyin": "lìliang",
+  "pos": "danh từ",
+  "meaning": "sức mạnh, lực lượng",
+  "level": 3
+ },
+ {
+  "id": "3-0445",
+  "hanzi": "立刻",
+  "pinyin": "lìkè",
+  "pos": "phó từ",
+  "meaning": "lập tức",
+  "level": 3
+ },
+ {
+  "id": "3-0446",
+  "hanzi": "利用",
+  "pinyin": "lìyòng",
+  "pos": "động từ",
+  "meaning": "tận dụng, lợi dụng",
+  "level": 3
+ },
+ {
+  "id": "3-0447",
+  "hanzi": "连",
+  "pinyin": "lián",
+  "pos": "động từ, phó từ",
+  "meaning": "nối liền; ngay cả",
+  "level": 3
+ },
+ {
+  "id": "3-0448",
+  "hanzi": "连忙",
+  "pinyin": "liánmáng",
+  "pos": "phó từ",
+  "meaning": "vội vàng",
+  "level": 3
+ },
+ {
+  "id": "3-0449",
+  "hanzi": "连续",
+  "pinyin": "liánxù",
+  "pos": "động từ",
+  "meaning": "liên tục, liên tiếp",
+  "level": 3
+ },
+ {
+  "id": "3-0450",
+  "hanzi": "连续剧",
+  "pinyin": "liánxùjù",
+  "pos": "danh từ",
+  "meaning": "phim bộ, phim nhiều tập",
+  "level": 3
+ }
+]

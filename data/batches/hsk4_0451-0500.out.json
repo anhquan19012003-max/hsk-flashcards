@@ -1,0 +1,452 @@
+[
+ {
+  "id": "4-0451",
+  "pos": "động từ",
+  "example": {
+   "zh": "学校要扩展操场。",
+   "pinyin": "Xuéxiào yào kuòzhǎn cāochǎng.",
+   "vi": "Trường học muốn mở rộng sân tập."
+  }
+ },
+ {
+  "id": "4-0452",
+  "pos": "danh từ",
+  "example": {
+   "zh": "数学题里有很多括号。",
+   "pinyin": "Shùxué tí lǐ yǒu hěn duō kuòhào.",
+   "vi": "Trong bài toán có rất nhiều dấu ngoặc."
+  }
+ },
+ {
+  "id": "4-0453",
+  "pos": "danh từ",
+  "example": {
+   "zh": "请把垃圾放进垃圾桶。",
+   "pinyin": "Qǐng bǎ lājī fàngjìn lājītǒng.",
+   "vi": "Làm ơn bỏ rác vào thùng rác."
+  }
+ },
+ {
+  "id": "4-0454",
+  "pos": "động từ",
+  "example": {
+   "zh": "他用力拉开了窗帘。",
+   "pinyin": "Tā yònglì lākāi le chuānglián.",
+   "vi": "Anh ấy dùng sức kéo rèm cửa ra."
+  }
+ },
+ {
+  "id": "4-0455",
+  "pos": "tính từ",
+  "example": {
+   "zh": "这个菜太辣了，我吃不了。",
+   "pinyin": "Zhège cài tài là le, wǒ chī bu liǎo.",
+   "vi": "Món này cay quá, tôi ăn không nổi."
+  }
+ },
+ {
+  "id": "4-0456",
+  "pos": "động từ",
+  "example": {
+   "zh": "我起床晚了，来不及吃早饭。",
+   "pinyin": "Wǒ qǐchuáng wǎn le, láibují chī zǎofàn.",
+   "vi": "Tôi dậy muộn nên không kịp ăn sáng."
+  }
+ },
+ {
+  "id": "4-0457",
+  "pos": "động từ",
+  "example": {
+   "zh": "别担心，现在走还来得及。",
+   "pinyin": "Bié dānxīn, xiànzài zǒu hái láidejí.",
+   "vi": "Đừng lo, bây giờ đi vẫn còn kịp."
+  }
+ },
+ {
+  "id": "4-0458",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个词的来源很有意思。",
+   "pinyin": "Zhège cí de láiyuán hěn yǒu yìsi.",
+   "vi": "Nguồn gốc của từ này rất thú vị."
+  }
+ },
+ {
+  "id": "4-0459",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我老公每天早上做饭。",
+   "pinyin": "Wǒ lǎogōng měitiān zǎoshang zuò fàn.",
+   "vi": "Chồng tôi mỗi sáng đều nấu ăn."
+  }
+ },
+ {
+  "id": "4-0460",
+  "pos": "danh từ",
+  "example": {
+   "zh": "春节的时候，我回老家看爸妈。",
+   "pinyin": "Chūnjié de shíhou, wǒ huí lǎojiā kàn bàmā.",
+   "vi": "Dịp Tết, tôi về quê thăm bố mẹ."
+  }
+ },
+ {
+  "id": "4-0461",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我老婆很喜欢做菜。",
+   "pinyin": "Wǒ lǎopo hěn xǐhuan zuò cài.",
+   "vi": "Vợ tôi rất thích nấu ăn."
+  }
+ },
+ {
+  "id": "4-0462",
+  "pos": "tính từ",
+  "example": {
+   "zh": "他很老实，从来不说谎。",
+   "pinyin": "Tā hěn lǎoshi, cónglái bù shuōhuǎng.",
+   "vi": "Anh ấy rất thật thà, chưa bao giờ nói dối."
+  }
+ },
+ {
+  "id": "4-0463",
+  "pos": "danh từ",
+  "example": {
+   "zh": "读书是一种很大的乐趣。",
+   "pinyin": "Dúshū shì yì zhǒng hěn dà de lèqù.",
+   "vi": "Đọc sách là một niềm vui rất lớn."
+  }
+ },
+ {
+  "id": "4-0464",
+  "pos": "danh từ",
+  "example": {
+   "zh": "她眼里含着泪。",
+   "pinyin": "Tā yǎn lǐ hánzhe lèi.",
+   "vi": "Trong mắt cô ấy ngấn lệ."
+  }
+ },
+ {
+  "id": "4-0465",
+  "pos": "danh từ",
+  "example": {
+   "zh": "看到这个故事，他的泪水流了下来。",
+   "pinyin": "Kàndào zhège gùshi, tā de lèishuǐ liú le xiàlái.",
+   "vi": "Đọc câu chuyện này, nước mắt anh ấy đã rơi xuống."
+  }
+ },
+ {
+  "id": "4-0466",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这本书是哪一类型的？",
+   "pinyin": "Zhè běn shū shì nǎ yí lèixíng de?",
+   "vi": "Cuốn sách này thuộc loại nào?"
+  }
+ },
+ {
+  "id": "4-0467",
+  "pos": "tính từ, động từ",
+  "example": {
+   "zh": "遇到问题要冷静，不要着急。",
+   "pinyin": "Yùdào wèntí yào lěngjìng, bú yào zhāojí.",
+   "vi": "Gặp vấn đề phải bình tĩnh, đừng vội vàng."
+  }
+ },
+ {
+  "id": "4-0468",
+  "pos": "lượng từ",
+  "example": {
+   "zh": "这张纸长二十厘米。",
+   "pinyin": "Zhè zhāng zhǐ cháng èrshí límǐ.",
+   "vi": "Tờ giấy này dài hai mươi xentimét."
+  }
+ },
+ {
+  "id": "4-0469",
+  "pos": "động từ",
+  "example": {
+   "zh": "我离不开手机。",
+   "pinyin": "Wǒ lí bù kāi shǒujī.",
+   "vi": "Tôi không thể rời điện thoại."
+  }
+ },
+ {
+  "id": "4-0470",
+  "pos": "danh từ",
+  "example": {
+   "zh": "他的力气很大，能提起这个箱子。",
+   "pinyin": "Tā de lìqi hěn dà, néng tíqǐ zhège xiāngzi.",
+   "vi": "Sức anh ấy rất khỏe, có thể nhấc được chiếc hòm này."
+  }
+ },
+ {
+  "id": "4-0471",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我很喜欢中国历史。",
+   "pinyin": "Wǒ hěn xǐhuan Zhōngguó lìshǐ.",
+   "vi": "Tôi rất thích lịch sử Trung Quốc."
+  }
+ },
+ {
+  "id": "4-0472",
+  "pos": "phó từ",
+  "example": {
+   "zh": "收到邮件后请立即回复。",
+   "pinyin": "Shōudào yóujiàn hòu qǐng lìjí huífù.",
+   "vi": "Sau khi nhận email, xin hãy trả lời ngay lập tức."
+  }
+ },
+ {
+  "id": "4-0473",
+  "pos": "danh từ",
+  "example": {
+   "zh": "银行存款有利息。",
+   "pinyin": "Yínháng cúnkuǎn yǒu lìxī.",
+   "vi": "Gửi tiền ở ngân hàng có lãi suất."
+  }
+ },
+ {
+  "id": "4-0474",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我们要考虑大家的利益。",
+   "pinyin": "Wǒmen yào kǎolǜ dàjiā de lìyì.",
+   "vi": "Chúng ta phải cân nhắc lợi ích của mọi người."
+  }
+ },
+ {
+  "id": "4-0475",
+  "pos": "số từ",
+  "example": {
+   "zh": "我们俩是好朋友。",
+   "pinyin": "Wǒmen liǎ shì hǎo péngyou.",
+   "vi": "Hai chúng tôi là bạn tốt."
+  }
+ },
+ {
+  "id": "4-0476",
+  "pos": "tính từ",
+  "example": {
+   "zh": "他的成绩很良好。",
+   "pinyin": "Tā de chéngjì hěn liánghǎo.",
+   "vi": "Thành tích của anh ấy rất tốt."
+  }
+ },
+ {
+  "id": "4-0477",
+  "pos": "động từ",
+  "example": {
+   "zh": "请量一下桌子。",
+   "pinyin": "Qǐng liáng yíxià zhuōzi.",
+   "vi": "Làm ơn đo thử cái bàn."
+  }
+ },
+ {
+  "id": "4-0478",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我们不能浪费粮食。",
+   "pinyin": "Wǒmen bù néng làngfèi liángshi.",
+   "vi": "Chúng ta không được lãng phí lương thực."
+  }
+ },
+ {
+  "id": "4-0479",
+  "pos": "danh từ",
+  "example": {
+   "zh": "马路两边有很多树。",
+   "pinyin": "Mǎlù liǎngbiān yǒu hěn duō shù.",
+   "vi": "Hai bên đường có rất nhiều cây."
+  }
+ },
+ {
+  "id": "4-0480",
+  "pos": "động từ",
+  "example": {
+   "zh": "奶奶在海边疗养。",
+   "pinyin": "Nǎinai zài hǎibiān liáoyǎng.",
+   "vi": "Bà đang điều dưỡng ở bờ biển."
+  }
+ },
+ {
+  "id": "4-0481",
+  "pos": "tính từ",
+  "example": {
+   "zh": "他十岁就会弹钢琴，真了不起。",
+   "pinyin": "Tā shí suì jiù huì tán gāngqín, zhēn liǎobuqǐ.",
+   "vi": "Anh ấy mười tuổi đã biết chơi piano, thật giỏi."
+  }
+ },
+ {
+  "id": "4-0482",
+  "pos": "động từ",
+  "example": {
+   "zh": "我想了解你的想法。",
+   "pinyin": "Wǒ xiǎng liǎojiě nǐ de xiǎngfǎ.",
+   "vi": "Tôi muốn hiểu rõ suy nghĩ của bạn."
+  }
+ },
+ {
+  "id": "4-0483",
+  "pos": "động từ",
+  "example": {
+   "zh": "请把需要的东西列在纸上。",
+   "pinyin": "Qǐng bǎ xūyào de dōngxi liè zài zhǐ shàng.",
+   "vi": "Hãy liệt kê những thứ cần thiết lên giấy."
+  }
+ },
+ {
+  "id": "4-0484",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这趟列车八点出发。",
+   "pinyin": "Zhè tàng lièchē bā diǎn chūfā.",
+   "vi": "Chuyến tàu này khởi hành lúc tám giờ."
+  }
+ },
+ {
+  "id": "4-0485",
+  "pos": "động từ",
+  "example": {
+   "zh": "这件事已经列入计划。",
+   "pinyin": "Zhè jiàn shì yǐjīng lièrù jìhuà.",
+   "vi": "Việc này đã được đưa vào kế hoạch."
+  }
+ },
+ {
+  "id": "4-0486",
+  "pos": "động từ",
+  "example": {
+   "zh": "这里被列为重点保护区。",
+   "pinyin": "Zhèlǐ bèi lièwéi zhòngdiǎn bǎohù qū.",
+   "vi": "Nơi này được xếp vào khu bảo vệ trọng điểm."
+  }
+ },
+ {
+  "id": "4-0487",
+  "pos": "tính từ",
+  "example": {
+   "zh": "我找到了一个临时工作。",
+   "pinyin": "Wǒ zhǎo dào le yí ge línshí gōngzuò.",
+   "vi": "Tôi đã tìm được một công việc tạm thời."
+  }
+ },
+ {
+  "id": "4-0488",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我喜欢在看电影时吃零食。",
+   "pinyin": "Wǒ xǐhuan zài kàn diànyǐng shí chī língshí.",
+   "vi": "Tôi thích ăn đồ ăn vặt khi xem phim."
+  }
+ },
+ {
+  "id": "4-0489",
+  "pos": "động từ",
+  "example": {
+   "zh": "这个故事流传很久了。",
+   "pinyin": "Zhège gùshi liúchuán hěn jiǔ le.",
+   "vi": "Câu chuyện này đã được lưu truyền từ lâu."
+  }
+ },
+ {
+  "id": "4-0490",
+  "pos": "danh từ",
+  "example": {
+   "zh": "电梯坏了，我们只好走楼梯。",
+   "pinyin": "Diàntī huài le, wǒmen zhǐhǎo zǒu lóutī.",
+   "vi": "Thang máy hỏng rồi, chúng tôi đành đi cầu thang."
+  }
+ },
+ {
+  "id": "4-0491",
+  "pos": "danh từ",
+  "example": {
+   "zh": "鱼生活在水里，人生活在陆地上。",
+   "pinyin": "Yú shēnghuó zài shuǐ lǐ, rén shēnghuó zài lùdì shàng.",
+   "vi": "Cá sống dưới nước, người sống trên đất liền."
+  }
+ },
+ {
+  "id": "4-0492",
+  "pos": "phó từ",
+  "example": {
+   "zh": "客人陆续到了。",
+   "pinyin": "Kèrén lùxù dào le.",
+   "vi": "Khách lần lượt đã đến."
+  }
+ },
+ {
+  "id": "4-0493",
+  "pos": "động từ",
+  "example": {
+   "zh": "他被大学录取了。",
+   "pinyin": "Tā bèi dàxué lùqǔ le.",
+   "vi": "Anh ấy đã trúng tuyển vào đại học."
+  }
+ },
+ {
+  "id": "4-0494",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我想当一名律师。",
+   "pinyin": "Wǒ xiǎng dāng yì míng lǜshī.",
+   "vi": "Tôi muốn trở thành một luật sư."
+  }
+ },
+ {
+  "id": "4-0495",
+  "pos": "lượng từ",
+  "example": {
+   "zh": "这一轮比赛我赢了。",
+   "pinyin": "Zhè yì lún bǐsài wǒ yíng le.",
+   "vi": "Vòng đấu này tôi đã thắng."
+  }
+ },
+ {
+  "id": "4-0496",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我们坐轮船去上海。",
+   "pinyin": "Wǒmen zuò lúnchuán qù Shànghǎi.",
+   "vi": "Chúng tôi đi tàu thủy đến Thượng Hải."
+  }
+ },
+ {
+  "id": "4-0497",
+  "pos": "danh từ",
+  "example": {
+   "zh": "爷爷腿不好，要坐轮椅。",
+   "pinyin": "Yéye tuǐ bù hǎo, yào zuò lúnyǐ.",
+   "vi": "Ông chân yếu, phải ngồi xe lăn."
+  }
+ },
+ {
+  "id": "4-0498",
+  "pos": "danh từ",
+  "example": {
+   "zh": "这个行李箱的轮子坏了。",
+   "pinyin": "Zhège xínglǐxiāng de lúnzi huài le.",
+   "vi": "Bánh xe của chiếc vali này bị hỏng rồi."
+  }
+ },
+ {
+  "id": "4-0499",
+  "pos": "danh từ",
+  "example": {
+   "zh": "我正在写毕业论文。",
+   "pinyin": "Wǒ zhèngzài xiě bìyè lùnwén.",
+   "vi": "Tôi đang viết luận văn tốt nghiệp."
+  }
+ },
+ {
+  "id": "4-0500",
+  "pos": "động từ",
+  "example": {
+   "zh": "树叶从树上落下来了。",
+   "pinyin": "Shùyè cóng shù shàng luò xiàlái le.",
+   "vi": "Lá cây từ trên cây rơi xuống rồi."
+  }
+ }
+]

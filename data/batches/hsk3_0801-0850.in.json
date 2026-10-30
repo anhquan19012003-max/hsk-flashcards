@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0801",
+  "hanzi": "信封",
+  "pinyin": "xìnfēng",
+  "pos": "danh từ",
+  "meaning": "phong bì",
+  "level": 3
+ },
+ {
+  "id": "3-0802",
+  "hanzi": "信任",
+  "pinyin": "xìnrèn",
+  "pos": "động từ",
+  "meaning": "tín nhiệm, tin cậy",
+  "level": 3
+ },
+ {
+  "id": "3-0803",
+  "hanzi": "行李",
+  "pinyin": "xíngli",
+  "pos": "danh từ",
+  "meaning": "hành lý",
+  "level": 3
+ },
+ {
+  "id": "3-0804",
+  "hanzi": "形成",
+  "pinyin": "xíngchéng",
+  "pos": "động từ",
+  "meaning": "hình thành",
+  "level": 3
+ },
+ {
+  "id": "3-0805",
+  "hanzi": "形式",
+  "pinyin": "xíngshì",
+  "pos": "danh từ",
+  "meaning": "hình thức",
+  "level": 3
+ },
+ {
+  "id": "3-0806",
+  "hanzi": "形象",
+  "pinyin": "xíngxiàng",
+  "pos": "danh từ, tính từ",
+  "meaning": "hình tượng, hình ảnh; sinh động",
+  "level": 3
+ },
+ {
+  "id": "3-0807",
+  "hanzi": "形状",
+  "pinyin": "xíngzhuàng",
+  "pos": "danh từ",
+  "meaning": "hình dạng",
+  "level": 3
+ },
+ {
+  "id": "3-0808",
+  "hanzi": "幸福",
+  "pinyin": "xìngfú",
+  "pos": "tính từ, danh từ",
+  "meaning": "hạnh phúc",
+  "level": 3
+ },
+ {
+  "id": "3-0809",
+  "hanzi": "幸运",
+  "pinyin": "xìngyùn",
+  "pos": "tính từ",
+  "meaning": "may mắn",
+  "level": 3
+ },
+ {
+  "id": "3-0810",
+  "hanzi": "性",
+  "pinyin": "xìng",
+  "pos": "hậu tố",
+  "meaning": "tính (hậu tố, VD: tính tích cực)",
+  "level": 3
+ },
+ {
+  "id": "3-0811",
+  "hanzi": "性别",
+  "pinyin": "xìngbié",
+  "pos": "danh từ",
+  "meaning": "giới tính",
+  "level": 3
+ },
+ {
+  "id": "3-0812",
+  "hanzi": "性格",
+  "pinyin": "xìnggé",
+  "pos": "danh từ",
+  "meaning": "tính cách",
+  "level": 3
+ },
+ {
+  "id": "3-0813",
+  "hanzi": "修",
+  "pinyin": "xiū",
+  "pos": "động từ",
+  "meaning": "sửa (1 chữ); xây",
+  "level": 3
+ },
+ {
+  "id": "3-0814",
+  "hanzi": "修改",
+  "pinyin": "xiūgǎi",
+  "pos": "động từ",
+  "meaning": "sửa đổi, chỉnh sửa (văn bản)",
+  "level": 3
+ },
+ {
+  "id": "3-0815",
+  "hanzi": "需求",
+  "pinyin": "xūqiú",
+  "pos": "danh từ",
+  "meaning": "nhu cầu (需求)",
+  "level": 3
+ },
+ {
+  "id": "3-0816",
+  "hanzi": "需要",
+  "pinyin": "xūyào",
+  "pos": "động từ, danh từ",
+  "meaning": "cần; nhu cầu",
+  "level": 3
+ },
+ {
+  "id": "3-0817",
+  "hanzi": "宣布",
+  "pinyin": "xuānbù",
+  "pos": "động từ",
+  "meaning": "tuyên bố, công bố",
+  "level": 3
+ },
+ {
+  "id": "3-0818",
+  "hanzi": "宣传",
+  "pinyin": "xuānchuán",
+  "pos": "động từ, danh từ",
+  "meaning": "tuyên truyền, quảng bá",
+  "level": 3
+ },
+ {
+  "id": "3-0819",
+  "hanzi": "选手",
+  "pinyin": "xuǎnshǒu",
+  "pos": "danh từ",
+  "meaning": "tuyển thủ, thí sinh",
+  "level": 3
+ },
+ {
+  "id": "3-0820",
+  "hanzi": "学费",
+  "pinyin": "xuéfèi",
+  "pos": "danh từ",
+  "meaning": "học phí",
+  "level": 3
+ },
+ {
+  "id": "3-0821",
+  "hanzi": "训练",
+  "pinyin": "xùnliàn",
+  "pos": "động từ, danh từ",
+  "meaning": "huấn luyện",
+  "level": 3
+ },
+ {
+  "id": "3-0822",
+  "hanzi": "压",
+  "pinyin": "yā",
+  "pos": "động từ",
+  "meaning": "ép, đè, nén",
+  "level": 3
+ },
+ {
+  "id": "3-0823",
+  "hanzi": "压力",
+  "pinyin": "yālì",
+  "pos": "danh từ",
+  "meaning": "áp lực",
+  "level": 3
+ },
+ {
+  "id": "3-0824",
+  "hanzi": "烟",
+  "pinyin": "yān",
+  "pos": "danh từ",
+  "meaning": "khói; thuốc lá",
+  "level": 3
+ },
+ {
+  "id": "3-0825",
+  "hanzi": "眼前",
+  "pinyin": "yǎnqián",
+  "pos": "danh từ",
+  "meaning": "trước mắt",
+  "level": 3
+ },
+ {
+  "id": "3-0826",
+  "hanzi": "演",
+  "pinyin": "yǎn",
+  "pos": "động từ",
+  "meaning": "diễn (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0827",
+  "hanzi": "演唱",
+  "pinyin": "yǎnchàng",
+  "pos": "động từ",
+  "meaning": "biểu diễn (ca hát)",
+  "level": 3
+ },
+ {
+  "id": "3-0828",
+  "hanzi": "演唱会",
+  "pinyin": "yǎnchànghuì",
+  "pos": "danh từ",
+  "meaning": "buổi biểu diễn ca nhạc, concert",
+  "level": 3
+ },
+ {
+  "id": "3-0829",
+  "hanzi": "演出",
+  "pinyin": "yǎnchū",
+  "pos": "động từ, danh từ",
+  "meaning": "biểu diễn; buổi biểu diễn (演出)",
+  "level": 3
+ },
+ {
+  "id": "3-0830",
+  "hanzi": "演员",
+  "pinyin": "yǎnyuán",
+  "pos": "danh từ",
+  "meaning": "diễn viên",
+  "level": 3
+ },
+ {
+  "id": "3-0831",
+  "hanzi": "羊",
+  "pinyin": "yáng",
+  "pos": "danh từ",
+  "meaning": "con dê, con cừu",
+  "level": 3
+ },
+ {
+  "id": "3-0832",
+  "hanzi": "阳光",
+  "pinyin": "yángguāng",
+  "pos": "danh từ",
+  "meaning": "ánh nắng",
+  "level": 3
+ },
+ {
+  "id": "3-0833",
+  "hanzi": "要是",
+  "pinyin": "yàoshi",
+  "pos": "liên từ",
+  "meaning": "nếu như (要是)",
+  "level": 3
+ },
+ {
+  "id": "3-0834",
+  "hanzi": "衣架",
+  "pinyin": "yījià",
+  "pos": "danh từ",
+  "meaning": "móc áo",
+  "level": 3
+ },
+ {
+  "id": "3-0835",
+  "hanzi": "一切",
+  "pinyin": "yíqiè",
+  "pos": "đại từ",
+  "meaning": "tất cả, hết thảy",
+  "level": 3
+ },
+ {
+  "id": "3-0836",
+  "hanzi": "已",
+  "pinyin": "yǐ",
+  "pos": "phó từ",
+  "meaning": "đã (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0837",
+  "hanzi": "以来",
+  "pinyin": "yǐlái",
+  "pos": "danh từ",
+  "meaning": "từ trước đến nay, kể từ",
+  "level": 3
+ },
+ {
+  "id": "3-0838",
+  "hanzi": "一方面",
+  "pinyin": "yìfāngmiàn",
+  "pos": "danh từ",
+  "meaning": "một mặt",
+  "level": 3
+ },
+ {
+  "id": "3-0839",
+  "hanzi": "艺术",
+  "pinyin": "yìshù",
+  "pos": "danh từ",
+  "meaning": "nghệ thuật",
+  "level": 3
+ },
+ {
+  "id": "3-0840",
+  "hanzi": "意外",
+  "pinyin": "yìwài",
+  "pos": "tính từ, danh từ",
+  "meaning": "bất ngờ; tai nạn",
+  "level": 3
+ },
+ {
+  "id": "3-0841",
+  "hanzi": "意义",
+  "pinyin": "yìyì",
+  "pos": "danh từ",
+  "meaning": "ý nghĩa",
+  "level": 3
+ },
+ {
+  "id": "3-0842",
+  "hanzi": "因此",
+  "pinyin": "yīncǐ",
+  "pos": "liên từ",
+  "meaning": "vì vậy, do đó",
+  "level": 3
+ },
+ {
+  "id": "3-0843",
+  "hanzi": "银",
+  "pinyin": "yín",
+  "pos": "danh từ",
+  "meaning": "bạc",
+  "level": 3
+ },
+ {
+  "id": "3-0844",
+  "hanzi": "银牌",
+  "pinyin": "yínpái",
+  "pos": "danh từ",
+  "meaning": "huy chương bạc",
+  "level": 3
+ },
+ {
+  "id": "3-0845",
+  "hanzi": "印象",
+  "pinyin": "yìnxiàng",
+  "pos": "danh từ",
+  "meaning": "ấn tượng",
+  "level": 3
+ },
+ {
+  "id": "3-0846",
+  "hanzi": "应当",
+  "pinyin": "yīngdāng",
+  "pos": "động từ",
+  "meaning": "nên, cần phải (应当)",
+  "level": 3
+ },
+ {
+  "id": "3-0847",
+  "hanzi": "迎接",
+  "pinyin": "yíngjiē",
+  "pos": "động từ",
+  "meaning": "đón tiếp, nghênh đón",
+  "level": 3
+ },
+ {
+  "id": "3-0848",
+  "hanzi": "营养",
+  "pinyin": "yíngyǎng",
+  "pos": "danh từ",
+  "meaning": "dinh dưỡng",
+  "level": 3
+ },
+ {
+  "id": "3-0849",
+  "hanzi": "赢",
+  "pinyin": "yíng",
+  "pos": "động từ",
+  "meaning": "thắng (赢)",
+  "level": 3
+ },
+ {
+  "id": "3-0850",
+  "hanzi": "影视",
+  "pinyin": "yǐngshì",
+  "pos": "danh từ",
+  "meaning": "điện ảnh và truyền hình",
+  "level": 3
+ }
+]

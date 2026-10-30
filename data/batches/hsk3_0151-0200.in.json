@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0151",
+  "hanzi": "电台",
+  "pinyin": "diàntái",
+  "pos": "danh từ",
+  "meaning": "đài phát thanh",
+  "level": 3
+ },
+ {
+  "id": "3-0152",
+  "hanzi": "电子邮件",
+  "pinyin": "diànzǐ yóujiàn",
+  "pos": "cụm từ",
+  "meaning": "thư điện tử, email",
+  "level": 3
+ },
+ {
+  "id": "3-0153",
+  "hanzi": "调",
+  "pinyin": "diào",
+  "pos": "động từ",
+  "meaning": "điều động, thuyên chuyển",
+  "level": 3
+ },
+ {
+  "id": "3-0154",
+  "hanzi": "调查",
+  "pinyin": "diàochá",
+  "pos": "động từ, danh từ",
+  "meaning": "điều tra, khảo sát",
+  "level": 3
+ },
+ {
+  "id": "3-0155",
+  "hanzi": "订",
+  "pinyin": "dìng",
+  "pos": "động từ",
+  "meaning": "đặt (trước), đặt mua",
+  "level": 3
+ },
+ {
+  "id": "3-0156",
+  "hanzi": "定期",
+  "pinyin": "dìngqī",
+  "pos": "động từ, tính từ",
+  "meaning": "định kỳ",
+  "level": 3
+ },
+ {
+  "id": "3-0157",
+  "hanzi": "东部",
+  "pinyin": "dōngbù",
+  "pos": "danh từ",
+  "meaning": "miền Đông, phía Đông",
+  "level": 3
+ },
+ {
+  "id": "3-0158",
+  "hanzi": "动力",
+  "pinyin": "dònglì",
+  "pos": "danh từ",
+  "meaning": "động lực",
+  "level": 3
+ },
+ {
+  "id": "3-0159",
+  "hanzi": "动人",
+  "pinyin": "dòngrén",
+  "pos": "tính từ",
+  "meaning": "cảm động, lay động lòng người",
+  "level": 3
+ },
+ {
+  "id": "3-0160",
+  "hanzi": "读者",
+  "pinyin": "dúzhě",
+  "pos": "danh từ",
+  "meaning": "độc giả",
+  "level": 3
+ },
+ {
+  "id": "3-0161",
+  "hanzi": "短处",
+  "pinyin": "duǎnchù",
+  "pos": "danh từ",
+  "meaning": "điểm yếu, sở đoản",
+  "level": 3
+ },
+ {
+  "id": "3-0162",
+  "hanzi": "短裤",
+  "pinyin": "duǎnkù",
+  "pos": "danh từ",
+  "meaning": "quần đùi, quần soóc",
+  "level": 3
+ },
+ {
+  "id": "3-0163",
+  "hanzi": "短期",
+  "pinyin": "duǎnqī",
+  "pos": "danh từ",
+  "meaning": "ngắn hạn",
+  "level": 3
+ },
+ {
+  "id": "3-0164",
+  "hanzi": "断",
+  "pinyin": "duàn",
+  "pos": "động từ",
+  "meaning": "đứt, cắt đứt",
+  "level": 3
+ },
+ {
+  "id": "3-0165",
+  "hanzi": "队员",
+  "pinyin": "duìyuán",
+  "pos": "danh từ",
+  "meaning": "đội viên",
+  "level": 3
+ },
+ {
+  "id": "3-0166",
+  "hanzi": "对待",
+  "pinyin": "duìdài",
+  "pos": "động từ",
+  "meaning": "đối xử, đối đãi",
+  "level": 3
+ },
+ {
+  "id": "3-0167",
+  "hanzi": "对方",
+  "pinyin": "duìfāng",
+  "pos": "danh từ",
+  "meaning": "đối phương, bên kia",
+  "level": 3
+ },
+ {
+  "id": "3-0168",
+  "hanzi": "对手",
+  "pinyin": "duìshǒu",
+  "pos": "danh từ",
+  "meaning": "đối thủ",
+  "level": 3
+ },
+ {
+  "id": "3-0169",
+  "hanzi": "对象",
+  "pinyin": "duìxiàng",
+  "pos": "danh từ",
+  "meaning": "đối tượng; người yêu",
+  "level": 3
+ },
+ {
+  "id": "3-0170",
+  "hanzi": "顿",
+  "pinyin": "dùn",
+  "pos": "lượng từ",
+  "meaning": "bữa, trận (lượng từ)",
+  "level": 3
+ },
+ {
+  "id": "3-0171",
+  "hanzi": "发表",
+  "pinyin": "fābiǎo",
+  "pos": "động từ",
+  "meaning": "công bố, đăng (bài)",
+  "level": 3
+ },
+ {
+  "id": "3-0172",
+  "hanzi": "发出",
+  "pinyin": "fāchū",
+  "pos": "động từ",
+  "meaning": "phát ra, tỏa ra",
+  "level": 3
+ },
+ {
+  "id": "3-0173",
+  "hanzi": "发达",
+  "pinyin": "fādá",
+  "pos": "tính từ",
+  "meaning": "phát triển, phát đạt",
+  "level": 3
+ },
+ {
+  "id": "3-0174",
+  "hanzi": "发动",
+  "pinyin": "fādòng",
+  "pos": "động từ",
+  "meaning": "phát động, khởi động",
+  "level": 3
+ },
+ {
+  "id": "3-0175",
+  "hanzi": "发明",
+  "pinyin": "fāmíng",
+  "pos": "động từ, danh từ",
+  "meaning": "phát minh",
+  "level": 3
+ },
+ {
+  "id": "3-0176",
+  "hanzi": "发生",
+  "pinyin": "fāshēng",
+  "pos": "động từ",
+  "meaning": "xảy ra, phát sinh",
+  "level": 3
+ },
+ {
+  "id": "3-0177",
+  "hanzi": "发送",
+  "pinyin": "fāsòng",
+  "pos": "động từ",
+  "meaning": "gửi đi (tin, email)",
+  "level": 3
+ },
+ {
+  "id": "3-0178",
+  "hanzi": "发言",
+  "pinyin": "fāyán",
+  "pos": "động từ, danh từ",
+  "meaning": "phát biểu",
+  "level": 3
+ },
+ {
+  "id": "3-0179",
+  "hanzi": "发展",
+  "pinyin": "fāzhǎn",
+  "pos": "động từ, danh từ",
+  "meaning": "phát triển",
+  "level": 3
+ },
+ {
+  "id": "3-0180",
+  "hanzi": "反对",
+  "pinyin": "fǎnduì",
+  "pos": "động từ",
+  "meaning": "phản đối",
+  "level": 3
+ },
+ {
+  "id": "3-0181",
+  "hanzi": "反复",
+  "pinyin": "fǎnfù",
+  "pos": "phó từ, danh từ",
+  "meaning": "lặp đi lặp lại",
+  "level": 3
+ },
+ {
+  "id": "3-0182",
+  "hanzi": "反应",
+  "pinyin": "fǎnyìng",
+  "pos": "động từ, danh từ",
+  "meaning": "phản ứng",
+  "level": 3
+ },
+ {
+  "id": "3-0183",
+  "hanzi": "反正",
+  "pinyin": "fǎnzhèng",
+  "pos": "phó từ",
+  "meaning": "dù sao thì",
+  "level": 3
+ },
+ {
+  "id": "3-0184",
+  "hanzi": "范围",
+  "pinyin": "fànwéi",
+  "pos": "danh từ",
+  "meaning": "phạm vi",
+  "level": 3
+ },
+ {
+  "id": "3-0185",
+  "hanzi": "方式",
+  "pinyin": "fāngshì",
+  "pos": "danh từ",
+  "meaning": "phương thức, cách thức",
+  "level": 3
+ },
+ {
+  "id": "3-0186",
+  "hanzi": "防",
+  "pinyin": "fáng",
+  "pos": "động từ",
+  "meaning": "phòng, đề phòng (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0187",
+  "hanzi": "防止",
+  "pinyin": "fángzhǐ",
+  "pos": "động từ",
+  "meaning": "ngăn chặn, phòng ngừa (防止)",
+  "level": 3
+ },
+ {
+  "id": "3-0188",
+  "hanzi": "房东",
+  "pinyin": "fángdōng",
+  "pos": "danh từ",
+  "meaning": "chủ nhà (cho thuê)",
+  "level": 3
+ },
+ {
+  "id": "3-0189",
+  "hanzi": "房屋",
+  "pinyin": "fángwū",
+  "pos": "danh từ",
+  "meaning": "nhà cửa",
+  "level": 3
+ },
+ {
+  "id": "3-0190",
+  "hanzi": "房租",
+  "pinyin": "fángzū",
+  "pos": "danh từ",
+  "meaning": "tiền thuê nhà",
+  "level": 3
+ },
+ {
+  "id": "3-0191",
+  "hanzi": "访问",
+  "pinyin": "fǎngwèn",
+  "pos": "động từ",
+  "meaning": "thăm viếng, phỏng vấn; truy cập",
+  "level": 3
+ },
+ {
+  "id": "3-0192",
+  "hanzi": "放到",
+  "pinyin": "fàngdào",
+  "pos": "cụm từ",
+  "meaning": "đặt vào, để vào",
+  "level": 3
+ },
+ {
+  "id": "3-0193",
+  "hanzi": "飞行",
+  "pinyin": "fēixíng",
+  "pos": "động từ",
+  "meaning": "bay, phi hành",
+  "level": 3
+ },
+ {
+  "id": "3-0194",
+  "hanzi": "费",
+  "pinyin": "fèi",
+  "pos": "động từ, danh từ",
+  "meaning": "tốn; phí, chi phí (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0195",
+  "hanzi": "费用",
+  "pinyin": "fèiyong",
+  "pos": "danh từ",
+  "meaning": "chi phí",
+  "level": 3
+ },
+ {
+  "id": "3-0196",
+  "hanzi": "分别",
+  "pinyin": "fēnbié",
+  "pos": "động từ, phó từ",
+  "meaning": "chia tay; phân biệt; lần lượt",
+  "level": 3
+ },
+ {
+  "id": "3-0197",
+  "hanzi": "分配",
+  "pinyin": "fēnpèi",
+  "pos": "động từ",
+  "meaning": "phân phối, phân công",
+  "level": 3
+ },
+ {
+  "id": "3-0198",
+  "hanzi": "分组",
+  "pinyin": "fēn zǔ",
+  "pos": "cụm từ",
+  "meaning": "chia nhóm",
+  "level": 3
+ },
+ {
+  "id": "3-0199",
+  "hanzi": "丰富",
+  "pinyin": "fēngfù",
+  "pos": "tính từ",
+  "meaning": "phong phú",
+  "level": 3
+ },
+ {
+  "id": "3-0200",
+  "hanzi": "风险",
+  "pinyin": "fēngxiǎn",
+  "pos": "danh từ",
+  "meaning": "rủi ro",
+  "level": 3
+ }
+]

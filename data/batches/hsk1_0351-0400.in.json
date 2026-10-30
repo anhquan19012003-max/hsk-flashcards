@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0351",
+  "hanzi": "四",
+  "pinyin": "sì",
+  "pos": "số từ",
+  "meaning": "số 4 (bốn)",
+  "level": 1
+ },
+ {
+  "id": "1-0352",
+  "hanzi": "送",
+  "pinyin": "sòng",
+  "pos": "động từ",
+  "meaning": "tặng, tiễn, đưa",
+  "level": 1
+ },
+ {
+  "id": "1-0353",
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "pos": "lượng từ",
+  "meaning": "tuổi",
+  "level": 1
+ },
+ {
+  "id": "1-0354",
+  "hanzi": "他",
+  "pinyin": "tā",
+  "pos": "đại từ",
+  "meaning": "anh ấy, ông ấy",
+  "level": 1
+ },
+ {
+  "id": "1-0355",
+  "hanzi": "他们",
+  "pinyin": "tāmen",
+  "pos": "đại từ",
+  "meaning": "họ (nam / chung)",
+  "level": 1
+ },
+ {
+  "id": "1-0356",
+  "hanzi": "她",
+  "pinyin": "tā",
+  "pos": "đại từ",
+  "meaning": "cô ấy, chị ấy",
+  "level": 1
+ },
+ {
+  "id": "1-0357",
+  "hanzi": "她们",
+  "pinyin": "tāmen",
+  "pos": "đại từ",
+  "meaning": "họ (nữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0358",
+  "hanzi": "太",
+  "pinyin": "tài",
+  "pos": "phó từ",
+  "meaning": "quá",
+  "level": 1
+ },
+ {
+  "id": "1-0359",
+  "hanzi": "天",
+  "pinyin": "tiān",
+  "pos": "danh từ, lượng từ",
+  "meaning": "trời; ngày (天)",
+  "level": 1
+ },
+ {
+  "id": "1-0360",
+  "hanzi": "天气",
+  "pinyin": "tiānqì",
+  "pos": "danh từ",
+  "meaning": "thời tiết",
+  "level": 1
+ },
+ {
+  "id": "1-0361",
+  "hanzi": "听",
+  "pinyin": "tīng",
+  "pos": "động từ",
+  "meaning": "nghe",
+  "level": 1
+ },
+ {
+  "id": "1-0362",
+  "hanzi": "听到",
+  "pinyin": "tīngdào",
+  "pos": "cụm từ",
+  "meaning": "nghe được",
+  "level": 1
+ },
+ {
+  "id": "1-0363",
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "pos": "cụm từ",
+  "meaning": "nghe thấy",
+  "level": 1
+ },
+ {
+  "id": "1-0364",
+  "hanzi": "听写",
+  "pinyin": "tīngxiě",
+  "pos": "động từ",
+  "meaning": "nghe viết, chính tả",
+  "level": 1
+ },
+ {
+  "id": "1-0365",
+  "hanzi": "同学",
+  "pinyin": "tóngxué",
+  "pos": "danh từ",
+  "meaning": "bạn học",
+  "level": 1
+ },
+ {
+  "id": "1-0366",
+  "hanzi": "图书馆",
+  "pinyin": "túshūguǎn",
+  "pos": "danh từ",
+  "meaning": "thư viện",
+  "level": 1
+ },
+ {
+  "id": "1-0367",
+  "hanzi": "外",
+  "pinyin": "wài",
+  "pos": "danh từ",
+  "meaning": "ngoài (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0368",
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "pos": "danh từ",
+  "meaning": "bên ngoài",
+  "level": 1
+ },
+ {
+  "id": "1-0369",
+  "hanzi": "外国",
+  "pinyin": "wàiguó",
+  "pos": "danh từ",
+  "meaning": "nước ngoài (ngoại quốc)",
+  "level": 1
+ },
+ {
+  "id": "1-0370",
+  "hanzi": "外语",
+  "pinyin": "wàiyǔ",
+  "pos": "danh từ",
+  "meaning": "ngoại ngữ",
+  "level": 1
+ },
+ {
+  "id": "1-0371",
+  "hanzi": "玩儿",
+  "pinyin": "wánr",
+  "pos": "động từ",
+  "meaning": "chơi",
+  "level": 1
+ },
+ {
+  "id": "1-0372",
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "pos": "tính từ",
+  "meaning": "muộn, trễ",
+  "level": 1
+ },
+ {
+  "id": "1-0373",
+  "hanzi": "晚饭",
+  "pinyin": "wǎnfàn",
+  "pos": "danh từ",
+  "meaning": "bữa tối",
+  "level": 1
+ },
+ {
+  "id": "1-0374",
+  "hanzi": "晚上",
+  "pinyin": "wǎnshang",
+  "pos": "danh từ",
+  "meaning": "buổi tối",
+  "level": 1
+ },
+ {
+  "id": "1-0375",
+  "hanzi": "网上",
+  "pinyin": "wǎng shang",
+  "pos": "cụm từ",
+  "meaning": "trên mạng",
+  "level": 1
+ },
+ {
+  "id": "1-0376",
+  "hanzi": "网友",
+  "pinyin": "wǎngyǒu",
+  "pos": "danh từ",
+  "meaning": "bạn trên mạng",
+  "level": 1
+ },
+ {
+  "id": "1-0377",
+  "hanzi": "忘",
+  "pinyin": "wàng",
+  "pos": "động từ",
+  "meaning": "quên (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0378",
+  "hanzi": "忘记",
+  "pinyin": "wàngjì",
+  "pos": "động từ",
+  "meaning": "quên mất",
+  "level": 1
+ },
+ {
+  "id": "1-0379",
+  "hanzi": "问",
+  "pinyin": "wèn",
+  "pos": "động từ",
+  "meaning": "hỏi",
+  "level": 1
+ },
+ {
+  "id": "1-0380",
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "pos": "đại từ",
+  "meaning": "tôi",
+  "level": 1
+ },
+ {
+  "id": "1-0381",
+  "hanzi": "我们",
+  "pinyin": "wǒmen",
+  "pos": "đại từ",
+  "meaning": "chúng tôi",
+  "level": 1
+ },
+ {
+  "id": "1-0382",
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "pos": "số từ",
+  "meaning": "số 5 (năm)",
+  "level": 1
+ },
+ {
+  "id": "1-0383",
+  "hanzi": "午饭",
+  "pinyin": "wǔfàn",
+  "pos": "danh từ",
+  "meaning": "bữa trưa",
+  "level": 1
+ },
+ {
+  "id": "1-0384",
+  "hanzi": "西",
+  "pinyin": "xī",
+  "pos": "danh từ",
+  "meaning": "tây (hướng tây)",
+  "level": 1
+ },
+ {
+  "id": "1-0385",
+  "hanzi": "西边",
+  "pinyin": "xībian",
+  "pos": "danh từ",
+  "meaning": "phía tây",
+  "level": 1
+ },
+ {
+  "id": "1-0386",
+  "hanzi": "洗",
+  "pinyin": "xǐ",
+  "pos": "động từ",
+  "meaning": "rửa, giặt",
+  "level": 1
+ },
+ {
+  "id": "1-0387",
+  "hanzi": "洗手间",
+  "pinyin": "xǐshǒujiān",
+  "pos": "danh từ",
+  "meaning": "nhà vệ sinh",
+  "level": 1
+ },
+ {
+  "id": "1-0388",
+  "hanzi": "喜欢",
+  "pinyin": "xǐhuan",
+  "pos": "động từ",
+  "meaning": "thích",
+  "level": 1
+ },
+ {
+  "id": "1-0389",
+  "hanzi": "下",
+  "pinyin": "xià",
+  "pos": "danh từ, động từ",
+  "meaning": "dưới; xuống",
+  "level": 1
+ },
+ {
+  "id": "1-0390",
+  "hanzi": "下班",
+  "pinyin": "xiàbān",
+  "pos": "cụm từ",
+  "meaning": "tan làm",
+  "level": 1
+ },
+ {
+  "id": "1-0391",
+  "hanzi": "下边",
+  "pinyin": "xiàbian",
+  "pos": "danh từ",
+  "meaning": "phía dưới",
+  "level": 1
+ },
+ {
+  "id": "1-0392",
+  "hanzi": "下车",
+  "pinyin": "xià chē",
+  "pos": "cụm từ",
+  "meaning": "xuống xe",
+  "level": 1
+ },
+ {
+  "id": "1-0393",
+  "hanzi": "下次",
+  "pinyin": "xià cì",
+  "pos": "cụm từ",
+  "meaning": "lần sau",
+  "level": 1
+ },
+ {
+  "id": "1-0394",
+  "hanzi": "下课",
+  "pinyin": "xiàkè",
+  "pos": "cụm từ",
+  "meaning": "tan học (hết tiết)",
+  "level": 1
+ },
+ {
+  "id": "1-0395",
+  "hanzi": "下午",
+  "pinyin": "xiàwǔ",
+  "pos": "danh từ",
+  "meaning": "buổi chiều",
+  "level": 1
+ },
+ {
+  "id": "1-0396",
+  "hanzi": "下雨",
+  "pinyin": "xià yǔ",
+  "pos": "cụm từ",
+  "meaning": "trời mưa",
+  "level": 1
+ },
+ {
+  "id": "1-0397",
+  "hanzi": "先",
+  "pinyin": "xiān",
+  "pos": "phó từ",
+  "meaning": "trước tiên",
+  "level": 1
+ },
+ {
+  "id": "1-0398",
+  "hanzi": "先生",
+  "pinyin": "xiānsheng",
+  "pos": "danh từ",
+  "meaning": "ông, ngài; chồng",
+  "level": 1
+ },
+ {
+  "id": "1-0399",
+  "hanzi": "现在",
+  "pinyin": "xiànzài",
+  "pos": "danh từ",
+  "meaning": "bây giờ",
+  "level": 1
+ },
+ {
+  "id": "1-0400",
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "pos": "động từ",
+  "meaning": "muốn, nghĩ, nhớ",
+  "level": 1
+ }
+]

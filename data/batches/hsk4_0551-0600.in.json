@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0551",
+  "hanzi": "培训",
+  "pinyin": "péixùn",
+  "pos": "",
+  "meaning": "đào tạo",
+  "level": 4
+ },
+ {
+  "id": "4-0552",
+  "hanzi": "培训班",
+  "pinyin": "péixùnbān",
+  "pos": "",
+  "meaning": "lớp đào tạo",
+  "level": 4
+ },
+ {
+  "id": "4-0553",
+  "hanzi": "培养",
+  "pinyin": "péiyǎng",
+  "pos": "",
+  "meaning": "nuôi dưỡng",
+  "level": 4
+ },
+ {
+  "id": "4-0554",
+  "hanzi": "培育",
+  "pinyin": "péiyù",
+  "pos": "",
+  "meaning": "bồi dưỡng",
+  "level": 4
+ },
+ {
+  "id": "4-0555",
+  "hanzi": "批",
+  "pinyin": "pī",
+  "pos": "động từ",
+  "meaning": "phê bình (động từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0556",
+  "hanzi": "批",
+  "pinyin": "pī",
+  "pos": "lượng từ",
+  "meaning": "lô / đợt (lượng từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0557",
+  "hanzi": "片面",
+  "pinyin": "piànmiàn",
+  "pos": "",
+  "meaning": "phiến diện",
+  "level": 4
+ },
+ {
+  "id": "4-0558",
+  "hanzi": "品质",
+  "pinyin": "pǐnzhì",
+  "pos": "",
+  "meaning": "chất lượng",
+  "level": 4
+ },
+ {
+  "id": "4-0559",
+  "hanzi": "平方",
+  "pinyin": "píngfāng",
+  "pos": "",
+  "meaning": "mét vuông",
+  "level": 4
+ },
+ {
+  "id": "4-0560",
+  "hanzi": "平静",
+  "pinyin": "píngjìng",
+  "pos": "",
+  "meaning": "yên tĩnh",
+  "level": 4
+ },
+ {
+  "id": "4-0561",
+  "hanzi": "平均",
+  "pinyin": "píngjūn",
+  "pos": "",
+  "meaning": "trung bình",
+  "level": 4
+ },
+ {
+  "id": "4-0562",
+  "hanzi": "平稳",
+  "pinyin": "píngwěn",
+  "pos": "",
+  "meaning": "ổn định",
+  "level": 4
+ },
+ {
+  "id": "4-0563",
+  "hanzi": "迫切",
+  "pinyin": "pòqiè",
+  "pos": "",
+  "meaning": "cấp bách",
+  "level": 4
+ },
+ {
+  "id": "4-0564",
+  "hanzi": "破产",
+  "pinyin": "pòchǎn",
+  "pos": "",
+  "meaning": "phá sản",
+  "level": 4
+ },
+ {
+  "id": "4-0565",
+  "hanzi": "妻子",
+  "pinyin": "qīzi",
+  "pos": "",
+  "meaning": "vợ",
+  "level": 4
+ },
+ {
+  "id": "4-0566",
+  "hanzi": "期待",
+  "pinyin": "qīdài",
+  "pos": "",
+  "meaning": "mong đợi",
+  "level": 4
+ },
+ {
+  "id": "4-0567",
+  "hanzi": "期间",
+  "pinyin": "qījiān",
+  "pos": "",
+  "meaning": "thời kỳ",
+  "level": 4
+ },
+ {
+  "id": "4-0568",
+  "hanzi": "期末",
+  "pinyin": "qīmò",
+  "pos": "",
+  "meaning": "cuối kỳ",
+  "level": 4
+ },
+ {
+  "id": "4-0569",
+  "hanzi": "期限",
+  "pinyin": "qīxiàn",
+  "pos": "",
+  "meaning": "thời hạn",
+  "level": 4
+ },
+ {
+  "id": "4-0570",
+  "hanzi": "期中",
+  "pinyin": "qīzhōng",
+  "pos": "",
+  "meaning": "giữa kỳ",
+  "level": 4
+ },
+ {
+  "id": "4-0571",
+  "hanzi": "其余",
+  "pinyin": "qíyú",
+  "pos": "",
+  "meaning": "còn lại",
+  "level": 4
+ },
+ {
+  "id": "4-0572",
+  "hanzi": "企业",
+  "pinyin": "qǐyè",
+  "pos": "",
+  "meaning": "doanh nghiệp",
+  "level": 4
+ },
+ {
+  "id": "4-0573",
+  "hanzi": "气球",
+  "pinyin": "qìqiú",
+  "pos": "",
+  "meaning": "bong bóng",
+  "level": 4
+ },
+ {
+  "id": "4-0574",
+  "hanzi": "汽水",
+  "pinyin": "qìshuǐ",
+  "pos": "",
+  "meaning": "nước ngọt có ga",
+  "level": 4
+ },
+ {
+  "id": "4-0575",
+  "hanzi": "汽油",
+  "pinyin": "qìyóu",
+  "pos": "",
+  "meaning": "xăng",
+  "level": 4
+ },
+ {
+  "id": "4-0576",
+  "hanzi": "器官",
+  "pinyin": "qìguān",
+  "pos": "",
+  "meaning": "cơ quan (trong cơ thể)",
+  "level": 4
+ },
+ {
+  "id": "4-0577",
+  "hanzi": "前头",
+  "pinyin": "qiántou",
+  "pos": "",
+  "meaning": "phía trước",
+  "level": 4
+ },
+ {
+  "id": "4-0578",
+  "hanzi": "前途",
+  "pinyin": "qiántú",
+  "pos": "",
+  "meaning": "tiền đồ",
+  "level": 4
+ },
+ {
+  "id": "4-0579",
+  "hanzi": "浅",
+  "pinyin": "qiǎn",
+  "pos": "",
+  "meaning": "nông, cạn",
+  "level": 4
+ },
+ {
+  "id": "4-0580",
+  "hanzi": "巧克力",
+  "pinyin": "qiǎokèlì",
+  "pos": "",
+  "meaning": "sô cô la",
+  "level": 4
+ },
+ {
+  "id": "4-0581",
+  "hanzi": "切",
+  "pinyin": "qiē",
+  "pos": "",
+  "meaning": "cắt",
+  "level": 4
+ },
+ {
+  "id": "4-0582",
+  "hanzi": "亲爱",
+  "pinyin": "qīn'ài",
+  "pos": "",
+  "meaning": "thân yêu",
+  "level": 4
+ },
+ {
+  "id": "4-0583",
+  "hanzi": "亲密",
+  "pinyin": "qīnmì",
+  "pos": "",
+  "meaning": "thân mật",
+  "level": 4
+ },
+ {
+  "id": "4-0584",
+  "hanzi": "青春",
+  "pinyin": "qīngchūn",
+  "pos": "",
+  "meaning": "tuổi trẻ",
+  "level": 4
+ },
+ {
+  "id": "4-0585",
+  "hanzi": "轻松",
+  "pinyin": "qīngsōng",
+  "pos": "",
+  "meaning": "thoải mái",
+  "level": 4
+ },
+ {
+  "id": "4-0586",
+  "hanzi": "轻易",
+  "pinyin": "qīngyì",
+  "pos": "",
+  "meaning": "dễ dàng",
+  "level": 4
+ },
+ {
+  "id": "4-0587",
+  "hanzi": "清醒",
+  "pinyin": "qīngxǐng",
+  "pos": "",
+  "meaning": "tỉnh táo",
+  "level": 4
+ },
+ {
+  "id": "4-0588",
+  "hanzi": "情景",
+  "pinyin": "qíngjǐng",
+  "pos": "",
+  "meaning": "tình cảnh",
+  "level": 4
+ },
+ {
+  "id": "4-0589",
+  "hanzi": "穷",
+  "pinyin": "qióng",
+  "pos": "",
+  "meaning": "nghèo",
+  "level": 4
+ },
+ {
+  "id": "4-0590",
+  "hanzi": "穷人",
+  "pinyin": "qióngrén",
+  "pos": "",
+  "meaning": "người nghèo",
+  "level": 4
+ },
+ {
+  "id": "4-0591",
+  "hanzi": "秋季",
+  "pinyin": "qiūjì",
+  "pos": "",
+  "meaning": "mùa thu",
+  "level": 4
+ },
+ {
+  "id": "4-0592",
+  "hanzi": "趋势",
+  "pinyin": "qūshì",
+  "pos": "",
+  "meaning": "xu hướng",
+  "level": 4
+ },
+ {
+  "id": "4-0593",
+  "hanzi": "圈",
+  "pinyin": "quān",
+  "pos": "",
+  "meaning": "vòng tròn",
+  "level": 4
+ },
+ {
+  "id": "4-0594",
+  "hanzi": "权利",
+  "pinyin": "quánlì",
+  "pos": "",
+  "meaning": "quyền lợi",
+  "level": 4
+ },
+ {
+  "id": "4-0595",
+  "hanzi": "却",
+  "pinyin": "què",
+  "pos": "",
+  "meaning": "nhưng, lại (phó từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0596",
+  "hanzi": "确认",
+  "pinyin": "quèrèn",
+  "pos": "",
+  "meaning": "xác nhận",
+  "level": 4
+ },
+ {
+  "id": "4-0597",
+  "hanzi": "然而",
+  "pinyin": "rán'ér",
+  "pos": "",
+  "meaning": "tuy nhiên",
+  "level": 4
+ },
+ {
+  "id": "4-0598",
+  "hanzi": "燃料",
+  "pinyin": "ránliào",
+  "pos": "",
+  "meaning": "nhiên liệu",
+  "level": 4
+ },
+ {
+  "id": "4-0599",
+  "hanzi": "燃烧",
+  "pinyin": "ránshāo",
+  "pos": "",
+  "meaning": "cháy",
+  "level": 4
+ },
+ {
+  "id": "4-0600",
+  "hanzi": "热闹",
+  "pinyin": "rènao",
+  "pos": "",
+  "meaning": "náo nhiệt",
+  "level": 4
+ }
+]

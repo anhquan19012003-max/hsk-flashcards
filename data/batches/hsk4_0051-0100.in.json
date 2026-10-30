@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0051",
+  "hanzi": "并",
+  "pinyin": "bìng",
+  "pos": "động từ",
+  "meaning": "kết hợp, sáp nhập (động từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0052",
+  "hanzi": "不要紧",
+  "pinyin": "búyàojǐn",
+  "pos": "",
+  "meaning": "không sao",
+  "level": 4
+ },
+ {
+  "id": "4-0053",
+  "hanzi": "不在乎",
+  "pinyin": "bú zàihu",
+  "pos": "",
+  "meaning": "không để ý, không quan tâm",
+  "level": 4
+ },
+ {
+  "id": "4-0054",
+  "hanzi": "不管",
+  "pinyin": "bùguǎn",
+  "pos": "",
+  "meaning": "bất kể",
+  "level": 4
+ },
+ {
+  "id": "4-0055",
+  "hanzi": "不然",
+  "pinyin": "bùrán",
+  "pos": "",
+  "meaning": "nếu không thì",
+  "level": 4
+ },
+ {
+  "id": "4-0056",
+  "hanzi": "布置",
+  "pinyin": "bùzhì",
+  "pos": "",
+  "meaning": "bố trí, sắp xếp",
+  "level": 4
+ },
+ {
+  "id": "4-0057",
+  "hanzi": "步行",
+  "pinyin": "bùxíng",
+  "pos": "",
+  "meaning": "đi bộ",
+  "level": 4
+ },
+ {
+  "id": "4-0058",
+  "hanzi": "擦",
+  "pinyin": "cā",
+  "pos": "",
+  "meaning": "lau",
+  "level": 4
+ },
+ {
+  "id": "4-0059",
+  "hanzi": "才",
+  "pinyin": "cái",
+  "pos": "danh từ",
+  "meaning": "tài năng (danh từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0060",
+  "hanzi": "材料",
+  "pinyin": "cáiliào",
+  "pos": "",
+  "meaning": "vật liệu",
+  "level": 4
+ },
+ {
+  "id": "4-0061",
+  "hanzi": "财产",
+  "pinyin": "cáichǎn",
+  "pos": "",
+  "meaning": "tài sản",
+  "level": 4
+ },
+ {
+  "id": "4-0062",
+  "hanzi": "财富",
+  "pinyin": "cáifù",
+  "pos": "",
+  "meaning": "của cải, sự giàu có",
+  "level": 4
+ },
+ {
+  "id": "4-0063",
+  "hanzi": "采访",
+  "pinyin": "cǎifǎng",
+  "pos": "",
+  "meaning": "phỏng vấn",
+  "level": 4
+ },
+ {
+  "id": "4-0064",
+  "hanzi": "参考",
+  "pinyin": "cānkǎo",
+  "pos": "",
+  "meaning": "tham khảo",
+  "level": 4
+ },
+ {
+  "id": "4-0065",
+  "hanzi": "参与",
+  "pinyin": "cānyù",
+  "pos": "",
+  "meaning": "tham gia",
+  "level": 4
+ },
+ {
+  "id": "4-0066",
+  "hanzi": "操场",
+  "pinyin": "cāochǎng",
+  "pos": "",
+  "meaning": "sân thể thao",
+  "level": 4
+ },
+ {
+  "id": "4-0067",
+  "hanzi": "操作",
+  "pinyin": "cāozuò",
+  "pos": "",
+  "meaning": "thao tác, vận hành",
+  "level": 4
+ },
+ {
+  "id": "4-0068",
+  "hanzi": "测",
+  "pinyin": "cè",
+  "pos": "",
+  "meaning": "đo lường",
+  "level": 4
+ },
+ {
+  "id": "4-0069",
+  "hanzi": "测量",
+  "pinyin": "cèliáng",
+  "pos": "",
+  "meaning": "đo đạc",
+  "level": 4
+ },
+ {
+  "id": "4-0070",
+  "hanzi": "测试",
+  "pinyin": "cèshì",
+  "pos": "",
+  "meaning": "kiểm tra",
+  "level": 4
+ },
+ {
+  "id": "4-0071",
+  "hanzi": "曾",
+  "pinyin": "céng",
+  "pos": "",
+  "meaning": "đã từng",
+  "level": 4
+ },
+ {
+  "id": "4-0072",
+  "hanzi": "茶叶",
+  "pinyin": "cháyè",
+  "pos": "",
+  "meaning": "lá trà",
+  "level": 4
+ },
+ {
+  "id": "4-0073",
+  "hanzi": "产品",
+  "pinyin": "chǎnpǐn",
+  "pos": "",
+  "meaning": "sản phẩm",
+  "level": 4
+ },
+ {
+  "id": "4-0074",
+  "hanzi": "长途",
+  "pinyin": "chángtú",
+  "pos": "",
+  "meaning": "đường dài",
+  "level": 4
+ },
+ {
+  "id": "4-0075",
+  "hanzi": "常识",
+  "pinyin": "chángshí",
+  "pos": "",
+  "meaning": "kiến thức thông thường",
+  "level": 4
+ },
+ {
+  "id": "4-0076",
+  "hanzi": "唱片",
+  "pinyin": "chàngpiàn",
+  "pos": "",
+  "meaning": "đĩa nhạc",
+  "level": 4
+ },
+ {
+  "id": "4-0077",
+  "hanzi": "抄",
+  "pinyin": "chāo",
+  "pos": "",
+  "meaning": "chép lại",
+  "level": 4
+ },
+ {
+  "id": "4-0078",
+  "hanzi": "抄写",
+  "pinyin": "chāoxiě",
+  "pos": "",
+  "meaning": "sao chép",
+  "level": 4
+ },
+ {
+  "id": "4-0079",
+  "hanzi": "潮",
+  "pinyin": "cháo",
+  "pos": "",
+  "meaning": "thủy triều; ẩm ướt",
+  "level": 4
+ },
+ {
+  "id": "4-0080",
+  "hanzi": "潮流",
+  "pinyin": "cháoliú",
+  "pos": "",
+  "meaning": "trào lưu",
+  "level": 4
+ },
+ {
+  "id": "4-0081",
+  "hanzi": "潮湿",
+  "pinyin": "cháoshī",
+  "pos": "",
+  "meaning": "ẩm ướt",
+  "level": 4
+ },
+ {
+  "id": "4-0082",
+  "hanzi": "彻底",
+  "pinyin": "chèdǐ",
+  "pos": "",
+  "meaning": "triệt để",
+  "level": 4
+ },
+ {
+  "id": "4-0083",
+  "hanzi": "沉",
+  "pinyin": "chén",
+  "pos": "",
+  "meaning": "chìm",
+  "level": 4
+ },
+ {
+  "id": "4-0084",
+  "hanzi": "沉默",
+  "pinyin": "chénmò",
+  "pos": "",
+  "meaning": "im lặng",
+  "level": 4
+ },
+ {
+  "id": "4-0085",
+  "hanzi": "沉重",
+  "pinyin": "chénzhòng",
+  "pos": "",
+  "meaning": "nặng nề",
+  "level": 4
+ },
+ {
+  "id": "4-0086",
+  "hanzi": "称赞",
+  "pinyin": "chēngzàn",
+  "pos": "",
+  "meaning": "khen ngợi",
+  "level": 4
+ },
+ {
+  "id": "4-0087",
+  "hanzi": "成人",
+  "pinyin": "chéngrén",
+  "pos": "",
+  "meaning": "người lớn",
+  "level": 4
+ },
+ {
+  "id": "4-0088",
+  "hanzi": "诚实",
+  "pinyin": "chéngshí",
+  "pos": "",
+  "meaning": "thật thà",
+  "level": 4
+ },
+ {
+  "id": "4-0089",
+  "hanzi": "诚信",
+  "pinyin": "chéngxìn",
+  "pos": "",
+  "meaning": "thành tín",
+  "level": 4
+ },
+ {
+  "id": "4-0090",
+  "hanzi": "承担",
+  "pinyin": "chéngdān",
+  "pos": "",
+  "meaning": "đảm nhận",
+  "level": 4
+ },
+ {
+  "id": "4-0091",
+  "hanzi": "承认",
+  "pinyin": "chéngrèn",
+  "pos": "",
+  "meaning": "thừa nhận",
+  "level": 4
+ },
+ {
+  "id": "4-0092",
+  "hanzi": "承受",
+  "pinyin": "chéngshòu",
+  "pos": "",
+  "meaning": "chịu đựng",
+  "level": 4
+ },
+ {
+  "id": "4-0093",
+  "hanzi": "程序",
+  "pinyin": "chéngxù",
+  "pos": "",
+  "meaning": "chương trình; trình tự",
+  "level": 4
+ },
+ {
+  "id": "4-0094",
+  "hanzi": "吃惊",
+  "pinyin": "chījīng",
+  "pos": "",
+  "meaning": "ngạc nhiên",
+  "level": 4
+ },
+ {
+  "id": "4-0095",
+  "hanzi": "迟到",
+  "pinyin": "chídào",
+  "pos": "",
+  "meaning": "đến muộn",
+  "level": 4
+ },
+ {
+  "id": "4-0096",
+  "hanzi": "尺",
+  "pinyin": "chǐ",
+  "pos": "",
+  "meaning": "thước (đơn vị đo)",
+  "level": 4
+ },
+ {
+  "id": "4-0097",
+  "hanzi": "尺寸",
+  "pinyin": "chǐcùn",
+  "pos": "",
+  "meaning": "kích cỡ",
+  "level": 4
+ },
+ {
+  "id": "4-0098",
+  "hanzi": "尺子",
+  "pinyin": "chǐzi",
+  "pos": "",
+  "meaning": "thước kẻ",
+  "level": 4
+ },
+ {
+  "id": "4-0099",
+  "hanzi": "冲",
+  "pinyin": "chōng",
+  "pos": "",
+  "meaning": "xông, đổ, rửa ảnh",
+  "level": 4
+ },
+ {
+  "id": "4-0100",
+  "hanzi": "充电",
+  "pinyin": "chōngdiàn",
+  "pos": "",
+  "meaning": "sạc điện",
+  "level": 4
+ }
+]

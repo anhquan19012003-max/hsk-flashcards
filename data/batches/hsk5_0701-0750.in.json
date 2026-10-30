@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0701",
+  "hanzi": "吃亏",
+  "pinyin": "chīkuī",
+  "pos": "",
+  "meaning": "chịu thiệt",
+  "level": 5
+ },
+ {
+  "id": "5-0702",
+  "hanzi": "迟早",
+  "pinyin": "chízǎo",
+  "pos": "",
+  "meaning": "sớm muộn",
+  "level": 5
+ },
+ {
+  "id": "5-0703",
+  "hanzi": "池塘",
+  "pinyin": "chítáng",
+  "pos": "",
+  "meaning": "ao",
+  "level": 5
+ },
+ {
+  "id": "5-0704",
+  "hanzi": "翅膀",
+  "pinyin": "chìbǎng",
+  "pos": "",
+  "meaning": "cánh",
+  "level": 5
+ },
+ {
+  "id": "5-0705",
+  "hanzi": "充电器",
+  "pinyin": "chōngdiànqì",
+  "pos": "",
+  "meaning": "sạc điện",
+  "level": 5
+ },
+ {
+  "id": "5-0706",
+  "hanzi": "充满",
+  "pinyin": "chōngmǎn",
+  "pos": "",
+  "meaning": "tràn đầy",
+  "level": 5
+ },
+ {
+  "id": "5-0707",
+  "hanzi": "抽屉",
+  "pinyin": "chōuti",
+  "pos": "",
+  "meaning": "ngăn kéo",
+  "level": 5
+ },
+ {
+  "id": "5-0708",
+  "hanzi": "臭",
+  "pinyin": "chòu",
+  "pos": "",
+  "meaning": "hôi",
+  "level": 5
+ },
+ {
+  "id": "5-0709",
+  "hanzi": "出版",
+  "pinyin": "chūbǎn",
+  "pos": "",
+  "meaning": "xuất bản",
+  "level": 5
+ },
+ {
+  "id": "5-0710",
+  "hanzi": "出色",
+  "pinyin": "chūsè",
+  "pos": "",
+  "meaning": "xuất sắc",
+  "level": 5
+ },
+ {
+  "id": "5-0711",
+  "hanzi": "初级",
+  "pinyin": "chūjí",
+  "pos": "",
+  "meaning": "sơ cấp",
+  "level": 5
+ },
+ {
+  "id": "5-0712",
+  "hanzi": "传播",
+  "pinyin": "chuánbō",
+  "pos": "",
+  "meaning": "lan truyền",
+  "level": 5
+ },
+ {
+  "id": "5-0713",
+  "hanzi": "传说",
+  "pinyin": "chuánshuō",
+  "pos": "",
+  "meaning": "truyền thuyết",
+  "level": 5
+ },
+ {
+  "id": "5-0714",
+  "hanzi": "窗帘",
+  "pinyin": "chuānglián",
+  "pos": "",
+  "meaning": "rèm cửa",
+  "level": 5
+ },
+ {
+  "id": "5-0715",
+  "hanzi": "创造",
+  "pinyin": "chuàngzào",
+  "pos": "",
+  "meaning": "sáng tạo",
+  "level": 5
+ },
+ {
+  "id": "5-0716",
+  "hanzi": "词汇",
+  "pinyin": "cíhuì",
+  "pos": "",
+  "meaning": "từ vựng",
+  "level": 5
+ },
+ {
+  "id": "5-0717",
+  "hanzi": "辞职",
+  "pinyin": "cízhí",
+  "pos": "",
+  "meaning": "từ chức",
+  "level": 5
+ },
+ {
+  "id": "5-0718",
+  "hanzi": "刺激",
+  "pinyin": "cìjī",
+  "pos": "",
+  "meaning": "kích thích",
+  "level": 5
+ },
+ {
+  "id": "5-0719",
+  "hanzi": "从此",
+  "pinyin": "cóngcǐ",
+  "pos": "",
+  "meaning": "từ đó",
+  "level": 5
+ },
+ {
+  "id": "5-0720",
+  "hanzi": "从事",
+  "pinyin": "cóngshì",
+  "pos": "",
+  "meaning": "làm nghề",
+  "level": 5
+ },
+ {
+  "id": "5-0721",
+  "hanzi": "促进",
+  "pinyin": "cùjìn",
+  "pos": "",
+  "meaning": "thúc đẩy",
+  "level": 5
+ },
+ {
+  "id": "5-0722",
+  "hanzi": "催",
+  "pinyin": "cuī",
+  "pos": "",
+  "meaning": "thúc giục",
+  "level": 5
+ },
+ {
+  "id": "5-0723",
+  "hanzi": "存在",
+  "pinyin": "cúnzài",
+  "pos": "",
+  "meaning": "tồn tại",
+  "level": 5
+ },
+ {
+  "id": "5-0724",
+  "hanzi": "答应",
+  "pinyin": "dāying",
+  "pos": "",
+  "meaning": "đồng ý",
+  "level": 5
+ },
+ {
+  "id": "5-0725",
+  "hanzi": "达到",
+  "pinyin": "dádào",
+  "pos": "",
+  "meaning": "đạt được",
+  "level": 5
+ },
+ {
+  "id": "5-0726",
+  "hanzi": "打交道",
+  "pinyin": "dǎjiāodao",
+  "pos": "",
+  "meaning": "giao tiếp",
+  "level": 5
+ },
+ {
+  "id": "5-0727",
+  "hanzi": "打喷嚏",
+  "pinyin": "dǎpēntì",
+  "pos": "",
+  "meaning": "hắt hơi",
+  "level": 5
+ },
+ {
+  "id": "5-0728",
+  "hanzi": "打听",
+  "pinyin": "dǎting",
+  "pos": "",
+  "meaning": "hỏi thăm",
+  "level": 5
+ },
+ {
+  "id": "5-0729",
+  "hanzi": "大方",
+  "pinyin": "dàfang",
+  "pos": "",
+  "meaning": "hào phóng",
+  "level": 5
+ },
+ {
+  "id": "5-0730",
+  "hanzi": "大型",
+  "pinyin": "dàxíng",
+  "pos": "",
+  "meaning": "quy mô lớn",
+  "level": 5
+ },
+ {
+  "id": "5-0731",
+  "hanzi": "呆",
+  "pinyin": "dāi",
+  "pos": "",
+  "meaning": "ở lại",
+  "level": 5
+ },
+ {
+  "id": "5-0732",
+  "hanzi": "代替",
+  "pinyin": "dàitì",
+  "pos": "",
+  "meaning": "thay thế",
+  "level": 5
+ },
+ {
+  "id": "5-0733",
+  "hanzi": "贷款",
+  "pinyin": "dàikuǎn",
+  "pos": "",
+  "meaning": "vay vốn",
+  "level": 5
+ },
+ {
+  "id": "5-0734",
+  "hanzi": "单纯",
+  "pinyin": "dānchún",
+  "pos": "",
+  "meaning": "đơn thuần",
+  "level": 5
+ },
+ {
+  "id": "5-0735",
+  "hanzi": "单独",
+  "pinyin": "dāndú",
+  "pos": "",
+  "meaning": "một mình",
+  "level": 5
+ },
+ {
+  "id": "5-0736",
+  "hanzi": "单元",
+  "pinyin": "dānyuán",
+  "pos": "",
+  "meaning": "bài học (trong sách)",
+  "level": 5
+ },
+ {
+  "id": "5-0737",
+  "hanzi": "胆小鬼",
+  "pinyin": "dǎnxiǎoguǐ",
+  "pos": "",
+  "meaning": "kẻ nhát gan",
+  "level": 5
+ },
+ {
+  "id": "5-0738",
+  "hanzi": "当地",
+  "pinyin": "dāngdì",
+  "pos": "",
+  "meaning": "địa phương",
+  "level": 5
+ },
+ {
+  "id": "5-0739",
+  "hanzi": "当心",
+  "pinyin": "dāngxīn",
+  "pos": "",
+  "meaning": "cẩn thận",
+  "level": 5
+ },
+ {
+  "id": "5-0740",
+  "hanzi": "挡",
+  "pinyin": "dǎng",
+  "pos": "",
+  "meaning": "chặn",
+  "level": 5
+ },
+ {
+  "id": "5-0741",
+  "hanzi": "岛屿",
+  "pinyin": "dǎoyǔ",
+  "pos": "",
+  "meaning": "đảo",
+  "level": 5
+ },
+ {
+  "id": "5-0742",
+  "hanzi": "导演",
+  "pinyin": "dǎoyǎn",
+  "pos": "",
+  "meaning": "đạo diễn",
+  "level": 5
+ },
+ {
+  "id": "5-0743",
+  "hanzi": "导致",
+  "pinyin": "dǎozhì",
+  "pos": "",
+  "meaning": "gây ra",
+  "level": 5
+ },
+ {
+  "id": "5-0744",
+  "hanzi": "到达",
+  "pinyin": "dàodá",
+  "pos": "",
+  "meaning": "đến nơi",
+  "level": 5
+ },
+ {
+  "id": "5-0745",
+  "hanzi": "道德",
+  "pinyin": "dàodé",
+  "pos": "",
+  "meaning": "đạo đức",
+  "level": 5
+ },
+ {
+  "id": "5-0746",
+  "hanzi": "等待",
+  "pinyin": "děngdài",
+  "pos": "",
+  "meaning": "chờ đợi",
+  "level": 5
+ },
+ {
+  "id": "5-0747",
+  "hanzi": "的确",
+  "pinyin": "díquè",
+  "pos": "",
+  "meaning": "quả thật",
+  "level": 5
+ },
+ {
+  "id": "5-0748",
+  "hanzi": "地道",
+  "pinyin": "dìdao",
+  "pos": "",
+  "meaning": "chính gốc",
+  "level": 5
+ },
+ {
+  "id": "5-0749",
+  "hanzi": "地理",
+  "pinyin": "dìlǐ",
+  "pos": "",
+  "meaning": "địa lý",
+  "level": 5
+ },
+ {
+  "id": "5-0750",
+  "hanzi": "地区",
+  "pinyin": "dìqū",
+  "pos": "",
+  "meaning": "khu vực",
+  "level": 5
+ }
+]

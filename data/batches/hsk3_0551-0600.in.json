@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0551",
+  "hanzi": "前后",
+  "pinyin": "qiánhòu",
+  "pos": "danh từ",
+  "meaning": "trước sau; khoảng (thời gian)",
+  "level": 3
+ },
+ {
+  "id": "3-0552",
+  "hanzi": "前进",
+  "pinyin": "qiánjìn",
+  "pos": "động từ",
+  "meaning": "tiến lên",
+  "level": 3
+ },
+ {
+  "id": "3-0553",
+  "hanzi": "前面",
+  "pinyin": "qiánmiàn",
+  "pos": "danh từ",
+  "meaning": "phía trước (前面)",
+  "level": 3
+ },
+ {
+  "id": "3-0554",
+  "hanzi": "前往",
+  "pinyin": "qiánwǎng",
+  "pos": "động từ",
+  "meaning": "đi đến, tiến về",
+  "level": 3
+ },
+ {
+  "id": "3-0555",
+  "hanzi": "强",
+  "pinyin": "qiáng",
+  "pos": "tính từ",
+  "meaning": "mạnh (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0556",
+  "hanzi": "强大",
+  "pinyin": "qiángdà",
+  "pos": "tính từ",
+  "meaning": "lớn mạnh, hùng mạnh",
+  "level": 3
+ },
+ {
+  "id": "3-0557",
+  "hanzi": "强调",
+  "pinyin": "qiángdiào",
+  "pos": "động từ",
+  "meaning": "nhấn mạnh",
+  "level": 3
+ },
+ {
+  "id": "3-0558",
+  "hanzi": "强烈",
+  "pinyin": "qiángliè",
+  "pos": "tính từ",
+  "meaning": "mãnh liệt, mạnh mẽ",
+  "level": 3
+ },
+ {
+  "id": "3-0559",
+  "hanzi": "桥",
+  "pinyin": "qiáo",
+  "pos": "danh từ",
+  "meaning": "cây cầu",
+  "level": 3
+ },
+ {
+  "id": "3-0560",
+  "hanzi": "巧",
+  "pinyin": "qiǎo",
+  "pos": "tính từ",
+  "meaning": "khéo léo; trùng hợp, đúng lúc",
+  "level": 3
+ },
+ {
+  "id": "3-0561",
+  "hanzi": "亲",
+  "pinyin": "qīn",
+  "pos": "tính từ",
+  "meaning": "thân, ruột thịt; đích thân",
+  "level": 3
+ },
+ {
+  "id": "3-0562",
+  "hanzi": "亲切",
+  "pinyin": "qīnqiè",
+  "pos": "tính từ",
+  "meaning": "thân thiết, thân mật",
+  "level": 3
+ },
+ {
+  "id": "3-0563",
+  "hanzi": "亲人",
+  "pinyin": "qīnrén",
+  "pos": "danh từ",
+  "meaning": "người thân",
+  "level": 3
+ },
+ {
+  "id": "3-0564",
+  "hanzi": "亲自",
+  "pinyin": "qīnzì",
+  "pos": "phó từ",
+  "meaning": "tự mình, đích thân",
+  "level": 3
+ },
+ {
+  "id": "3-0565",
+  "hanzi": "情感",
+  "pinyin": "qínggǎn",
+  "pos": "danh từ",
+  "meaning": "tình cảm, cảm xúc (情感)",
+  "level": 3
+ },
+ {
+  "id": "3-0566",
+  "hanzi": "情况",
+  "pinyin": "qíngkuàng",
+  "pos": "danh từ",
+  "meaning": "tình hình, tình huống",
+  "level": 3
+ },
+ {
+  "id": "3-0567",
+  "hanzi": "请教",
+  "pinyin": "qǐngjiào",
+  "pos": "động từ",
+  "meaning": "thỉnh giáo, xin chỉ bảo",
+  "level": 3
+ },
+ {
+  "id": "3-0568",
+  "hanzi": "庆祝",
+  "pinyin": "qìngzhù",
+  "pos": "động từ",
+  "meaning": "chúc mừng, ăn mừng",
+  "level": 3
+ },
+ {
+  "id": "3-0569",
+  "hanzi": "球迷",
+  "pinyin": "qiúmí",
+  "pos": "danh từ",
+  "meaning": "người hâm mộ bóng đá",
+  "level": 3
+ },
+ {
+  "id": "3-0570",
+  "hanzi": "区",
+  "pinyin": "qū",
+  "pos": "danh từ",
+  "meaning": "khu, quận, vùng",
+  "level": 3
+ },
+ {
+  "id": "3-0571",
+  "hanzi": "区别",
+  "pinyin": "qūbié",
+  "pos": "danh từ, động từ",
+  "meaning": "sự khác biệt; phân biệt",
+  "level": 3
+ },
+ {
+  "id": "3-0572",
+  "hanzi": "取消",
+  "pinyin": "qǔxiāo",
+  "pos": "động từ",
+  "meaning": "hủy bỏ",
+  "level": 3
+ },
+ {
+  "id": "3-0573",
+  "hanzi": "去世",
+  "pinyin": "qùshì",
+  "pos": "động từ",
+  "meaning": "qua đời",
+  "level": 3
+ },
+ {
+  "id": "3-0574",
+  "hanzi": "全场",
+  "pinyin": "quánchǎng",
+  "pos": "danh từ",
+  "meaning": "toàn bộ hội trường, cả khán phòng",
+  "level": 3
+ },
+ {
+  "id": "3-0575",
+  "hanzi": "全面",
+  "pinyin": "quánmiàn",
+  "pos": "tính từ",
+  "meaning": "toàn diện",
+  "level": 3
+ },
+ {
+  "id": "3-0576",
+  "hanzi": "全球",
+  "pinyin": "quánqiú",
+  "pos": "danh từ",
+  "meaning": "toàn cầu",
+  "level": 3
+ },
+ {
+  "id": "3-0577",
+  "hanzi": "缺",
+  "pinyin": "quē",
+  "pos": "động từ",
+  "meaning": "thiếu (1 chữ); vắng",
+  "level": 3
+ },
+ {
+  "id": "3-0578",
+  "hanzi": "缺点",
+  "pinyin": "quēdiǎn",
+  "pos": "danh từ",
+  "meaning": "khuyết điểm",
+  "level": 3
+ },
+ {
+  "id": "3-0579",
+  "hanzi": "缺少",
+  "pinyin": "quēshǎo",
+  "pos": "động từ",
+  "meaning": "thiếu, thiếu hụt",
+  "level": 3
+ },
+ {
+  "id": "3-0580",
+  "hanzi": "确保",
+  "pinyin": "quèbǎo",
+  "pos": "động từ",
+  "meaning": "đảm bảo chắc chắn",
+  "level": 3
+ },
+ {
+  "id": "3-0581",
+  "hanzi": "确定",
+  "pinyin": "quèdìng",
+  "pos": "tính từ, động từ",
+  "meaning": "xác định, chắc chắn",
+  "level": 3
+ },
+ {
+  "id": "3-0582",
+  "hanzi": "确实",
+  "pinyin": "quèshí",
+  "pos": "tính từ, phó từ",
+  "meaning": "quả thực, xác thực",
+  "level": 3
+ },
+ {
+  "id": "3-0583",
+  "hanzi": "裙子",
+  "pinyin": "qúnzi",
+  "pos": "danh từ",
+  "meaning": "cái váy",
+  "level": 3
+ },
+ {
+  "id": "3-0584",
+  "hanzi": "群",
+  "pinyin": "qún",
+  "pos": "lượng từ",
+  "meaning": "đàn, bầy, nhóm",
+  "level": 3
+ },
+ {
+  "id": "3-0585",
+  "hanzi": "热爱",
+  "pinyin": "rè'ài",
+  "pos": "động từ",
+  "meaning": "yêu tha thiết, nhiệt tình yêu",
+  "level": 3
+ },
+ {
+  "id": "3-0586",
+  "hanzi": "热烈",
+  "pinyin": "rèliè",
+  "pos": "tính từ",
+  "meaning": "nhiệt liệt, sôi nổi",
+  "level": 3
+ },
+ {
+  "id": "3-0587",
+  "hanzi": "人才",
+  "pinyin": "réncái",
+  "pos": "danh từ",
+  "meaning": "nhân tài",
+  "level": 3
+ },
+ {
+  "id": "3-0588",
+  "hanzi": "人工",
+  "pinyin": "réngōng",
+  "pos": "danh từ, tính từ",
+  "meaning": "nhân công; nhân tạo",
+  "level": 3
+ },
+ {
+  "id": "3-0589",
+  "hanzi": "人类",
+  "pinyin": "rénlèi",
+  "pos": "danh từ",
+  "meaning": "nhân loại",
+  "level": 3
+ },
+ {
+  "id": "3-0590",
+  "hanzi": "人民",
+  "pinyin": "rénmín",
+  "pos": "danh từ",
+  "meaning": "nhân dân",
+  "level": 3
+ },
+ {
+  "id": "3-0591",
+  "hanzi": "人民币",
+  "pinyin": "rénmínbì",
+  "pos": "danh từ",
+  "meaning": "nhân dân tệ",
+  "level": 3
+ },
+ {
+  "id": "3-0592",
+  "hanzi": "人群",
+  "pinyin": "rénqún",
+  "pos": "danh từ",
+  "meaning": "đám đông",
+  "level": 3
+ },
+ {
+  "id": "3-0593",
+  "hanzi": "人生",
+  "pinyin": "rénshēng",
+  "pos": "danh từ",
+  "meaning": "đời người, cuộc đời",
+  "level": 3
+ },
+ {
+  "id": "3-0594",
+  "hanzi": "人员",
+  "pinyin": "rényuán",
+  "pos": "danh từ",
+  "meaning": "nhân viên, nhân sự",
+  "level": 3
+ },
+ {
+  "id": "3-0595",
+  "hanzi": "认出",
+  "pinyin": "rènchū",
+  "pos": "cụm từ",
+  "meaning": "nhận ra",
+  "level": 3
+ },
+ {
+  "id": "3-0596",
+  "hanzi": "认得",
+  "pinyin": "rènde",
+  "pos": "động từ",
+  "meaning": "biết, nhận ra (người, chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0597",
+  "hanzi": "认可",
+  "pinyin": "rènkě",
+  "pos": "động từ",
+  "meaning": "công nhận, chấp thuận",
+  "level": 3
+ },
+ {
+  "id": "3-0598",
+  "hanzi": "任",
+  "pinyin": "rèn",
+  "pos": "động từ",
+  "meaning": "đảm nhiệm, bổ nhiệm; mặc cho",
+  "level": 3
+ },
+ {
+  "id": "3-0599",
+  "hanzi": "任",
+  "pinyin": "rèn",
+  "pos": "liên từ",
+  "meaning": "bất kể, dù cho (任)",
+  "level": 3
+ },
+ {
+  "id": "3-0600",
+  "hanzi": "任何",
+  "pinyin": "rènhé",
+  "pos": "đại từ",
+  "meaning": "bất kỳ",
+  "level": 3
+ }
+]

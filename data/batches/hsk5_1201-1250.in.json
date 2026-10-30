@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-1201",
+  "hanzi": "乙",
+  "pinyin": "yǐ",
+  "pos": "",
+  "meaning": "thứ hai (trong thứ bậc)",
+  "level": 5
+ },
+ {
+  "id": "5-1202",
+  "hanzi": "以及",
+  "pinyin": "yǐjí",
+  "pos": "",
+  "meaning": "và, cùng với",
+  "level": 5
+ },
+ {
+  "id": "5-1203",
+  "hanzi": "亿",
+  "pinyin": "yì",
+  "pos": "",
+  "meaning": "trăm triệu",
+  "level": 5
+ },
+ {
+  "id": "5-1204",
+  "hanzi": "意义",
+  "pinyin": "yìyì",
+  "pos": "",
+  "meaning": "ý nghĩa",
+  "level": 5
+ },
+ {
+  "id": "5-1205",
+  "hanzi": "因而",
+  "pinyin": "yīn'ér",
+  "pos": "",
+  "meaning": "vì vậy",
+  "level": 5
+ },
+ {
+  "id": "5-1206",
+  "hanzi": "银",
+  "pinyin": "yín",
+  "pos": "",
+  "meaning": "bạc",
+  "level": 5
+ },
+ {
+  "id": "5-1207",
+  "hanzi": "印刷",
+  "pinyin": "yìnshuā",
+  "pos": "",
+  "meaning": "in ấn",
+  "level": 5
+ },
+ {
+  "id": "5-1208",
+  "hanzi": "英雄",
+  "pinyin": "yīngxióng",
+  "pos": "",
+  "meaning": "anh hùng",
+  "level": 5
+ },
+ {
+  "id": "5-1209",
+  "hanzi": "迎接",
+  "pinyin": "yíngjiē",
+  "pos": "",
+  "meaning": "đón tiếp",
+  "level": 5
+ },
+ {
+  "id": "5-1210",
+  "hanzi": "营业",
+  "pinyin": "yíngyè",
+  "pos": "",
+  "meaning": "kinh doanh",
+  "level": 5
+ },
+ {
+  "id": "5-1211",
+  "hanzi": "影子",
+  "pinyin": "yǐngzi",
+  "pos": "",
+  "meaning": "cái bóng",
+  "level": 5
+ },
+ {
+  "id": "5-1212",
+  "hanzi": "硬件",
+  "pinyin": "yìngjiàn",
+  "pos": "",
+  "meaning": "phần cứng",
+  "level": 5
+ },
+ {
+  "id": "5-1213",
+  "hanzi": "拥抱",
+  "pinyin": "yōngbào",
+  "pos": "",
+  "meaning": "ôm",
+  "level": 5
+ },
+ {
+  "id": "5-1214",
+  "hanzi": "用途",
+  "pinyin": "yòngtú",
+  "pos": "",
+  "meaning": "công dụng",
+  "level": 5
+ },
+ {
+  "id": "5-1215",
+  "hanzi": "优美",
+  "pinyin": "yōuměi",
+  "pos": "",
+  "meaning": "đẹp đẽ, duyên dáng",
+  "level": 5
+ },
+ {
+  "id": "5-1216",
+  "hanzi": "游览",
+  "pinyin": "yóulǎn",
+  "pos": "",
+  "meaning": "tham quan",
+  "level": 5
+ },
+ {
+  "id": "5-1217",
+  "hanzi": "犹豫",
+  "pinyin": "yóuyù",
+  "pos": "",
+  "meaning": "do dự",
+  "level": 5
+ },
+ {
+  "id": "5-1218",
+  "hanzi": "幼儿园",
+  "pinyin": "yòu'éryuán",
+  "pos": "",
+  "meaning": "nhà trẻ, mẫu giáo",
+  "level": 5
+ },
+ {
+  "id": "5-1219",
+  "hanzi": "与其",
+  "pinyin": "yǔqí",
+  "pos": "",
+  "meaning": "thay vì",
+  "level": 5
+ },
+ {
+  "id": "5-1220",
+  "hanzi": "语气",
+  "pinyin": "yǔqì",
+  "pos": "",
+  "meaning": "ngữ khí, giọng điệu",
+  "level": 5
+ },
+ {
+  "id": "5-1221",
+  "hanzi": "预订",
+  "pinyin": "yùdìng",
+  "pos": "",
+  "meaning": "đặt trước",
+  "level": 5
+ },
+ {
+  "id": "5-1222",
+  "hanzi": "玉米",
+  "pinyin": "yùmǐ",
+  "pos": "",
+  "meaning": "ngô, bắp",
+  "level": 5
+ },
+ {
+  "id": "5-1223",
+  "hanzi": "原料",
+  "pinyin": "yuánliào",
+  "pos": "",
+  "meaning": "nguyên liệu",
+  "level": 5
+ },
+ {
+  "id": "5-1224",
+  "hanzi": "原则",
+  "pinyin": "yuánzé",
+  "pos": "",
+  "meaning": "nguyên tắc",
+  "level": 5
+ },
+ {
+  "id": "5-1225",
+  "hanzi": "乐器",
+  "pinyin": "yuèqì",
+  "pos": "",
+  "meaning": "nhạc cụ",
+  "level": 5
+ },
+ {
+  "id": "5-1226",
+  "hanzi": "运输",
+  "pinyin": "yùnshū",
+  "pos": "",
+  "meaning": "vận chuyển",
+  "level": 5
+ },
+ {
+  "id": "5-1227",
+  "hanzi": "在于",
+  "pinyin": "zàiyú",
+  "pos": "",
+  "meaning": "nằm ở",
+  "level": 5
+ },
+ {
+  "id": "5-1228",
+  "hanzi": "赞美",
+  "pinyin": "zànměi",
+  "pos": "",
+  "meaning": "ca ngợi",
+  "level": 5
+ },
+ {
+  "id": "5-1229",
+  "hanzi": "则",
+  "pinyin": "zé",
+  "pos": "",
+  "meaning": "thì, điều (trong quy tắc)",
+  "level": 5
+ },
+ {
+  "id": "5-1230",
+  "hanzi": "摘",
+  "pinyin": "zhāi",
+  "pos": "",
+  "meaning": "hái, ngắt",
+  "level": 5
+ },
+ {
+  "id": "5-1231",
+  "hanzi": "粘贴",
+  "pinyin": "zhāntiē",
+  "pos": "",
+  "meaning": "dán",
+  "level": 5
+ },
+ {
+  "id": "5-1232",
+  "hanzi": "展览",
+  "pinyin": "zhǎnlǎn",
+  "pos": "",
+  "meaning": "triển lãm",
+  "level": 5
+ },
+ {
+  "id": "5-1233",
+  "hanzi": "占",
+  "pinyin": "zhàn",
+  "pos": "",
+  "meaning": "chiếm",
+  "level": 5
+ },
+ {
+  "id": "5-1234",
+  "hanzi": "战争",
+  "pinyin": "zhànzhēng",
+  "pos": "",
+  "meaning": "chiến tranh",
+  "level": 5
+ },
+ {
+  "id": "5-1235",
+  "hanzi": "长辈",
+  "pinyin": "zhǎngbèi",
+  "pos": "",
+  "meaning": "bậc trưởng bối",
+  "level": 5
+ },
+ {
+  "id": "5-1236",
+  "hanzi": "涨",
+  "pinyin": "zhǎng",
+  "pos": "",
+  "meaning": "tăng",
+  "level": 5
+ },
+ {
+  "id": "5-1237",
+  "hanzi": "招待",
+  "pinyin": "zhāodài",
+  "pos": "",
+  "meaning": "chiêu đãi",
+  "level": 5
+ },
+ {
+  "id": "5-1238",
+  "hanzi": "着火",
+  "pinyin": "zháohuǒ",
+  "pos": "",
+  "meaning": "cháy",
+  "level": 5
+ },
+ {
+  "id": "5-1239",
+  "hanzi": "着凉",
+  "pinyin": "zháoliáng",
+  "pos": "",
+  "meaning": "bị lạnh, cảm lạnh",
+  "level": 5
+ },
+ {
+  "id": "5-1240",
+  "hanzi": "召开",
+  "pinyin": "zhàokāi",
+  "pos": "",
+  "meaning": "triệu tập",
+  "level": 5
+ },
+ {
+  "id": "5-1241",
+  "hanzi": "照常",
+  "pinyin": "zhàocháng",
+  "pos": "",
+  "meaning": "như thường lệ",
+  "level": 5
+ },
+ {
+  "id": "5-1242",
+  "hanzi": "哲学",
+  "pinyin": "zhéxué",
+  "pos": "",
+  "meaning": "triết học",
+  "level": 5
+ },
+ {
+  "id": "5-1243",
+  "hanzi": "真实",
+  "pinyin": "zhēnshí",
+  "pos": "",
+  "meaning": "chân thực",
+  "level": 5
+ },
+ {
+  "id": "5-1244",
+  "hanzi": "针对",
+  "pinyin": "zhēnduì",
+  "pos": "",
+  "meaning": "nhắm vào, đối với",
+  "level": 5
+ },
+ {
+  "id": "5-1245",
+  "hanzi": "诊断",
+  "pinyin": "zhěnduàn",
+  "pos": "",
+  "meaning": "chẩn đoán",
+  "level": 5
+ },
+ {
+  "id": "5-1246",
+  "hanzi": "振动",
+  "pinyin": "zhèndòng",
+  "pos": "",
+  "meaning": "chấn động, rung",
+  "level": 5
+ },
+ {
+  "id": "5-1247",
+  "hanzi": "争论",
+  "pinyin": "zhēnglùn",
+  "pos": "",
+  "meaning": "tranh luận",
+  "level": 5
+ },
+ {
+  "id": "5-1248",
+  "hanzi": "征求",
+  "pinyin": "zhēngqiú",
+  "pos": "",
+  "meaning": "xin ý kiến, thỉnh cầu",
+  "level": 5
+ },
+ {
+  "id": "5-1249",
+  "hanzi": "整体",
+  "pinyin": "zhěngtǐ",
+  "pos": "",
+  "meaning": "toàn thể, tổng thể",
+  "level": 5
+ },
+ {
+  "id": "5-1250",
+  "hanzi": "政治",
+  "pinyin": "zhèngzhì",
+  "pos": "",
+  "meaning": "chính trị",
+  "level": 5
+ }
+]

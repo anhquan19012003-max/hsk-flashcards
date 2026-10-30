@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0301",
+  "hanzi": "酒",
+  "pinyin": "jiǔ",
+  "pos": "danh từ",
+  "meaning": "rượu",
+  "level": 2
+ },
+ {
+  "id": "2-0302",
+  "hanzi": "酒店",
+  "pinyin": "jiǔdiàn",
+  "pos": "danh từ",
+  "meaning": "khách sạn",
+  "level": 2
+ },
+ {
+  "id": "2-0303",
+  "hanzi": "就要",
+  "pinyin": "jiùyào",
+  "pos": "phó từ",
+  "meaning": "sắp (就要...了)",
+  "level": 2
+ },
+ {
+  "id": "2-0304",
+  "hanzi": "举",
+  "pinyin": "jǔ",
+  "pos": "động từ",
+  "meaning": "giơ lên, nâng lên",
+  "level": 2
+ },
+ {
+  "id": "2-0305",
+  "hanzi": "举手",
+  "pinyin": "jǔshǒu",
+  "pos": "động từ",
+  "meaning": "giơ tay",
+  "level": 2
+ },
+ {
+  "id": "2-0306",
+  "hanzi": "举行",
+  "pinyin": "jǔxíng",
+  "pos": "động từ",
+  "meaning": "tổ chức (sự kiện)",
+  "level": 2
+ },
+ {
+  "id": "2-0307",
+  "hanzi": "句",
+  "pinyin": "jù",
+  "pos": "lượng từ",
+  "meaning": "câu (lượng từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0308",
+  "hanzi": "句子",
+  "pinyin": "jùzi",
+  "pos": "danh từ",
+  "meaning": "câu văn",
+  "level": 2
+ },
+ {
+  "id": "2-0309",
+  "hanzi": "卡",
+  "pinyin": "kǎ",
+  "pos": "danh từ",
+  "meaning": "thẻ",
+  "level": 2
+ },
+ {
+  "id": "2-0310",
+  "hanzi": "开机",
+  "pinyin": "kāijī",
+  "pos": "cụm từ",
+  "meaning": "bật máy, khởi động máy",
+  "level": 2
+ },
+ {
+  "id": "2-0311",
+  "hanzi": "开心",
+  "pinyin": "kāixīn",
+  "pos": "tính từ, động từ",
+  "meaning": "vui vẻ (开心)",
+  "level": 2
+ },
+ {
+  "id": "2-0312",
+  "hanzi": "开学",
+  "pinyin": "kāixué",
+  "pos": "cụm từ",
+  "meaning": "khai giảng, vào năm học",
+  "level": 2
+ },
+ {
+  "id": "2-0313",
+  "hanzi": "看法",
+  "pinyin": "kànfǎ",
+  "pos": "danh từ",
+  "meaning": "cách nhìn, quan điểm (看法)",
+  "level": 2
+ },
+ {
+  "id": "2-0314",
+  "hanzi": "考生",
+  "pinyin": "kǎoshēng",
+  "pos": "danh từ",
+  "meaning": "thí sinh",
+  "level": 2
+ },
+ {
+  "id": "2-0315",
+  "hanzi": "靠",
+  "pinyin": "kào",
+  "pos": "động từ",
+  "meaning": "dựa vào",
+  "level": 2
+ },
+ {
+  "id": "2-0316",
+  "hanzi": "科",
+  "pinyin": "kē",
+  "pos": "danh từ",
+  "meaning": "môn, khoa",
+  "level": 2
+ },
+ {
+  "id": "2-0317",
+  "hanzi": "科学",
+  "pinyin": "kēxué",
+  "pos": "danh từ, tính từ",
+  "meaning": "khoa học",
+  "level": 2
+ },
+ {
+  "id": "2-0318",
+  "hanzi": "可爱",
+  "pinyin": "kě'ài",
+  "pos": "tính từ",
+  "meaning": "đáng yêu, dễ thương",
+  "level": 2
+ },
+ {
+  "id": "2-0319",
+  "hanzi": "可能",
+  "pinyin": "kěnéng",
+  "pos": "động từ, tính từ, danh từ",
+  "meaning": "có lẽ, có thể; khả năng",
+  "level": 2
+ },
+ {
+  "id": "2-0320",
+  "hanzi": "可怕",
+  "pinyin": "kěpà",
+  "pos": "tính từ",
+  "meaning": "đáng sợ",
+  "level": 2
+ },
+ {
+  "id": "2-0321",
+  "hanzi": "可是",
+  "pinyin": "kěshì",
+  "pos": "liên từ",
+  "meaning": "nhưng mà",
+  "level": 2
+ },
+ {
+  "id": "2-0322",
+  "hanzi": "可以",
+  "pinyin": "kěyǐ",
+  "pos": "động từ",
+  "meaning": "có thể, được phép",
+  "level": 2
+ },
+ {
+  "id": "2-0323",
+  "hanzi": "克",
+  "pinyin": "kè",
+  "pos": "lượng từ",
+  "meaning": "gam (g)",
+  "level": 2
+ },
+ {
+  "id": "2-0324",
+  "hanzi": "刻",
+  "pinyin": "kè",
+  "pos": "lượng từ",
+  "meaning": "khắc (15 phút)",
+  "level": 2
+ },
+ {
+  "id": "2-0325",
+  "hanzi": "客人",
+  "pinyin": "kèrén",
+  "pos": "danh từ",
+  "meaning": "khách (đến nhà)",
+  "level": 2
+ },
+ {
+  "id": "2-0326",
+  "hanzi": "课堂",
+  "pinyin": "kètáng",
+  "pos": "danh từ",
+  "meaning": "lớp học, giờ học trên lớp",
+  "level": 2
+ },
+ {
+  "id": "2-0327",
+  "hanzi": "空气",
+  "pinyin": "kōngqì",
+  "pos": "danh từ",
+  "meaning": "không khí",
+  "level": 2
+ },
+ {
+  "id": "2-0328",
+  "hanzi": "哭",
+  "pinyin": "kū",
+  "pos": "động từ",
+  "meaning": "khóc",
+  "level": 2
+ },
+ {
+  "id": "2-0329",
+  "hanzi": "快餐",
+  "pinyin": "kuàicān",
+  "pos": "danh từ",
+  "meaning": "đồ ăn nhanh",
+  "level": 2
+ },
+ {
+  "id": "2-0330",
+  "hanzi": "快点儿",
+  "pinyin": "kuài diǎnr",
+  "pos": "cụm từ",
+  "meaning": "nhanh lên",
+  "level": 2
+ },
+ {
+  "id": "2-0331",
+  "hanzi": "快乐",
+  "pinyin": "kuàilè",
+  "pos": "tính từ",
+  "meaning": "vui vẻ, hạnh phúc",
+  "level": 2
+ },
+ {
+  "id": "2-0332",
+  "hanzi": "快要",
+  "pinyin": "kuàiyào",
+  "pos": "phó từ",
+  "meaning": "sắp sửa (快要...了)",
+  "level": 2
+ },
+ {
+  "id": "2-0333",
+  "hanzi": "筷子",
+  "pinyin": "kuàizi",
+  "pos": "danh từ",
+  "meaning": "đũa",
+  "level": 2
+ },
+ {
+  "id": "2-0334",
+  "hanzi": "拉",
+  "pinyin": "lā",
+  "pos": "động từ",
+  "meaning": "kéo",
+  "level": 2
+ },
+ {
+  "id": "2-0335",
+  "hanzi": "来自",
+  "pinyin": "láizì",
+  "pos": "động từ",
+  "meaning": "đến từ",
+  "level": 2
+ },
+ {
+  "id": "2-0336",
+  "hanzi": "蓝",
+  "pinyin": "lán",
+  "pos": "tính từ",
+  "meaning": "xanh lam, xanh dương",
+  "level": 2
+ },
+ {
+  "id": "2-0337",
+  "hanzi": "蓝色",
+  "pinyin": "lánsè",
+  "pos": "danh từ",
+  "meaning": "màu xanh lam",
+  "level": 2
+ },
+ {
+  "id": "2-0338",
+  "hanzi": "篮球",
+  "pinyin": "lánqiú",
+  "pos": "danh từ",
+  "meaning": "bóng rổ",
+  "level": 2
+ },
+ {
+  "id": "2-0339",
+  "hanzi": "老",
+  "pinyin": "lǎo",
+  "pos": "phó từ",
+  "meaning": "luôn, cứ mãi (phó từ)",
+  "level": 2
+ },
+ {
+  "id": "2-0340",
+  "hanzi": "老",
+  "pinyin": "lǎo",
+  "pos": "tiền tố",
+  "meaning": "lão, anh (gọi thân mật + họ, VD: lão Vương)",
+  "level": 2
+ },
+ {
+  "id": "2-0341",
+  "hanzi": "老年",
+  "pinyin": "lǎonián",
+  "pos": "danh từ",
+  "meaning": "tuổi già",
+  "level": 2
+ },
+ {
+  "id": "2-0342",
+  "hanzi": "老朋友",
+  "pinyin": "lǎo péngyou",
+  "pos": "cụm từ",
+  "meaning": "bạn cũ, bạn lâu năm",
+  "level": 2
+ },
+ {
+  "id": "2-0343",
+  "hanzi": "老是",
+  "pinyin": "lǎoshì",
+  "pos": "phó từ",
+  "meaning": "luôn luôn, cứ (than phiền)",
+  "level": 2
+ },
+ {
+  "id": "2-0344",
+  "hanzi": "离",
+  "pinyin": "lí",
+  "pos": "động từ, giới từ",
+  "meaning": "cách (khoảng cách); rời",
+  "level": 2
+ },
+ {
+  "id": "2-0345",
+  "hanzi": "离开",
+  "pinyin": "líkāi",
+  "pos": "cụm từ",
+  "meaning": "rời khỏi",
+  "level": 2
+ },
+ {
+  "id": "2-0346",
+  "hanzi": "礼物",
+  "pinyin": "lǐwù",
+  "pos": "danh từ",
+  "meaning": "quà tặng, món quà",
+  "level": 2
+ },
+ {
+  "id": "2-0347",
+  "hanzi": "里头",
+  "pinyin": "lǐtou",
+  "pos": "danh từ",
+  "meaning": "bên trong (里头)",
+  "level": 2
+ },
+ {
+  "id": "2-0348",
+  "hanzi": "理想",
+  "pinyin": "lǐxiǎng",
+  "pos": "danh từ",
+  "meaning": "lý tưởng, ước mơ",
+  "level": 2
+ },
+ {
+  "id": "2-0349",
+  "hanzi": "例如",
+  "pinyin": "lìrú",
+  "pos": "động từ",
+  "meaning": "ví dụ (例如)",
+  "level": 2
+ },
+ {
+  "id": "2-0350",
+  "hanzi": "例子",
+  "pinyin": "lìzi",
+  "pos": "danh từ",
+  "meaning": "ví dụ (danh từ)",
+  "level": 2
+ }
+]

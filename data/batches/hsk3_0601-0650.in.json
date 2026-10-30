@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0601",
+  "hanzi": "任务",
+  "pinyin": "rènwu",
+  "pos": "danh từ",
+  "meaning": "nhiệm vụ",
+  "level": 3
+ },
+ {
+  "id": "3-0602",
+  "hanzi": "仍",
+  "pinyin": "réng",
+  "pos": "phó từ",
+  "meaning": "vẫn (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0603",
+  "hanzi": "仍然",
+  "pinyin": "réngrán",
+  "pos": "phó từ",
+  "meaning": "vẫn, vẫn cứ",
+  "level": 3
+ },
+ {
+  "id": "3-0604",
+  "hanzi": "日常",
+  "pinyin": "rìcháng",
+  "pos": "tính từ",
+  "meaning": "hằng ngày, thường ngày",
+  "level": 3
+ },
+ {
+  "id": "3-0605",
+  "hanzi": "容易",
+  "pinyin": "róngyì",
+  "pos": "tính từ",
+  "meaning": "dễ, dễ dàng",
+  "level": 3
+ },
+ {
+  "id": "3-0606",
+  "hanzi": "如何",
+  "pinyin": "rúhé",
+  "pos": "đại từ",
+  "meaning": "như thế nào, làm sao (如何)",
+  "level": 3
+ },
+ {
+  "id": "3-0607",
+  "hanzi": "散步",
+  "pinyin": "sànbù",
+  "pos": "cụm từ",
+  "meaning": "đi dạo, tản bộ",
+  "level": 3
+ },
+ {
+  "id": "3-0608",
+  "hanzi": "沙发",
+  "pinyin": "shāfā",
+  "pos": "danh từ",
+  "meaning": "ghế sofa",
+  "level": 3
+ },
+ {
+  "id": "3-0609",
+  "hanzi": "沙子",
+  "pinyin": "shāzi",
+  "pos": "danh từ",
+  "meaning": "cát",
+  "level": 3
+ },
+ {
+  "id": "3-0610",
+  "hanzi": "伤",
+  "pinyin": "shāng",
+  "pos": "động từ, danh từ",
+  "meaning": "làm tổn thương; vết thương",
+  "level": 3
+ },
+ {
+  "id": "3-0611",
+  "hanzi": "伤心",
+  "pinyin": "shāngxīn",
+  "pos": "cụm từ",
+  "meaning": "đau lòng, thương tâm",
+  "level": 3
+ },
+ {
+  "id": "3-0612",
+  "hanzi": "商品",
+  "pinyin": "shāngpǐn",
+  "pos": "danh từ",
+  "meaning": "hàng hóa",
+  "level": 3
+ },
+ {
+  "id": "3-0613",
+  "hanzi": "商业",
+  "pinyin": "shāngyè",
+  "pos": "danh từ",
+  "meaning": "thương mại, thương nghiệp",
+  "level": 3
+ },
+ {
+  "id": "3-0614",
+  "hanzi": "上来",
+  "pinyin": "shànglái",
+  "pos": "cụm từ",
+  "meaning": "đi lên (về phía người nói)",
+  "level": 3
+ },
+ {
+  "id": "3-0615",
+  "hanzi": "上面",
+  "pinyin": "shàngmiàn",
+  "pos": "danh từ",
+  "meaning": "phía trên (上面)",
+  "level": 3
+ },
+ {
+  "id": "3-0616",
+  "hanzi": "上去",
+  "pinyin": "shàngqù",
+  "pos": "cụm từ",
+  "meaning": "đi lên (rời xa người nói)",
+  "level": 3
+ },
+ {
+  "id": "3-0617",
+  "hanzi": "上升",
+  "pinyin": "shàngshēng",
+  "pos": "động từ",
+  "meaning": "tăng lên, đi lên",
+  "level": 3
+ },
+ {
+  "id": "3-0618",
+  "hanzi": "上衣",
+  "pinyin": "shàngyī",
+  "pos": "danh từ",
+  "meaning": "áo (mặc ngoài)",
+  "level": 3
+ },
+ {
+  "id": "3-0619",
+  "hanzi": "设备",
+  "pinyin": "shèbèi",
+  "pos": "danh từ",
+  "meaning": "thiết bị",
+  "level": 3
+ },
+ {
+  "id": "3-0620",
+  "hanzi": "设计",
+  "pinyin": "shèjì",
+  "pos": "động từ, danh từ",
+  "meaning": "thiết kế; bản thiết kế",
+  "level": 3
+ },
+ {
+  "id": "3-0621",
+  "hanzi": "设立",
+  "pinyin": "shèlì",
+  "pos": "động từ",
+  "meaning": "thiết lập, thành lập (cơ quan)",
+  "level": 3
+ },
+ {
+  "id": "3-0622",
+  "hanzi": "社会",
+  "pinyin": "shèhuì",
+  "pos": "danh từ",
+  "meaning": "xã hội",
+  "level": 3
+ },
+ {
+  "id": "3-0623",
+  "hanzi": "身份证",
+  "pinyin": "shēnfènzhèng",
+  "pos": "danh từ",
+  "meaning": "chứng minh thư, căn cước",
+  "level": 3
+ },
+ {
+  "id": "3-0624",
+  "hanzi": "深",
+  "pinyin": "shēn",
+  "pos": "tính từ",
+  "meaning": "sâu; đậm (màu); khuya",
+  "level": 3
+ },
+ {
+  "id": "3-0625",
+  "hanzi": "深刻",
+  "pinyin": "shēnkè",
+  "pos": "tính từ",
+  "meaning": "sâu sắc",
+  "level": 3
+ },
+ {
+  "id": "3-0626",
+  "hanzi": "深入",
+  "pinyin": "shēnrù",
+  "pos": "động từ, tính từ",
+  "meaning": "đi sâu, thâm nhập",
+  "level": 3
+ },
+ {
+  "id": "3-0627",
+  "hanzi": "升",
+  "pinyin": "shēng",
+  "pos": "động từ",
+  "meaning": "lên, tăng, mọc (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0628",
+  "hanzi": "生",
+  "pinyin": "shēng",
+  "pos": "tính từ",
+  "meaning": "sống, chưa chín; lạ",
+  "level": 3
+ },
+ {
+  "id": "3-0629",
+  "hanzi": "生产",
+  "pinyin": "shēngchǎn",
+  "pos": "động từ",
+  "meaning": "sản xuất",
+  "level": 3
+ },
+ {
+  "id": "3-0630",
+  "hanzi": "生存",
+  "pinyin": "shēngcún",
+  "pos": "động từ",
+  "meaning": "sinh tồn",
+  "level": 3
+ },
+ {
+  "id": "3-0631",
+  "hanzi": "生动",
+  "pinyin": "shēngdòng",
+  "pos": "tính từ",
+  "meaning": "sinh động",
+  "level": 3
+ },
+ {
+  "id": "3-0632",
+  "hanzi": "生命",
+  "pinyin": "shēngmìng",
+  "pos": "danh từ",
+  "meaning": "sinh mạng, sự sống",
+  "level": 3
+ },
+ {
+  "id": "3-0633",
+  "hanzi": "生意",
+  "pinyin": "shēngyi",
+  "pos": "danh từ",
+  "meaning": "việc làm ăn, buôn bán",
+  "level": 3
+ },
+ {
+  "id": "3-0634",
+  "hanzi": "生长",
+  "pinyin": "shēngzhǎng",
+  "pos": "động từ",
+  "meaning": "sinh trưởng (cây cối)",
+  "level": 3
+ },
+ {
+  "id": "3-0635",
+  "hanzi": "声明",
+  "pinyin": "shēngmíng",
+  "pos": "động từ, danh từ",
+  "meaning": "tuyên bố; lời tuyên bố",
+  "level": 3
+ },
+ {
+  "id": "3-0636",
+  "hanzi": "胜",
+  "pinyin": "shèng",
+  "pos": "động từ",
+  "meaning": "thắng (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0637",
+  "hanzi": "胜利",
+  "pinyin": "shènglì",
+  "pos": "động từ, danh từ",
+  "meaning": "thắng lợi",
+  "level": 3
+ },
+ {
+  "id": "3-0638",
+  "hanzi": "失去",
+  "pinyin": "shīqù",
+  "pos": "động từ",
+  "meaning": "mất đi",
+  "level": 3
+ },
+ {
+  "id": "3-0639",
+  "hanzi": "石头",
+  "pinyin": "shítou",
+  "pos": "danh từ",
+  "meaning": "hòn đá",
+  "level": 3
+ },
+ {
+  "id": "3-0640",
+  "hanzi": "石油",
+  "pinyin": "shíyóu",
+  "pos": "danh từ",
+  "meaning": "dầu mỏ",
+  "level": 3
+ },
+ {
+  "id": "3-0641",
+  "hanzi": "时",
+  "pinyin": "shí",
+  "pos": "danh từ",
+  "meaning": "lúc, khi (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0642",
+  "hanzi": "时代",
+  "pinyin": "shídài",
+  "pos": "danh từ",
+  "meaning": "thời đại",
+  "level": 3
+ },
+ {
+  "id": "3-0643",
+  "hanzi": "时刻",
+  "pinyin": "shíkè",
+  "pos": "danh từ, phó từ",
+  "meaning": "thời khắc; luôn luôn",
+  "level": 3
+ },
+ {
+  "id": "3-0644",
+  "hanzi": "实际上",
+  "pinyin": "shíjìshang",
+  "pos": "phó từ",
+  "meaning": "trên thực tế (实际上)",
+  "level": 3
+ },
+ {
+  "id": "3-0645",
+  "hanzi": "实力",
+  "pinyin": "shílì",
+  "pos": "danh từ",
+  "meaning": "thực lực",
+  "level": 3
+ },
+ {
+  "id": "3-0646",
+  "hanzi": "实行",
+  "pinyin": "shíxíng",
+  "pos": "động từ",
+  "meaning": "thực hiện, thi hành (chính sách)",
+  "level": 3
+ },
+ {
+  "id": "3-0647",
+  "hanzi": "实验",
+  "pinyin": "shíyàn",
+  "pos": "động từ, danh từ",
+  "meaning": "thí nghiệm (实验)",
+  "level": 3
+ },
+ {
+  "id": "3-0648",
+  "hanzi": "实验室",
+  "pinyin": "shíyànshì",
+  "pos": "danh từ",
+  "meaning": "phòng thí nghiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0649",
+  "hanzi": "食品",
+  "pinyin": "shípǐn",
+  "pos": "danh từ",
+  "meaning": "thực phẩm",
+  "level": 3
+ },
+ {
+  "id": "3-0650",
+  "hanzi": "使",
+  "pinyin": "shǐ",
+  "pos": "động từ",
+  "meaning": "khiến cho, làm cho",
+  "level": 3
+ }
+]

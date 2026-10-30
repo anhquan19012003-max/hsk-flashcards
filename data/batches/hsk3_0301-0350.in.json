@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0301",
+  "hanzi": "化",
+  "pinyin": "huà",
+  "pos": "hậu tố",
+  "meaning": "hóa (hậu tố, VD: hiện đại hóa)",
+  "level": 3
+ },
+ {
+  "id": "3-0302",
+  "hanzi": "话剧",
+  "pinyin": "huàjù",
+  "pos": "danh từ",
+  "meaning": "kịch nói",
+  "level": 3
+ },
+ {
+  "id": "3-0303",
+  "hanzi": "话题",
+  "pinyin": "huàtí",
+  "pos": "danh từ",
+  "meaning": "chủ đề (câu chuyện)",
+  "level": 3
+ },
+ {
+  "id": "3-0304",
+  "hanzi": "欢乐",
+  "pinyin": "huānlè",
+  "pos": "tính từ",
+  "meaning": "vui vẻ, hân hoan",
+  "level": 3
+ },
+ {
+  "id": "3-0305",
+  "hanzi": "环",
+  "pinyin": "huán",
+  "pos": "danh từ",
+  "meaning": "vòng, khâu",
+  "level": 3
+ },
+ {
+  "id": "3-0306",
+  "hanzi": "环保",
+  "pinyin": "huánbǎo",
+  "pos": "danh từ, tính từ",
+  "meaning": "bảo vệ môi trường",
+  "level": 3
+ },
+ {
+  "id": "3-0307",
+  "hanzi": "环境",
+  "pinyin": "huánjìng",
+  "pos": "danh từ",
+  "meaning": "môi trường",
+  "level": 3
+ },
+ {
+  "id": "3-0308",
+  "hanzi": "会议",
+  "pinyin": "huìyì",
+  "pos": "danh từ",
+  "meaning": "hội nghị, cuộc họp",
+  "level": 3
+ },
+ {
+  "id": "3-0309",
+  "hanzi": "会员",
+  "pinyin": "huìyuán",
+  "pos": "danh từ",
+  "meaning": "hội viên",
+  "level": 3
+ },
+ {
+  "id": "3-0310",
+  "hanzi": "活",
+  "pinyin": "huó",
+  "pos": "tính từ, động từ",
+  "meaning": "sống; linh hoạt",
+  "level": 3
+ },
+ {
+  "id": "3-0311",
+  "hanzi": "火",
+  "pinyin": "huǒ",
+  "pos": "danh từ",
+  "meaning": "lửa",
+  "level": 3
+ },
+ {
+  "id": "3-0312",
+  "hanzi": "机器",
+  "pinyin": "jīqì",
+  "pos": "danh từ",
+  "meaning": "máy móc",
+  "level": 3
+ },
+ {
+  "id": "3-0313",
+  "hanzi": "积极",
+  "pinyin": "jījí",
+  "pos": "tính từ",
+  "meaning": "tích cực",
+  "level": 3
+ },
+ {
+  "id": "3-0314",
+  "hanzi": "基本",
+  "pinyin": "jīběn",
+  "pos": "tính từ",
+  "meaning": "cơ bản",
+  "level": 3
+ },
+ {
+  "id": "3-0315",
+  "hanzi": "基本上",
+  "pinyin": "jīběnshang",
+  "pos": "phó từ",
+  "meaning": "về cơ bản",
+  "level": 3
+ },
+ {
+  "id": "3-0316",
+  "hanzi": "基础",
+  "pinyin": "jīchǔ",
+  "pos": "danh từ",
+  "meaning": "cơ sở, nền tảng",
+  "level": 3
+ },
+ {
+  "id": "3-0317",
+  "hanzi": "及时",
+  "pinyin": "jíshí",
+  "pos": "tính từ",
+  "meaning": "kịp thời",
+  "level": 3
+ },
+ {
+  "id": "3-0318",
+  "hanzi": "极了",
+  "pinyin": "jí le",
+  "pos": "cụm từ",
+  "meaning": "... cực kỳ, ... quá (đứng sau tính từ)",
+  "level": 3
+ },
+ {
+  "id": "3-0319",
+  "hanzi": "集体",
+  "pinyin": "jítǐ",
+  "pos": "danh từ",
+  "meaning": "tập thể",
+  "level": 3
+ },
+ {
+  "id": "3-0320",
+  "hanzi": "集中",
+  "pinyin": "jízhōng",
+  "pos": "động từ, tính từ",
+  "meaning": "tập trung",
+  "level": 3
+ },
+ {
+  "id": "3-0321",
+  "hanzi": "计算",
+  "pinyin": "jìsuàn",
+  "pos": "động từ",
+  "meaning": "tính toán",
+  "level": 3
+ },
+ {
+  "id": "3-0322",
+  "hanzi": "记录",
+  "pinyin": "jìlù",
+  "pos": "danh từ, động từ",
+  "meaning": "ghi chép; biên bản (记录)",
+  "level": 3
+ },
+ {
+  "id": "3-0323",
+  "hanzi": "记者",
+  "pinyin": "jìzhě",
+  "pos": "danh từ",
+  "meaning": "phóng viên, nhà báo",
+  "level": 3
+ },
+ {
+  "id": "3-0324",
+  "hanzi": "纪录",
+  "pinyin": "jìlù",
+  "pos": "danh từ",
+  "meaning": "kỷ lục (纪录)",
+  "level": 3
+ },
+ {
+  "id": "3-0325",
+  "hanzi": "纪念",
+  "pinyin": "jìniàn",
+  "pos": "động từ, danh từ",
+  "meaning": "kỷ niệm, tưởng niệm",
+  "level": 3
+ },
+ {
+  "id": "3-0326",
+  "hanzi": "技术",
+  "pinyin": "jìshù",
+  "pos": "danh từ",
+  "meaning": "kỹ thuật, công nghệ",
+  "level": 3
+ },
+ {
+  "id": "3-0327",
+  "hanzi": "继续",
+  "pinyin": "jìxù",
+  "pos": "động từ",
+  "meaning": "tiếp tục",
+  "level": 3
+ },
+ {
+  "id": "3-0328",
+  "hanzi": "加工",
+  "pinyin": "jiāgōng",
+  "pos": "cụm từ",
+  "meaning": "gia công, chế biến",
+  "level": 3
+ },
+ {
+  "id": "3-0329",
+  "hanzi": "加快",
+  "pinyin": "jiākuài",
+  "pos": "động từ",
+  "meaning": "đẩy nhanh, tăng tốc",
+  "level": 3
+ },
+ {
+  "id": "3-0330",
+  "hanzi": "加强",
+  "pinyin": "jiāqiáng",
+  "pos": "động từ",
+  "meaning": "tăng cường",
+  "level": 3
+ },
+ {
+  "id": "3-0331",
+  "hanzi": "家具",
+  "pinyin": "jiājù",
+  "pos": "danh từ",
+  "meaning": "đồ nội thất",
+  "level": 3
+ },
+ {
+  "id": "3-0332",
+  "hanzi": "家属",
+  "pinyin": "jiāshǔ",
+  "pos": "danh từ",
+  "meaning": "người nhà, gia quyến",
+  "level": 3
+ },
+ {
+  "id": "3-0333",
+  "hanzi": "家乡",
+  "pinyin": "jiāxiāng",
+  "pos": "danh từ",
+  "meaning": "quê nhà (家乡)",
+  "level": 3
+ },
+ {
+  "id": "3-0334",
+  "hanzi": "价格",
+  "pinyin": "jiàgé",
+  "pos": "danh từ",
+  "meaning": "giá cả (价格)",
+  "level": 3
+ },
+ {
+  "id": "3-0335",
+  "hanzi": "价钱",
+  "pinyin": "jiàqian",
+  "pos": "danh từ",
+  "meaning": "giá tiền (价钱)",
+  "level": 3
+ },
+ {
+  "id": "3-0336",
+  "hanzi": "价值",
+  "pinyin": "jiàzhí",
+  "pos": "danh từ",
+  "meaning": "giá trị",
+  "level": 3
+ },
+ {
+  "id": "3-0337",
+  "hanzi": "架",
+  "pinyin": "jià",
+  "pos": "lượng từ, danh từ",
+  "meaning": "chiếc (máy bay, đàn...); cái giá, khung",
+  "level": 3
+ },
+ {
+  "id": "3-0338",
+  "hanzi": "坚持",
+  "pinyin": "jiānchí",
+  "pos": "động từ",
+  "meaning": "kiên trì",
+  "level": 3
+ },
+ {
+  "id": "3-0339",
+  "hanzi": "坚决",
+  "pinyin": "jiānjué",
+  "pos": "tính từ",
+  "meaning": "kiên quyết",
+  "level": 3
+ },
+ {
+  "id": "3-0340",
+  "hanzi": "坚强",
+  "pinyin": "jiānqiáng",
+  "pos": "tính từ",
+  "meaning": "kiên cường",
+  "level": 3
+ },
+ {
+  "id": "3-0341",
+  "hanzi": "简单",
+  "pinyin": "jiǎndān",
+  "pos": "tính từ",
+  "meaning": "đơn giản",
+  "level": 3
+ },
+ {
+  "id": "3-0342",
+  "hanzi": "简直",
+  "pinyin": "jiǎnzhí",
+  "pos": "phó từ",
+  "meaning": "quả thực là, đúng là",
+  "level": 3
+ },
+ {
+  "id": "3-0343",
+  "hanzi": "建",
+  "pinyin": "jiàn",
+  "pos": "động từ",
+  "meaning": "xây, xây dựng (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0344",
+  "hanzi": "建成",
+  "pinyin": "jiànchéng",
+  "pos": "cụm từ",
+  "meaning": "xây xong, xây dựng thành",
+  "level": 3
+ },
+ {
+  "id": "3-0345",
+  "hanzi": "建立",
+  "pinyin": "jiànlì",
+  "pos": "động từ",
+  "meaning": "thiết lập, xây dựng (quan hệ, chế độ)",
+  "level": 3
+ },
+ {
+  "id": "3-0346",
+  "hanzi": "建设",
+  "pinyin": "jiànshè",
+  "pos": "động từ, danh từ",
+  "meaning": "xây dựng (đất nước, công trình)",
+  "level": 3
+ },
+ {
+  "id": "3-0347",
+  "hanzi": "建议",
+  "pinyin": "jiànyì",
+  "pos": "động từ, danh từ",
+  "meaning": "đề nghị, kiến nghị",
+  "level": 3
+ },
+ {
+  "id": "3-0348",
+  "hanzi": "将近",
+  "pinyin": "jiāngjìn",
+  "pos": "phó từ",
+  "meaning": "gần, xấp xỉ",
+  "level": 3
+ },
+ {
+  "id": "3-0349",
+  "hanzi": "将来",
+  "pinyin": "jiānglái",
+  "pos": "danh từ",
+  "meaning": "tương lai, sau này",
+  "level": 3
+ },
+ {
+  "id": "3-0350",
+  "hanzi": "交费",
+  "pinyin": "jiāofèi",
+  "pos": "động từ",
+  "meaning": "nộp phí",
+  "level": 3
+ }
+]

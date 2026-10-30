@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0601",
+  "hanzi": "像",
+  "pinyin": "xiàng",
+  "pos": "động từ",
+  "meaning": "giống (như)",
+  "level": 2
+ },
+ {
+  "id": "2-0602",
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "pos": "tiền tố",
+  "meaning": "tiểu, bé (gọi thân mật + họ, VD: Tiểu Vương)",
+  "level": 2
+ },
+ {
+  "id": "2-0603",
+  "hanzi": "小声",
+  "pinyin": "xiǎo shēng",
+  "pos": "cụm từ",
+  "meaning": "nói nhỏ, khẽ",
+  "level": 2
+ },
+ {
+  "id": "2-0604",
+  "hanzi": "小时候",
+  "pinyin": "xiǎoshíhou",
+  "pos": "danh từ",
+  "meaning": "lúc nhỏ, hồi bé",
+  "level": 2
+ },
+ {
+  "id": "2-0605",
+  "hanzi": "小说",
+  "pinyin": "xiǎoshuō",
+  "pos": "danh từ",
+  "meaning": "tiểu thuyết",
+  "level": 2
+ },
+ {
+  "id": "2-0606",
+  "hanzi": "小心",
+  "pinyin": "xiǎoxīn",
+  "pos": "tính từ, động từ",
+  "meaning": "cẩn thận, coi chừng",
+  "level": 2
+ },
+ {
+  "id": "2-0607",
+  "hanzi": "小组",
+  "pinyin": "xiǎozǔ",
+  "pos": "danh từ",
+  "meaning": "nhóm nhỏ, tổ",
+  "level": 2
+ },
+ {
+  "id": "2-0608",
+  "hanzi": "校园",
+  "pinyin": "xiàoyuán",
+  "pos": "danh từ",
+  "meaning": "khuôn viên trường",
+  "level": 2
+ },
+ {
+  "id": "2-0609",
+  "hanzi": "校长",
+  "pinyin": "xiàozhǎng",
+  "pos": "danh từ",
+  "meaning": "hiệu trưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0610",
+  "hanzi": "笑话",
+  "pinyin": "xiàohua",
+  "pos": "danh từ, động từ",
+  "meaning": "chuyện cười; chê cười",
+  "level": 2
+ },
+ {
+  "id": "2-0611",
+  "hanzi": "笑话儿",
+  "pinyin": "xiàohuar",
+  "pos": "danh từ",
+  "meaning": "truyện cười, trò đùa",
+  "level": 2
+ },
+ {
+  "id": "2-0612",
+  "hanzi": "鞋",
+  "pinyin": "xié",
+  "pos": "danh từ",
+  "meaning": "giày",
+  "level": 2
+ },
+ {
+  "id": "2-0613",
+  "hanzi": "心里",
+  "pinyin": "xīnlǐ",
+  "pos": "danh từ",
+  "meaning": "trong lòng",
+  "level": 2
+ },
+ {
+  "id": "2-0614",
+  "hanzi": "心情",
+  "pinyin": "xīnqíng",
+  "pos": "danh từ",
+  "meaning": "tâm trạng",
+  "level": 2
+ },
+ {
+  "id": "2-0615",
+  "hanzi": "心中",
+  "pinyin": "xīnzhōng",
+  "pos": "danh từ",
+  "meaning": "trong tim, trong lòng (心中)",
+  "level": 2
+ },
+ {
+  "id": "2-0616",
+  "hanzi": "新闻",
+  "pinyin": "xīnwén",
+  "pos": "danh từ",
+  "meaning": "tin tức, thời sự",
+  "level": 2
+ },
+ {
+  "id": "2-0617",
+  "hanzi": "信",
+  "pinyin": "xìn",
+  "pos": "danh từ",
+  "meaning": "thư, lá thư; tin",
+  "level": 2
+ },
+ {
+  "id": "2-0618",
+  "hanzi": "信号",
+  "pinyin": "xìnhào",
+  "pos": "danh từ",
+  "meaning": "tín hiệu, sóng (điện thoại)",
+  "level": 2
+ },
+ {
+  "id": "2-0619",
+  "hanzi": "信息",
+  "pinyin": "xìnxī",
+  "pos": "danh từ",
+  "meaning": "thông tin",
+  "level": 2
+ },
+ {
+  "id": "2-0620",
+  "hanzi": "信心",
+  "pinyin": "xìnxīn",
+  "pos": "danh từ",
+  "meaning": "lòng tin, sự tự tin",
+  "level": 2
+ },
+ {
+  "id": "2-0621",
+  "hanzi": "信用卡",
+  "pinyin": "xìnyòngkǎ",
+  "pos": "danh từ",
+  "meaning": "thẻ tín dụng",
+  "level": 2
+ },
+ {
+  "id": "2-0622",
+  "hanzi": "星星",
+  "pinyin": "xīngxing",
+  "pos": "danh từ",
+  "meaning": "ngôi sao (trên trời)",
+  "level": 2
+ },
+ {
+  "id": "2-0623",
+  "hanzi": "行动",
+  "pinyin": "xíngdòng",
+  "pos": "động từ, danh từ",
+  "meaning": "hành động",
+  "level": 2
+ },
+ {
+  "id": "2-0624",
+  "hanzi": "行人",
+  "pinyin": "xíngrén",
+  "pos": "danh từ",
+  "meaning": "người đi đường",
+  "level": 2
+ },
+ {
+  "id": "2-0625",
+  "hanzi": "行为",
+  "pinyin": "xíngwéi",
+  "pos": "danh từ",
+  "meaning": "hành vi",
+  "level": 2
+ },
+ {
+  "id": "2-0626",
+  "hanzi": "姓",
+  "pinyin": "xìng",
+  "pos": "danh từ, động từ",
+  "meaning": "họ; mang họ",
+  "level": 2
+ },
+ {
+  "id": "2-0627",
+  "hanzi": "姓名",
+  "pinyin": "xìngmíng",
+  "pos": "danh từ",
+  "meaning": "họ tên",
+  "level": 2
+ },
+ {
+  "id": "2-0628",
+  "hanzi": "休假",
+  "pinyin": "xiūjià",
+  "pos": "cụm từ",
+  "meaning": "nghỉ phép",
+  "level": 2
+ },
+ {
+  "id": "2-0629",
+  "hanzi": "许多",
+  "pinyin": "xǔduō",
+  "pos": "số từ",
+  "meaning": "rất nhiều (许多)",
+  "level": 2
+ },
+ {
+  "id": "2-0630",
+  "hanzi": "选",
+  "pinyin": "xuǎn",
+  "pos": "động từ",
+  "meaning": "chọn, bầu",
+  "level": 2
+ },
+ {
+  "id": "2-0631",
+  "hanzi": "学期",
+  "pinyin": "xuéqī",
+  "pos": "danh từ",
+  "meaning": "học kỳ",
+  "level": 2
+ },
+ {
+  "id": "2-0632",
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "pos": "danh từ",
+  "meaning": "tuyết",
+  "level": 2
+ },
+ {
+  "id": "2-0633",
+  "hanzi": "颜色",
+  "pinyin": "yánsè",
+  "pos": "danh từ",
+  "meaning": "màu sắc",
+  "level": 2
+ },
+ {
+  "id": "2-0634",
+  "hanzi": "眼",
+  "pinyin": "yǎn",
+  "pos": "danh từ, lượng từ",
+  "meaning": "mắt (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0635",
+  "hanzi": "眼睛",
+  "pinyin": "yǎnjing",
+  "pos": "danh từ",
+  "meaning": "đôi mắt",
+  "level": 2
+ },
+ {
+  "id": "2-0636",
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "pos": "động từ",
+  "meaning": "nuôi",
+  "level": 2
+ },
+ {
+  "id": "2-0637",
+  "hanzi": "样子",
+  "pinyin": "yàngzi",
+  "pos": "danh từ",
+  "meaning": "dáng vẻ, kiểu dáng",
+  "level": 2
+ },
+ {
+  "id": "2-0638",
+  "hanzi": "要求",
+  "pinyin": "yāoqiú",
+  "pos": "động từ, danh từ",
+  "meaning": "yêu cầu, đòi hỏi",
+  "level": 2
+ },
+ {
+  "id": "2-0639",
+  "hanzi": "药",
+  "pinyin": "yào",
+  "pos": "danh từ",
+  "meaning": "thuốc",
+  "level": 2
+ },
+ {
+  "id": "2-0640",
+  "hanzi": "药店",
+  "pinyin": "yàodiàn",
+  "pos": "danh từ",
+  "meaning": "hiệu thuốc",
+  "level": 2
+ },
+ {
+  "id": "2-0641",
+  "hanzi": "药片",
+  "pinyin": "yàopiàn",
+  "pos": "danh từ",
+  "meaning": "thuốc viên",
+  "level": 2
+ },
+ {
+  "id": "2-0642",
+  "hanzi": "药水",
+  "pinyin": "yàoshuǐ",
+  "pos": "danh từ",
+  "meaning": "thuốc nước",
+  "level": 2
+ },
+ {
+  "id": "2-0643",
+  "hanzi": "也许",
+  "pinyin": "yěxǔ",
+  "pos": "phó từ",
+  "meaning": "có lẽ (也许)",
+  "level": 2
+ },
+ {
+  "id": "2-0644",
+  "hanzi": "夜",
+  "pinyin": "yè",
+  "pos": "danh từ",
+  "meaning": "đêm (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0645",
+  "hanzi": "夜里",
+  "pinyin": "yèlǐ",
+  "pos": "danh từ",
+  "meaning": "trong đêm, ban đêm",
+  "level": 2
+ },
+ {
+  "id": "2-0646",
+  "hanzi": "一部分",
+  "pinyin": "yí bùfen",
+  "pos": "danh từ",
+  "meaning": "một phần, một bộ phận",
+  "level": 2
+ },
+ {
+  "id": "2-0647",
+  "hanzi": "一定",
+  "pinyin": "yídìng",
+  "pos": "tính từ, phó từ",
+  "meaning": "nhất định, chắc chắn",
+  "level": 2
+ },
+ {
+  "id": "2-0648",
+  "hanzi": "一共",
+  "pinyin": "yígòng",
+  "pos": "phó từ",
+  "meaning": "tổng cộng",
+  "level": 2
+ },
+ {
+  "id": "2-0649",
+  "hanzi": "一会儿",
+  "pinyin": "yíhuìr",
+  "pos": "phó từ",
+  "meaning": "một lúc, một lát (HSK2)",
+  "level": 2
+ },
+ {
+  "id": "2-0650",
+  "hanzi": "一路平安",
+  "pinyin": "yílù píng'ān",
+  "pos": "cụm từ",
+  "meaning": "thượng lộ bình an",
+  "level": 2
+ }
+]

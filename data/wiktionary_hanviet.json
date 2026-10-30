@@ -1,0 +1,12692 @@
+{
+ "一": {
+  "hanviet": [
+   "nhất",
+   "nhứt"
+  ],
+  "title": "一",
+  "weak": false
+ },
+ "七": {
+  "hanviet": [
+   "thất"
+  ],
+  "title": "七",
+  "weak": false
+ },
+ "万": {
+  "hanviet": [
+   "vạn",
+   "mặc"
+  ],
+  "title": "万",
+  "weak": false
+ },
+ "丈": {
+  "hanviet": [
+   "trượng"
+  ],
+  "title": "丈",
+  "weak": false
+ },
+ "三": {
+  "hanviet": [
+   "tam"
+  ],
+  "title": "三",
+  "weak": false
+ },
+ "上": {
+  "hanviet": [
+   "thượng",
+   "thưởng"
+  ],
+  "title": "上",
+  "weak": false
+ },
+ "下": {
+  "hanviet": [
+   "hạ"
+  ],
+  "title": "下",
+  "weak": false
+ },
+ "不": {
+  "hanviet": [
+   "bất",
+   "bưu",
+   "bỉ",
+   "phi",
+   "phu",
+   "phầu",
+   "phủ"
+  ],
+  "title": "不",
+  "weak": false
+ },
+ "与": {
+  "hanviet": [
+   "dữ",
+   "dự"
+  ],
+  "title": "与",
+  "weak": false
+ },
+ "丑": {
+  "hanviet": [
+   "sửu"
+  ],
+  "title": "丑",
+  "weak": false
+ },
+ "专": {
+  "hanviet": [
+   "chuyên"
+  ],
+  "title": "專",
+  "weak": false
+ },
+ "且": {
+  "hanviet": [
+   "thả",
+   "thư",
+   "tồ"
+  ],
+  "title": "且",
+  "weak": false
+ },
+ "世": {
+  "hanviet": [
+   "thế"
+  ],
+  "title": "世",
+  "weak": false
+ },
+ "业": {
+  "hanviet": [
+   "nghiệp",
+   "nghiếp"
+  ],
+  "title": "業",
+  "weak": false
+ },
+ "东": {
+  "hanviet": [
+   "đông"
+  ],
+  "title": "東",
+  "weak": false
+ },
+ "丝": {
+  "hanviet": [
+   "tơ",
+   "tưa",
+   "ty",
+   "ti"
+  ],
+  "title": "絲",
+  "weak": true
+ },
+ "两": {
+  "hanviet": [
+   "lưỡng",
+   "lạng"
+  ],
+  "title": "两",
+  "weak": false
+ },
+ "严": {
+  "hanviet": [
+   "nghiêm",
+   "ngàm"
+  ],
+  "title": "嚴",
+  "weak": true
+ },
+ "个": {
+  "hanviet": [
+   "cá",
+   "cán"
+  ],
+  "title": "个",
+  "weak": false
+ },
+ "中": {
+  "hanviet": [
+   "trung",
+   "trúng"
+  ],
+  "title": "中",
+  "weak": false
+ },
+ "丰": {
+  "hanviet": [
+   "phong"
+  ],
+  "title": "丰",
+  "weak": false
+ },
+ "临": {
+  "hanviet": [
+   "lâm",
+   "lấm"
+  ],
+  "title": "臨",
+  "weak": false
+ },
+ "为": {
+  "hanviet": [
+   "vi",
+   "vị",
+   "vĩ"
+  ],
+  "title": "為",
+  "weak": true
+ },
+ "主": {
+  "hanviet": [
+   "chủ",
+   "chúa"
+  ],
+  "title": "主",
+  "weak": false
+ },
+ "丽": {
+  "hanviet": [
+   "lệ",
+   "li"
+  ],
+  "title": "麗",
+  "weak": false
+ },
+ "举": {
+  "hanviet": [
+   "cử"
+  ],
+  "title": "舉",
+  "weak": false
+ },
+ "久": {
+  "hanviet": [
+   "cửu"
+  ],
+  "title": "久",
+  "weak": false
+ },
+ "么": {
+  "hanviet": [
+   "yêu"
+  ],
+  "title": "幺",
+  "weak": true
+ },
+ "义": {
+  "hanviet": [
+   "nghĩa",
+   "nghì",
+   "ngửi",
+   "ngãi"
+  ],
+  "title": "義",
+  "weak": true
+ },
+ "之": {
+  "hanviet": [
+   "chi"
+  ],
+  "title": "之",
+  "weak": false
+ },
+ "乎": {
+  "hanviet": [
+   "hồ",
+   "hô"
+  ],
+  "title": "乎",
+  "weak": false
+ },
+ "乏": {
+  "hanviet": [
+   "phạp"
+  ],
+  "title": "乏",
+  "weak": false
+ },
+ "乐": {
+  "hanviet": [
+   "lạc",
+   "nhạc",
+   "nhạo"
+  ],
+  "title": "樂",
+  "weak": true
+ },
+ "乖": {
+  "hanviet": [
+   "quai",
+   "quái"
+  ],
+  "title": "乖",
+  "weak": false
+ },
+ "乙": {
+  "hanviet": [
+   "ất"
+  ],
+  "title": "乙",
+  "weak": false
+ },
+ "九": {
+  "hanviet": [
+   "cửu"
+  ],
+  "title": "九",
+  "weak": false
+ },
+ "也": {
+  "hanviet": [
+   "giã",
+   "dã"
+  ],
+  "title": "也",
+  "weak": false
+ },
+ "习": {
+  "hanviet": [
+   "tập",
+   "chập",
+   "dập",
+   "giặp",
+   "tấp",
+   "xập",
+   "sập"
+  ],
+  "title": "習",
+  "weak": true
+ },
+ "乡": {
+  "hanviet": [
+   "hương"
+  ],
+  "title": "鄉",
+  "weak": true
+ },
+ "书": {
+  "hanviet": [
+   "thư",
+   "thơ"
+  ],
+  "title": "書",
+  "weak": false
+ },
+ "买": {
+  "hanviet": [
+   "mãi"
+  ],
+  "title": "買",
+  "weak": false
+ },
+ "乱": {
+  "hanviet": [
+   "loạn"
+  ],
+  "title": "乱",
+  "weak": false
+ },
+ "了": {
+  "hanviet": [
+   "liễu",
+   "kiết"
+  ],
+  "title": "了",
+  "weak": false
+ },
+ "争": {
+  "hanviet": [
+   "tranh"
+  ],
+  "title": "争",
+  "weak": false
+ },
+ "事": {
+  "hanviet": [
+   "sự"
+  ],
+  "title": "事",
+  "weak": false
+ },
+ "二": {
+  "hanviet": [
+   "nhị"
+  ],
+  "title": "二",
+  "weak": false
+ },
+ "于": {
+  "hanviet": [
+   "vu",
+   "hu"
+  ],
+  "title": "于",
+  "weak": false
+ },
+ "亏": {
+  "hanviet": [
+   "khuy"
+  ],
+  "title": "亏",
+  "weak": false
+ },
+ "云": {
+  "hanviet": [
+   "vân"
+  ],
+  "title": "云",
+  "weak": false
+ },
+ "互": {
+  "hanviet": [
+   "hỗ",
+   "hổ"
+  ],
+  "title": "互",
+  "weak": true
+ },
+ "五": {
+  "hanviet": [
+   "ngũ"
+  ],
+  "title": "五",
+  "weak": false
+ },
+ "亚": {
+  "hanviet": [
+   "á",
+   "a"
+  ],
+  "title": "亞",
+  "weak": true
+ },
+ "些": {
+  "hanviet": [
+   "ta"
+  ],
+  "title": "些",
+  "weak": false
+ },
+ "交": {
+  "hanviet": [
+   "giao"
+  ],
+  "title": "交",
+  "weak": false
+ },
+ "产": {
+  "hanviet": [
+   "sản"
+  ],
+  "title": "產",
+  "weak": true
+ },
+ "享": {
+  "hanviet": [
+   "hưởng"
+  ],
+  "title": "享",
+  "weak": true
+ },
+ "京": {
+  "hanviet": [
+   "kinh",
+   "nguyên"
+  ],
+  "title": "京",
+  "weak": false
+ },
+ "亮": {
+  "hanviet": [
+   "lượng",
+   "lương"
+  ],
+  "title": "亮",
+  "weak": true
+ },
+ "亲": {
+  "hanviet": [
+   "thân"
+  ],
+  "title": "親",
+  "weak": true
+ },
+ "人": {
+  "hanviet": [
+   "nhân"
+  ],
+  "title": "人",
+  "weak": false
+ },
+ "亿": {
+  "hanviet": [
+   "ức"
+  ],
+  "title": "億",
+  "weak": false
+ },
+ "什": {
+  "hanviet": [
+   "thập",
+   "lặt",
+   "thậm"
+  ],
+  "title": "什",
+  "weak": true
+ },
+ "仅": {
+  "hanviet": [
+   "cẩn",
+   "cận",
+   "cấn",
+   "cẫn"
+  ],
+  "title": "僅",
+  "weak": true
+ },
+ "今": {
+  "hanviet": [
+   "kim",
+   "câm"
+  ],
+  "title": "今",
+  "weak": false
+ },
+ "介": {
+  "hanviet": [
+   "giới"
+  ],
+  "title": "介",
+  "weak": true
+ },
+ "仍": {
+  "hanviet": [
+   "nhưng"
+  ],
+  "title": "仍",
+  "weak": false
+ },
+ "从": {
+  "hanviet": [
+   "tòng",
+   "tùng",
+   "tụng"
+  ],
+  "title": "从",
+  "weak": true
+ },
+ "仔": {
+  "hanviet": [
+   "tử",
+   "tể"
+  ],
+  "title": "仔",
+  "weak": true
+ },
+ "他": {
+  "hanviet": [
+   "tha"
+  ],
+  "title": "他",
+  "weak": false
+ },
+ "付": {
+  "hanviet": [
+   "phó",
+   "phú"
+  ],
+  "title": "付",
+  "weak": false
+ },
+ "代": {
+  "hanviet": [
+   "đại"
+  ],
+  "title": "代",
+  "weak": false
+ },
+ "令": {
+  "hanviet": [
+   "lệnh",
+   "lịnh",
+   "lậnh",
+   "linh"
+  ],
+  "title": "令",
+  "weak": false
+ },
+ "以": {
+  "hanviet": [
+   "dĩ"
+  ],
+  "title": "以",
+  "weak": true
+ },
+ "们": {
+  "hanviet": [
+   "món",
+   "môn",
+   "mon"
+  ],
+  "title": "們",
+  "weak": true
+ },
+ "件": {
+  "hanviet": [
+   "kiện",
+   "kịn",
+   "kẹn"
+  ],
+  "title": "件",
+  "weak": true
+ },
+ "价": {
+  "hanviet": [
+   "giá"
+  ],
+  "title": "價",
+  "weak": true
+ },
+ "任": {
+  "hanviet": [
+   "nhậm",
+   "nhiệm",
+   "nhâm"
+  ],
+  "title": "任",
+  "weak": false
+ },
+ "份": {
+  "hanviet": [
+   "phần",
+   "phân"
+  ],
+  "title": "份",
+  "weak": true
+ },
+ "仿": {
+  "hanviet": [
+   "phảng",
+   "phẳng",
+   "phàng",
+   "phần",
+   "phỏng"
+  ],
+  "title": "仿",
+  "weak": true
+ },
+ "企": {
+  "hanviet": [
+   "xí"
+  ],
+  "title": "企",
+  "weak": true
+ },
+ "休": {
+  "hanviet": [
+   "hưu"
+  ],
+  "title": "休",
+  "weak": true
+ },
+ "众": {
+  "hanviet": [
+   "chúng"
+  ],
+  "title": "众",
+  "weak": false
+ },
+ "优": {
+  "hanviet": [
+   "ưu"
+  ],
+  "title": "優",
+  "weak": true
+ },
+ "伙": {
+  "hanviet": [
+   "loã",
+   "hoả",
+   "hõa",
+   "lỏa"
+  ],
+  "title": "伙",
+  "weak": true
+ },
+ "会": {
+  "hanviet": [
+   "hội",
+   "cối"
+  ],
+  "title": "会",
+  "weak": false
+ },
+ "伞": {
+  "hanviet": [
+   "tản",
+   "tàn",
+   "tán"
+  ],
+  "title": "傘",
+  "weak": true
+ },
+ "伟": {
+  "hanviet": [
+   "vĩ",
+   "vỉ"
+  ],
+  "title": "偉",
+  "weak": true
+ },
+ "传": {
+  "hanviet": [
+   "truyền"
+  ],
+  "title": "傳",
+  "weak": false
+ },
+ "伤": {
+  "hanviet": [
+   "thương"
+  ],
+  "title": "傷",
+  "weak": true
+ },
+ "伴": {
+  "hanviet": [
+   "bạn"
+  ],
+  "title": "伴",
+  "weak": false
+ },
+ "伸": {
+  "hanviet": [
+   "thân"
+  ],
+  "title": "伸",
+  "weak": true
+ },
+ "似": {
+  "hanviet": [
+   "tự",
+   "tợ",
+   "tựa",
+   "từa"
+  ],
+  "title": "似",
+  "weak": true
+ },
+ "但": {
+  "hanviet": [
+   "đãn",
+   "đán"
+  ],
+  "title": "但",
+  "weak": false
+ },
+ "位": {
+  "hanviet": [
+   "vị",
+   "vì"
+  ],
+  "title": "位",
+  "weak": true
+ },
+ "低": {
+  "hanviet": [
+   "đê",
+   "đây"
+  ],
+  "title": "低",
+  "weak": false
+ },
+ "住": {
+  "hanviet": [
+   "trú",
+   "trọ",
+   "giọ"
+  ],
+  "title": "住",
+  "weak": true
+ },
+ "体": {
+  "hanviet": [
+   "thể"
+  ],
+  "title": "体",
+  "weak": false
+ },
+ "何": {
+  "hanviet": [
+   "hà",
+   "gã",
+   "há"
+  ],
+  "title": "何",
+  "weak": true
+ },
+ "余": {
+  "hanviet": [
+   "dư"
+  ],
+  "title": "余",
+  "weak": false
+ },
+ "佛": {
+  "hanviet": [
+   "phật",
+   "phất"
+  ],
+  "title": "佛",
+  "weak": false
+ },
+ "作": {
+  "hanviet": [
+   "tác",
+   "tố"
+  ],
+  "title": "作",
+  "weak": false
+ },
+ "你": {
+  "hanviet": [
+   "nễ",
+   "nhĩ"
+  ],
+  "title": "你",
+  "weak": false
+ },
+ "佩": {
+  "hanviet": [
+   "bội"
+  ],
+  "title": "佩",
+  "weak": true
+ },
+ "使": {
+  "hanviet": [
+   "sứ",
+   "sử"
+  ],
+  "title": "使",
+  "weak": false
+ },
+ "例": {
+  "hanviet": [
+   "lệ"
+  ],
+  "title": "例",
+  "weak": false
+ },
+ "供": {
+  "hanviet": [
+   "cung",
+   "cúng"
+  ],
+  "title": "供",
+  "weak": false
+ },
+ "依": {
+  "hanviet": [
+   "y",
+   "e",
+   "ỷ",
+   "ỉa"
+  ],
+  "title": "依",
+  "weak": true
+ },
+ "便": {
+  "hanviet": [
+   "tiện",
+   "biền"
+  ],
+  "title": "便",
+  "weak": true
+ },
+ "促": {
+  "hanviet": [
+   "xúc",
+   "thúc"
+  ],
+  "title": "促",
+  "weak": true
+ },
+ "俊": {
+  "hanviet": [
+   "tuấn"
+  ],
+  "title": "俊",
+  "weak": false
+ },
+ "俗": {
+  "hanviet": [
+   "tục"
+  ],
+  "title": "俗",
+  "weak": true
+ },
+ "保": {
+  "hanviet": [
+   "bảo",
+   "bàu",
+   "bửu",
+   "bau"
+  ],
+  "title": "保",
+  "weak": false
+ },
+ "信": {
+  "hanviet": [
+   "tín"
+  ],
+  "title": "信",
+  "weak": false
+ },
+ "俩": {
+  "hanviet": [
+   "lưỡng",
+   "lạng"
+  ],
+  "title": "俩",
+  "weak": true
+ },
+ "修": {
+  "hanviet": [
+   "tu"
+  ],
+  "title": "修",
+  "weak": false
+ },
+ "俱": {
+  "hanviet": [
+   "câu",
+   "cu",
+   "gu",
+   "cụ",
+   "gù"
+  ],
+  "title": "俱",
+  "weak": true
+ },
+ "倍": {
+  "hanviet": [
+   "bội"
+  ],
+  "title": "倍",
+  "weak": false
+ },
+ "倒": {
+  "hanviet": [
+   "đảo"
+  ],
+  "title": "倒",
+  "weak": true
+ },
+ "候": {
+  "hanviet": [
+   "hầu",
+   "hậu",
+   "thoắng"
+  ],
+  "title": "候",
+  "weak": true
+ },
+ "借": {
+  "hanviet": [
+   "tá"
+  ],
+  "title": "借",
+  "weak": true
+ },
+ "倡": {
+  "hanviet": [
+   "xướng"
+  ],
+  "title": "倡",
+  "weak": true
+ },
+ "值": {
+  "hanviet": [
+   "trị",
+   "trịa"
+  ],
+  "title": "值",
+  "weak": true
+ },
+ "假": {
+  "hanviet": [
+   "giả",
+   "giá",
+   "hạ",
+   "hà"
+  ],
+  "title": "假",
+  "weak": true
+ },
+ "做": {
+  "hanviet": [
+   "tố",
+   "súa"
+  ],
+  "title": "做",
+  "weak": true
+ },
+ "停": {
+  "hanviet": [
+   "đình"
+  ],
+  "title": "停",
+  "weak": false
+ },
+ "健": {
+  "hanviet": [
+   "kiện"
+  ],
+  "title": "健",
+  "weak": false
+ },
+ "偶": {
+  "hanviet": [
+   "ngẫu",
+   "ngẩu",
+   "ngậu"
+  ],
+  "title": "偶",
+  "weak": true
+ },
+ "偷": {
+  "hanviet": [
+   "thầu",
+   "du",
+   "thâu"
+  ],
+  "title": "偷",
+  "weak": true
+ },
+ "偿": {
+  "hanviet": [
+   "thường"
+  ],
+  "title": "償",
+  "weak": true
+ },
+ "傍": {
+  "hanviet": [
+   "bàng"
+  ],
+  "title": "傍",
+  "weak": false
+ },
+ "催": {
+  "hanviet": [
+   "thôi"
+  ],
+  "title": "催",
+  "weak": false
+ },
+ "傻": {
+  "hanviet": [
+   "xoạ",
+   "xoe",
+   "xọ",
+   "xõ"
+  ],
+  "title": "傻",
+  "weak": true
+ },
+ "像": {
+  "hanviet": [
+   "tượng",
+   "tương"
+  ],
+  "title": "像",
+  "weak": false
+ },
+ "元": {
+  "hanviet": [
+   "nguyên",
+   "nguyễn"
+  ],
+  "title": "元",
+  "weak": true
+ },
+ "兄": {
+  "hanviet": [
+   "huynh"
+  ],
+  "title": "兄",
+  "weak": true
+ },
+ "充": {
+  "hanviet": [
+   "sung"
+  ],
+  "title": "充",
+  "weak": true
+ },
+ "先": {
+  "hanviet": [
+   "tiên",
+   "tiến"
+  ],
+  "title": "先",
+  "weak": false
+ },
+ "光": {
+  "hanviet": [
+   "quang"
+  ],
+  "title": "光",
+  "weak": true
+ },
+ "克": {
+  "hanviet": [
+   "khắc"
+  ],
+  "title": "克",
+  "weak": true
+ },
+ "免": {
+  "hanviet": [
+   "miễn",
+   "mấy",
+   "mến",
+   "mém",
+   "mễm"
+  ],
+  "title": "免",
+  "weak": true
+ },
+ "兑": {
+  "hanviet": [
+   "đoái"
+  ],
+  "title": "兌",
+  "weak": true
+ },
+ "兔": {
+  "hanviet": [
+   "thố"
+  ],
+  "title": "兔",
+  "weak": false
+ },
+ "入": {
+  "hanviet": [
+   "nhập"
+  ],
+  "title": "入",
+  "weak": false
+ },
+ "全": {
+  "hanviet": [
+   "toàn",
+   "tuyền",
+   "tồn"
+  ],
+  "title": "全",
+  "weak": true
+ },
+ "八": {
+  "hanviet": [
+   "bát"
+  ],
+  "title": "八",
+  "weak": false
+ },
+ "公": {
+  "hanviet": [
+   "công"
+  ],
+  "title": "公",
+  "weak": true
+ },
+ "六": {
+  "hanviet": [
+   "lục",
+   "lúc"
+  ],
+  "title": "六",
+  "weak": false
+ },
+ "共": {
+  "hanviet": [
+   "cộng",
+   "cọng",
+   "cung"
+  ],
+  "title": "共",
+  "weak": false
+ },
+ "关": {
+  "hanviet": [
+   "quan"
+  ],
+  "title": "關",
+  "weak": true
+ },
+ "兴": {
+  "hanviet": [
+   "hưng",
+   "hăng",
+   "hên",
+   "hứng"
+  ],
+  "title": "興",
+  "weak": true
+ },
+ "兵": {
+  "hanviet": [
+   "binh"
+  ],
+  "title": "兵",
+  "weak": false
+ },
+ "其": {
+  "hanviet": [
+   "kì"
+  ],
+  "title": "其",
+  "weak": false
+ },
+ "具": {
+  "hanviet": [
+   "cụ",
+   "cỗ",
+   "gỗ"
+  ],
+  "title": "具",
+  "weak": true
+ },
+ "典": {
+  "hanviet": [
+   "điển"
+  ],
+  "title": "典",
+  "weak": false
+ },
+ "养": {
+  "hanviet": [
+   "dưỡng",
+   "dẳng",
+   "dường"
+  ],
+  "title": "養",
+  "weak": true
+ },
+ "兼": {
+  "hanviet": [
+   "kiêm"
+  ],
+  "title": "兼",
+  "weak": true
+ },
+ "内": {
+  "hanviet": [
+   "nội",
+   "nói",
+   "nỗi",
+   "nòi",
+   "nụi",
+   "nồi"
+  ],
+  "title": "内",
+  "weak": true
+ },
+ "册": {
+  "hanviet": [
+   "sách"
+  ],
+  "title": "册",
+  "weak": true
+ },
+ "再": {
+  "hanviet": [
+   "tái"
+  ],
+  "title": "再",
+  "weak": false
+ },
+ "冒": {
+  "hanviet": [
+   "mạo",
+   "mào",
+   "mẹo"
+  ],
+  "title": "冒",
+  "weak": true
+ },
+ "写": {
+  "hanviet": [
+   "tả",
+   "giã"
+  ],
+  "title": "寫",
+  "weak": true
+ },
+ "军": {
+  "hanviet": [
+   "quân"
+  ],
+  "title": "軍",
+  "weak": false
+ },
+ "农": {
+  "hanviet": [
+   "nông",
+   "nong",
+   "nôn",
+   "núng"
+  ],
+  "title": "農",
+  "weak": true
+ },
+ "冠": {
+  "hanviet": [
+   "quan",
+   "quán"
+  ],
+  "title": "冠",
+  "weak": true
+ },
+ "冬": {
+  "hanviet": [
+   "đông"
+  ],
+  "title": "冬",
+  "weak": false
+ },
+ "冰": {
+  "hanviet": [
+   "băng"
+  ],
+  "title": "冰",
+  "weak": false
+ },
+ "冲": {
+  "hanviet": [
+   "xung"
+  ],
+  "title": "冲",
+  "weak": false
+ },
+ "决": {
+  "hanviet": [
+   "quyết"
+  ],
+  "title": "決",
+  "weak": true
+ },
+ "况": {
+  "hanviet": [
+   "huống"
+  ],
+  "title": "况",
+  "weak": true
+ },
+ "冷": {
+  "hanviet": [
+   "lãnh"
+  ],
+  "title": "冷",
+  "weak": false
+ },
+ "冻": {
+  "hanviet": [
+   "đống",
+   "đông"
+  ],
+  "title": "凍",
+  "weak": false
+ },
+ "净": {
+  "hanviet": [
+   "tĩnh",
+   "tịnh"
+  ],
+  "title": "凈",
+  "weak": true
+ },
+ "准": {
+  "hanviet": [
+   "chuẩn",
+   "chốn",
+   "chổn",
+   "chõn",
+   "chủn",
+   "trốn"
+  ],
+  "title": "准",
+  "weak": true
+ },
+ "凉": {
+  "hanviet": [
+   "lương"
+  ],
+  "title": "凉",
+  "weak": false
+ },
+ "凌": {
+  "hanviet": [
+   "lăng",
+   "lăn",
+   "lâng",
+   "lừng",
+   "lùng",
+   "rưng",
+   "dưng"
+  ],
+  "title": "凌",
+  "weak": true
+ },
+ "减": {
+  "hanviet": [
+   "giảm",
+   "dởm",
+   "xảm"
+  ],
+  "title": "減",
+  "weak": true
+ },
+ "几": {
+  "hanviet": [
+   "kỉ"
+  ],
+  "title": "几",
+  "weak": false
+ },
+ "凭": {
+  "hanviet": [
+   "bằng",
+   "bẵng",
+   "phẳng",
+   "vững"
+  ],
+  "title": "凭",
+  "weak": true
+ },
+ "出": {
+  "hanviet": [
+   "xuất",
+   "xuý"
+  ],
+  "title": "出",
+  "weak": true
+ },
+ "击": {
+  "hanviet": [
+   "kếch",
+   "ghếch",
+   "kích"
+  ],
+  "title": "擊",
+  "weak": true
+ },
+ "刀": {
+  "hanviet": [
+   "đao"
+  ],
+  "title": "刀",
+  "weak": false
+ },
+ "分": {
+  "hanviet": [
+   "phân",
+   "phận",
+   "phần",
+   "phiện"
+  ],
+  "title": "分",
+  "weak": false
+ },
+ "切": {
+  "hanviet": [
+   "thiết",
+   "siết",
+   "thiếc",
+   "thướt",
+   "xắt",
+   "thế"
+  ],
+  "title": "切",
+  "weak": true
+ },
+ "划": {
+  "hanviet": [
+   "hoa",
+   "quả"
+  ],
+  "title": "划",
+  "weak": true
+ },
+ "列": {
+  "hanviet": [
+   "liệt"
+  ],
+  "title": "列",
+  "weak": false
+ },
+ "则": {
+  "hanviet": [
+   "tắc",
+   "trắc"
+  ],
+  "title": "則",
+  "weak": false
+ },
+ "刚": {
+  "hanviet": [
+   "cương"
+  ],
+  "title": "刚",
+  "weak": false
+ },
+ "创": {
+  "hanviet": [
+   "sáng",
+   "sang"
+  ],
+  "title": "創",
+  "weak": false
+ },
+ "初": {
+  "hanviet": [
+   "sơ"
+  ],
+  "title": "初",
+  "weak": false
+ },
+ "删": {
+  "hanviet": [
+   "san"
+  ],
+  "title": "删",
+  "weak": true
+ },
+ "判": {
+  "hanviet": [
+   "phán"
+  ],
+  "title": "判",
+  "weak": true
+ },
+ "利": {
+  "hanviet": [
+   "lợi",
+   "lị"
+  ],
+  "title": "利",
+  "weak": false
+ },
+ "别": {
+  "hanviet": [
+   "biệt"
+  ],
+  "title": "别",
+  "weak": true
+ },
+ "到": {
+  "hanviet": [
+   "đáo",
+   "đáu",
+   "tráo"
+  ],
+  "title": "到",
+  "weak": true
+ },
+ "制": {
+  "hanviet": [
+   "chế"
+  ],
+  "title": "制",
+  "weak": false
+ },
+ "刷": {
+  "hanviet": [
+   "xoát",
+   "loát",
+   "loạt",
+   "loét",
+   "nhoét",
+   "soát"
+  ],
+  "title": "刷",
+  "weak": true
+ },
+ "刺": {
+  "hanviet": [
+   "thích",
+   "thứ"
+  ],
+  "title": "刺",
+  "weak": false
+ },
+ "刻": {
+  "hanviet": [
+   "khắc",
+   "gắt",
+   "khắt",
+   "khấc",
+   "lắc"
+  ],
+  "title": "刻",
+  "weak": true
+ },
+ "前": {
+  "hanviet": [
+   "tiền",
+   "tèn"
+  ],
+  "title": "前",
+  "weak": true
+ },
+ "剧": {
+  "hanviet": [
+   "kịch",
+   "cạch",
+   "kếch",
+   "kệch"
+  ],
+  "title": "劇",
+  "weak": true
+ },
+ "剪": {
+  "hanviet": [
+   "tiện",
+   "tiễn"
+  ],
+  "title": "剪",
+  "weak": true
+ },
+ "力": {
+  "hanviet": [
+   "lực"
+  ],
+  "title": "力",
+  "weak": false
+ },
+ "劝": {
+  "hanviet": [
+   "khuyến",
+   "khuyên"
+  ],
+  "title": "勸",
+  "weak": true
+ },
+ "办": {
+  "hanviet": [
+   "biện",
+   "bạn"
+  ],
+  "title": "辦",
+  "weak": true
+ },
+ "功": {
+  "hanviet": [
+   "công"
+  ],
+  "title": "功",
+  "weak": true
+ },
+ "加": {
+  "hanviet": [
+   "gia"
+  ],
+  "title": "加",
+  "weak": false
+ },
+ "务": {
+  "hanviet": [
+   "vụ"
+  ],
+  "title": "务",
+  "weak": false
+ },
+ "劣": {
+  "hanviet": [
+   "liệt",
+   "lẹt"
+  ],
+  "title": "劣",
+  "weak": true
+ },
+ "动": {
+  "hanviet": [
+   "động",
+   "đụng"
+  ],
+  "title": "動",
+  "weak": true
+ },
+ "助": {
+  "hanviet": [
+   "trợ"
+  ],
+  "title": "助",
+  "weak": false
+ },
+ "努": {
+  "hanviet": [
+   "nỗ"
+  ],
+  "title": "努",
+  "weak": true
+ },
+ "劲": {
+  "hanviet": [
+   "kình",
+   "cành"
+  ],
+  "title": "勁",
+  "weak": false
+ },
+ "劳": {
+  "hanviet": [
+   "lao"
+  ],
+  "title": "劳",
+  "weak": false
+ },
+ "势": {
+  "hanviet": [
+   "thế"
+  ],
+  "title": "势",
+  "weak": false
+ },
+ "勇": {
+  "hanviet": [
+   "dũng"
+  ],
+  "title": "勇",
+  "weak": true
+ },
+ "勤": {
+  "hanviet": [
+   "cần"
+  ],
+  "title": "勤",
+  "weak": false
+ },
+ "勿": {
+  "hanviet": [
+   "vật",
+   "vặt",
+   "vất"
+  ],
+  "title": "勿",
+  "weak": true
+ },
+ "匀": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "包": {
+  "hanviet": [
+   "bao"
+  ],
+  "title": "包",
+  "weak": false
+ },
+ "匆": {
+  "hanviet": [
+   "thông"
+  ],
+  "title": "匆",
+  "weak": true
+ },
+ "化": {
+  "hanviet": [
+   "hoá",
+   "góa"
+  ],
+  "title": "化",
+  "weak": false
+ },
+ "北": {
+  "hanviet": [
+   "bắc"
+  ],
+  "title": "北",
+  "weak": false
+ },
+ "匹": {
+  "hanviet": [
+   "sất",
+   "sít",
+   "sơ",
+   "sớt",
+   "sứt",
+   "thớt",
+   "thất"
+  ],
+  "title": "匹",
+  "weak": true
+ },
+ "区": {
+  "hanviet": [
+   "khu",
+   "âu"
+  ],
+  "title": "区",
+  "weak": false
+ },
+ "医": {
+  "hanviet": [
+   "y"
+  ],
+  "title": "醫",
+  "weak": true
+ },
+ "十": {
+  "hanviet": [
+   "thập"
+  ],
+  "title": "十",
+  "weak": false
+ },
+ "千": {
+  "hanviet": [
+   "thiên"
+  ],
+  "title": "千",
+  "weak": false
+ },
+ "升": {
+  "hanviet": [
+   "thăng",
+   "thưng"
+  ],
+  "title": "升",
+  "weak": true
+ },
+ "午": {
+  "hanviet": [
+   "ngọ",
+   "ngũ"
+  ],
+  "title": "午",
+  "weak": false
+ },
+ "半": {
+  "hanviet": [
+   "bán"
+  ],
+  "title": "半",
+  "weak": false
+ },
+ "华": {
+  "hanviet": [
+   "hoa"
+  ],
+  "title": "華",
+  "weak": false
+ },
+ "单": {
+  "hanviet": [
+   "đan",
+   "đơn",
+   "thiền",
+   "thuyền"
+  ],
+  "title": "单",
+  "weak": false
+ },
+ "卖": {
+  "hanviet": [
+   "mại"
+  ],
+  "title": "賣",
+  "weak": false
+ },
+ "南": {
+  "hanviet": [
+   "nam"
+  ],
+  "title": "南",
+  "weak": false
+ },
+ "博": {
+  "hanviet": [
+   "bác"
+  ],
+  "title": "博",
+  "weak": false
+ },
+ "占": {
+  "hanviet": [
+   "chiêm",
+   "chiếm"
+  ],
+  "title": "占",
+  "weak": false
+ },
+ "卡": {
+  "hanviet": [
+   "tạp",
+   "ca"
+  ],
+  "title": "卡",
+  "weak": true
+ },
+ "卧": {
+  "hanviet": [
+   "ngoạ"
+  ],
+  "title": "卧",
+  "weak": false
+ },
+ "卫": {
+  "hanviet": [
+   "vệ"
+  ],
+  "title": "衛",
+  "weak": false
+ },
+ "印": {
+  "hanviet": [
+   "ấn"
+  ],
+  "title": "印",
+  "weak": false
+ },
+ "危": {
+  "hanviet": [
+   "nguy",
+   "ngoay",
+   "ngoe",
+   "nguầy",
+   "nguỳ"
+  ],
+  "title": "危",
+  "weak": true
+ },
+ "即": {
+  "hanviet": [
+   "tức"
+  ],
+  "title": "即",
+  "weak": false
+ },
+ "却": {
+  "hanviet": [
+   "khước"
+  ],
+  "title": "却",
+  "weak": true
+ },
+ "卷": {
+  "hanviet": [
+   "quyển",
+   "quyến",
+   "quyền"
+  ],
+  "title": "卷",
+  "weak": false
+ },
+ "厂": {
+  "hanviet": [
+   "hán",
+   "xưởng",
+   "hản"
+  ],
+  "title": "厂",
+  "weak": false
+ },
+ "历": {
+  "hanviet": [
+   "lịch"
+  ],
+  "title": "曆",
+  "weak": false
+ },
+ "压": {
+  "hanviet": [
+   "áp",
+   "ếm"
+  ],
+  "title": "壓",
+  "weak": true
+ },
+ "厘": {
+  "hanviet": [
+   "li",
+   "ly"
+  ],
+  "title": "釐",
+  "weak": true
+ },
+ "厚": {
+  "hanviet": [
+   "hậu"
+  ],
+  "title": "厚",
+  "weak": true
+ },
+ "原": {
+  "hanviet": [
+   "nguyên",
+   "nguyễn"
+  ],
+  "title": "原",
+  "weak": true
+ },
+ "厢": {
+  "hanviet": [
+   "rương",
+   "sương",
+   "tương"
+  ],
+  "title": "廂",
+  "weak": true
+ },
+ "厦": {
+  "hanviet": [
+   "hạ",
+   "hè"
+  ],
+  "title": "厦",
+  "weak": true
+ },
+ "去": {
+  "hanviet": [
+   "khứ",
+   "khử",
+   "khu"
+  ],
+  "title": "去",
+  "weak": true
+ },
+ "县": {
+  "hanviet": [
+   "huyện"
+  ],
+  "title": "縣",
+  "weak": false
+ },
+ "参": {
+  "hanviet": [
+   "tham",
+   "sâm"
+  ],
+  "title": "参",
+  "weak": false
+ },
+ "又": {
+  "hanviet": [
+   "hựu",
+   "hữu"
+  ],
+  "title": "又",
+  "weak": false
+ },
+ "叉": {
+  "hanviet": [
+   "xoa"
+  ],
+  "title": "叉",
+  "weak": true
+ },
+ "及": {
+  "hanviet": [
+   "cập"
+  ],
+  "title": "及",
+  "weak": false
+ },
+ "友": {
+  "hanviet": [
+   "hữu"
+  ],
+  "title": "友",
+  "weak": true
+ },
+ "双": {
+  "hanviet": [
+   "song"
+  ],
+  "title": "双",
+  "weak": false
+ },
+ "反": {
+  "hanviet": [
+   "phản",
+   "phiên"
+  ],
+  "title": "反",
+  "weak": true
+ },
+ "发": {
+  "hanviet": [
+   "phát",
+   "phắt",
+   "phết"
+  ],
+  "title": "發",
+  "weak": true
+ },
+ "叔": {
+  "hanviet": [
+   "thúc"
+  ],
+  "title": "叔",
+  "weak": true
+ },
+ "取": {
+  "hanviet": [
+   "thủ",
+   "thú"
+  ],
+  "title": "取",
+  "weak": true
+ },
+ "受": {
+  "hanviet": [
+   "thụ",
+   "thọ"
+  ],
+  "title": "受",
+  "weak": true
+ },
+ "变": {
+  "hanviet": [
+   "biến"
+  ],
+  "title": "变",
+  "weak": false
+ },
+ "叙": {
+  "hanviet": [
+   "tự"
+  ],
+  "title": "叙",
+  "weak": true
+ },
+ "口": {
+  "hanviet": [
+   "khẩu"
+  ],
+  "title": "口",
+  "weak": false
+ },
+ "古": {
+  "hanviet": [
+   "cổ"
+  ],
+  "title": "古",
+  "weak": false
+ },
+ "句": {
+  "hanviet": [
+   "câu",
+   "cú",
+   "cấu"
+  ],
+  "title": "句",
+  "weak": false
+ },
+ "另": {
+  "hanviet": [
+   "lánh"
+  ],
+  "title": "另",
+  "weak": false
+ },
+ "只": {
+  "hanviet": [
+   "chỉ"
+  ],
+  "title": "只",
+  "weak": true
+ },
+ "叫": {
+  "hanviet": [
+   "khiếu",
+   "kiếu"
+  ],
+  "title": "叫",
+  "weak": false
+ },
+ "召": {
+  "hanviet": [
+   "triệu",
+   "thiệu"
+  ],
+  "title": "召",
+  "weak": false
+ },
+ "可": {
+  "hanviet": [
+   "khả",
+   "khá",
+   "tài"
+  ],
+  "title": "可",
+  "weak": true
+ },
+ "台": {
+  "hanviet": [
+   "thai",
+   "đài"
+  ],
+  "title": "台",
+  "weak": false
+ },
+ "史": {
+  "hanviet": [
+   "sử"
+  ],
+  "title": "史",
+  "weak": true
+ },
+ "右": {
+  "hanviet": [
+   "hữu"
+  ],
+  "title": "右",
+  "weak": true
+ },
+ "叶": {
+  "hanviet": [
+   "hiệp"
+  ],
+  "title": "叶",
+  "weak": false
+ },
+ "号": {
+  "hanviet": [
+   "hiệu"
+  ],
+  "title": "号",
+  "weak": false
+ },
+ "司": {
+  "hanviet": [
+   "ti",
+   "tư",
+   "tơ"
+  ],
+  "title": "司",
+  "weak": true
+ },
+ "吃": {
+  "hanviet": [
+   "khật",
+   "hấc",
+   "hất",
+   "hớt",
+   "ngát",
+   "ngặt",
+   "ngật",
+   "ực",
+   "cật"
+  ],
+  "title": "吃",
+  "weak": true
+ },
+ "各": {
+  "hanviet": [
+   "các",
+   "cách"
+  ],
+  "title": "各",
+  "weak": false
+ },
+ "合": {
+  "hanviet": [
+   "hợp",
+   "hiệp",
+   "hạp",
+   "cáp"
+  ],
+  "title": "合",
+  "weak": false
+ },
+ "同": {
+  "hanviet": [
+   "đồng"
+  ],
+  "title": "同",
+  "weak": false
+ },
+ "名": {
+  "hanviet": [
+   "danh"
+  ],
+  "title": "名",
+  "weak": false
+ },
+ "后": {
+  "hanviet": [
+   "hậu"
+  ],
+  "title": "后",
+  "weak": true
+ },
+ "吐": {
+  "hanviet": [
+   "thổ",
+   "nhổ",
+   "giổ",
+   "giỗ"
+  ],
+  "title": "吐",
+  "weak": true
+ },
+ "向": {
+  "hanviet": [
+   "hướng"
+  ],
+  "title": "向",
+  "weak": true
+ },
+ "吓": {
+  "hanviet": [
+   "hách",
+   "hạ",
+   "he"
+  ],
+  "title": "嚇",
+  "weak": true
+ },
+ "吗": {
+  "hanviet": [
+   "ma",
+   "mạ"
+  ],
+  "title": "嗎",
+  "weak": false
+ },
+ "否": {
+  "hanviet": [
+   "phủ",
+   "bĩ",
+   "bỉ"
+  ],
+  "title": "否",
+  "weak": false
+ },
+ "吧": {
+  "hanviet": [
+   "ba"
+  ],
+  "title": "吧",
+  "weak": false
+ },
+ "吨": {
+  "hanviet": [
+   "đốn"
+  ],
+  "title": "噸",
+  "weak": true
+ },
+ "含": {
+  "hanviet": [
+   "hàm",
+   "gồm"
+  ],
+  "title": "含",
+  "weak": true
+ },
+ "听": {
+  "hanviet": [
+   "thính",
+   "xính"
+  ],
+  "title": "聽",
+  "weak": true
+ },
+ "启": {
+  "hanviet": [
+   "khải",
+   "kiết"
+  ],
+  "title": "啓",
+  "weak": true
+ },
+ "吵": {
+  "hanviet": [
+   "sảo",
+   "thểu",
+   "sao",
+   "chiễu"
+  ],
+  "title": "吵",
+  "weak": true
+ },
+ "吸": {
+  "hanviet": [
+   "hấp"
+  ],
+  "title": "吸",
+  "weak": false
+ },
+ "吹": {
+  "hanviet": [
+   "xuy",
+   "xuý",
+   "suý"
+  ],
+  "title": "吹",
+  "weak": false
+ },
+ "吻": {
+  "hanviet": [
+   "vẫn",
+   "vặt",
+   "vẩn",
+   "ẫn",
+   "uẫn",
+   "ẫm",
+   "ỡm",
+   "uẫm",
+   "uỗm",
+   "uổm",
+   "uẩm"
+  ],
+  "title": "吻",
+  "weak": true
+ },
+ "呀": {
+  "hanviet": [
+   "nhá",
+   "nha"
+  ],
+  "title": "呀",
+  "weak": true
+ },
+ "呆": {
+  "hanviet": [
+   "ngốc"
+  ],
+  "title": "呆",
+  "weak": true
+ },
+ "告": {
+  "hanviet": [
+   "cáo",
+   "cáu",
+   "cốc",
+   "kiếu"
+  ],
+  "title": "告",
+  "weak": true
+ },
+ "员": {
+  "hanviet": [
+   "vân",
+   "viên"
+  ],
+  "title": "員",
+  "weak": false
+ },
+ "呢": {
+  "hanviet": [
+   "ni",
+   "nỉ"
+  ],
+  "title": "呢",
+  "weak": false
+ },
+ "周": {
+  "hanviet": [
+   "chu",
+   "châu"
+  ],
+  "title": "周",
+  "weak": false
+ },
+ "味": {
+  "hanviet": [
+   "vị"
+  ],
+  "title": "味",
+  "weak": false
+ },
+ "呼": {
+  "hanviet": [
+   "hô"
+  ],
+  "title": "呼",
+  "weak": false
+ },
+ "命": {
+  "hanviet": [
+   "mệnh",
+   "mạng",
+   "mạnh",
+   "mịnh"
+  ],
+  "title": "命",
+  "weak": false
+ },
+ "和": {
+  "hanviet": [
+   "hoà",
+   "hồ"
+  ],
+  "title": "和",
+  "weak": false
+ },
+ "咖": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "咨": {
+  "hanviet": [
+   "ti",
+   "tư"
+  ],
+  "title": "咨",
+  "weak": false
+ },
+ "咬": {
+  "hanviet": [
+   "giảo",
+   "rao",
+   "ngẩu",
+   "ngấu",
+   "ngảo",
+   "ngảu",
+   "ngáu"
+  ],
+  "title": "咬",
+  "weak": true
+ },
+ "咱": {
+  "hanviet": [
+   "thính",
+   "thánh",
+   "cha",
+   "gia"
+  ],
+  "title": "咱",
+  "weak": false
+ },
+ "咸": {
+  "hanviet": [
+   "hàm"
+  ],
+  "title": "咸",
+  "weak": true
+ },
+ "品": {
+  "hanviet": [
+   "phẩm"
+  ],
+  "title": "品",
+  "weak": true
+ },
+ "哈": {
+  "hanviet": [
+   "cáp",
+   "ha",
+   "hà",
+   "hóp",
+   "hộp",
+   "ngáp",
+   "họp",
+   "hớp",
+   "ngớp"
+  ],
+  "title": "哈",
+  "weak": true
+ },
+ "响": {
+  "hanviet": [
+   "hướng",
+   "hưởng"
+  ],
+  "title": "響",
+  "weak": true
+ },
+ "哎": {
+  "hanviet": [
+   "ngáy",
+   "ngửi"
+  ],
+  "title": "哎",
+  "weak": true
+ },
+ "哥": {
+  "hanviet": [
+   "ca",
+   "kha"
+  ],
+  "title": "哥",
+  "weak": true
+ },
+ "哪": {
+  "hanviet": [
+   "ná",
+   "nư",
+   "na",
+   "nạ"
+  ],
+  "title": "哪",
+  "weak": true
+ },
+ "哭": {
+  "hanviet": [
+   "khốc"
+  ],
+  "title": "哭",
+  "weak": false
+ },
+ "哲": {
+  "hanviet": [
+   "triết",
+   "chít",
+   "chứt",
+   "trết",
+   "trít"
+  ],
+  "title": "哲",
+  "weak": true
+ },
+ "唉": {
+  "hanviet": [
+   "ai"
+  ],
+  "title": "唉",
+  "weak": false
+ },
+ "售": {
+  "hanviet": [
+   "thụ"
+  ],
+  "title": "售",
+  "weak": false
+ },
+ "唯": {
+  "hanviet": [
+   "duy",
+   "duỵ"
+  ],
+  "title": "唯",
+  "weak": false
+ },
+ "唱": {
+  "hanviet": [
+   "xướng",
+   "xẳng",
+   "xang",
+   "sướng",
+   "xắng",
+   "xẵng"
+  ],
+  "title": "唱",
+  "weak": true
+ },
+ "商": {
+  "hanviet": [
+   "thương"
+  ],
+  "title": "商",
+  "weak": true
+ },
+ "啊": {
+  "hanviet": [
+   "a"
+  ],
+  "title": "啊",
+  "weak": false
+ },
+ "啡": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "啤": {
+  "hanviet": [
+   "bi",
+   "bì"
+  ],
+  "title": "啤",
+  "weak": true
+ },
+ "喂": {
+  "hanviet": [
+   "uy",
+   "ổi",
+   "ô"
+  ],
+  "title": "喂",
+  "weak": false
+ },
+ "善": {
+  "hanviet": [
+   "thiện"
+  ],
+  "title": "善",
+  "weak": true
+ },
+ "喊": {
+  "hanviet": [
+   "hảm"
+  ],
+  "title": "喊",
+  "weak": true
+ },
+ "喜": {
+  "hanviet": [
+   "hỉ",
+   "hỷ",
+   "hẻ",
+   "hởi"
+  ],
+  "title": "喜",
+  "weak": true
+ },
+ "喝": {
+  "hanviet": [
+   "hát",
+   "ạc",
+   "hét",
+   "hết",
+   "hít",
+   "ặc",
+   "kệ",
+   "kháo",
+   "ha"
+  ],
+  "title": "喝",
+  "weak": true
+ },
+ "喷": {
+  "hanviet": [
+   "phun",
+   "phún",
+   "phôn"
+  ],
+  "title": "噴",
+  "weak": true
+ },
+ "嗓": {
+  "hanviet": [
+   "tảng",
+   "tang",
+   "tãng",
+   "sãng"
+  ],
+  "title": "嗓",
+  "weak": true
+ },
+ "嗯": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "嘉": {
+  "hanviet": [
+   "gia"
+  ],
+  "title": "嘉",
+  "weak": false
+ },
+ "嘴": {
+  "hanviet": [
+   "chủy"
+  ],
+  "title": "嘴",
+  "weak": true
+ },
+ "器": {
+  "hanviet": [
+   "khí"
+  ],
+  "title": "器",
+  "weak": true
+ },
+ "嚏": {
+  "hanviet": [
+   "xì"
+  ],
+  "title": "嚏",
+  "weak": true
+ },
+ "四": {
+  "hanviet": [
+   "tứ"
+  ],
+  "title": "四",
+  "weak": false
+ },
+ "回": {
+  "hanviet": [
+   "hồi"
+  ],
+  "title": "回",
+  "weak": true
+ },
+ "因": {
+  "hanviet": [
+   "nhân",
+   "nhằn",
+   "dăn",
+   "nhăn",
+   "nhơn"
+  ],
+  "title": "因",
+  "weak": true
+ },
+ "团": {
+  "hanviet": [
+   "đoàn"
+  ],
+  "title": "團",
+  "weak": true
+ },
+ "园": {
+  "hanviet": [
+   "viên",
+   "vườn"
+  ],
+  "title": "園",
+  "weak": true
+ },
+ "困": {
+  "hanviet": [
+   "khốn",
+   "khuôn"
+  ],
+  "title": "困",
+  "weak": true
+ },
+ "围": {
+  "hanviet": [
+   "vi"
+  ],
+  "title": "圍",
+  "weak": false
+ },
+ "固": {
+  "hanviet": [
+   "cố"
+  ],
+  "title": "固",
+  "weak": false
+ },
+ "国": {
+  "hanviet": [
+   "quốc"
+  ],
+  "title": "国",
+  "weak": false
+ },
+ "图": {
+  "hanviet": [
+   "đồ"
+  ],
+  "title": "圖",
+  "weak": true
+ },
+ "圆": {
+  "hanviet": [
+   "viên",
+   "vin"
+  ],
+  "title": "圓",
+  "weak": true
+ },
+ "圈": {
+  "hanviet": [
+   "khuyên",
+   "khoen",
+   "quyên",
+   "quyền",
+   "quyển"
+  ],
+  "title": "圈",
+  "weak": true
+ },
+ "土": {
+  "hanviet": [
+   "thổ"
+  ],
+  "title": "土",
+  "weak": false
+ },
+ "在": {
+  "hanviet": [
+   "tại"
+  ],
+  "title": "在",
+  "weak": false
+ },
+ "地": {
+  "hanviet": [
+   "địa"
+  ],
+  "title": "地",
+  "weak": false
+ },
+ "场": {
+  "hanviet": [
+   "trường",
+   "tràng"
+  ],
+  "title": "場",
+  "weak": false
+ },
+ "圾": {
+  "hanviet": [
+   "ngập"
+  ],
+  "title": "圾",
+  "weak": false
+ },
+ "址": {
+  "hanviet": [
+   "chỉ"
+  ],
+  "title": "址",
+  "weak": false
+ },
+ "均": {
+  "hanviet": [
+   "quân"
+  ],
+  "title": "均",
+  "weak": false
+ },
+ "坏": {
+  "hanviet": [
+   "phôi"
+  ],
+  "title": "坏",
+  "weak": false
+ },
+ "坐": {
+  "hanviet": [
+   "toạ"
+  ],
+  "title": "坐",
+  "weak": false
+ },
+ "块": {
+  "hanviet": [
+   "khối",
+   "cỏi",
+   "khỏi",
+   "hòn",
+   "khói"
+  ],
+  "title": "塊",
+  "weak": true
+ },
+ "坚": {
+  "hanviet": [
+   "kiên"
+  ],
+  "title": "坚",
+  "weak": false
+ },
+ "坦": {
+  "hanviet": [
+   "thản",
+   "thán"
+  ],
+  "title": "坦",
+  "weak": false
+ },
+ "垃": {
+  "hanviet": [
+   "lạp"
+  ],
+  "title": "垃",
+  "weak": false
+ },
+ "型": {
+  "hanviet": [
+   "hình"
+  ],
+  "title": "型",
+  "weak": false
+ },
+ "城": {
+  "hanviet": [
+   "thành",
+   "nhật"
+  ],
+  "title": "城",
+  "weak": true
+ },
+ "域": {
+  "hanviet": [
+   "vực",
+   "bực",
+   "vác",
+   "vặc",
+   "vức"
+  ],
+  "title": "域",
+  "weak": true
+ },
+ "培": {
+  "hanviet": [
+   "bồi",
+   "bậu"
+  ],
+  "title": "培",
+  "weak": false
+ },
+ "基": {
+  "hanviet": [
+   "cơ",
+   "ky"
+  ],
+  "title": "基",
+  "weak": true
+ },
+ "堂": {
+  "hanviet": [
+   "đường",
+   "đoàng",
+   "đàng"
+  ],
+  "title": "堂",
+  "weak": true
+ },
+ "堆": {
+  "hanviet": [
+   "đôi"
+  ],
+  "title": "堆",
+  "weak": false
+ },
+ "堵": {
+  "hanviet": [
+   "đổ"
+  ],
+  "title": "堵",
+  "weak": false
+ },
+ "塑": {
+  "hanviet": [
+   "tố"
+  ],
+  "title": "塑",
+  "weak": true
+ },
+ "塘": {
+  "hanviet": [
+   "đường"
+  ],
+  "title": "塘",
+  "weak": false
+ },
+ "填": {
+  "hanviet": [
+   "điền"
+  ],
+  "title": "填",
+  "weak": false
+ },
+ "境": {
+  "hanviet": [
+   "cảnh"
+  ],
+  "title": "境",
+  "weak": true
+ },
+ "墙": {
+  "hanviet": [
+   "tường"
+  ],
+  "title": "墻",
+  "weak": false
+ },
+ "增": {
+  "hanviet": [
+   "tăng",
+   "tâng"
+  ],
+  "title": "增",
+  "weak": true
+ },
+ "壁": {
+  "hanviet": [
+   "bích"
+  ],
+  "title": "壁",
+  "weak": false
+ },
+ "士": {
+  "hanviet": [
+   "sĩ"
+  ],
+  "title": "士",
+  "weak": false
+ },
+ "声": {
+  "hanviet": [
+   "thanh"
+  ],
+  "title": "声",
+  "weak": false
+ },
+ "壶": {
+  "hanviet": [
+   "hồ"
+  ],
+  "title": "壺",
+  "weak": true
+ },
+ "处": {
+  "hanviet": [
+   "xử",
+   "xớ",
+   "xở",
+   "xứ"
+  ],
+  "title": "處",
+  "weak": true
+ },
+ "备": {
+  "hanviet": [
+   "bị",
+   "bẹ",
+   "bợ",
+   "vựa"
+  ],
+  "title": "備",
+  "weak": true
+ },
+ "复": {
+  "hanviet": [
+   "phúc",
+   "phục",
+   "phức"
+  ],
+  "title": "复",
+  "weak": true
+ },
+ "夏": {
+  "hanviet": [
+   "hạ"
+  ],
+  "title": "夏",
+  "weak": false
+ },
+ "夕": {
+  "hanviet": [
+   "tịch"
+  ],
+  "title": "夕",
+  "weak": true
+ },
+ "外": {
+  "hanviet": [
+   "ngoại"
+  ],
+  "title": "外",
+  "weak": false
+ },
+ "多": {
+  "hanviet": [
+   "đa"
+  ],
+  "title": "多",
+  "weak": false
+ },
+ "夜": {
+  "hanviet": [
+   "dạ"
+  ],
+  "title": "夜",
+  "weak": false
+ },
+ "够": {
+  "hanviet": [
+   "cú",
+   "cấu",
+   "hú"
+  ],
+  "title": "夠",
+  "weak": false
+ },
+ "大": {
+  "hanviet": [
+   "đại"
+  ],
+  "title": "大",
+  "weak": false
+ },
+ "天": {
+  "hanviet": [
+   "thiên"
+  ],
+  "title": "天",
+  "weak": false
+ },
+ "太": {
+  "hanviet": [
+   "thái"
+  ],
+  "title": "太",
+  "weak": true
+ },
+ "夫": {
+  "hanviet": [
+   "phu"
+  ],
+  "title": "夫",
+  "weak": true
+ },
+ "失": {
+  "hanviet": [
+   "thất"
+  ],
+  "title": "失",
+  "weak": false
+ },
+ "头": {
+  "hanviet": [
+   "đầu"
+  ],
+  "title": "頭",
+  "weak": true
+ },
+ "夸": {
+  "hanviet": [
+   "khoa"
+  ],
+  "title": "夸",
+  "weak": true
+ },
+ "夹": {
+  "hanviet": [
+   "giáp",
+   "xáp",
+   "ghép",
+   "kép"
+  ],
+  "title": "夾",
+  "weak": true
+ },
+ "奇": {
+  "hanviet": [
+   "kì"
+  ],
+  "title": "奇",
+  "weak": false
+ },
+ "奈": {
+  "hanviet": [
+   "nại",
+   "nhự"
+  ],
+  "title": "奈",
+  "weak": true
+ },
+ "奋": {
+  "hanviet": [
+   "phấn"
+  ],
+  "title": "奮",
+  "weak": true
+ },
+ "奖": {
+  "hanviet": [
+   "tưởng"
+  ],
+  "title": "奬",
+  "weak": true
+ },
+ "套": {
+  "hanviet": [
+   "sáo",
+   "thạo"
+  ],
+  "title": "套",
+  "weak": true
+ },
+ "女": {
+  "hanviet": [
+   "nữ",
+   "nhữ"
+  ],
+  "title": "女",
+  "weak": false
+ },
+ "奶": {
+  "hanviet": [
+   "nãi",
+   "nái"
+  ],
+  "title": "奶",
+  "weak": true
+ },
+ "她": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "好": {
+  "hanviet": [
+   "hiếu",
+   "hảo"
+  ],
+  "title": "好",
+  "weak": false
+ },
+ "如": {
+  "hanviet": [
+   "như"
+  ],
+  "title": "如",
+  "weak": false
+ },
+ "妇": {
+  "hanviet": [
+   "phụ"
+  ],
+  "title": "妇",
+  "weak": false
+ },
+ "妈": {
+  "hanviet": [
+   "mụ",
+   "má",
+   "mã",
+   "mợ",
+   "ma"
+  ],
+  "title": "媽",
+  "weak": true
+ },
+ "妙": {
+  "hanviet": [
+   "diệu"
+  ],
+  "title": "妙",
+  "weak": true
+ },
+ "妨": {
+  "hanviet": [
+   "phòng",
+   "phương"
+  ],
+  "title": "妨",
+  "weak": true
+ },
+ "妹": {
+  "hanviet": [
+   "muội"
+  ],
+  "title": "妹",
+  "weak": true
+ },
+ "妻": {
+  "hanviet": [
+   "thê",
+   "thế"
+  ],
+  "title": "妻",
+  "weak": true
+ },
+ "始": {
+  "hanviet": [
+   "thuỷ",
+   "thỉ"
+  ],
+  "title": "始",
+  "weak": false
+ },
+ "姐": {
+  "hanviet": [
+   "tả",
+   "thư"
+  ],
+  "title": "姐",
+  "weak": false
+ },
+ "姑": {
+  "hanviet": [
+   "cô"
+  ],
+  "title": "姑",
+  "weak": false
+ },
+ "姓": {
+  "hanviet": [
+   "tính"
+  ],
+  "title": "姓",
+  "weak": true
+ },
+ "委": {
+  "hanviet": [
+   "ủy",
+   "uế"
+  ],
+  "title": "委",
+  "weak": true
+ },
+ "姥": {
+  "hanviet": [
+   "mỗ",
+   "mụ"
+  ],
+  "title": "姥",
+  "weak": true
+ },
+ "姨": {
+  "hanviet": [
+   "di",
+   "dì"
+  ],
+  "title": "姨",
+  "weak": true
+ },
+ "姻": {
+  "hanviet": [
+   "nhân"
+  ],
+  "title": "姻",
+  "weak": true
+ },
+ "姿": {
+  "hanviet": [
+   "tư"
+  ],
+  "title": "姿",
+  "weak": true
+ },
+ "威": {
+  "hanviet": [
+   "uy"
+  ],
+  "title": "威",
+  "weak": false
+ },
+ "娘": {
+  "hanviet": [
+   "nương",
+   "nàng",
+   "nường"
+  ],
+  "title": "娘",
+  "weak": true
+ },
+ "娱": {
+  "hanviet": [
+   "ngu"
+  ],
+  "title": "娛",
+  "weak": true
+ },
+ "娶": {
+  "hanviet": [
+   "thú"
+  ],
+  "title": "娶",
+  "weak": true
+ },
+ "婆": {
+  "hanviet": [
+   "bà"
+  ],
+  "title": "婆",
+  "weak": false
+ },
+ "婚": {
+  "hanviet": [
+   "hôn"
+  ],
+  "title": "婚",
+  "weak": true
+ },
+ "媒": {
+  "hanviet": [
+   "môi",
+   "mối",
+   "mai"
+  ],
+  "title": "媒",
+  "weak": true
+ },
+ "嫁": {
+  "hanviet": [
+   "giá"
+  ],
+  "title": "嫁",
+  "weak": false
+ },
+ "嫩": {
+  "hanviet": [
+   "nộn"
+  ],
+  "title": "嫩",
+  "weak": false
+ },
+ "子": {
+  "hanviet": [
+   "tý",
+   "tử",
+   "tí"
+  ],
+  "title": "子",
+  "weak": false
+ },
+ "孕": {
+  "hanviet": [
+   "dựng"
+  ],
+  "title": "孕",
+  "weak": false
+ },
+ "字": {
+  "hanviet": [
+   "tự"
+  ],
+  "title": "字",
+  "weak": false
+ },
+ "存": {
+  "hanviet": [
+   "tồn",
+   "dòn",
+   "sòn",
+   "ròn",
+   "tòn"
+  ],
+  "title": "存",
+  "weak": true
+ },
+ "孙": {
+  "hanviet": [
+   "tôn",
+   "tốn"
+  ],
+  "title": "孫",
+  "weak": false
+ },
+ "孝": {
+  "hanviet": [
+   "hiếu"
+  ],
+  "title": "孝",
+  "weak": false
+ },
+ "季": {
+  "hanviet": [
+   "quý",
+   "quí",
+   "cuối",
+   "quỳ"
+  ],
+  "title": "季",
+  "weak": true
+ },
+ "学": {
+  "hanviet": [
+   "học"
+  ],
+  "title": "学",
+  "weak": false
+ },
+ "孩": {
+  "hanviet": [
+   "hài",
+   "hời"
+  ],
+  "title": "孩",
+  "weak": true
+ },
+ "宁": {
+  "hanviet": [
+   "trữ",
+   "ninh"
+  ],
+  "title": "宁",
+  "weak": false
+ },
+ "它": {
+  "hanviet": [
+   "dà",
+   "đà",
+   "tha"
+  ],
+  "title": "它",
+  "weak": true
+ },
+ "守": {
+  "hanviet": [
+   "thủ",
+   "thú"
+  ],
+  "title": "守",
+  "weak": false
+ },
+ "安": {
+  "hanviet": [
+   "an",
+   "yên"
+  ],
+  "title": "安",
+  "weak": false
+ },
+ "完": {
+  "hanviet": [
+   "hoàn"
+  ],
+  "title": "完",
+  "weak": true
+ },
+ "官": {
+  "hanviet": [
+   "quan"
+  ],
+  "title": "官",
+  "weak": true
+ },
+ "定": {
+  "hanviet": [
+   "định"
+  ],
+  "title": "定",
+  "weak": true
+ },
+ "宜": {
+  "hanviet": [
+   "nghi",
+   "ngơi",
+   "nghe"
+  ],
+  "title": "宜",
+  "weak": true
+ },
+ "宝": {
+  "hanviet": [
+   "bảo",
+   "bửu"
+  ],
+  "title": "宝",
+  "weak": false
+ },
+ "实": {
+  "hanviet": [
+   "thực",
+   "thật",
+   "thiệt"
+  ],
+  "title": "实",
+  "weak": false
+ },
+ "宠": {
+  "hanviet": [
+   "sủng",
+   "sũng",
+   "sổng"
+  ],
+  "title": "寵",
+  "weak": true
+ },
+ "客": {
+  "hanviet": [
+   "khách"
+  ],
+  "title": "客",
+  "weak": true
+ },
+ "宣": {
+  "hanviet": [
+   "tuyên"
+  ],
+  "title": "宣",
+  "weak": true
+ },
+ "室": {
+  "hanviet": [
+   "thất"
+  ],
+  "title": "室",
+  "weak": true
+ },
+ "害": {
+  "hanviet": [
+   "hại"
+  ],
+  "title": "害",
+  "weak": true
+ },
+ "宴": {
+  "hanviet": [
+   "yến"
+  ],
+  "title": "宴",
+  "weak": true
+ },
+ "家": {
+  "hanviet": [
+   "gia"
+  ],
+  "title": "家",
+  "weak": false
+ },
+ "容": {
+  "hanviet": [
+   "dung",
+   "dong",
+   "dông",
+   "gióng",
+   "giông",
+   "ròng",
+   "rông",
+   "rung"
+  ],
+  "title": "容",
+  "weak": true
+ },
+ "宽": {
+  "hanviet": [
+   "khoan",
+   "khoăn"
+  ],
+  "title": "寬",
+  "weak": true
+ },
+ "宾": {
+  "hanviet": [
+   "tân",
+   "bân"
+  ],
+  "title": "賓",
+  "weak": true
+ },
+ "宿": {
+  "hanviet": [
+   "túc",
+   "tú"
+  ],
+  "title": "宿",
+  "weak": true
+ },
+ "寂": {
+  "hanviet": [
+   "tịch",
+   "chệt",
+   "tạch"
+  ],
+  "title": "寂",
+  "weak": true
+ },
+ "寄": {
+  "hanviet": [
+   "kí//ký"
+  ],
+  "title": "寄",
+  "weak": false
+ },
+ "密": {
+  "hanviet": [
+   "mật"
+  ],
+  "title": "密",
+  "weak": false
+ },
+ "富": {
+  "hanviet": [
+   "phú"
+  ],
+  "title": "富",
+  "weak": false
+ },
+ "寒": {
+  "hanviet": [
+   "hàn"
+  ],
+  "title": "寒",
+  "weak": false
+ },
+ "寓": {
+  "hanviet": [
+   "ngụ"
+  ],
+  "title": "寓",
+  "weak": true
+ },
+ "寞": {
+  "hanviet": [
+   "mịch"
+  ],
+  "title": "寞",
+  "weak": true
+ },
+ "察": {
+  "hanviet": [
+   "sát",
+   "xét"
+  ],
+  "title": "察",
+  "weak": true
+ },
+ "寸": {
+  "hanviet": [
+   "thốn"
+  ],
+  "title": "寸",
+  "weak": false
+ },
+ "对": {
+  "hanviet": [
+   "đối",
+   "đôi",
+   "tội"
+  ],
+  "title": "對",
+  "weak": false
+ },
+ "寻": {
+  "hanviet": [
+   "tầm"
+  ],
+  "title": "尋",
+  "weak": false
+ },
+ "导": {
+  "hanviet": [
+   "đạo"
+  ],
+  "title": "導",
+  "weak": true
+ },
+ "寿": {
+  "hanviet": [
+   "thọ"
+  ],
+  "title": "壽",
+  "weak": false
+ },
+ "封": {
+  "hanviet": [
+   "phong"
+  ],
+  "title": "封",
+  "weak": false
+ },
+ "射": {
+  "hanviet": [
+   "xạ",
+   "dạ",
+   "dịch"
+  ],
+  "title": "射",
+  "weak": true
+ },
+ "将": {
+  "hanviet": [
+   "tướng",
+   "tương"
+  ],
+  "title": "将",
+  "weak": false
+ },
+ "尊": {
+  "hanviet": [
+   "tôn"
+  ],
+  "title": "尊",
+  "weak": false
+ },
+ "小": {
+  "hanviet": [
+   "tiểu"
+  ],
+  "title": "小",
+  "weak": false
+ },
+ "少": {
+  "hanviet": [
+   "thiếu",
+   "thiểu"
+  ],
+  "title": "少",
+  "weak": false
+ },
+ "尘": {
+  "hanviet": [
+   "trần",
+   "chần"
+  ],
+  "title": "塵",
+  "weak": true
+ },
+ "尚": {
+  "hanviet": [
+   "thượng"
+  ],
+  "title": "尚",
+  "weak": false
+ },
+ "就": {
+  "hanviet": [
+   "tựu"
+  ],
+  "title": "就",
+  "weak": true
+ },
+ "尺": {
+  "hanviet": [
+   "xích"
+  ],
+  "title": "尺",
+  "weak": false
+ },
+ "尽": {
+  "hanviet": [
+   "tận",
+   "hết"
+  ],
+  "title": "尽",
+  "weak": true
+ },
+ "尾": {
+  "hanviet": [
+   "vĩ"
+  ],
+  "title": "尾",
+  "weak": false
+ },
+ "局": {
+  "hanviet": [
+   "cục"
+  ],
+  "title": "局",
+  "weak": false
+ },
+ "层": {
+  "hanviet": [
+   "tằng"
+  ],
+  "title": "層",
+  "weak": false
+ },
+ "居": {
+  "hanviet": [
+   "cư"
+  ],
+  "title": "居",
+  "weak": true
+ },
+ "屈": {
+  "hanviet": [
+   "khuất",
+   "quất"
+  ],
+  "title": "屈",
+  "weak": true
+ },
+ "屉": {
+  "hanviet": [
+   "thế"
+  ],
+  "title": "屜",
+  "weak": true
+ },
+ "届": {
+  "hanviet": [
+   "giới"
+  ],
+  "title": "屆",
+  "weak": false
+ },
+ "屋": {
+  "hanviet": [
+   "ốc"
+  ],
+  "title": "屋",
+  "weak": false
+ },
+ "展": {
+  "hanviet": [
+   "triển",
+   "chẽn"
+  ],
+  "title": "展",
+  "weak": true
+ },
+ "属": {
+  "hanviet": [
+   "thuộc",
+   "chúc"
+  ],
+  "title": "属",
+  "weak": false
+ },
+ "山": {
+  "hanviet": [
+   "sơn",
+   "san"
+  ],
+  "title": "山",
+  "weak": false
+ },
+ "屿": {
+  "hanviet": [
+   "dữ",
+   "dư",
+   "tự"
+  ],
+  "title": "嶼",
+  "weak": false
+ },
+ "岁": {
+  "hanviet": [
+   "tuế"
+  ],
+  "title": "歲",
+  "weak": false
+ },
+ "岛": {
+  "hanviet": [
+   "đảo"
+  ],
+  "title": "島",
+  "weak": false
+ },
+ "岸": {
+  "hanviet": [
+   "ngạn"
+  ],
+  "title": "岸",
+  "weak": false
+ },
+ "工": {
+  "hanviet": [
+   "công"
+  ],
+  "title": "工",
+  "weak": false
+ },
+ "左": {
+  "hanviet": [
+   "tả",
+   "tá"
+  ],
+  "title": "左",
+  "weak": true
+ },
+ "巧": {
+  "hanviet": [
+   "xảo"
+  ],
+  "title": "巧",
+  "weak": true
+ },
+ "巨": {
+  "hanviet": [
+   "cự",
+   "cựa"
+  ],
+  "title": "巨",
+  "weak": true
+ },
+ "差": {
+  "hanviet": [
+   "sai",
+   "si",
+   "sái",
+   "soa"
+  ],
+  "title": "差",
+  "weak": false
+ },
+ "己": {
+  "hanviet": [
+   "kỷ",
+   "kỉ",
+   "kỳ"
+  ],
+  "title": "己",
+  "weak": true
+ },
+ "已": {
+  "hanviet": [
+   "dĩ",
+   "dãi"
+  ],
+  "title": "已",
+  "weak": true
+ },
+ "巴": {
+  "hanviet": [
+   "ba",
+   "bơ"
+  ],
+  "title": "巴",
+  "weak": false
+ },
+ "巾": {
+  "hanviet": [
+   "cân",
+   "khăn",
+   "khân"
+  ],
+  "title": "巾",
+  "weak": true
+ },
+ "币": {
+  "hanviet": [
+   "tệ",
+   "giẻ"
+  ],
+  "title": "幣",
+  "weak": true
+ },
+ "市": {
+  "hanviet": [
+   "thị"
+  ],
+  "title": "市",
+  "weak": true
+ },
+ "布": {
+  "hanviet": [
+   "bố"
+  ],
+  "title": "布",
+  "weak": false
+ },
+ "帅": {
+  "hanviet": [
+   "soái",
+   "suý",
+   "suất"
+  ],
+  "title": "帥",
+  "weak": false
+ },
+ "师": {
+  "hanviet": [
+   "sư"
+  ],
+  "title": "師",
+  "weak": true
+ },
+ "希": {
+  "hanviet": [
+   "hơi",
+   "he",
+   "hê",
+   "hy",
+   "hây",
+   "hi",
+   "thu"
+  ],
+  "title": "希",
+  "weak": true
+ },
+ "帘": {
+  "hanviet": [
+   "liêm"
+  ],
+  "title": "簾",
+  "weak": true
+ },
+ "带": {
+  "hanviet": [
+   "đái",
+   "đới",
+   "đai"
+  ],
+  "title": "帶",
+  "weak": true
+ },
+ "席": {
+  "hanviet": [
+   "tịch"
+  ],
+  "title": "席",
+  "weak": false
+ },
+ "帮": {
+  "hanviet": [
+   "bang"
+  ],
+  "title": "幫",
+  "weak": false
+ },
+ "常": {
+  "hanviet": [
+   "thường"
+  ],
+  "title": "常",
+  "weak": false
+ },
+ "帽": {
+  "hanviet": [
+   "mạo",
+   "mão"
+  ],
+  "title": "帽",
+  "weak": false
+ },
+ "幅": {
+  "hanviet": [
+   "bức",
+   "phúc"
+  ],
+  "title": "幅",
+  "weak": true
+ },
+ "幕": {
+  "hanviet": [
+   "mạc"
+  ],
+  "title": "幕",
+  "weak": true
+ },
+ "干": {
+  "hanviet": [
+   "can"
+  ],
+  "title": "干",
+  "weak": false
+ },
+ "平": {
+  "hanviet": [
+   "bình",
+   "biền"
+  ],
+  "title": "平",
+  "weak": false
+ },
+ "年": {
+  "hanviet": [
+   "niên"
+  ],
+  "title": "年",
+  "weak": false
+ },
+ "并": {
+  "hanviet": [
+   "tịnh"
+  ],
+  "title": "並",
+  "weak": true
+ },
+ "幸": {
+  "hanviet": [
+   "hạnh",
+   "may"
+  ],
+  "title": "幸",
+  "weak": true
+ },
+ "幻": {
+  "hanviet": [
+   "huyễn",
+   "hoẻn",
+   "ảo"
+  ],
+  "title": "幻",
+  "weak": true
+ },
+ "幼": {
+  "hanviet": [
+   "ấu",
+   "âu"
+  ],
+  "title": "幼",
+  "weak": true
+ },
+ "广": {
+  "hanviet": [
+   "quảng",
+   "quãng"
+  ],
+  "title": "广",
+  "weak": true
+ },
+ "庆": {
+  "hanviet": [
+   "khánh",
+   "khương"
+  ],
+  "title": "慶",
+  "weak": true
+ },
+ "床": {
+  "hanviet": [
+   "sàng"
+  ],
+  "title": "床",
+  "weak": false
+ },
+ "序": {
+  "hanviet": [
+   "tựa",
+   "tự"
+  ],
+  "title": "序",
+  "weak": true
+ },
+ "库": {
+  "hanviet": [
+   "khố"
+  ],
+  "title": "庫",
+  "weak": false
+ },
+ "应": {
+  "hanviet": [
+   "ứng",
+   "ưng",
+   "ừng"
+  ],
+  "title": "應",
+  "weak": true
+ },
+ "底": {
+  "hanviet": [
+   "để"
+  ],
+  "title": "底",
+  "weak": false
+ },
+ "店": {
+  "hanviet": [
+   "điếm"
+  ],
+  "title": "店",
+  "weak": false
+ },
+ "府": {
+  "hanviet": [
+   "phủ"
+  ],
+  "title": "府",
+  "weak": false
+ },
+ "废": {
+  "hanviet": [
+   "phế"
+  ],
+  "title": "廢",
+  "weak": true
+ },
+ "度": {
+  "hanviet": [
+   "độ",
+   "dạc",
+   "đác",
+   "đạc",
+   "đọ",
+   "đủ",
+   "đù",
+   "dác",
+   "đo",
+   "đồ",
+   "đợ"
+  ],
+  "title": "度",
+  "weak": true
+ },
+ "座": {
+  "hanviet": [
+   "toạ",
+   "toà"
+  ],
+  "title": "座",
+  "weak": true
+ },
+ "庭": {
+  "hanviet": [
+   "đình",
+   "thính"
+  ],
+  "title": "庭",
+  "weak": true
+ },
+ "康": {
+  "hanviet": [
+   "khang",
+   "khăng",
+   "khương"
+  ],
+  "title": "康",
+  "weak": true
+ },
+ "延": {
+  "hanviet": [
+   "diên"
+  ],
+  "title": "延",
+  "weak": true
+ },
+ "建": {
+  "hanviet": [
+   "kiến",
+   "kiển"
+  ],
+  "title": "建",
+  "weak": false
+ },
+ "开": {
+  "hanviet": [
+   "khai"
+  ],
+  "title": "开",
+  "weak": true
+ },
+ "弄": {
+  "hanviet": [
+   "lộng",
+   "lọng"
+  ],
+  "title": "弄",
+  "weak": false
+ },
+ "式": {
+  "hanviet": [
+   "thức",
+   "sức"
+  ],
+  "title": "式",
+  "weak": true
+ },
+ "引": {
+  "hanviet": [
+   "dẫn",
+   "dợn",
+   "giỡn",
+   "dận",
+   "giận"
+  ],
+  "title": "引",
+  "weak": true
+ },
+ "弟": {
+  "hanviet": [
+   "đệ",
+   "dễ"
+  ],
+  "title": "弟",
+  "weak": true
+ },
+ "张": {
+  "hanviet": [
+   "trương",
+   "trang",
+   "chanh",
+   "choang",
+   "chương",
+   "giương",
+   "chăng",
+   "chướng",
+   "dăng"
+  ],
+  "title": "張",
+  "weak": true
+ },
+ "弯": {
+  "hanviet": [
+   "loan",
+   "thoăn"
+  ],
+  "title": "彎",
+  "weak": true
+ },
+ "弱": {
+  "hanviet": [
+   "nhược",
+   "ních"
+  ],
+  "title": "弱",
+  "weak": true
+ },
+ "强": {
+  "hanviet": [
+   "cường",
+   "cưỡng"
+  ],
+  "title": "强",
+  "weak": false
+ },
+ "归": {
+  "hanviet": [
+   "qui",
+   "quy"
+  ],
+  "title": "歸",
+  "weak": true
+ },
+ "当": {
+  "hanviet": [
+   "đương",
+   "đang",
+   "đáng"
+  ],
+  "title": "当",
+  "weak": false
+ },
+ "录": {
+  "hanviet": [
+   "lục"
+  ],
+  "title": "録",
+  "weak": false
+ },
+ "形": {
+  "hanviet": [
+   "hình",
+   "hềnh"
+  ],
+  "title": "形",
+  "weak": true
+ },
+ "彩": {
+  "hanviet": [
+   "thái"
+  ],
+  "title": "彩",
+  "weak": true
+ },
+ "影": {
+  "hanviet": [
+   "ảnh"
+  ],
+  "title": "影",
+  "weak": true
+ },
+ "彻": {
+  "hanviet": [
+   "triệt",
+   "trẹt",
+   "trê",
+   "trệt",
+   "trịt",
+   "trít",
+   "xẹt"
+  ],
+  "title": "徹",
+  "weak": true
+ },
+ "彼": {
+  "hanviet": [
+   "bỉ",
+   "bể",
+   "bở"
+  ],
+  "title": "彼",
+  "weak": true
+ },
+ "往": {
+  "hanviet": [
+   "vãng"
+  ],
+  "title": "往",
+  "weak": false
+ },
+ "征": {
+  "hanviet": [
+   "chinh"
+  ],
+  "title": "征",
+  "weak": true
+ },
+ "待": {
+  "hanviet": [
+   "đãi",
+   "đảy",
+   "đậy",
+   "đẩy",
+   "đẫy",
+   "đợi",
+   "rãi",
+   "dợi",
+   "đất",
+   "được"
+  ],
+  "title": "待",
+  "weak": true
+ },
+ "很": {
+  "hanviet": [
+   "ngận",
+   "hẩn"
+  ],
+  "title": "很",
+  "weak": true
+ },
+ "律": {
+  "hanviet": [
+   "luật"
+  ],
+  "title": "律",
+  "weak": false
+ },
+ "得": {
+  "hanviet": [
+   "đắc"
+  ],
+  "title": "得",
+  "weak": false
+ },
+ "微": {
+  "hanviet": [
+   "vi"
+  ],
+  "title": "微",
+  "weak": true
+ },
+ "德": {
+  "hanviet": [
+   "đức"
+  ],
+  "title": "德",
+  "weak": true
+ },
+ "心": {
+  "hanviet": [
+   "tâm"
+  ],
+  "title": "心",
+  "weak": false
+ },
+ "必": {
+  "hanviet": [
+   "tất",
+   "ắt"
+  ],
+  "title": "必",
+  "weak": true
+ },
+ "忆": {
+  "hanviet": [
+   "ức"
+  ],
+  "title": "憶",
+  "weak": true
+ },
+ "忍": {
+  "hanviet": [
+   "nhẫn",
+   "nhịn",
+   "những",
+   "nhẩn",
+   "nhẵn"
+  ],
+  "title": "忍",
+  "weak": true
+ },
+ "志": {
+  "hanviet": [
+   "chí",
+   "cao"
+  ],
+  "title": "志",
+  "weak": true
+ },
+ "忘": {
+  "hanviet": [
+   "vong"
+  ],
+  "title": "忘",
+  "weak": true
+ },
+ "忙": {
+  "hanviet": [
+   "mang"
+  ],
+  "title": "忙",
+  "weak": false
+ },
+ "快": {
+  "hanviet": [
+   "khoái",
+   "khuấy",
+   "khoáy",
+   "sướng"
+  ],
+  "title": "快",
+  "weak": true
+ },
+ "念": {
+  "hanviet": [
+   "niệm",
+   "niềm",
+   "núm"
+  ],
+  "title": "念",
+  "weak": true
+ },
+ "忽": {
+  "hanviet": [
+   "hốt"
+  ],
+  "title": "忽",
+  "weak": true
+ },
+ "怀": {
+  "hanviet": [
+   "hoài"
+  ],
+  "title": "懷",
+  "weak": true
+ },
+ "态": {
+  "hanviet": [
+   "thái",
+   "thói"
+  ],
+  "title": "態",
+  "weak": true
+ },
+ "怎": {
+  "hanviet": [
+   "chẩm",
+   "chẩn",
+   "tẩn",
+   "trẫm"
+  ],
+  "title": "怎",
+  "weak": true
+ },
+ "怕": {
+  "hanviet": [
+   "phạ"
+  ],
+  "title": "怕",
+  "weak": true
+ },
+ "思": {
+  "hanviet": [
+   "tư",
+   "tơ",
+   "tứ"
+  ],
+  "title": "思",
+  "weak": true
+ },
+ "急": {
+  "hanviet": [
+   "cấp"
+  ],
+  "title": "急",
+  "weak": false
+ },
+ "性": {
+  "hanviet": [
+   "tính",
+   "dính",
+   "tánh"
+  ],
+  "title": "性",
+  "weak": true
+ },
+ "怨": {
+  "hanviet": [
+   "oán"
+  ],
+  "title": "怨",
+  "weak": false
+ },
+ "怪": {
+  "hanviet": [
+   "quái"
+  ],
+  "title": "怪",
+  "weak": true
+ },
+ "总": {
+  "hanviet": [
+   "tổng",
+   "tông"
+  ],
+  "title": "總",
+  "weak": true
+ },
+ "恋": {
+  "hanviet": [
+   "luyến"
+  ],
+  "title": "戀",
+  "weak": false
+ },
+ "恐": {
+  "hanviet": [
+   "khúng",
+   "khủng"
+  ],
+  "title": "恐",
+  "weak": false
+ },
+ "恢": {
+  "hanviet": [
+   "khôi"
+  ],
+  "title": "恢",
+  "weak": true
+ },
+ "恨": {
+  "hanviet": [
+   "hận",
+   "hàn"
+  ],
+  "title": "恨",
+  "weak": false
+ },
+ "恭": {
+  "hanviet": [
+   "cung"
+  ],
+  "title": "恭",
+  "weak": true
+ },
+ "息": {
+  "hanviet": [
+   "tức"
+  ],
+  "title": "息",
+  "weak": true
+ },
+ "恳": {
+  "hanviet": [
+   "khẩn"
+  ],
+  "title": "恳",
+  "weak": false
+ },
+ "恶": {
+  "hanviet": [
+   "ác",
+   "ố"
+  ],
+  "title": "恶",
+  "weak": false
+ },
+ "悄": {
+  "hanviet": [
+   "tiếu",
+   "tiêu",
+   "tẹo",
+   "tiễu",
+   "tịu"
+  ],
+  "title": "悄",
+  "weak": true
+ },
+ "悠": {
+  "hanviet": [
+   "du",
+   "đu"
+  ],
+  "title": "悠",
+  "weak": true
+ },
+ "您": {
+  "hanviet": [
+   "nâm"
+  ],
+  "title": "您",
+  "weak": true
+ },
+ "悲": {
+  "hanviet": [
+   "bi"
+  ],
+  "title": "悲",
+  "weak": false
+ },
+ "情": {
+  "hanviet": [
+   "tình"
+  ],
+  "title": "情",
+  "weak": false
+ },
+ "惊": {
+  "hanviet": [
+   "kinh"
+  ],
+  "title": "惊",
+  "weak": true
+ },
+ "惜": {
+  "hanviet": [
+   "tích"
+  ],
+  "title": "惜",
+  "weak": false
+ },
+ "惠": {
+  "hanviet": [
+   "huệ"
+  ],
+  "title": "惠",
+  "weak": true
+ },
+ "惭": {
+  "hanviet": [
+   "tàm",
+   "tuồm",
+   "tam",
+   "tom",
+   "tùm"
+  ],
+  "title": "慚",
+  "weak": true
+ },
+ "惯": {
+  "hanviet": [
+   "quen",
+   "quán"
+  ],
+  "title": "慣",
+  "weak": true
+ },
+ "想": {
+  "hanviet": [
+   "tưởng"
+  ],
+  "title": "想",
+  "weak": true
+ },
+ "愁": {
+  "hanviet": [
+   "sầu"
+  ],
+  "title": "愁",
+  "weak": false
+ },
+ "意": {
+  "hanviet": [
+   "ý"
+  ],
+  "title": "意",
+  "weak": false
+ },
+ "感": {
+  "hanviet": [
+   "cảm",
+   "cám"
+  ],
+  "title": "感",
+  "weak": true
+ },
+ "愧": {
+  "hanviet": [
+   "quý"
+  ],
+  "title": "愧",
+  "weak": true
+ },
+ "愿": {
+  "hanviet": [
+   "nguyện",
+   "nguyền"
+  ],
+  "title": "願",
+  "weak": true
+ },
+ "慌": {
+  "hanviet": [
+   "hoảng",
+   "hoang"
+  ],
+  "title": "慌",
+  "weak": true
+ },
+ "慎": {
+  "hanviet": [
+   "thận"
+  ],
+  "title": "慎",
+  "weak": true
+ },
+ "慢": {
+  "hanviet": [
+   "mạn",
+   "mắn"
+  ],
+  "title": "慢",
+  "weak": true
+ },
+ "慧": {
+  "hanviet": [
+   "huệ",
+   "tuệ"
+  ],
+  "title": "慧",
+  "weak": true
+ },
+ "慰": {
+  "hanviet": [
+   "ủy",
+   "uý",
+   "ủi",
+   "ụy",
+   "ùy",
+   "ũy",
+   "vụy",
+   "vũy",
+   "vùy"
+  ],
+  "title": "慰",
+  "weak": true
+ },
+ "憾": {
+  "hanviet": [
+   "hám",
+   "hóm",
+   "gớm"
+  ],
+  "title": "憾",
+  "weak": true
+ },
+ "懂": {
+  "hanviet": [
+   "đổng"
+  ],
+  "title": "懂",
+  "weak": false
+ },
+ "戏": {
+  "hanviet": [
+   "hí",
+   "hé",
+   "hi",
+   "hô"
+  ],
+  "title": "戲",
+  "weak": true
+ },
+ "成": {
+  "hanviet": [
+   "thành",
+   "thình"
+  ],
+  "title": "成",
+  "weak": true
+ },
+ "我": {
+  "hanviet": [
+   "ngã",
+   "ngả"
+  ],
+  "title": "我",
+  "weak": false
+ },
+ "戒": {
+  "hanviet": [
+   "giới"
+  ],
+  "title": "戒",
+  "weak": true
+ },
+ "或": {
+  "hanviet": [
+   "hoặc",
+   "hoắc"
+  ],
+  "title": "或",
+  "weak": true
+ },
+ "战": {
+  "hanviet": [
+   "chiến"
+  ],
+  "title": "戰",
+  "weak": false
+ },
+ "戴": {
+  "hanviet": [
+   "dải",
+   "đái",
+   "trải"
+  ],
+  "title": "戴",
+  "weak": true
+ },
+ "户": {
+  "hanviet": [
+   "hộ"
+  ],
+  "title": "户",
+  "weak": false
+ },
+ "房": {
+  "hanviet": [
+   "phòng",
+   "buồng"
+  ],
+  "title": "房",
+  "weak": true
+ },
+ "所": {
+  "hanviet": [
+   "sở"
+  ],
+  "title": "所",
+  "weak": false
+ },
+ "扇": {
+  "hanviet": [
+   "phiến",
+   "thiên"
+  ],
+  "title": "扇",
+  "weak": true
+ },
+ "手": {
+  "hanviet": [
+   "thủ"
+  ],
+  "title": "手",
+  "weak": false
+ },
+ "才": {
+  "hanviet": [
+   "tài"
+  ],
+  "title": "才",
+  "weak": false
+ },
+ "打": {
+  "hanviet": [
+   "đả"
+  ],
+  "title": "打",
+  "weak": false
+ },
+ "托": {
+  "hanviet": [
+   "thác",
+   "thách",
+   "thốc",
+   "thước",
+   "thướt"
+  ],
+  "title": "托",
+  "weak": true
+ },
+ "执": {
+  "hanviet": [
+   "chấp"
+  ],
+  "title": "執",
+  "weak": false
+ },
+ "扩": {
+  "hanviet": [
+   "quẳng",
+   "huếch",
+   "khoác",
+   "khoách",
+   "khuếch"
+  ],
+  "title": "擴",
+  "weak": true
+ },
+ "扫": {
+  "hanviet": [
+   "tảo",
+   "sẩu",
+   "tuể",
+   "xuể"
+  ],
+  "title": "掃",
+  "weak": true
+ },
+ "扬": {
+  "hanviet": [
+   "dương",
+   "dang",
+   "dàng",
+   "giàng",
+   "dâng",
+   "duồng",
+   "nhàng"
+  ],
+  "title": "揚",
+  "weak": true
+ },
+ "扶": {
+  "hanviet": [
+   "phù"
+  ],
+  "title": "扶",
+  "weak": false
+ },
+ "批": {
+  "hanviet": [
+   "phi"
+  ],
+  "title": "批",
+  "weak": false
+ },
+ "找": {
+  "hanviet": [
+   "trảo",
+   "hoa",
+   "quơ",
+   "chết",
+   "triễu"
+  ],
+  "title": "找",
+  "weak": true
+ },
+ "承": {
+  "hanviet": [
+   "thừa"
+  ],
+  "title": "承",
+  "weak": true
+ },
+ "技": {
+  "hanviet": [
+   "kỹ"
+  ],
+  "title": "技",
+  "weak": false
+ },
+ "抄": {
+  "hanviet": [
+   "sao",
+   "xao"
+  ],
+  "title": "抄",
+  "weak": true
+ },
+ "把": {
+  "hanviet": [
+   "bả"
+  ],
+  "title": "把",
+  "weak": false
+ },
+ "抓": {
+  "hanviet": [
+   "co",
+   "trảo"
+  ],
+  "title": "抓",
+  "weak": true
+ },
+ "投": {
+  "hanviet": [
+   "đầu",
+   "nhầu"
+  ],
+  "title": "投",
+  "weak": true
+ },
+ "抖": {
+  "hanviet": [
+   "đẩu",
+   "kéo"
+  ],
+  "title": "抖",
+  "weak": true
+ },
+ "折": {
+  "hanviet": [
+   "chiết",
+   "đề",
+   "triếp",
+   "triệp"
+  ],
+  "title": "折",
+  "weak": false
+ },
+ "抢": {
+  "hanviet": [
+   "sang",
+   "thương",
+   "thưởng"
+  ],
+  "title": "搶",
+  "weak": true
+ },
+ "护": {
+  "hanviet": [
+   "hộ"
+  ],
+  "title": "護",
+  "weak": true
+ },
+ "报": {
+  "hanviet": [
+   "báo"
+  ],
+  "title": "报",
+  "weak": false
+ },
+ "披": {
+  "hanviet": [
+   "phơ",
+   "bờ",
+   "pha",
+   "phê",
+   "phi",
+   "phơi"
+  ],
+  "title": "披",
+  "weak": true
+ },
+ "抱": {
+  "hanviet": [
+   "bão"
+  ],
+  "title": "抱",
+  "weak": true
+ },
+ "押": {
+  "hanviet": [
+   "áp",
+   "ắp",
+   "ép",
+   "ẹp",
+   "ét",
+   "ếp",
+   "ghép",
+   "giẹp",
+   "ốp",
+   "ướp"
+  ],
+  "title": "押",
+  "weak": true
+ },
+ "抽": {
+  "hanviet": [
+   "trừu"
+  ],
+  "title": "抽",
+  "weak": false
+ },
+ "担": {
+  "hanviet": [
+   "đam",
+   "đảm",
+   "đẵn",
+   "đắn",
+   "đẵm",
+   "tạ"
+  ],
+  "title": "担",
+  "weak": true
+ },
+ "拆": {
+  "hanviet": [
+   "sách",
+   "xích"
+  ],
+  "title": "拆",
+  "weak": false
+ },
+ "拉": {
+  "hanviet": [
+   "lạp"
+  ],
+  "title": "拉",
+  "weak": false
+ },
+ "拍": {
+  "hanviet": [
+   "phếch",
+   "phách",
+   "vạch",
+   "phạch",
+   "phệch"
+  ],
+  "title": "拍",
+  "weak": true
+ },
+ "拐": {
+  "hanviet": [
+   "quảy",
+   "quải",
+   "quái",
+   "quẩy",
+   "quay",
+   "quày",
+   "quầy"
+  ],
+  "title": "拐",
+  "weak": true
+ },
+ "招": {
+  "hanviet": [
+   "chiêu",
+   "thiêu",
+   "thiều"
+  ],
+  "title": "招",
+  "weak": false
+ },
+ "拥": {
+  "hanviet": [
+   "ủng"
+  ],
+  "title": "擁",
+  "weak": true
+ },
+ "拦": {
+  "hanviet": [
+   "dan",
+   "dang",
+   "dàn",
+   "lan",
+   "đan"
+  ],
+  "title": "攔",
+  "weak": true
+ },
+ "择": {
+  "hanviet": [
+   "trạch"
+  ],
+  "title": "擇",
+  "weak": true
+ },
+ "括": {
+  "hanviet": [
+   "quát",
+   "khoát",
+   "quất",
+   "quét"
+  ],
+  "title": "括",
+  "weak": true
+ },
+ "拳": {
+  "hanviet": [
+   "quyền",
+   "quèn",
+   "long",
+   "thành"
+  ],
+  "title": "拳",
+  "weak": true
+ },
+ "拼": {
+  "hanviet": [
+   "phanh;"
+  ],
+  "title": "拼",
+  "weak": true
+ },
+ "拿": {
+  "hanviet": [
+   "nã",
+   "nạ",
+   "nả",
+   "nà"
+  ],
+  "title": "拿",
+  "weak": true
+ },
+ "持": {
+  "hanviet": [
+   "trì",
+   "chày",
+   "chiì",
+   "ghiì",
+   "giầy",
+   "trầy",
+   "chì",
+   "ghì",
+   "nghỉ",
+   "trờ"
+  ],
+  "title": "持",
+  "weak": true
+ },
+ "挂": {
+  "hanviet": [
+   "quải"
+  ],
+  "title": "掛",
+  "weak": false
+ },
+ "指": {
+  "hanviet": [
+   "chỉ",
+   "xỉ",
+   "chỏ"
+  ],
+  "title": "指",
+  "weak": true
+ },
+ "按": {
+  "hanviet": [
+   "án",
+   "ấn",
+   "ướn"
+  ],
+  "title": "按",
+  "weak": true
+ },
+ "挑": {
+  "hanviet": [
+   "vẹo",
+   "khêu",
+   "khều",
+   "khiêu",
+   "khểu",
+   "treo",
+   "trẹo"
+  ],
+  "title": "挑",
+  "weak": true
+ },
+ "挡": {
+  "hanviet": [
+   "đương",
+   "đáng"
+  ],
+  "title": "擋",
+  "weak": true
+ },
+ "挣": {
+  "hanviet": [
+   "tránh",
+   "giành"
+  ],
+  "title": "掙",
+  "weak": true
+ },
+ "挤": {
+  "hanviet": [
+   "tê",
+   "tể",
+   "tễ"
+  ],
+  "title": "擠",
+  "weak": true
+ },
+ "挥": {
+  "hanviet": [
+   "huy",
+   "huơi",
+   "hoay",
+   "hươi",
+   "loay"
+  ],
+  "title": "揮",
+  "weak": true
+ },
+ "振": {
+  "hanviet": [
+   "chấn"
+  ],
+  "title": "振",
+  "weak": true
+ },
+ "挺": {
+  "hanviet": [
+   "đĩnh"
+  ],
+  "title": "挺",
+  "weak": true
+ },
+ "捐": {
+  "hanviet": [
+   "quyên",
+   "quen",
+   "quên"
+  ],
+  "title": "捐",
+  "weak": true
+ },
+ "损": {
+  "hanviet": [
+   "tốn",
+   "tổn",
+   "tủn",
+   "tỏn"
+  ],
+  "title": "損",
+  "weak": true
+ },
+ "捡": {
+  "hanviet": [
+   "kiểm"
+  ],
+  "title": "撿",
+  "weak": true
+ },
+ "换": {
+  "hanviet": [
+   "hoán"
+  ],
+  "title": "換",
+  "weak": true
+ },
+ "据": {
+  "hanviet": [
+   "cứ",
+   "cư",
+   "cớ"
+  ],
+  "title": "据",
+  "weak": true
+ },
+ "授": {
+  "hanviet": [
+   "thụ",
+   "thọ",
+   "thò"
+  ],
+  "title": "授",
+  "weak": true
+ },
+ "掉": {
+  "hanviet": [
+   "trao",
+   "chèo",
+   "điệu",
+   "sạo",
+   "trạo",
+   "tráo"
+  ],
+  "title": "掉",
+  "weak": true
+ },
+ "掌": {
+  "hanviet": [
+   "chưởng"
+  ],
+  "title": "掌",
+  "weak": true
+ },
+ "排": {
+  "hanviet": [
+   "bài"
+  ],
+  "title": "排",
+  "weak": false
+ },
+ "接": {
+  "hanviet": [
+   "tiếp"
+  ],
+  "title": "接",
+  "weak": true
+ },
+ "控": {
+  "hanviet": [
+   "khống"
+  ],
+  "title": "控",
+  "weak": true
+ },
+ "推": {
+  "hanviet": [
+   "suy",
+   "thôi"
+  ],
+  "title": "推",
+  "weak": false
+ },
+ "措": {
+  "hanviet": [
+   "thố",
+   "số",
+   "thá",
+   "thó",
+   "láp",
+   "thò"
+  ],
+  "title": "措",
+  "weak": true
+ },
+ "描": {
+  "hanviet": [
+   "miêu",
+   "miều"
+  ],
+  "title": "描",
+  "weak": true
+ },
+ "提": {
+  "hanviet": [
+   "đề",
+   "đè",
+   "dè",
+   "rề",
+   "chặn",
+   "chẵn",
+   "chề",
+   "dề",
+   "nhè",
+   "re",
+   "rè"
+  ],
+  "title": "提",
+  "weak": true
+ },
+ "插": {
+  "hanviet": [
+   "sáp"
+  ],
+  "title": "插",
+  "weak": true
+ },
+ "握": {
+  "hanviet": [
+   "ác",
+   "ốc"
+  ],
+  "title": "握",
+  "weak": false
+ },
+ "搜": {
+  "hanviet": [
+   "sưu",
+   "xâu"
+  ],
+  "title": "搜",
+  "weak": true
+ },
+ "搞": {
+  "hanviet": [
+   "cào",
+   "cạo",
+   "cảo",
+   "xao",
+   "quào"
+  ],
+  "title": "搞",
+  "weak": true
+ },
+ "搬": {
+  "hanviet": [
+   "ban",
+   "bàn"
+  ],
+  "title": "搬",
+  "weak": false
+ },
+ "摄": {
+  "hanviet": [
+   "nhép",
+   "nếp",
+   "nhiếp",
+   "xếp",
+   "nhẹp",
+   "nhíp",
+   "triếp"
+  ],
+  "title": "攝",
+  "weak": true
+ },
+ "摆": {
+  "hanviet": [
+   "bài",
+   "bãi"
+  ],
+  "title": "摆",
+  "weak": false
+ },
+ "摇": {
+  "hanviet": [
+   "dao",
+   "dêu"
+  ],
+  "title": "摇",
+  "weak": true
+ },
+ "摔": {
+  "hanviet": [
+   "suất",
+   "suốt"
+  ],
+  "title": "摔",
+  "weak": true
+ },
+ "摘": {
+  "hanviet": [
+   "trích"
+  ],
+  "title": "摘",
+  "weak": true
+ },
+ "摩": {
+  "hanviet": [
+   "ma"
+  ],
+  "title": "摩",
+  "weak": true
+ },
+ "摸": {
+  "hanviet": [
+   "mò",
+   "mó",
+   "mọ",
+   "mô",
+   "mạc"
+  ],
+  "title": "摸",
+  "weak": true
+ },
+ "撕": {
+  "hanviet": [
+   "tê",
+   "ti"
+  ],
+  "title": "撕",
+  "weak": true
+ },
+ "撞": {
+  "hanviet": [
+   "chàng",
+   "tràng",
+   "trang"
+  ],
+  "title": "撞",
+  "weak": false
+ },
+ "播": {
+  "hanviet": [
+   "vá",
+   "bá",
+   "bạ",
+   "phăng",
+   "vả",
+   "vớ",
+   "bợ"
+  ],
+  "title": "播",
+  "weak": true
+ },
+ "操": {
+  "hanviet": [
+   "thao",
+   "tháo",
+   "thạo",
+   "xáo",
+   "thảo"
+  ],
+  "title": "操",
+  "weak": true
+ },
+ "擦": {
+  "hanviet": [
+   "sát",
+   "xát",
+   "xớt"
+  ],
+  "title": "擦",
+  "weak": true
+ },
+ "支": {
+  "hanviet": [
+   "chi"
+  ],
+  "title": "支",
+  "weak": false
+ },
+ "收": {
+  "hanviet": [
+   "thu",
+   "thâu",
+   "tho",
+   "thò",
+   "dũ",
+   "thua"
+  ],
+  "title": "收",
+  "weak": true
+ },
+ "改": {
+  "hanviet": [
+   "cải",
+   "cãi",
+   "gởi",
+   "gửi"
+  ],
+  "title": "改",
+  "weak": true
+ },
+ "放": {
+  "hanviet": [
+   "phóng"
+  ],
+  "title": "放",
+  "weak": false
+ },
+ "政": {
+  "hanviet": [
+   "chinh",
+   "chánh",
+   "chính"
+  ],
+  "title": "政",
+  "weak": false
+ },
+ "故": {
+  "hanviet": [
+   "cố",
+   "cớ"
+  ],
+  "title": "故",
+  "weak": true
+ },
+ "效": {
+  "hanviet": [
+   "hiệu"
+  ],
+  "title": "效",
+  "weak": true
+ },
+ "敌": {
+  "hanviet": [
+   "địch"
+  ],
+  "title": "敵",
+  "weak": true
+ },
+ "敏": {
+  "hanviet": [
+   "mẫn",
+   "mắn"
+  ],
+  "title": "敏",
+  "weak": true
+ },
+ "救": {
+  "hanviet": [
+   "cứu"
+  ],
+  "title": "救",
+  "weak": false
+ },
+ "教": {
+  "hanviet": [
+   "giáo",
+   "giao"
+  ],
+  "title": "教",
+  "weak": false
+ },
+ "敢": {
+  "hanviet": [
+   "cảm"
+  ],
+  "title": "敢",
+  "weak": false
+ },
+ "散": {
+  "hanviet": [
+   "tản",
+   "tảng",
+   "tan",
+   "tởn",
+   "tán"
+  ],
+  "title": "散",
+  "weak": true
+ },
+ "敬": {
+  "hanviet": [
+   "kính"
+  ],
+  "title": "敬",
+  "weak": false
+ },
+ "数": {
+  "hanviet": [
+   "số"
+  ],
+  "title": "数",
+  "weak": false
+ },
+ "整": {
+  "hanviet": [
+   "chỉnh",
+   "chệnh",
+   "chểnh",
+   "xiềng",
+   "chửng",
+   "chỉn"
+  ],
+  "title": "整",
+  "weak": true
+ },
+ "文": {
+  "hanviet": [
+   "văn"
+  ],
+  "title": "文",
+  "weak": false
+ },
+ "斗": {
+  "hanviet": [
+   "đẩu",
+   "đấu",
+   "điếu",
+   "tẩu"
+  ],
+  "title": "斗",
+  "weak": true
+ },
+ "料": {
+  "hanviet": [
+   "liệu",
+   "liều",
+   "xệu",
+   "lẽo",
+   "liêu"
+  ],
+  "title": "料",
+  "weak": true
+ },
+ "斜": {
+  "hanviet": [
+   "tà"
+  ],
+  "title": "斜",
+  "weak": true
+ },
+ "斤": {
+  "hanviet": [
+   "cân",
+   "rìu"
+  ],
+  "title": "斤",
+  "weak": true
+ },
+ "断": {
+  "hanviet": [
+   "đoán",
+   "đoạn"
+  ],
+  "title": "断",
+  "weak": false
+ },
+ "新": {
+  "hanviet": [
+   "tân"
+  ],
+  "title": "新",
+  "weak": true
+ },
+ "方": {
+  "hanviet": [
+   "phương"
+  ],
+  "title": "方",
+  "weak": false
+ },
+ "施": {
+  "hanviet": [
+   "thi"
+  ],
+  "title": "施",
+  "weak": false
+ },
+ "旁": {
+  "hanviet": [
+   "bàng",
+   "bàn"
+  ],
+  "title": "旁",
+  "weak": false
+ },
+ "旅": {
+  "hanviet": [
+   "lữ"
+  ],
+  "title": "旅",
+  "weak": true
+ },
+ "族": {
+  "hanviet": [
+   "tộc"
+  ],
+  "title": "族",
+  "weak": false
+ },
+ "无": {
+  "hanviet": [
+   "vô"
+  ],
+  "title": "无",
+  "weak": false
+ },
+ "既": {
+  "hanviet": [
+   "dĩ",
+   "kí",
+   "ký"
+  ],
+  "title": "既",
+  "weak": true
+ },
+ "日": {
+  "hanviet": [
+   "nhật",
+   "nhựt"
+  ],
+  "title": "日",
+  "weak": false
+ },
+ "旦": {
+  "hanviet": [
+   "đán"
+  ],
+  "title": "旦",
+  "weak": false
+ },
+ "旧": {
+  "hanviet": [
+   "cựu",
+   "lâu"
+  ],
+  "title": "舊",
+  "weak": true
+ },
+ "早": {
+  "hanviet": [
+   "tảo"
+  ],
+  "title": "早",
+  "weak": false
+ },
+ "旬": {
+  "hanviet": [
+   "tuần"
+  ],
+  "title": "旬",
+  "weak": true
+ },
+ "时": {
+  "hanviet": [
+   "thời",
+   "thì"
+  ],
+  "title": "时",
+  "weak": false
+ },
+ "昆": {
+  "hanviet": [
+   "côn"
+  ],
+  "title": "昆",
+  "weak": false
+ },
+ "明": {
+  "hanviet": [
+   "minh"
+  ],
+  "title": "明",
+  "weak": false
+ },
+ "易": {
+  "hanviet": [
+   "dị",
+   "dịch",
+   "diệc"
+  ],
+  "title": "易",
+  "weak": false
+ },
+ "星": {
+  "hanviet": [
+   "tinh",
+   "tình"
+  ],
+  "title": "星",
+  "weak": true
+ },
+ "映": {
+  "hanviet": [
+   "ánh",
+   "tử"
+  ],
+  "title": "映",
+  "weak": true
+ },
+ "春": {
+  "hanviet": [
+   "xuân"
+  ],
+  "title": "春",
+  "weak": false
+ },
+ "昨": {
+  "hanviet": [
+   "tạc"
+  ],
+  "title": "昨",
+  "weak": true
+ },
+ "是": {
+  "hanviet": [
+   "thị"
+  ],
+  "title": "是",
+  "weak": true
+ },
+ "显": {
+  "hanviet": [
+   "hiển"
+  ],
+  "title": "顯",
+  "weak": true
+ },
+ "晒": {
+  "hanviet": [
+   "sái"
+  ],
+  "title": "曬",
+  "weak": true
+ },
+ "晕": {
+  "hanviet": [
+   "vựng",
+   "vận",
+   "quầng"
+  ],
+  "title": "暈",
+  "weak": false
+ },
+ "晚": {
+  "hanviet": [
+   "vãn",
+   "muộn"
+  ],
+  "title": "晚",
+  "weak": true
+ },
+ "晨": {
+  "hanviet": [
+   "thần"
+  ],
+  "title": "晨",
+  "weak": true
+ },
+ "普": {
+  "hanviet": [
+   "phổ",
+   "phơ"
+  ],
+  "title": "普",
+  "weak": true
+ },
+ "景": {
+  "hanviet": [
+   "cảnh",
+   "ảnh",
+   "khảnh",
+   "kiểng",
+   "ngoảnh",
+   "kẻng",
+   "ngảnh"
+  ],
+  "title": "景",
+  "weak": true
+ },
+ "晴": {
+  "hanviet": [
+   "tạnh",
+   "tành",
+   "tình",
+   "thanh",
+   "thinh"
+  ],
+  "title": "晴",
+  "weak": true
+ },
+ "智": {
+  "hanviet": [
+   "trí"
+  ],
+  "title": "智",
+  "weak": true
+ },
+ "暑": {
+  "hanviet": [
+   "thử",
+   "xừ",
+   "thừ",
+   "thữ",
+   "xữ"
+  ],
+  "title": "暑",
+  "weak": true
+ },
+ "暖": {
+  "hanviet": [
+   "huyên",
+   "noãn",
+   "nõng",
+   "nóng",
+   "nũn",
+   "nuỹn",
+   "nuyễn"
+  ],
+  "title": "暖",
+  "weak": false
+ },
+ "暗": {
+  "hanviet": [
+   "ám"
+  ],
+  "title": "暗",
+  "weak": true
+ },
+ "更": {
+  "hanviet": [
+   "canh",
+   "cánh"
+  ],
+  "title": "更",
+  "weak": false
+ },
+ "曾": {
+  "hanviet": [
+   "tằng",
+   "tăng"
+  ],
+  "title": "曾",
+  "weak": false
+ },
+ "替": {
+  "hanviet": [
+   "thế"
+  ],
+  "title": "替",
+  "weak": true
+ },
+ "最": {
+  "hanviet": [
+   "tối"
+  ],
+  "title": "最",
+  "weak": false
+ },
+ "月": {
+  "hanviet": [
+   "nguyệt",
+   "ngoạt",
+   "nhục"
+  ],
+  "title": "月",
+  "weak": false
+ },
+ "有": {
+  "hanviet": [
+   "hữu"
+  ],
+  "title": "有",
+  "weak": false
+ },
+ "朋": {
+  "hanviet": [
+   "bằng",
+   "bẵng"
+  ],
+  "title": "朋",
+  "weak": true
+ },
+ "服": {
+  "hanviet": [
+   "phục"
+  ],
+  "title": "服",
+  "weak": true
+ },
+ "朗": {
+  "hanviet": [
+   "lãng"
+  ],
+  "title": "朗",
+  "weak": false
+ },
+ "望": {
+  "hanviet": [
+   "vọng"
+  ],
+  "title": "望",
+  "weak": true
+ },
+ "朝": {
+  "hanviet": [
+   "triều",
+   "triêu",
+   "trào"
+  ],
+  "title": "朝",
+  "weak": false
+ },
+ "期": {
+  "hanviet": [
+   "kì",
+   "kề",
+   "kỳ"
+  ],
+  "title": "期",
+  "weak": true
+ },
+ "木": {
+  "hanviet": [
+   "mộc"
+  ],
+  "title": "木",
+  "weak": false
+ },
+ "未": {
+  "hanviet": [
+   "vị",
+   "mùi"
+  ],
+  "title": "未",
+  "weak": false
+ },
+ "末": {
+  "hanviet": [
+   "mạt"
+  ],
+  "title": "末",
+  "weak": false
+ },
+ "本": {
+  "hanviet": [
+   "bổn",
+   "bản"
+  ],
+  "title": "本",
+  "weak": false
+ },
+ "术": {
+  "hanviet": [
+   "thuật",
+   "truật"
+  ],
+  "title": "术",
+  "weak": true
+ },
+ "朵": {
+  "hanviet": [
+   "đóa",
+   "tạp",
+   "đoả"
+  ],
+  "title": "朵",
+  "weak": true
+ },
+ "机": {
+  "hanviet": [
+   "cơ"
+  ],
+  "title": "机",
+  "weak": true
+ },
+ "杀": {
+  "hanviet": [
+   "sát",
+   "sái",
+   "sít",
+   "sịt",
+   "sướt",
+   "sét",
+   "sượt"
+  ],
+  "title": "殺",
+  "weak": true
+ },
+ "杂": {
+  "hanviet": [
+   "tạp",
+   "xạp",
+   "tọp"
+  ],
+  "title": "雜",
+  "weak": true
+ },
+ "权": {
+  "hanviet": [
+   "quyền",
+   "quờn"
+  ],
+  "title": "權",
+  "weak": false
+ },
+ "李": {
+  "hanviet": [
+   "lý/lì"
+  ],
+  "title": "李",
+  "weak": true
+ },
+ "材": {
+  "hanviet": [
+   "tài"
+  ],
+  "title": "材",
+  "weak": true
+ },
+ "村": {
+  "hanviet": [
+   "thôn",
+   "thon",
+   "thun",
+   "chon",
+   "chôn",
+   "thuôn",
+   "thuốn",
+   "xóm"
+  ],
+  "title": "村",
+  "weak": true
+ },
+ "束": {
+  "hanviet": [
+   "thúc"
+  ],
+  "title": "束",
+  "weak": false
+ },
+ "条": {
+  "hanviet": [
+   "điều"
+  ],
+  "title": "條",
+  "weak": true
+ },
+ "来": {
+  "hanviet": [
+   "lai"
+  ],
+  "title": "来",
+  "weak": false
+ },
+ "杯": {
+  "hanviet": [
+   "bôi"
+  ],
+  "title": "杯",
+  "weak": false
+ },
+ "松": {
+  "hanviet": [
+   "tùng",
+   "thông",
+   "tòng"
+  ],
+  "title": "松",
+  "weak": true
+ },
+ "板": {
+  "hanviet": [
+   "ván",
+   "bản",
+   "bửng",
+   "phản"
+  ],
+  "title": "板",
+  "weak": true
+ },
+ "极": {
+  "hanviet": [
+   "cực"
+  ],
+  "title": "极",
+  "weak": true
+ },
+ "构": {
+  "hanviet": [
+   "cấu"
+  ],
+  "title": "構",
+  "weak": true
+ },
+ "析": {
+  "hanviet": [
+   "tích"
+  ],
+  "title": "析",
+  "weak": false
+ },
+ "林": {
+  "hanviet": [
+   "lâm"
+  ],
+  "title": "林",
+  "weak": false
+ },
+ "果": {
+  "hanviet": [
+   "quả"
+  ],
+  "title": "果",
+  "weak": false
+ },
+ "枪": {
+  "hanviet": [
+   "thương",
+   "sang"
+  ],
+  "title": "槍",
+  "weak": true
+ },
+ "架": {
+  "hanviet": [
+   "giá",
+   "dứa",
+   "gá",
+   "rớ"
+  ],
+  "title": "架",
+  "weak": true
+ },
+ "某": {
+  "hanviet": [
+   "mỗ"
+  ],
+  "title": "某",
+  "weak": false
+ },
+ "染": {
+  "hanviet": [
+   "nhiễm"
+  ],
+  "title": "染",
+  "weak": false
+ },
+ "柔": {
+  "hanviet": [
+   "nhu"
+  ],
+  "title": "柔",
+  "weak": true
+ },
+ "柜": {
+  "hanviet": [
+   "cự"
+  ],
+  "title": "柜",
+  "weak": true
+ },
+ "查": {
+  "hanviet": [
+   "tra",
+   "già"
+  ],
+  "title": "查",
+  "weak": true
+ },
+ "柴": {
+  "hanviet": [
+   "sài"
+  ],
+  "title": "柴",
+  "weak": false
+ },
+ "标": {
+  "hanviet": [
+   "bêu",
+   "nêu",
+   "tiêu",
+   "têu",
+   "biêu"
+  ],
+  "title": "標",
+  "weak": true
+ },
+ "树": {
+  "hanviet": [
+   "thụ"
+  ],
+  "title": "樹",
+  "weak": true
+ },
+ "校": {
+  "hanviet": [
+   "hiệu",
+   "chò",
+   "giâu",
+   "giáo",
+   "hào"
+  ],
+  "title": "校",
+  "weak": true
+ },
+ "样": {
+  "hanviet": [
+   "dạng"
+  ],
+  "title": "样",
+  "weak": true
+ },
+ "核": {
+  "hanviet": [
+   "hạch"
+  ],
+  "title": "核",
+  "weak": false
+ },
+ "根": {
+  "hanviet": [
+   "căn",
+   "cằn",
+   "cỗi"
+  ],
+  "title": "根",
+  "weak": true
+ },
+ "格": {
+  "hanviet": [
+   "cách",
+   "ghếch"
+  ],
+  "title": "格",
+  "weak": true
+ },
+ "桃": {
+  "hanviet": [
+   "đào"
+  ],
+  "title": "桃",
+  "weak": false
+ },
+ "案": {
+  "hanviet": [
+   "án"
+  ],
+  "title": "案",
+  "weak": true
+ },
+ "桌": {
+  "hanviet": [
+   "trác",
+   "trướp"
+  ],
+  "title": "桌",
+  "weak": true
+ },
+ "桔": {
+  "hanviet": [
+   "cát",
+   "quất",
+   "kết"
+  ],
+  "title": "桔",
+  "weak": true
+ },
+ "档": {
+  "hanviet": [
+   "đang",
+   "đướng",
+   "đượng",
+   "đưỡng",
+   "đạng",
+   "đóng"
+  ],
+  "title": "檔",
+  "weak": true
+ },
+ "桥": {
+  "hanviet": [
+   "kiều"
+  ],
+  "title": "橋",
+  "weak": false
+ },
+ "梦": {
+  "hanviet": [
+   "mộng"
+  ],
+  "title": "梦",
+  "weak": false
+ },
+ "梨": {
+  "hanviet": [
+   "lê",
+   "lệ"
+  ],
+  "title": "梨",
+  "weak": true
+ },
+ "梯": {
+  "hanviet": [
+   "thê"
+  ],
+  "title": "梯",
+  "weak": true
+ },
+ "梳": {
+  "hanviet": [
+   "sơ"
+  ],
+  "title": "梳",
+  "weak": true
+ },
+ "检": {
+  "hanviet": [
+   "ghém",
+   "kiểm"
+  ],
+  "title": "檢",
+  "weak": true
+ },
+ "棋": {
+  "hanviet": [
+   "kì"
+  ],
+  "title": "棋",
+  "weak": false
+ },
+ "森": {
+  "hanviet": [
+   "sâm",
+   "sum"
+  ],
+  "title": "森",
+  "weak": false
+ },
+ "棵": {
+  "hanviet": [
+   "quả",
+   "khoả"
+  ],
+  "title": "棵",
+  "weak": true
+ },
+ "椅": {
+  "hanviet": [
+   "ghế",
+   "ỷ",
+   "kỉ",
+   "y"
+  ],
+  "title": "椅",
+  "weak": true
+ },
+ "植": {
+  "hanviet": [
+   "thực"
+  ],
+  "title": "植",
+  "weak": true
+ },
+ "椒": {
+  "hanviet": [
+   "tiêu"
+  ],
+  "title": "椒",
+  "weak": true
+ },
+ "楚": {
+  "hanviet": [
+   "sở",
+   "sỡ"
+  ],
+  "title": "楚",
+  "weak": true
+ },
+ "楼": {
+  "hanviet": [
+   "lâu"
+  ],
+  "title": "楼",
+  "weak": false
+ },
+ "概": {
+  "hanviet": [
+   "khái"
+  ],
+  "title": "概",
+  "weak": true
+ },
+ "模": {
+  "hanviet": [
+   "mô",
+   "mo",
+   "mọ",
+   "mu",
+   "mua",
+   "mạc",
+   "mù"
+  ],
+  "title": "模",
+  "weak": true
+ },
+ "欠": {
+  "hanviet": [
+   "khiếm"
+  ],
+  "title": "欠",
+  "weak": true
+ },
+ "次": {
+  "hanviet": [
+   "thứ",
+   "tư"
+  ],
+  "title": "次",
+  "weak": false
+ },
+ "欢": {
+  "hanviet": [
+   "hoan",
+   "hoen"
+  ],
+  "title": "歡",
+  "weak": true
+ },
+ "欣": {
+  "hanviet": [
+   "hân"
+  ],
+  "title": "欣",
+  "weak": false
+ },
+ "欧": {
+  "hanviet": [
+   "âu"
+  ],
+  "title": "歐",
+  "weak": true
+ },
+ "款": {
+  "hanviet": [
+   "khoản"
+  ],
+  "title": "款",
+  "weak": true
+ },
+ "歇": {
+  "hanviet": [
+   "hiết",
+   "yết"
+  ],
+  "title": "歇",
+  "weak": false
+ },
+ "歌": {
+  "hanviet": [
+   "ca",
+   "cà",
+   "cao"
+  ],
+  "title": "歌",
+  "weak": true
+ },
+ "止": {
+  "hanviet": [
+   "chỉ"
+  ],
+  "title": "止",
+  "weak": true
+ },
+ "正": {
+  "hanviet": [
+   "chinh",
+   "chánh",
+   "chính"
+  ],
+  "title": "正",
+  "weak": false
+ },
+ "此": {
+  "hanviet": [
+   "thử",
+   "nảy",
+   "thửa"
+  ],
+  "title": "此",
+  "weak": true
+ },
+ "步": {
+  "hanviet": [
+   "bộ",
+   "bụa",
+   "buạ"
+  ],
+  "title": "步",
+  "weak": true
+ },
+ "武": {
+  "hanviet": [
+   "vũ",
+   "võ"
+  ],
+  "title": "武",
+  "weak": true
+ },
+ "歪": {
+  "hanviet": [
+   "quay",
+   "oa",
+   "oai"
+  ],
+  "title": "歪",
+  "weak": true
+ },
+ "死": {
+  "hanviet": [
+   "tử"
+  ],
+  "title": "死",
+  "weak": true
+ },
+ "殊": {
+  "hanviet": [
+   "thùa",
+   "thù",
+   "thò"
+  ],
+  "title": "殊",
+  "weak": true
+ },
+ "段": {
+  "hanviet": [
+   "đoạn",
+   "đoàn"
+  ],
+  "title": "段",
+  "weak": true
+ },
+ "母": {
+  "hanviet": [
+   "mẫu"
+  ],
+  "title": "母",
+  "weak": false
+ },
+ "每": {
+  "hanviet": [
+   "mỗi"
+  ],
+  "title": "每",
+  "weak": false
+ },
+ "毒": {
+  "hanviet": [
+   "độc",
+   "nọc"
+  ],
+  "title": "毒",
+  "weak": true
+ },
+ "比": {
+  "hanviet": [
+   "tỉ",
+   "tị",
+   "tí",
+   "bỉ"
+  ],
+  "title": "比",
+  "weak": true
+ },
+ "毕": {
+  "hanviet": [
+   "tất"
+  ],
+  "title": "畢",
+  "weak": true
+ },
+ "毛": {
+  "hanviet": [
+   "mao",
+   "mau",
+   "mào"
+  ],
+  "title": "毛",
+  "weak": true
+ },
+ "毫": {
+  "hanviet": [
+   "hào"
+  ],
+  "title": "毫",
+  "weak": true
+ },
+ "毯": {
+  "hanviet": [
+   "xồm",
+   "thảm"
+  ],
+  "title": "毯",
+  "weak": true
+ },
+ "民": {
+  "hanviet": [
+   "dân"
+  ],
+  "title": "民",
+  "weak": true
+ },
+ "气": {
+  "hanviet": [
+   "khí"
+  ],
+  "title": "气",
+  "weak": false
+ },
+ "氛": {
+  "hanviet": [
+   "phân"
+  ],
+  "title": "氛",
+  "weak": true
+ },
+ "水": {
+  "hanviet": [
+   "thuỷ"
+  ],
+  "title": "水",
+  "weak": false
+ },
+ "永": {
+  "hanviet": [
+   "vĩnh"
+  ],
+  "title": "永",
+  "weak": false
+ },
+ "汁": {
+  "hanviet": [
+   "chấp",
+   "trấp"
+  ],
+  "title": "汁",
+  "weak": true
+ },
+ "求": {
+  "hanviet": [
+   "cầu"
+  ],
+  "title": "求",
+  "weak": false
+ },
+ "汇": {
+  "hanviet": [
+   "hối",
+   "vị"
+  ],
+  "title": "匯",
+  "weak": true
+ },
+ "汉": {
+  "hanviet": [
+   "hán",
+   "hớn"
+  ],
+  "title": "漢",
+  "weak": false
+ },
+ "江": {
+  "hanviet": [
+   "giang",
+   "giăng",
+   "nhăng",
+   "gianh"
+  ],
+  "title": "江",
+  "weak": true
+ },
+ "池": {
+  "hanviet": [
+   "trì",
+   "đìa"
+  ],
+  "title": "池",
+  "weak": true
+ },
+ "汤": {
+  "hanviet": [
+   "thang",
+   "sương",
+   "thãng"
+  ],
+  "title": "湯",
+  "weak": false
+ },
+ "汽": {
+  "hanviet": [
+   "khí"
+  ],
+  "title": "汽",
+  "weak": true
+ },
+ "沉": {
+  "hanviet": [
+   "tròm",
+   "chằm",
+   "chìm",
+   "đắm",
+   "đẫm",
+   "ngằm",
+   "ngầm",
+   "trằm",
+   "trầm",
+   "đẵm"
+  ],
+  "title": "沉",
+  "weak": true
+ },
+ "沙": {
+  "hanviet": [
+   "sa",
+   "sá"
+  ],
+  "title": "沙",
+  "weak": false
+ },
+ "沟": {
+  "hanviet": [
+   "câu"
+  ],
+  "title": "溝",
+  "weak": true
+ },
+ "没": {
+  "hanviet": [
+   "một"
+  ],
+  "title": "没",
+  "weak": false
+ },
+ "河": {
+  "hanviet": [
+   "hà"
+  ],
+  "title": "河",
+  "weak": false
+ },
+ "油": {
+  "hanviet": [
+   "du"
+  ],
+  "title": "油",
+  "weak": false
+ },
+ "治": {
+  "hanviet": [
+   "trị",
+   "trì"
+  ],
+  "title": "治",
+  "weak": false
+ },
+ "泉": {
+  "hanviet": [
+   "tuyền"
+  ],
+  "title": "泉",
+  "weak": true
+ },
+ "法": {
+  "hanviet": [
+   "pháp"
+  ],
+  "title": "法",
+  "weak": false
+ },
+ "泛": {
+  "hanviet": [
+   "phiếm",
+   "phím",
+   "mẹp",
+   "phám"
+  ],
+  "title": "泛",
+  "weak": true
+ },
+ "注": {
+  "hanviet": [
+   "chú",
+   "chõ",
+   "giú",
+   "chua"
+  ],
+  "title": "注",
+  "weak": true
+ },
+ "泪": {
+  "hanviet": [
+   "lệ",
+   "lụy"
+  ],
+  "title": "泪",
+  "weak": false
+ },
+ "泳": {
+  "hanviet": [
+   "vịnh"
+  ],
+  "title": "泳",
+  "weak": false
+ },
+ "洒": {
+  "hanviet": [
+   "sái",
+   "tẩy",
+   "thối",
+   "rải",
+   "rảy",
+   "rưới",
+   "tưới",
+   "rẩy",
+   "vẩy"
+  ],
+  "title": "洒",
+  "weak": true
+ },
+ "洗": {
+  "hanviet": [
+   "tẩy",
+   "dẫy",
+   "giẫy",
+   "rải",
+   "rảy",
+   "tiển"
+  ],
+  "title": "洗",
+  "weak": true
+ },
+ "洞": {
+  "hanviet": [
+   "đọng",
+   "động",
+   "đùng",
+   "dộng",
+   "dọng",
+   "đỗng"
+  ],
+  "title": "洞",
+  "weak": true
+ },
+ "洲": {
+  "hanviet": [
+   "chao",
+   "châu"
+  ],
+  "title": "洲",
+  "weak": true
+ },
+ "活": {
+  "hanviet": [
+   "hoạt",
+   "oặt",
+   "oạc"
+  ],
+  "title": "活",
+  "weak": true
+ },
+ "派": {
+  "hanviet": [
+   "phái"
+  ],
+  "title": "派",
+  "weak": false
+ },
+ "流": {
+  "hanviet": [
+   "lưu"
+  ],
+  "title": "流",
+  "weak": false
+ },
+ "浅": {
+  "hanviet": [
+   "thiển",
+   "sẻn",
+   "tiên"
+  ],
+  "title": "淺",
+  "weak": true
+ },
+ "浇": {
+  "hanviet": [
+   "nhão",
+   "kiêu",
+   "nghiêu"
+  ],
+  "title": "澆",
+  "weak": true
+ },
+ "测": {
+  "hanviet": [
+   "trắc"
+  ],
+  "title": "測",
+  "weak": true
+ },
+ "济": {
+  "hanviet": [
+   "tế"
+  ],
+  "title": "濟",
+  "weak": false
+ },
+ "浏": {
+  "hanviet": [
+   "lưu"
+  ],
+  "title": "瀏",
+  "weak": true
+ },
+ "浓": {
+  "hanviet": [
+   "nùng",
+   "nồng"
+  ],
+  "title": "濃",
+  "weak": false
+ },
+ "浪": {
+  "hanviet": [
+   "lãng"
+  ],
+  "title": "浪",
+  "weak": false
+ },
+ "海": {
+  "hanviet": [
+   "hải"
+  ],
+  "title": "海",
+  "weak": false
+ },
+ "涂": {
+  "hanviet": [
+   "dơ"
+  ],
+  "title": "涂",
+  "weak": true
+ },
+ "消": {
+  "hanviet": [
+   "tiêu",
+   "teo",
+   "tiu"
+  ],
+  "title": "消",
+  "weak": true
+ },
+ "润": {
+  "hanviet": [
+   "nhuần",
+   "nhuận"
+  ],
+  "title": "潤",
+  "weak": true
+ },
+ "涨": {
+  "hanviet": [
+   "trướng",
+   "nhướng"
+  ],
+  "title": "漲",
+  "weak": true
+ },
+ "淘": {
+  "hanviet": [
+   "đào",
+   "rào"
+  ],
+  "title": "淘",
+  "weak": true
+ },
+ "淡": {
+  "hanviet": [
+   "đạm",
+   "đượm",
+   "vạm",
+   "đặm"
+  ],
+  "title": "淡",
+  "weak": true
+ },
+ "深": {
+  "hanviet": [
+   "thâm"
+  ],
+  "title": "深",
+  "weak": false
+ },
+ "清": {
+  "hanviet": [
+   "thanh"
+  ],
+  "title": "清",
+  "weak": false
+ },
+ "渐": {
+  "hanviet": [
+   "tiệm",
+   "tràn",
+   "tiêm",
+   "tiềm"
+  ],
+  "title": "漸",
+  "weak": true
+ },
+ "温": {
+  "hanviet": [
+   "ôn"
+  ],
+  "title": "温",
+  "weak": false
+ },
+ "渴": {
+  "hanviet": [
+   "khát",
+   "kiệt",
+   "hạt",
+   "khửa",
+   "khở",
+   "khưở",
+   "khữ",
+   "khỡ",
+   "khữa",
+   "khã"
+  ],
+  "title": "渴",
+  "weak": true
+ },
+ "游": {
+  "hanviet": [
+   "du"
+  ],
+  "title": "游",
+  "weak": true
+ },
+ "湖": {
+  "hanviet": [
+   "hồ"
+  ],
+  "title": "湖",
+  "weak": false
+ },
+ "湿": {
+  "hanviet": [
+   "thấp"
+  ],
+  "title": "濕",
+  "weak": true
+ },
+ "源": {
+  "hanviet": [
+   "nguồn",
+   "nguyên",
+   "ngùn",
+   "nguyễn"
+  ],
+  "title": "源",
+  "weak": true
+ },
+ "滑": {
+  "hanviet": [
+   "gột",
+   "cốt",
+   "hoạt"
+  ],
+  "title": "滑",
+  "weak": true
+ },
+ "滚": {
+  "hanviet": [
+   "củn",
+   "cổn",
+   "cuộn",
+   "ngổn"
+  ],
+  "title": "滾",
+  "weak": true
+ },
+ "满": {
+  "hanviet": [
+   "mãn",
+   "mởn",
+   "mớn"
+  ],
+  "title": "滿",
+  "weak": true
+ },
+ "滩": {
+  "hanviet": [
+   "than"
+  ],
+  "title": "灘",
+  "weak": true
+ },
+ "滴": {
+  "hanviet": [
+   "nhích",
+   "nhếch",
+   "rích",
+   "tách",
+   "tích",
+   "trích"
+  ],
+  "title": "滴",
+  "weak": true
+ },
+ "漂": {
+  "hanviet": [
+   "phiêu",
+   "phiếu"
+  ],
+  "title": "漂",
+  "weak": false
+ },
+ "漏": {
+  "hanviet": [
+   "lậu",
+   "lâu",
+   "làu",
+   "lạu"
+  ],
+  "title": "漏",
+  "weak": true
+ },
+ "演": {
+  "hanviet": [
+   "diễn",
+   "diển"
+  ],
+  "title": "演",
+  "weak": false
+ },
+ "漠": {
+  "hanviet": [
+   "mạc",
+   "mác"
+  ],
+  "title": "漠",
+  "weak": true
+ },
+ "潮": {
+  "hanviet": [
+   "triều",
+   "trào",
+   "xèo",
+   "rều"
+  ],
+  "title": "潮",
+  "weak": true
+ },
+ "澡": {
+  "hanviet": [
+   "tảo"
+  ],
+  "title": "澡",
+  "weak": true
+ },
+ "激": {
+  "hanviet": [
+   "váng<!",
+   "khích",
+   "kích"
+  ],
+  "title": "激",
+  "weak": true
+ },
+ "火": {
+  "hanviet": [
+   "hỏa"
+  ],
+  "title": "火",
+  "weak": false
+ },
+ "灯": {
+  "hanviet": [
+   "đăng"
+  ],
+  "title": "燈",
+  "weak": true
+ },
+ "灰": {
+  "hanviet": [
+   "hôi",
+   "khôi",
+   "hoi"
+  ],
+  "title": "灰",
+  "weak": false
+ },
+ "灵": {
+  "hanviet": [
+   "linh"
+  ],
+  "title": "灵",
+  "weak": false
+ },
+ "灾": {
+  "hanviet": [
+   "tai"
+  ],
+  "title": "灾",
+  "weak": false
+ },
+ "炒": {
+  "hanviet": [
+   "sao",
+   "xào",
+   "xáo"
+  ],
+  "title": "炒",
+  "weak": true
+ },
+ "炭": {
+  "hanviet": [
+   "thán",
+   "than",
+   "tro"
+  ],
+  "title": "炭",
+  "weak": true
+ },
+ "炮": {
+  "hanviet": [
+   "bào",
+   "pháo"
+  ],
+  "title": "炮",
+  "weak": false
+ },
+ "炸": {
+  "hanviet": [
+   "tạc"
+  ],
+  "title": "炸",
+  "weak": true
+ },
+ "点": {
+  "hanviet": [
+   "điểm"
+  ],
+  "title": "点",
+  "weak": false
+ },
+ "炼": {
+  "hanviet": [
+   "luyện",
+   "rịn"
+  ],
+  "title": "煉",
+  "weak": true
+ },
+ "烂": {
+  "hanviet": [
+   "lạn",
+   "láng",
+   "rạn"
+  ],
+  "title": "爛",
+  "weak": true
+ },
+ "烈": {
+  "hanviet": [
+   "liệt",
+   "lét",
+   "lẹt",
+   "lết",
+   "lướt",
+   "rét",
+   "rẹt",
+   "riệt"
+  ],
+  "title": "烈",
+  "weak": true
+ },
+ "烟": {
+  "hanviet": [
+   "yên"
+  ],
+  "title": "煙",
+  "weak": true
+ },
+ "烦": {
+  "hanviet": [
+   "phiền"
+  ],
+  "title": "煩",
+  "weak": true
+ },
+ "烧": {
+  "hanviet": [
+   "thiêu"
+  ],
+  "title": "燒",
+  "weak": false
+ },
+ "烫": {
+  "hanviet": [
+   "nãng",
+   "năng",
+   "nắng",
+   "thãng",
+   "thạng",
+   "nẵng",
+   "tãng",
+   "tẵng",
+   "tặng",
+   "thẵng",
+   "thẫng",
+   "thậng"
+  ],
+  "title": "燙",
+  "weak": true
+ },
+ "热": {
+  "hanviet": [
+   "nhiệt"
+  ],
+  "title": "熱",
+  "weak": false
+ },
+ "然": {
+  "hanviet": [
+   "nhiên"
+  ],
+  "title": "然",
+  "weak": false
+ },
+ "煤": {
+  "hanviet": [
+   "môi",
+   "muồi",
+   "mai"
+  ],
+  "title": "煤",
+  "weak": true
+ },
+ "照": {
+  "hanviet": [
+   "chiếu"
+  ],
+  "title": "照",
+  "weak": true
+ },
+ "煮": {
+  "hanviet": [
+   "chử"
+  ],
+  "title": "煮",
+  "weak": true
+ },
+ "熟": {
+  "hanviet": [
+   "thục"
+  ],
+  "title": "熟",
+  "weak": true
+ },
+ "熬": {
+  "hanviet": [
+   "ngao"
+  ],
+  "title": "熬",
+  "weak": true
+ },
+ "燃": {
+  "hanviet": [
+   "nhiên",
+   "nhen"
+  ],
+  "title": "燃",
+  "weak": true
+ },
+ "燥": {
+  "hanviet": [
+   "táo"
+  ],
+  "title": "燥",
+  "weak": false
+ },
+ "爬": {
+  "hanviet": [
+   "ba",
+   "bò",
+   "bà"
+  ],
+  "title": "爬",
+  "weak": true
+ },
+ "爱": {
+  "hanviet": [
+   "ái",
+   "áy"
+  ],
+  "title": "愛",
+  "weak": false
+ },
+ "父": {
+  "hanviet": [
+   "phụ"
+  ],
+  "title": "父",
+  "weak": false
+ },
+ "爷": {
+  "hanviet": [
+   "gia"
+  ],
+  "title": "爺",
+  "weak": true
+ },
+ "爸": {
+  "hanviet": [
+   "bả",
+   "ba"
+  ],
+  "title": "爸",
+  "weak": false
+ },
+ "片": {
+  "hanviet": [
+   "phiến",
+   "phiện"
+  ],
+  "title": "片",
+  "weak": true
+ },
+ "版": {
+  "hanviet": [
+   "bản",
+   "bảng",
+   "bỡn",
+   "phản",
+   "ván"
+  ],
+  "title": "版",
+  "weak": true
+ },
+ "牌": {
+  "hanviet": [
+   "bài",
+   "bìa",
+   "bời"
+  ],
+  "title": "牌",
+  "weak": true
+ },
+ "牙": {
+  "hanviet": [
+   "nha",
+   "ngà"
+  ],
+  "title": "牙",
+  "weak": true
+ },
+ "牛": {
+  "hanviet": [
+   "ngưu",
+   "ngọ",
+   "ngỏ",
+   "ngõ",
+   "ngâu"
+  ],
+  "title": "牛",
+  "weak": true
+ },
+ "物": {
+  "hanviet": [
+   "vật"
+  ],
+  "title": "物",
+  "weak": false
+ },
+ "特": {
+  "hanviet": [
+   "đặc"
+  ],
+  "title": "特",
+  "weak": false
+ },
+ "状": {
+  "hanviet": [
+   "trạng"
+  ],
+  "title": "状",
+  "weak": false
+ },
+ "犹": {
+  "hanviet": [
+   "do"
+  ],
+  "title": "犹",
+  "weak": true
+ },
+ "狂": {
+  "hanviet": [
+   "cuồng"
+  ],
+  "title": "狂",
+  "weak": true
+ },
+ "狗": {
+  "hanviet": [
+   "cẩu"
+  ],
+  "title": "狗",
+  "weak": false
+ },
+ "狡": {
+  "hanviet": [
+   "giảo",
+   "sinh",
+   "xảo"
+  ],
+  "title": "狡",
+  "weak": true
+ },
+ "独": {
+  "hanviet": [
+   "độc"
+  ],
+  "title": "独",
+  "weak": false
+ },
+ "狮": {
+  "hanviet": [
+   "sư"
+  ],
+  "title": "獅",
+  "weak": false
+ },
+ "猪": {
+  "hanviet": [
+   "trư",
+   "chưa",
+   "trơ",
+   "kiệt"
+  ],
+  "title": "豬",
+  "weak": true
+ },
+ "猫": {
+  "hanviet": [
+   "miêu"
+  ],
+  "title": "猫",
+  "weak": false
+ },
+ "献": {
+  "hanviet": [
+   "hiến"
+  ],
+  "title": "献",
+  "weak": false
+ },
+ "猴": {
+  "hanviet": [
+   "hầu"
+  ],
+  "title": "猴",
+  "weak": true
+ },
+ "猾": {
+  "hanviet": [
+   "hoạt"
+  ],
+  "title": "猾",
+  "weak": true
+ },
+ "率": {
+  "hanviet": [
+   "suất",
+   "soát",
+   "luật",
+   "súy"
+  ],
+  "title": "率",
+  "weak": false
+ },
+ "玉": {
+  "hanviet": [
+   "ngọc"
+  ],
+  "title": "玉",
+  "weak": false
+ },
+ "王": {
+  "hanviet": [
+   "vương",
+   "vượng"
+  ],
+  "title": "王",
+  "weak": false
+ },
+ "玩": {
+  "hanviet": [
+   "ngoạn"
+  ],
+  "title": "玩",
+  "weak": true
+ },
+ "环": {
+  "hanviet": [
+   "hoàn"
+  ],
+  "title": "環",
+  "weak": true
+ },
+ "现": {
+  "hanviet": [
+   "hiện",
+   "hẹn",
+   "kén"
+  ],
+  "title": "現",
+  "weak": true
+ },
+ "玻": {
+  "hanviet": [
+   "pha"
+  ],
+  "title": "玻",
+  "weak": true
+ },
+ "珍": {
+  "hanviet": [
+   "trân",
+   "trằn"
+  ],
+  "title": "珍",
+  "weak": true
+ },
+ "班": {
+  "hanviet": [
+   "ban",
+   "băn"
+  ],
+  "title": "班",
+  "weak": true
+ },
+ "球": {
+  "hanviet": [
+   "cầu"
+  ],
+  "title": "球",
+  "weak": false
+ },
+ "理": {
+  "hanviet": [
+   "lí",
+   "lẽ",
+   "nhẽ"
+  ],
+  "title": "理",
+  "weak": true
+ },
+ "璃": {
+  "hanviet": [
+   "ly",
+   "li",
+   "lê"
+  ],
+  "title": "璃",
+  "weak": true
+ },
+ "瓜": {
+  "hanviet": [
+   "qua"
+  ],
+  "title": "瓜",
+  "weak": false
+ },
+ "瓶": {
+  "hanviet": [
+   "bình"
+  ],
+  "title": "瓶",
+  "weak": true
+ },
+ "甚": {
+  "hanviet": [
+   "thậm",
+   "rậm"
+  ],
+  "title": "甚",
+  "weak": true
+ },
+ "甜": {
+  "hanviet": [
+   "điềm"
+  ],
+  "title": "甜",
+  "weak": true
+ },
+ "生": {
+  "hanviet": [
+   "sinh",
+   "sanh"
+  ],
+  "title": "生",
+  "weak": false
+ },
+ "用": {
+  "hanviet": [
+   "dụng"
+  ],
+  "title": "用",
+  "weak": false
+ },
+ "甩": {
+  "hanviet": [
+   "soải",
+   "suý"
+  ],
+  "title": "甩",
+  "weak": true
+ },
+ "由": {
+  "hanviet": [
+   "do"
+  ],
+  "title": "由",
+  "weak": true
+ },
+ "甲": {
+  "hanviet": [
+   "giáp"
+  ],
+  "title": "甲",
+  "weak": false
+ },
+ "申": {
+  "hanviet": [
+   "thân"
+  ],
+  "title": "申",
+  "weak": false
+ },
+ "电": {
+  "hanviet": [
+   "điện"
+  ],
+  "title": "電",
+  "weak": false
+ },
+ "男": {
+  "hanviet": [
+   "nam"
+  ],
+  "title": "男",
+  "weak": false
+ },
+ "画": {
+  "hanviet": [
+   "hoạ",
+   "hoạch",
+   "vạch",
+   "vệt",
+   "dạch",
+   "vệch"
+  ],
+  "title": "畫",
+  "weak": true
+ },
+ "界": {
+  "hanviet": [
+   "giới",
+   "giái"
+  ],
+  "title": "界",
+  "weak": false
+ },
+ "留": {
+  "hanviet": [
+   "lưu"
+  ],
+  "title": "留",
+  "weak": false
+ },
+ "略": {
+  "hanviet": [
+   "lược"
+  ],
+  "title": "略",
+  "weak": false
+ },
+ "疑": {
+  "hanviet": [
+   "nghi"
+  ],
+  "title": "疑",
+  "weak": false
+ },
+ "疗": {
+  "hanviet": [
+   "liệu"
+  ],
+  "title": "療",
+  "weak": true
+ },
+ "疯": {
+  "hanviet": [
+   "phong",
+   "phung"
+  ],
+  "title": "瘋",
+  "weak": true
+ },
+ "疲": {
+  "hanviet": [
+   "bì",
+   "mạt",
+   "lụy"
+  ],
+  "title": "疲",
+  "weak": false
+ },
+ "疼": {
+  "hanviet": [
+   "đông",
+   "đầng",
+   "thấng",
+   "thầng",
+   "thậng",
+   "đậng"
+  ],
+  "title": "疼",
+  "weak": true
+ },
+ "病": {
+  "hanviet": [
+   "bệnh",
+   "bạnh",
+   "nạch",
+   "bịnh"
+  ],
+  "title": "病",
+  "weak": true
+ },
+ "痒": {
+  "hanviet": [
+   "dưỡng",
+   "ngứa"
+  ],
+  "title": "癢",
+  "weak": true
+ },
+ "痛": {
+  "hanviet": [
+   "thống"
+  ],
+  "title": "痛",
+  "weak": true
+ },
+ "登": {
+  "hanviet": [
+   "đăng"
+  ],
+  "title": "登",
+  "weak": false
+ },
+ "白": {
+  "hanviet": [
+   "bạch"
+  ],
+  "title": "白",
+  "weak": false
+ },
+ "百": {
+  "hanviet": [
+   "bách",
+   "bá"
+  ],
+  "title": "百",
+  "weak": false
+ },
+ "皂": {
+  "hanviet": [
+   "tạo",
+   "sàu",
+   "sạu",
+   "tạu",
+   "sạo"
+  ],
+  "title": "皂",
+  "weak": false
+ },
+ "的": {
+  "hanviet": [
+   "đích"
+  ],
+  "title": "的",
+  "weak": false
+ },
+ "皮": {
+  "hanviet": [
+   "bì"
+  ],
+  "title": "皮",
+  "weak": false
+ },
+ "盆": {
+  "hanviet": [
+   "bồn"
+  ],
+  "title": "盆",
+  "weak": false
+ },
+ "益": {
+  "hanviet": [
+   "ích"
+  ],
+  "title": "益",
+  "weak": false
+ },
+ "盐": {
+  "hanviet": [
+   "diêm",
+   "diễm"
+  ],
+  "title": "鹽",
+  "weak": true
+ },
+ "盖": {
+  "hanviet": [
+   "cài",
+   "gài",
+   "cái"
+  ],
+  "title": "蓋",
+  "weak": true
+ },
+ "盘": {
+  "hanviet": [
+   "bàn"
+  ],
+  "title": "盘",
+  "weak": false
+ },
+ "目": {
+  "hanviet": [
+   "mục"
+  ],
+  "title": "目",
+  "weak": false
+ },
+ "直": {
+  "hanviet": [
+   "trực"
+  ],
+  "title": "直",
+  "weak": true
+ },
+ "相": {
+  "hanviet": [
+   "tương"
+  ],
+  "title": "相",
+  "weak": true
+ },
+ "盼": {
+  "hanviet": [
+   "phán"
+  ],
+  "title": "盼",
+  "weak": true
+ },
+ "盾": {
+  "hanviet": [
+   "thuẫn"
+  ],
+  "title": "盾",
+  "weak": true
+ },
+ "省": {
+  "hanviet": [
+   "tỉnh",
+   "tĩnh",
+   "sảnh"
+  ],
+  "title": "省",
+  "weak": false
+ },
+ "眉": {
+  "hanviet": [
+   "mi"
+  ],
+  "title": "眉",
+  "weak": false
+ },
+ "看": {
+  "hanviet": [
+   "khan",
+   "khán",
+   "khản"
+  ],
+  "title": "看",
+  "weak": true
+ },
+ "真": {
+  "hanviet": [
+   "chân",
+   "sân"
+  ],
+  "title": "真",
+  "weak": false
+ },
+ "眠": {
+  "hanviet": [
+   "miên"
+  ],
+  "title": "眠",
+  "weak": true
+ },
+ "眼": {
+  "hanviet": [
+   "nhẫn",
+   "nhãn"
+  ],
+  "title": "眼",
+  "weak": false
+ },
+ "着": {
+  "hanviet": [
+   "trước",
+   "trứ",
+   "chốc",
+   "trốc"
+  ],
+  "title": "着",
+  "weak": true
+ },
+ "睁": {
+  "hanviet": [
+   "tĩnh",
+   "tranh",
+   "tránh"
+  ],
+  "title": "睜",
+  "weak": true
+ },
+ "睛": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "睡": {
+  "hanviet": [
+   "thuỵ"
+  ],
+  "title": "睡",
+  "weak": true
+ },
+ "瞎": {
+  "hanviet": [
+   "hạt",
+   "hắt",
+   "hặt",
+   "hát"
+  ],
+  "title": "瞎",
+  "weak": true
+ },
+ "瞧": {
+  "hanviet": [
+   "tiều"
+  ],
+  "title": "瞧",
+  "weak": true
+ },
+ "矛": {
+  "hanviet": [
+   "mâu",
+   "mấu"
+  ],
+  "title": "矛",
+  "weak": true
+ },
+ "知": {
+  "hanviet": [
+   "tri",
+   "trí"
+  ],
+  "title": "知",
+  "weak": false
+ },
+ "矩": {
+  "hanviet": [
+   "củ"
+  ],
+  "title": "矩",
+  "weak": true
+ },
+ "短": {
+  "hanviet": [
+   "đoản",
+   "đuỗn",
+   "ngắn",
+   "vắn"
+  ],
+  "title": "短",
+  "weak": true
+ },
+ "矮": {
+  "hanviet": [
+   "ải"
+  ],
+  "title": "矮",
+  "weak": true
+ },
+ "石": {
+  "hanviet": [
+   "thạch",
+   "đán"
+  ],
+  "title": "石",
+  "weak": false
+ },
+ "矿": {
+  "hanviet": [
+   "khoáng",
+   "quáng",
+   "khoắng"
+  ],
+  "title": "礦",
+  "weak": true
+ },
+ "码": {
+  "hanviet": [
+   "mã"
+  ],
+  "title": "碼",
+  "weak": true
+ },
+ "砍": {
+  "hanviet": [
+   "khảm"
+  ],
+  "title": "砍",
+  "weak": true
+ },
+ "研": {
+  "hanviet": [
+   "nghiên",
+   "nghiễn"
+  ],
+  "title": "研",
+  "weak": false
+ },
+ "破": {
+  "hanviet": [
+   "phá"
+  ],
+  "title": "破",
+  "weak": false
+ },
+ "础": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "硬": {
+  "hanviet": [
+   "ngạnh"
+  ],
+  "title": "硬",
+  "weak": true
+ },
+ "确": {
+  "hanviet": [
+   "xác",
+   "xạc"
+  ],
+  "title": "確",
+  "weak": true
+ },
+ "碍": {
+  "hanviet": [
+   "ngại",
+   "ngài"
+  ],
+  "title": "碍",
+  "weak": false
+ },
+ "碎": {
+  "hanviet": [
+   "toái",
+   "toả",
+   "tối"
+  ],
+  "title": "碎",
+  "weak": false
+ },
+ "碗": {
+  "hanviet": [
+   "oản",
+   "uyển"
+  ],
+  "title": "碗",
+  "weak": true
+ },
+ "碰": {
+  "hanviet": [
+   "bánh",
+   "bính"
+  ],
+  "title": "碰",
+  "weak": true
+ },
+ "示": {
+  "hanviet": [
+   "thị",
+   "kì"
+  ],
+  "title": "示",
+  "weak": true
+ },
+ "礼": {
+  "hanviet": [
+   "lễ"
+  ],
+  "title": "礼",
+  "weak": false
+ },
+ "社": {
+  "hanviet": [
+   "xã"
+  ],
+  "title": "社",
+  "weak": true
+ },
+ "祝": {
+  "hanviet": [
+   "chúc"
+  ],
+  "title": "祝",
+  "weak": false
+ },
+ "神": {
+  "hanviet": [
+   "thần"
+  ],
+  "title": "神",
+  "weak": false
+ },
+ "票": {
+  "hanviet": [
+   "phiếu"
+  ],
+  "title": "票",
+  "weak": true
+ },
+ "禁": {
+  "hanviet": [
+   "cấm",
+   "bấm",
+   "quắm"
+  ],
+  "title": "禁",
+  "weak": true
+ },
+ "福": {
+  "hanviet": [
+   "phúc",
+   "phước"
+  ],
+  "title": "福",
+  "weak": false
+ },
+ "离": {
+  "hanviet": [
+   "li"
+  ],
+  "title": "离",
+  "weak": false
+ },
+ "秀": {
+  "hanviet": [
+   "tú"
+  ],
+  "title": "秀",
+  "weak": true
+ },
+ "私": {
+  "hanviet": [
+   "tư",
+   "tây"
+  ],
+  "title": "私",
+  "weak": true
+ },
+ "秋": {
+  "hanviet": [
+   "thu",
+   "su",
+   "xu"
+  ],
+  "title": "秋",
+  "weak": true
+ },
+ "种": {
+  "hanviet": [
+   "chủng"
+  ],
+  "title": "种",
+  "weak": true
+ },
+ "科": {
+  "hanviet": [
+   "khoa"
+  ],
+  "title": "科",
+  "weak": true
+ },
+ "秘": {
+  "hanviet": [
+   "bí"
+  ],
+  "title": "秘",
+  "weak": true
+ },
+ "租": {
+  "hanviet": [
+   "tô",
+   "to",
+   "tò"
+  ],
+  "title": "租",
+  "weak": true
+ },
+ "秩": {
+  "hanviet": [
+   "trật"
+  ],
+  "title": "秩",
+  "weak": false
+ },
+ "积": {
+  "hanviet": [
+   "tích"
+  ],
+  "title": "積",
+  "weak": true
+ },
+ "称": {
+  "hanviet": [
+   "xưng",
+   "xứng"
+  ],
+  "title": "称",
+  "weak": false
+ },
+ "移": {
+  "hanviet": [
+   "di"
+  ],
+  "title": "移",
+  "weak": false
+ },
+ "程": {
+  "hanviet": [
+   "trình"
+  ],
+  "title": "程",
+  "weak": true
+ },
+ "税": {
+  "hanviet": [
+   "thuế"
+  ],
+  "title": "稅",
+  "weak": true
+ },
+ "稳": {
+  "hanviet": [
+   "ổn",
+   "ỉn"
+  ],
+  "title": "稳",
+  "weak": true
+ },
+ "究": {
+  "hanviet": [
+   "cứu"
+  ],
+  "title": "究",
+  "weak": true
+ },
+ "穷": {
+  "hanviet": [
+   "cùng"
+  ],
+  "title": "穷",
+  "weak": false
+ },
+ "空": {
+  "hanviet": [
+   "không"
+  ],
+  "title": "空",
+  "weak": false
+ },
+ "穿": {
+  "hanviet": [
+   "xuyên",
+   "xoen"
+  ],
+  "title": "穿",
+  "weak": true
+ },
+ "突": {
+  "hanviet": [
+   "đột",
+   "đuột",
+   "sột",
+   "tọt",
+   "chặt",
+   "chợt",
+   "dột",
+   "đợt",
+   "đụt",
+   "lọt",
+   "mất"
+  ],
+  "title": "突",
+  "weak": true
+ },
+ "窄": {
+  "hanviet": [
+   "trách",
+   "trậc"
+  ],
+  "title": "窄",
+  "weak": true
+ },
+ "窗": {
+  "hanviet": [
+   "song"
+  ],
+  "title": "窗",
+  "weak": false
+ },
+ "立": {
+  "hanviet": [
+   "lập"
+  ],
+  "title": "立",
+  "weak": false
+ },
+ "站": {
+  "hanviet": [
+   "trạm",
+   "trậm"
+  ],
+  "title": "站",
+  "weak": true
+ },
+ "竟": {
+  "hanviet": [
+   "cánh",
+   "cạnh",
+   "giạnh"
+  ],
+  "title": "竟",
+  "weak": true
+ },
+ "章": {
+  "hanviet": [
+   "chương"
+  ],
+  "title": "章",
+  "weak": true
+ },
+ "童": {
+  "hanviet": [
+   "đồng"
+  ],
+  "title": "童",
+  "weak": true
+ },
+ "竹": {
+  "hanviet": [
+   "trúc"
+  ],
+  "title": "竹",
+  "weak": true
+ },
+ "笑": {
+  "hanviet": [
+   "tiếu",
+   "téo"
+  ],
+  "title": "笑",
+  "weak": true
+ },
+ "笔": {
+  "hanviet": [
+   "bút"
+  ],
+  "title": "筆",
+  "weak": false
+ },
+ "符": {
+  "hanviet": [
+   "phù",
+   "bùa"
+  ],
+  "title": "符",
+  "weak": true
+ },
+ "笨": {
+  "hanviet": [
+   "bổn",
+   "bát"
+  ],
+  "title": "笨",
+  "weak": true
+ },
+ "第": {
+  "hanviet": [
+   "đệ"
+  ],
+  "title": "第",
+  "weak": true
+ },
+ "等": {
+  "hanviet": [
+   "đẳng",
+   "đấng",
+   "đứng"
+  ],
+  "title": "等",
+  "weak": true
+ },
+ "筑": {
+  "hanviet": [
+   "trúc"
+  ],
+  "title": "筑",
+  "weak": true
+ },
+ "答": {
+  "hanviet": [
+   "đáp",
+   "đớp",
+   "hóp"
+  ],
+  "title": "答",
+  "weak": true
+ },
+ "筷": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "签": {
+  "hanviet": [
+   "thiêm",
+   "kiểm",
+   "tiêm",
+   "xâm"
+  ],
+  "title": "簽",
+  "weak": true
+ },
+ "简": {
+  "hanviet": [
+   "giản",
+   "dẳng",
+   "dớn",
+   "giỡn",
+   "nhởn",
+   "dần",
+   "dẵng",
+   "giảm",
+   "giằn"
+  ],
+  "title": "簡",
+  "weak": true
+ },
+ "算": {
+  "hanviet": [
+   "toán"
+  ],
+  "title": "算",
+  "weak": false
+ },
+ "管": {
+  "hanviet": [
+   "quản"
+  ],
+  "title": "管",
+  "weak": true
+ },
+ "箱": {
+  "hanviet": [
+   "sương",
+   "tương",
+   "rương"
+  ],
+  "title": "箱",
+  "weak": true
+ },
+ "篇": {
+  "hanviet": [
+   "thiên"
+  ],
+  "title": "篇",
+  "weak": false
+ },
+ "篮": {
+  "hanviet": [
+   "lam",
+   "xờm",
+   "làn",
+   "xớm"
+  ],
+  "title": "籃",
+  "weak": true
+ },
+ "米": {
+  "hanviet": [
+   "mễ"
+  ],
+  "title": "米",
+  "weak": false
+ },
+ "类": {
+  "hanviet": [
+   "loại",
+   "loài",
+   "nòi"
+  ],
+  "title": "類",
+  "weak": true
+ },
+ "粗": {
+  "hanviet": [
+   "thô",
+   "sồ",
+   "to",
+   "xồ"
+  ],
+  "title": "粗",
+  "weak": true
+ },
+ "粘": {
+  "hanviet": [
+   "niêm"
+  ],
+  "title": "粘",
+  "weak": false
+ },
+ "粮": {
+  "hanviet": [
+   "lương"
+  ],
+  "title": "粮",
+  "weak": false
+ },
+ "精": {
+  "hanviet": [
+   "tinh"
+  ],
+  "title": "精",
+  "weak": true
+ },
+ "糊": {
+  "hanviet": [
+   "hồ"
+  ],
+  "title": "糊",
+  "weak": true
+ },
+ "糕": {
+  "hanviet": [
+   "cao"
+  ],
+  "title": "糕",
+  "weak": true
+ },
+ "糖": {
+  "hanviet": [
+   "đường"
+  ],
+  "title": "糖",
+  "weak": true
+ },
+ "糙": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "糟": {
+  "hanviet": [
+   "tao",
+   "tào"
+  ],
+  "title": "糟",
+  "weak": true
+ },
+ "系": {
+  "hanviet": [
+   "hệ"
+  ],
+  "title": "系",
+  "weak": true
+ },
+ "素": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "索": {
+  "hanviet": [
+   "tác",
+   "sách"
+  ],
+  "title": "索",
+  "weak": false
+ },
+ "紧": {
+  "hanviet": [
+   "khẩn",
+   "lẳm"
+  ],
+  "title": "緊",
+  "weak": true
+ },
+ "紫": {
+  "hanviet": [
+   "tử",
+   "tía"
+  ],
+  "title": "紫",
+  "weak": false
+ },
+ "累": {
+  "hanviet": [
+   "luỵ",
+   "lủi",
+   "luỹ",
+   "mệt",
+   "luy",
+   "luệ"
+  ],
+  "title": "累",
+  "weak": true
+ },
+ "繁": {
+  "hanviet": [
+   "phồn",
+   "phiền"
+  ],
+  "title": "繁",
+  "weak": true
+ },
+ "红": {
+  "hanviet": [
+   "hồng",
+   "hường"
+  ],
+  "title": "紅",
+  "weak": false
+ },
+ "约": {
+  "hanviet": [
+   "ước",
+   "yêu"
+  ],
+  "title": "約",
+  "weak": false
+ },
+ "级": {
+  "hanviet": [
+   "cấp",
+   "cóp",
+   "khớp",
+   "cụp"
+  ],
+  "title": "級",
+  "weak": true
+ },
+ "纪": {
+  "hanviet": [
+   "kỉ",
+   "kỷ",
+   "kỹ",
+   "kĩ"
+  ],
+  "title": "紀",
+  "weak": false
+ },
+ "纯": {
+  "hanviet": [
+   "thuần",
+   "chuẩn",
+   "đồn",
+   "truy",
+   "luồn"
+  ],
+  "title": "純",
+  "weak": true
+ },
+ "纲": {
+  "hanviet": [
+   "cương",
+   "cáng"
+  ],
+  "title": "綱",
+  "weak": true
+ },
+ "纳": {
+  "hanviet": [
+   "nạp",
+   "nấp",
+   "nập",
+   "nép",
+   "nớp",
+   "núp",
+   "nượp",
+   "nuốt",
+   "nầm",
+   "nóp",
+   "nốp",
+   "nộp"
+  ],
+  "title": "納",
+  "weak": true
+ },
+ "纷": {
+  "hanviet": [
+   "phân"
+  ],
+  "title": "紛",
+  "weak": true
+ },
+ "纸": {
+  "hanviet": [
+   "chỉ"
+  ],
+  "title": "紙",
+  "weak": false
+ },
+ "线": {
+  "hanviet": [
+   "tuyến"
+  ],
+  "title": "綫",
+  "weak": true
+ },
+ "练": {
+  "hanviet": [
+   "luyện",
+   "lén",
+   "lẹn",
+   "rén",
+   "rịn"
+  ],
+  "title": "練",
+  "weak": true
+ },
+ "组": {
+  "hanviet": [
+   "tổ",
+   "tê",
+   "tây"
+  ],
+  "title": "組",
+  "weak": true
+ },
+ "细": {
+  "hanviet": [
+   "tế"
+  ],
+  "title": "细",
+  "weak": false
+ },
+ "织": {
+  "hanviet": [
+   "chức",
+   "chuốc",
+   "chịt"
+  ],
+  "title": "織",
+  "weak": true
+ },
+ "终": {
+  "hanviet": [
+   "chung"
+  ],
+  "title": "終",
+  "weak": false
+ },
+ "绍": {
+  "hanviet": [
+   "thiệu",
+   "chão"
+  ],
+  "title": "紹",
+  "weak": true
+ },
+ "经": {
+  "hanviet": [
+   "kinh"
+  ],
+  "title": "經",
+  "weak": false
+ },
+ "结": {
+  "hanviet": [
+   "kết",
+   "cứt",
+   "kiết",
+   "chắc",
+   "kít"
+  ],
+  "title": "結",
+  "weak": true
+ },
+ "绕": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "给": {
+  "hanviet": [
+   "cấp",
+   "góp",
+   "cắp",
+   "cóp",
+   "cướp"
+  ],
+  "title": "給",
+  "weak": true
+ },
+ "络": {
+  "hanviet": [
+   "rạc",
+   "lạc"
+  ],
+  "title": "絡",
+  "weak": true
+ },
+ "绝": {
+  "hanviet": [
+   "tuyệt"
+  ],
+  "title": "絕",
+  "weak": true
+ },
+ "统": {
+  "hanviet": [
+   "thống",
+   "thụng",
+   "thủng",
+   "xóng",
+   "tung",
+   "thỗng",
+   "thổng"
+  ],
+  "title": "統",
+  "weak": true
+ },
+ "继": {
+  "hanviet": [
+   "kế"
+  ],
+  "title": "繼",
+  "weak": true
+ },
+ "绩": {
+  "hanviet": [
+   "tích"
+  ],
+  "title": "績",
+  "weak": true
+ },
+ "绪": {
+  "hanviet": [
+   "tự"
+  ],
+  "title": "緒",
+  "weak": true
+ },
+ "续": {
+  "hanviet": [
+   "tục"
+  ],
+  "title": "續",
+  "weak": true
+ },
+ "绳": {
+  "hanviet": [
+   "thằng"
+  ],
+  "title": "绳",
+  "weak": false
+ },
+ "维": {
+  "hanviet": [
+   "duy"
+  ],
+  "title": "維",
+  "weak": false
+ },
+ "绸": {
+  "hanviet": [
+   "trù",
+   "điều"
+  ],
+  "title": "綢",
+  "weak": true
+ },
+ "综": {
+  "hanviet": [
+   "tổng",
+   "tống"
+  ],
+  "title": "綜",
+  "weak": true
+ },
+ "绿": {
+  "hanviet": [
+   "lục"
+  ],
+  "title": "綠",
+  "weak": true
+ },
+ "缓": {
+  "hanviet": [
+   "hoãn",
+   "hoán"
+  ],
+  "title": "緩",
+  "weak": true
+ },
+ "编": {
+  "hanviet": [
+   "biên"
+  ],
+  "title": "編",
+  "weak": true
+ },
+ "缩": {
+  "hanviet": [
+   "súc"
+  ],
+  "title": "縮",
+  "weak": true
+ },
+ "缺": {
+  "hanviet": [
+   "khuyết"
+  ],
+  "title": "缺",
+  "weak": true
+ },
+ "网": {
+  "hanviet": [
+   "võng"
+  ],
+  "title": "網",
+  "weak": true
+ },
+ "罚": {
+  "hanviet": [
+   "phạt",
+   "ảng",
+   "ang",
+   "ương"
+  ],
+  "title": "罰",
+  "weak": true
+ },
+ "置": {
+  "hanviet": [
+   "trí"
+  ],
+  "title": "置",
+  "weak": true
+ },
+ "羊": {
+  "hanviet": [
+   "dương"
+  ],
+  "title": "羊",
+  "weak": true
+ },
+ "美": {
+  "hanviet": [
+   "mĩ"
+  ],
+  "title": "美",
+  "weak": false
+ },
+ "群": {
+  "hanviet": [
+   "quần"
+  ],
+  "title": "群",
+  "weak": false
+ },
+ "翅": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "翻": {
+  "hanviet": [
+   "phiên"
+  ],
+  "title": "翻",
+  "weak": true
+ },
+ "老": {
+  "hanviet": [
+   "lão"
+  ],
+  "title": "老",
+  "weak": false
+ },
+ "考": {
+  "hanviet": [
+   "khảo"
+  ],
+  "title": "考",
+  "weak": true
+ },
+ "者": {
+  "hanviet": [
+   "giả"
+  ],
+  "title": "者",
+  "weak": false
+ },
+ "而": {
+  "hanviet": [
+   "nhi",
+   "nhì",
+   "năng"
+  ],
+  "title": "而",
+  "weak": false
+ },
+ "耐": {
+  "hanviet": [
+   "nại"
+  ],
+  "title": "耐",
+  "weak": false
+ },
+ "耳": {
+  "hanviet": [
+   "nhĩ",
+   "nhải",
+   "nhãi"
+  ],
+  "title": "耳",
+  "weak": true
+ },
+ "耽": {
+  "hanviet": [
+   "đam",
+   "xẩm",
+   "đắm"
+  ],
+  "title": "耽",
+  "weak": true
+ },
+ "聊": {
+  "hanviet": [
+   "liêu"
+  ],
+  "title": "聊",
+  "weak": false
+ },
+ "职": {
+  "hanviet": [
+   "chức"
+  ],
+  "title": "職",
+  "weak": false
+ },
+ "联": {
+  "hanviet": [
+   "liên",
+   "lén",
+   "lẻn",
+   "liền",
+   "liễn"
+  ],
+  "title": "聯",
+  "weak": true
+ },
+ "聚": {
+  "hanviet": [
+   "tụ",
+   "sụ",
+   "tọ",
+   "xụ",
+   "xủ"
+  ],
+  "title": "聚",
+  "weak": true
+ },
+ "肃": {
+  "hanviet": [
+   "túc"
+  ],
+  "title": "肅",
+  "weak": true
+ },
+ "肉": {
+  "hanviet": [
+   "nhục",
+   "nậu",
+   "nhụ"
+  ],
+  "title": "肉",
+  "weak": true
+ },
+ "肌": {
+  "hanviet": [
+   "cơ"
+  ],
+  "title": "肌",
+  "weak": true
+ },
+ "肚": {
+  "hanviet": [
+   "đỗ"
+  ],
+  "title": "肚",
+  "weak": true
+ },
+ "肠": {
+  "hanviet": [
+   "tràng",
+   "trường",
+   "trướng"
+  ],
+  "title": "腸",
+  "weak": true
+ },
+ "股": {
+  "hanviet": [
+   "cổ",
+   "cỗ"
+  ],
+  "title": "股",
+  "weak": true
+ },
+ "肥": {
+  "hanviet": [
+   "phì",
+   "phè",
+   "phề"
+  ],
+  "title": "肥",
+  "weak": true
+ },
+ "肩": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "育": {
+  "hanviet": [
+   "dục"
+  ],
+  "title": "育",
+  "weak": false
+ },
+ "胁": {
+  "hanviet": [
+   "hiếp"
+  ],
+  "title": "脅",
+  "weak": true
+ },
+ "胃": {
+  "hanviet": [
+   "vị"
+  ],
+  "title": "胃",
+  "weak": false
+ },
+ "胆": {
+  "hanviet": [
+   "đảm"
+  ],
+  "title": "膽",
+  "weak": true
+ },
+ "背": {
+  "hanviet": [
+   "bối",
+   "bội",
+   "bổi",
+   "bồi"
+  ],
+  "title": "背",
+  "weak": true
+ },
+ "胖": {
+  "hanviet": [
+   "bàn",
+   "bỡn",
+   "ban",
+   "béo",
+   "phạng",
+   "phàng",
+   "pháng"
+  ],
+  "title": "胖",
+  "weak": true
+ },
+ "胜": {
+  "hanviet": [
+   "thắng"
+  ],
+  "title": "胜",
+  "weak": false
+ },
+ "胡": {
+  "hanviet": [
+   "hồ",
+   "hò",
+   "ha"
+  ],
+  "title": "胡",
+  "weak": true
+ },
+ "胶": {
+  "hanviet": [
+   "giao",
+   "keo"
+  ],
+  "title": "膠",
+  "weak": true
+ },
+ "胸": {
+  "hanviet": [
+   "hung",
+   "hông"
+  ],
+  "title": "胸",
+  "weak": true
+ },
+ "能": {
+  "hanviet": [
+   "năng"
+  ],
+  "title": "能",
+  "weak": false
+ },
+ "脆": {
+  "hanviet": [
+   "thuý"
+  ],
+  "title": "脆",
+  "weak": true
+ },
+ "脏": {
+  "hanviet": [
+   "tạng"
+  ],
+  "title": "臟",
+  "weak": true
+ },
+ "脑": {
+  "hanviet": [
+   "não"
+  ],
+  "title": "腦",
+  "weak": true
+ },
+ "脖": {
+  "hanviet": [
+   "bột",
+   "bộp"
+  ],
+  "title": "脖",
+  "weak": true
+ },
+ "脚": {
+  "hanviet": [
+   "cước"
+  ],
+  "title": "脚",
+  "weak": false
+ },
+ "脱": {
+  "hanviet": [
+   "thoát"
+  ],
+  "title": "脱",
+  "weak": false
+ },
+ "脸": {
+  "hanviet": [
+   "kiểm",
+   "quặm",
+   "liển",
+   "liễn",
+   "liễm",
+   "kiễm"
+  ],
+  "title": "臉",
+  "weak": true
+ },
+ "腐": {
+  "hanviet": [
+   "hủ",
+   "phụ",
+   "phủ"
+  ],
+  "title": "腐",
+  "weak": false
+ },
+ "腰": {
+  "hanviet": [
+   "yêu"
+  ],
+  "title": "腰",
+  "weak": false
+ },
+ "腿": {
+  "hanviet": [
+   "thối",
+   "thoái",
+   "thói",
+   "thỗi",
+   "thoãi"
+  ],
+  "title": "腿",
+  "weak": true
+ },
+ "膀": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "自": {
+  "hanviet": [
+   "tự"
+  ],
+  "title": "自",
+  "weak": false
+ },
+ "臭": {
+  "hanviet": [
+   "xú",
+   "xó",
+   "xũ",
+   "xấu",
+   "khứu"
+  ],
+  "title": "臭",
+  "weak": true
+ },
+ "至": {
+  "hanviet": [
+   "chí"
+  ],
+  "title": "至",
+  "weak": true
+ },
+ "致": {
+  "hanviet": [
+   "trí"
+  ],
+  "title": "致",
+  "weak": true
+ },
+ "舅": {
+  "hanviet": [
+   "cữu"
+  ],
+  "title": "舅",
+  "weak": false
+ },
+ "舍": {
+  "hanviet": [
+   "xá",
+   "sá",
+   "xả",
+   "xóa"
+  ],
+  "title": "舍",
+  "weak": true
+ },
+ "舒": {
+  "hanviet": [
+   "thư",
+   "thơ"
+  ],
+  "title": "舒",
+  "weak": true
+ },
+ "舞": {
+  "hanviet": [
+   "vũ",
+   "vụ",
+   "vỗ",
+   "thủy"
+  ],
+  "title": "舞",
+  "weak": true
+ },
+ "航": {
+  "hanviet": [
+   "hàng"
+  ],
+  "title": "航",
+  "weak": true
+ },
+ "般": {
+  "hanviet": [
+   "ban",
+   "bàn",
+   "bơn",
+   "bát"
+  ],
+  "title": "般",
+  "weak": true
+ },
+ "船": {
+  "hanviet": [
+   "thuyền",
+   "thoàn"
+  ],
+  "title": "船",
+  "weak": false
+ },
+ "良": {
+  "hanviet": [
+   "lương"
+  ],
+  "title": "良",
+  "weak": true
+ },
+ "艰": {
+  "hanviet": [
+   "gian"
+  ],
+  "title": "艱",
+  "weak": true
+ },
+ "色": {
+  "hanviet": [
+   "sắc",
+   "sặc"
+  ],
+  "title": "色",
+  "weak": true
+ },
+ "艳": {
+  "hanviet": [
+   "diễm",
+   "diệm"
+  ],
+  "title": "艷",
+  "weak": true
+ },
+ "艺": {
+  "hanviet": [
+   "nghệ",
+   "vân"
+  ],
+  "title": "藝",
+  "weak": false
+ },
+ "节": {
+  "hanviet": [
+   "tiết"
+  ],
+  "title": "節",
+  "weak": false
+ },
+ "花": {
+  "hanviet": [
+   "hoa",
+   "huê"
+  ],
+  "title": "花",
+  "weak": false
+ },
+ "苗": {
+  "hanviet": [
+   "meo",
+   "miêu"
+  ],
+  "title": "苗",
+  "weak": true
+ },
+ "苦": {
+  "hanviet": [
+   "khổ",
+   "cô"
+  ],
+  "title": "苦",
+  "weak": false
+ },
+ "英": {
+  "hanviet": [
+   "anh"
+  ],
+  "title": "英",
+  "weak": false
+ },
+ "苹": {
+  "hanviet": [
+   "tần",
+   "tằn",
+   "thài"
+  ],
+  "title": "蘋",
+  "weak": true
+ },
+ "范": {
+  "hanviet": [
+   "phạm"
+  ],
+  "title": "范",
+  "weak": true
+ },
+ "茶": {
+  "hanviet": [
+   "trà"
+  ],
+  "title": "茶",
+  "weak": false
+ },
+ "草": {
+  "hanviet": [
+   "thảo",
+   "tháu",
+   "xáo"
+  ],
+  "title": "草",
+  "weak": true
+ },
+ "荐": {
+  "hanviet": [
+   "tiến"
+  ],
+  "title": "荐",
+  "weak": false
+ },
+ "荣": {
+  "hanviet": [
+   "vinh"
+  ],
+  "title": "荣",
+  "weak": false
+ },
+ "药": {
+  "hanviet": [
+   "dược",
+   "ước"
+  ],
+  "title": "葯",
+  "weak": true
+ },
+ "获": {
+  "hanviet": [
+   "hoạch",
+   "oách"
+  ],
+  "title": "獲",
+  "weak": true
+ },
+ "菜": {
+  "hanviet": [
+   "cải",
+   "thái",
+   "thủy",
+   "linh",
+   "lê"
+  ],
+  "title": "菜",
+  "weak": true
+ },
+ "营": {
+  "hanviet": [
+   "doanh",
+   "dinh"
+  ],
+  "title": "营",
+  "weak": false
+ },
+ "落": {
+  "hanviet": [
+   "lạc"
+  ],
+  "title": "落",
+  "weak": false
+ },
+ "著": {
+  "hanviet": [
+   "trứ",
+   "nước",
+   "trước",
+   "chước"
+  ],
+  "title": "著",
+  "weak": true
+ },
+ "蓝": {
+  "hanviet": [
+   "lam"
+  ],
+  "title": "蓝",
+  "weak": false
+ },
+ "蔬": {
+  "hanviet": [
+   "sơ"
+  ],
+  "title": "蔬",
+  "weak": false
+ },
+ "蕉": {
+  "hanviet": [
+   "tiêu"
+  ],
+  "title": "蕉",
+  "weak": true
+ },
+ "薄": {
+  "hanviet": [
+   "bạc"
+  ],
+  "title": "薄",
+  "weak": true
+ },
+ "藏": {
+  "hanviet": [
+   "tàng",
+   "tạng"
+  ],
+  "title": "藏",
+  "weak": true
+ },
+ "虑": {
+  "hanviet": [
+   "lự",
+   "lo",
+   "lợ"
+  ],
+  "title": "慮",
+  "weak": true
+ },
+ "虚": {
+  "hanviet": [
+   "hư"
+  ],
+  "title": "虛",
+  "weak": true
+ },
+ "虫": {
+  "hanviet": [
+   "trùng"
+  ],
+  "title": "虫",
+  "weak": false
+ },
+ "虹": {
+  "hanviet": [
+   "hồng"
+  ],
+  "title": "虹",
+  "weak": false
+ },
+ "虽": {
+  "hanviet": [
+   "tuy"
+  ],
+  "title": "雖",
+  "weak": false
+ },
+ "蛇": {
+  "hanviet": [
+   "xà"
+  ],
+  "title": "蛇",
+  "weak": false
+ },
+ "蛋": {
+  "hanviet": [
+   "đản"
+  ],
+  "title": "蛋",
+  "weak": true
+ },
+ "蜂": {
+  "hanviet": [
+   "phong"
+  ],
+  "title": "蜂",
+  "weak": false
+ },
+ "蜜": {
+  "hanviet": [
+   "mật"
+  ],
+  "title": "蜜",
+  "weak": true
+ },
+ "蝴": {
+  "hanviet": [
+   "hồ",
+   "hà"
+  ],
+  "title": "蝴",
+  "weak": true
+ },
+ "蝶": {
+  "hanviet": [
+   "điệp"
+  ],
+  "title": "蝶",
+  "weak": true
+ },
+ "血": {
+  "hanviet": [
+   "huyết",
+   "hoét",
+   "tiết"
+  ],
+  "title": "血",
+  "weak": true
+ },
+ "行": {
+  "hanviet": [
+   "hàng",
+   "hành",
+   "hãng",
+   "hạng",
+   "hạnh"
+  ],
+  "title": "行",
+  "weak": false
+ },
+ "街": {
+  "hanviet": [
+   "nhai",
+   "giai"
+  ],
+  "title": "街",
+  "weak": true
+ },
+ "衡": {
+  "hanviet": [
+   "hành",
+   "hoành"
+  ],
+  "title": "衡",
+  "weak": true
+ },
+ "衣": {
+  "hanviet": [
+   "y",
+   "ấy",
+   "diệu"
+  ],
+  "title": "衣",
+  "weak": true
+ },
+ "补": {
+  "hanviet": [
+   "bổ",
+   "bó",
+   "bỏ",
+   "bõ",
+   "bủa",
+   "bù",
+   "vỏ",
+   "bồ"
+  ],
+  "title": "補",
+  "weak": true
+ },
+ "表": {
+  "hanviet": [
+   "biểu"
+  ],
+  "title": "表",
+  "weak": false
+ },
+ "衫": {
+  "hanviet": [
+   "sam",
+   "oam",
+   "sờm"
+  ],
+  "title": "衫",
+  "weak": true
+ },
+ "衬": {
+  "hanviet": [
+   "sấn"
+  ],
+  "title": "襯",
+  "weak": true
+ },
+ "袋": {
+  "hanviet": [
+   "đại",
+   "đãy"
+  ],
+  "title": "袋",
+  "weak": true
+ },
+ "袜": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "被": {
+  "hanviet": [
+   "bị",
+   "bệ",
+   "bỡ",
+   "bự",
+   "bợ"
+  ],
+  "title": "被",
+  "weak": true
+ },
+ "裁": {
+  "hanviet": [
+   "tài"
+  ],
+  "title": "裁",
+  "weak": false
+ },
+ "装": {
+  "hanviet": [
+   "trang"
+  ],
+  "title": "裝",
+  "weak": true
+ },
+ "裔": {
+  "hanviet": [
+   "duệ",
+   "dệ"
+  ],
+  "title": "裔",
+  "weak": false
+ },
+ "裙": {
+  "hanviet": [
+   "quần"
+  ],
+  "title": "裙",
+  "weak": true
+ },
+ "裤": {
+  "hanviet": [
+   "khố"
+  ],
+  "title": "褲",
+  "weak": true
+ },
+ "裹": {
+  "hanviet": [
+   "khõa"
+  ],
+  "title": "裹",
+  "weak": true
+ },
+ "西": {
+  "hanviet": [
+   "tây",
+   "tê"
+  ],
+  "title": "西",
+  "weak": false
+ },
+ "要": {
+  "hanviet": [
+   "yếu",
+   "yêu"
+  ],
+  "title": "要",
+  "weak": true
+ },
+ "见": {
+  "hanviet": [
+   "kiến",
+   "kén",
+   "hiện"
+  ],
+  "title": "見",
+  "weak": true
+ },
+ "观": {
+  "hanviet": [
+   "quan",
+   "quán"
+  ],
+  "title": "觀",
+  "weak": true
+ },
+ "规": {
+  "hanviet": [
+   "quy//qui"
+  ],
+  "title": "規",
+  "weak": false
+ },
+ "视": {
+  "hanviet": [
+   "thị"
+  ],
+  "title": "視",
+  "weak": true
+ },
+ "览": {
+  "hanviet": [
+   "lãm"
+  ],
+  "title": "覽",
+  "weak": true
+ },
+ "觉": {
+  "hanviet": [
+   "giác",
+   "nhác",
+   "rác",
+   "dác"
+  ],
+  "title": "覺",
+  "weak": true
+ },
+ "角": {
+  "hanviet": [
+   "góc",
+   "dạc",
+   "giác",
+   "chác",
+   "giốc"
+  ],
+  "title": "角",
+  "weak": true
+ },
+ "解": {
+  "hanviet": [
+   "giải"
+  ],
+  "title": "解",
+  "weak": false
+ },
+ "触": {
+  "hanviet": [
+   "xúc"
+  ],
+  "title": "触",
+  "weak": true
+ },
+ "言": {
+  "hanviet": [
+   "ngôn",
+   "ngỏn",
+   "ngộn",
+   "ngổn",
+   "ngồn",
+   "ngủn"
+  ],
+  "title": "言",
+  "weak": true
+ },
+ "警": {
+  "hanviet": [
+   "cảnh"
+  ],
+  "title": "警",
+  "weak": true
+ },
+ "计": {
+  "hanviet": [
+   "kê",
+   "kế"
+  ],
+  "title": "計",
+  "weak": false
+ },
+ "订": {
+  "hanviet": [
+   "đính",
+   "dính"
+  ],
+  "title": "訂",
+  "weak": true
+ },
+ "认": {
+  "hanviet": [
+   "nhận"
+  ],
+  "title": "認",
+  "weak": true
+ },
+ "讨": {
+  "hanviet": [
+   "thảo"
+  ],
+  "title": "討",
+  "weak": false
+ },
+ "让": {
+  "hanviet": [
+   "nhượng",
+   "nhường",
+   "nhằng",
+   "nhàng",
+   "lâm"
+  ],
+  "title": "讓",
+  "weak": true
+ },
+ "训": {
+  "hanviet": [
+   "huấn"
+  ],
+  "title": "訓",
+  "weak": true
+ },
+ "议": {
+  "hanviet": [
+   "nghị",
+   "nghĩ",
+   "ngợi"
+  ],
+  "title": "議",
+  "weak": true
+ },
+ "记": {
+  "hanviet": [
+   "kí",
+   "ký"
+  ],
+  "title": "記",
+  "weak": false
+ },
+ "讲": {
+  "hanviet": [
+   "giảng",
+   "nhãng"
+  ],
+  "title": "講",
+  "weak": true
+ },
+ "许": {
+  "hanviet": [
+   "hứa",
+   "hớ",
+   "hở",
+   "hử",
+   "hữ",
+   "ngỏ"
+  ],
+  "title": "許",
+  "weak": true
+ },
+ "论": {
+  "hanviet": [
+   "luận"
+  ],
+  "title": "論",
+  "weak": false
+ },
+ "讽": {
+  "hanviet": [
+   "phúng"
+  ],
+  "title": "諷",
+  "weak": true
+ },
+ "设": {
+  "hanviet": [
+   "thiết"
+  ],
+  "title": "設",
+  "weak": false
+ },
+ "访": {
+  "hanviet": [
+   "phỏng"
+  ],
+  "title": "訪",
+  "weak": true
+ },
+ "证": {
+  "hanviet": [
+   "chứng"
+  ],
+  "title": "證",
+  "weak": false
+ },
+ "评": {
+  "hanviet": [
+   "bình",
+   "bằng",
+   "bừng"
+  ],
+  "title": "評",
+  "weak": true
+ },
+ "识": {
+  "hanviet": [
+   "thức"
+  ],
+  "title": "識",
+  "weak": true
+ },
+ "诉": {
+  "hanviet": [
+   "tố",
+   "tỏ",
+   "túa",
+   "tò",
+   "tuá"
+  ],
+  "title": "訴",
+  "weak": true
+ },
+ "诊": {
+  "hanviet": [
+   "chẩn"
+  ],
+  "title": "診",
+  "weak": false
+ },
+ "词": {
+  "hanviet": [
+   "từ"
+  ],
+  "title": "詞",
+  "weak": false
+ },
+ "译": {
+  "hanviet": [
+   "dịch"
+  ],
+  "title": "譯",
+  "weak": false
+ },
+ "试": {
+  "hanviet": [
+   "thí"
+  ],
+  "title": "試",
+  "weak": false
+ },
+ "诗": {
+  "hanviet": [
+   "thi"
+  ],
+  "title": "詩",
+  "weak": false
+ },
+ "诚": {
+  "hanviet": [
+   "thành",
+   "thiêng"
+  ],
+  "title": "誠",
+  "weak": true
+ },
+ "话": {
+  "hanviet": [
+   "thoại",
+   "hoại"
+  ],
+  "title": "話",
+  "weak": true
+ },
+ "询": {
+  "hanviet": [
+   "tuân"
+  ],
+  "title": "詢",
+  "weak": true
+ },
+ "该": {
+  "hanviet": [
+   "cai",
+   "cơi"
+  ],
+  "title": "該",
+  "weak": true
+ },
+ "语": {
+  "hanviet": [
+   "ngữ"
+  ],
+  "title": "语",
+  "weak": false
+ },
+ "误": {
+  "hanviet": [
+   "ngộ"
+  ],
+  "title": "誤",
+  "weak": true
+ },
+ "说": {
+  "hanviet": [
+   "thuyết"
+  ],
+  "title": "說",
+  "weak": true
+ },
+ "请": {
+  "hanviet": [
+   "thỉnh",
+   "tình",
+   "tính"
+  ],
+  "title": "請",
+  "weak": false
+ },
+ "读": {
+  "hanviet": [
+   "độc",
+   "đậu"
+  ],
+  "title": "讀",
+  "weak": false
+ },
+ "课": {
+  "hanviet": [
+   "khoá"
+  ],
+  "title": "课",
+  "weak": false
+ },
+ "谁": {
+  "hanviet": [
+   "thùy"
+  ],
+  "title": "誰",
+  "weak": true
+ },
+ "调": {
+  "hanviet": [
+   "điều"
+  ],
+  "title": "调",
+  "weak": false
+ },
+ "谈": {
+  "hanviet": [
+   "đàm",
+   "giạm"
+  ],
+  "title": "談",
+  "weak": true
+ },
+ "谓": {
+  "hanviet": [
+   "vị"
+  ],
+  "title": "謂",
+  "weak": true
+ },
+ "谢": {
+  "hanviet": [
+   "tạ"
+  ],
+  "title": "謝",
+  "weak": true
+ },
+ "谦": {
+  "hanviet": [
+   "khiêm"
+  ],
+  "title": "謙",
+  "weak": false
+ },
+ "谨": {
+  "hanviet": [
+   "cẩn"
+  ],
+  "title": "謹",
+  "weak": false
+ },
+ "豆": {
+  "hanviet": [
+   "đậu",
+   "dấu"
+  ],
+  "title": "豆",
+  "weak": true
+ },
+ "象": {
+  "hanviet": [
+   "tượng"
+  ],
+  "title": "象",
+  "weak": false
+ },
+ "豪": {
+  "hanviet": [
+   "hào"
+  ],
+  "title": "豪",
+  "weak": true
+ },
+ "豫": {
+  "hanviet": [
+   "dự"
+  ],
+  "title": "豫",
+  "weak": true
+ },
+ "贝": {
+  "hanviet": [
+   "bối"
+  ],
+  "title": "貝",
+  "weak": false
+ },
+ "负": {
+  "hanviet": [
+   "phụ"
+  ],
+  "title": "負",
+  "weak": false
+ },
+ "贡": {
+  "hanviet": [
+   "cống"
+  ],
+  "title": "貢",
+  "weak": false
+ },
+ "财": {
+  "hanviet": [
+   "tài"
+  ],
+  "title": "財",
+  "weak": true
+ },
+ "责": {
+  "hanviet": [
+   "trách"
+  ],
+  "title": "責",
+  "weak": true
+ },
+ "败": {
+  "hanviet": [
+   "bại",
+   "bậy"
+  ],
+  "title": "敗",
+  "weak": true
+ },
+ "账": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "货": {
+  "hanviet": [
+   "hoá"
+  ],
+  "title": "貨",
+  "weak": true
+ },
+ "质": {
+  "hanviet": [
+   "chất",
+   "chát",
+   "chắc",
+   "chặt",
+   "chắt",
+   "chớt"
+  ],
+  "title": "質",
+  "weak": true
+ },
+ "购": {
+  "hanviet": [
+   "cấu"
+  ],
+  "title": "購",
+  "weak": true
+ },
+ "贴": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "贵": {
+  "hanviet": [
+   "quý",
+   "quí",
+   "quới"
+  ],
+  "title": "貴",
+  "weak": true
+ },
+ "贷": {
+  "hanviet": [
+   "thải",
+   "thãi",
+   "thảy",
+   "thẩy"
+  ],
+  "title": "貸",
+  "weak": true
+ },
+ "贸": {
+  "hanviet": [
+   "mậu"
+  ],
+  "title": "貿",
+  "weak": true
+ },
+ "费": {
+  "hanviet": [
+   "phí",
+   "phía"
+  ],
+  "title": "費",
+  "weak": true
+ },
+ "资": {
+  "hanviet": [
+   "tư"
+  ],
+  "title": "資",
+  "weak": true
+ },
+ "赏": {
+  "hanviet": [
+   "thưởng"
+  ],
+  "title": "賞",
+  "weak": true
+ },
+ "赔": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "赛": {
+  "hanviet": [
+   "tái",
+   "trại",
+   "tày",
+   "tầy",
+   "táy"
+  ],
+  "title": "賽",
+  "weak": true
+ },
+ "赞": {
+  "hanviet": [
+   "tán"
+  ],
+  "title": "贊",
+  "weak": true
+ },
+ "赢": {
+  "hanviet": [
+   "doanh"
+  ],
+  "title": "贏",
+  "weak": true
+ },
+ "走": {
+  "hanviet": [
+   "tẩu",
+   "rảo"
+  ],
+  "title": "走",
+  "weak": true
+ },
+ "赶": {
+  "hanviet": [
+   "cản",
+   "kiển"
+  ],
+  "title": "趕",
+  "weak": true
+ },
+ "起": {
+  "hanviet": [
+   "khởi",
+   "khỉ"
+  ],
+  "title": "起",
+  "weak": true
+ },
+ "趁": {
+  "hanviet": [
+   "sấn"
+  ],
+  "title": "趁",
+  "weak": false
+ },
+ "超": {
+  "hanviet": [
+   "siêu",
+   "sêu"
+  ],
+  "title": "超",
+  "weak": true
+ },
+ "越": {
+  "hanviet": [
+   "việt"
+  ],
+  "title": "越",
+  "weak": false
+ },
+ "趋": {
+  "hanviet": [
+   "xu",
+   "xúc"
+  ],
+  "title": "趋",
+  "weak": false
+ },
+ "趣": {
+  "hanviet": [
+   "thú",
+   "xú"
+  ],
+  "title": "趣",
+  "weak": true
+ },
+ "足": {
+  "hanviet": [
+   "túc"
+  ],
+  "title": "足",
+  "weak": true
+ },
+ "跃": {
+  "hanviet": [
+   "dược"
+  ],
+  "title": "躍",
+  "weak": false
+ },
+ "跑": {
+  "hanviet": [
+   "bão",
+   "bào"
+  ],
+  "title": "跑",
+  "weak": true
+ },
+ "距": {
+  "hanviet": [
+   "cự",
+   "cựa"
+  ],
+  "title": "距",
+  "weak": true
+ },
+ "跟": {
+  "hanviet": [
+   "cân",
+   "ngấn",
+   "ngân"
+  ],
+  "title": "跟",
+  "weak": true
+ },
+ "路": {
+  "hanviet": [
+   "lộ"
+  ],
+  "title": "路",
+  "weak": false
+ },
+ "跳": {
+  "hanviet": [
+   "khiêu",
+   "khêu"
+  ],
+  "title": "跳",
+  "weak": true
+ },
+ "践": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "踩": {
+  "hanviet": [
+   "thải"
+  ],
+  "title": "踩",
+  "weak": false
+ },
+ "蹲": {
+  "hanviet": [
+   "đôn",
+   "tôn"
+  ],
+  "title": "蹲",
+  "weak": true
+ },
+ "身": {
+  "hanviet": [
+   "thân"
+  ],
+  "title": "身",
+  "weak": true
+ },
+ "躲": {
+  "hanviet": [
+   "đoá"
+  ],
+  "title": "躲",
+  "weak": true
+ },
+ "躺": {
+  "hanviet": [
+   "thưỡng",
+   "thảng"
+  ],
+  "title": "躺",
+  "weak": true
+ },
+ "车": {
+  "hanviet": [
+   "xa",
+   "xe",
+   "xế"
+  ],
+  "title": "車",
+  "weak": true
+ },
+ "转": {
+  "hanviet": [
+   "chuyển",
+   "chuyên",
+   "chuyền",
+   "chuyến"
+  ],
+  "title": "轉",
+  "weak": true
+ },
+ "轮": {
+  "hanviet": [
+   "luân",
+   "lon",
+   "luôn"
+  ],
+  "title": "輪",
+  "weak": true
+ },
+ "软": {
+  "hanviet": [
+   "nhuyễn",
+   "nhiễn",
+   "nhũn",
+   "nhung"
+  ],
+  "title": "軟",
+  "weak": true
+ },
+ "轻": {
+  "hanviet": [
+   "khinh",
+   "khỉnh"
+  ],
+  "title": "輕",
+  "weak": true
+ },
+ "载": {
+  "hanviet": [
+   "tải"
+  ],
+  "title": "載",
+  "weak": true
+ },
+ "较": {
+  "hanviet": [
+   "giác",
+   "giảo"
+  ],
+  "title": "較",
+  "weak": true
+ },
+ "辅": {
+  "hanviet": [
+   "phụ"
+  ],
+  "title": "輔",
+  "weak": true
+ },
+ "辆": {
+  "hanviet": [
+   "lượng",
+   "lưỡng",
+   "lẫng"
+  ],
+  "title": "輛",
+  "weak": true
+ },
+ "辈": {
+  "hanviet": [
+   "bối"
+  ],
+  "title": "輩",
+  "weak": true
+ },
+ "辑": {
+  "hanviet": [
+   "tập"
+  ],
+  "title": "輯",
+  "weak": true
+ },
+ "输": {
+  "hanviet": [
+   "thâu"
+  ],
+  "title": "輸",
+  "weak": false
+ },
+ "辞": {
+  "hanviet": [
+   "từ"
+  ],
+  "title": "辞",
+  "weak": false
+ },
+ "辣": {
+  "hanviet": [
+   "lạt"
+  ],
+  "title": "辣",
+  "weak": false
+ },
+ "辩": {
+  "hanviet": [
+   "biện"
+  ],
+  "title": "辯",
+  "weak": true
+ },
+ "边": {
+  "hanviet": [
+   "biên"
+  ],
+  "title": "边",
+  "weak": false
+ },
+ "达": {
+  "hanviet": [
+   "đạt",
+   "thát"
+  ],
+  "title": "達",
+  "weak": false
+ },
+ "迅": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "过": {
+  "hanviet": [
+   "quá",
+   "qua"
+  ],
+  "title": "過",
+  "weak": false
+ },
+ "迎": {
+  "hanviet": [
+   "nghênh",
+   "nghinh"
+  ],
+  "title": "迎",
+  "weak": false
+ },
+ "运": {
+  "hanviet": [
+   "vận",
+   "nảy",
+   "vần",
+   "vẩn",
+   "vặn",
+   "vờn"
+  ],
+  "title": "運",
+  "weak": true
+ },
+ "近": {
+  "hanviet": [
+   "cận",
+   "cặn",
+   "gàn",
+   "gần"
+  ],
+  "title": "近",
+  "weak": true
+ },
+ "返": {
+  "hanviet": [
+   "phản"
+  ],
+  "title": "返",
+  "weak": true
+ },
+ "还": {
+  "hanviet": [
+   "hoàn"
+  ],
+  "title": "還",
+  "weak": true
+ },
+ "这": {
+  "hanviet": [
+   "giá",
+   "nghiện"
+  ],
+  "title": "這",
+  "weak": false
+ },
+ "进": {
+  "hanviet": [
+   "tiến",
+   "tấn"
+  ],
+  "title": "進",
+  "weak": false
+ },
+ "远": {
+  "hanviet": [
+   "viễn",
+   "viển"
+  ],
+  "title": "远",
+  "weak": true
+ },
+ "违": {
+  "hanviet": [
+   "vi"
+  ],
+  "title": "違",
+  "weak": true
+ },
+ "连": {
+  "hanviet": [
+   "liên"
+  ],
+  "title": "連",
+  "weak": false
+ },
+ "迟": {
+  "hanviet": [
+   "trí",
+   "trì",
+   "trĩ",
+   "khích"
+  ],
+  "title": "迟",
+  "weak": false
+ },
+ "迫": {
+  "hanviet": [
+   "bách",
+   "bạch",
+   "bích"
+  ],
+  "title": "迫",
+  "weak": true
+ },
+ "述": {
+  "hanviet": [
+   "thuật"
+  ],
+  "title": "述",
+  "weak": true
+ },
+ "迷": {
+  "hanviet": [
+   "mê"
+  ],
+  "title": "迷",
+  "weak": false
+ },
+ "迹": {
+  "hanviet": [
+   "tích"
+  ],
+  "title": "跡",
+  "weak": true
+ },
+ "追": {
+  "hanviet": [
+   "truy",
+   "choai"
+  ],
+  "title": "追",
+  "weak": true
+ },
+ "退": {
+  "hanviet": [
+   "thoái",
+   "thói",
+   "thối",
+   "thủi",
+   "thui",
+   "thúi",
+   "thụi"
+  ],
+  "title": "退",
+  "weak": true
+ },
+ "送": {
+  "hanviet": [
+   "tống"
+  ],
+  "title": "送",
+  "weak": false
+ },
+ "适": {
+  "hanviet": [
+   "thếch",
+   "thích"
+  ],
+  "title": "适",
+  "weak": true
+ },
+ "逃": {
+  "hanviet": [
+   "đào"
+  ],
+  "title": "逃",
+  "weak": true
+ },
+ "选": {
+  "hanviet": [
+   "tuyển"
+  ],
+  "title": "選",
+  "weak": true
+ },
+ "透": {
+  "hanviet": [
+   "thấu"
+  ],
+  "title": "透",
+  "weak": true
+ },
+ "逐": {
+  "hanviet": [
+   "trục"
+  ],
+  "title": "逐",
+  "weak": false
+ },
+ "递": {
+  "hanviet": [
+   "đệ",
+   "đự",
+   "đư",
+   "đưa"
+  ],
+  "title": "遞",
+  "weak": true
+ },
+ "途": {
+  "hanviet": [
+   "đồ"
+  ],
+  "title": "途",
+  "weak": false
+ },
+ "逗": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "通": {
+  "hanviet": [
+   "thông"
+  ],
+  "title": "通",
+  "weak": false
+ },
+ "逛": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "速": {
+  "hanviet": [
+   "tốc"
+  ],
+  "title": "速",
+  "weak": false
+ },
+ "造": {
+  "hanviet": [
+   "tạo",
+   "xáo",
+   "xạo",
+   "tháo"
+  ],
+  "title": "造",
+  "weak": true
+ },
+ "逻": {
+  "hanviet": [
+   "la",
+   "lạ"
+  ],
+  "title": "邏",
+  "weak": false
+ },
+ "遇": {
+  "hanviet": [
+   "ngộ"
+  ],
+  "title": "遇",
+  "weak": true
+ },
+ "遍": {
+  "hanviet": [
+   "bận",
+   "biến"
+  ],
+  "title": "遍",
+  "weak": true
+ },
+ "道": {
+  "hanviet": [
+   "đạo",
+   "dạo"
+  ],
+  "title": "道",
+  "weak": false
+ },
+ "遗": {
+  "hanviet": [
+   "di"
+  ],
+  "title": "遺",
+  "weak": true
+ },
+ "遵": {
+  "hanviet": [
+   "tuân"
+  ],
+  "title": "遵",
+  "weak": true
+ },
+ "避": {
+  "hanviet": [
+   "tị"
+  ],
+  "title": "避",
+  "weak": true
+ },
+ "那": {
+  "hanviet": [
+   "na",
+   "ná",
+   "nả",
+   "nà"
+  ],
+  "title": "那",
+  "weak": true
+ },
+ "邮": {
+  "hanviet": [
+   "bưu",
+   "bươu"
+  ],
+  "title": "郵",
+  "weak": true
+ },
+ "郎": {
+  "hanviet": [
+   "lang"
+  ],
+  "title": "郎",
+  "weak": false
+ },
+ "部": {
+  "hanviet": [
+   "bộ",
+   "bõ",
+   "bỏ"
+  ],
+  "title": "部",
+  "weak": true
+ },
+ "都": {
+  "hanviet": [
+   "đô"
+  ],
+  "title": "都",
+  "weak": false
+ },
+ "配": {
+  "hanviet": [
+   "phối",
+   "phới",
+   "phôi"
+  ],
+  "title": "配",
+  "weak": true
+ },
+ "酒": {
+  "hanviet": [
+   "tửu"
+  ],
+  "title": "酒",
+  "weak": false
+ },
+ "酱": {
+  "hanviet": [
+   "tương"
+  ],
+  "title": "醬",
+  "weak": false
+ },
+ "酸": {
+  "hanviet": [
+   "toan"
+  ],
+  "title": "酸",
+  "weak": true
+ },
+ "醉": {
+  "hanviet": [
+   "túy",
+   "xuý"
+  ],
+  "title": "醉",
+  "weak": true
+ },
+ "醋": {
+  "hanviet": [
+   "thố"
+  ],
+  "title": "醋",
+  "weak": true
+ },
+ "醒": {
+  "hanviet": [
+   "tỉnh"
+  ],
+  "title": "醒",
+  "weak": true
+ },
+ "采": {
+  "hanviet": [
+   "thái"
+  ],
+  "title": "埰",
+  "weak": true
+ },
+ "释": {
+  "hanviet": [
+   "thích"
+  ],
+  "title": "釋",
+  "weak": true
+ },
+ "里": {
+  "hanviet": [
+   "lý",
+   "lí"
+  ],
+  "title": "里",
+  "weak": false
+ },
+ "重": {
+  "hanviet": [
+   "trọng",
+   "trùng"
+  ],
+  "title": "重",
+  "weak": false
+ },
+ "量": {
+  "hanviet": [
+   "lường",
+   "lượng",
+   "nhân"
+  ],
+  "title": "量",
+  "weak": true
+ },
+ "金": {
+  "hanviet": [
+   "kim"
+  ],
+  "title": "金",
+  "weak": false
+ },
+ "针": {
+  "hanviet": [
+   "châm",
+   "trâm"
+  ],
+  "title": "針",
+  "weak": false
+ },
+ "钓": {
+  "hanviet": [
+   "điếu"
+  ],
+  "title": "釣",
+  "weak": true
+ },
+ "钟": {
+  "hanviet": [
+   "chung"
+  ],
+  "title": "鍾",
+  "weak": false
+ },
+ "钢": {
+  "hanviet": [
+   "cương",
+   "gang",
+   "cang"
+  ],
+  "title": "鋼",
+  "weak": true
+ },
+ "钱": {
+  "hanviet": [
+   "tiền"
+  ],
+  "title": "錢",
+  "weak": false
+ },
+ "铁": {
+  "hanviet": [
+   "thiết",
+   "sắt"
+  ],
+  "title": "鐵",
+  "weak": true
+ },
+ "铃": {
+  "hanviet": [
+   "linh",
+   "lệnh"
+  ],
+  "title": "鈴",
+  "weak": true
+ },
+ "银": {
+  "hanviet": [
+   "ngân"
+  ],
+  "title": "銀",
+  "weak": true
+ },
+ "链": {
+  "hanviet": [
+   "liên"
+  ],
+  "title": "鏈",
+  "weak": true
+ },
+ "销": {
+  "hanviet": [
+   "tiêu",
+   "tiu",
+   "toẻ"
+  ],
+  "title": "銷",
+  "weak": true
+ },
+ "锁": {
+  "hanviet": [
+   "toả",
+   "khoá",
+   "soã",
+   "tủa",
+   "xoã",
+   "tuở",
+   "toẻ",
+   "soả"
+  ],
+  "title": "鎖",
+  "weak": true
+ },
+ "锅": {
+  "hanviet": [
+   "oa"
+  ],
+  "title": "鍋",
+  "weak": true
+ },
+ "错": {
+  "hanviet": [
+   "thó",
+   "thác",
+   "thố",
+   "thộ",
+   "xác"
+  ],
+  "title": "錯",
+  "weak": true
+ },
+ "键": {
+  "hanviet": [
+   "kiện"
+  ],
+  "title": "鍵",
+  "weak": false
+ },
+ "锻": {
+  "hanviet": [
+   "đoán",
+   "đoàn"
+  ],
+  "title": "鍛",
+  "weak": true
+ },
+ "镜": {
+  "hanviet": [
+   "kính",
+   "kẻng",
+   "gương",
+   "kiếng"
+  ],
+  "title": "鏡",
+  "weak": true
+ },
+ "长": {
+  "hanviet": [
+   "trường",
+   "trưởng",
+   "tràng"
+  ],
+  "title": "長",
+  "weak": false
+ },
+ "门": {
+  "hanviet": [
+   "môn"
+  ],
+  "title": "门",
+  "weak": false
+ },
+ "闪": {
+  "hanviet": [
+   "thiểm"
+  ],
+  "title": "閃",
+  "weak": true
+ },
+ "闭": {
+  "hanviet": [
+   "bế"
+  ],
+  "title": "闭",
+  "weak": false
+ },
+ "问": {
+  "hanviet": [
+   "vấn"
+  ],
+  "title": "问",
+  "weak": false
+ },
+ "闯": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "闲": {
+  "hanviet": [
+   "nhàn",
+   "hiền"
+  ],
+  "title": "闲",
+  "weak": false
+ },
+ "间": {
+  "hanviet": [
+   "gian"
+  ],
+  "title": "间",
+  "weak": false
+ },
+ "闹": {
+  "hanviet": [
+   "náo"
+  ],
+  "title": "闹",
+  "weak": false
+ },
+ "闻": {
+  "hanviet": [
+   "văn"
+  ],
+  "title": "闻",
+  "weak": false
+ },
+ "阅": {
+  "hanviet": [
+   "duyệt"
+  ],
+  "title": "閱",
+  "weak": true
+ },
+ "队": {
+  "hanviet": [
+   "đội"
+  ],
+  "title": "隊",
+  "weak": false
+ },
+ "防": {
+  "hanviet": [
+   "phòng"
+  ],
+  "title": "防",
+  "weak": true
+ },
+ "阳": {
+  "hanviet": [
+   "dương"
+  ],
+  "title": "陽",
+  "weak": true
+ },
+ "阴": {
+  "hanviet": [
+   "âm"
+  ],
+  "title": "阴",
+  "weak": false
+ },
+ "阵": {
+  "hanviet": [
+   "trận"
+  ],
+  "title": "陣",
+  "weak": false
+ },
+ "阶": {
+  "hanviet": [
+   "giai"
+  ],
+  "title": "階",
+  "weak": true
+ },
+ "阻": {
+  "hanviet": [
+   "trở"
+  ],
+  "title": "阻",
+  "weak": false
+ },
+ "阿": {
+  "hanviet": [
+   "a",
+   "á"
+  ],
+  "title": "阿",
+  "weak": false
+ },
+ "附": {
+  "hanviet": [
+   "phụ"
+  ],
+  "title": "附",
+  "weak": false
+ },
+ "际": {
+  "hanviet": [
+   "tế"
+  ],
+  "title": "際",
+  "weak": true
+ },
+ "陆": {
+  "hanviet": [
+   "lục"
+  ],
+  "title": "陸",
+  "weak": true
+ },
+ "陌": {
+  "hanviet": [
+   "mạch",
+   "méc"
+  ],
+  "title": "陌",
+  "weak": true
+ },
+ "降": {
+  "hanviet": [
+   "giáng",
+   "hàng"
+  ],
+  "title": "降",
+  "weak": false
+ },
+ "限": {
+  "hanviet": [
+   "hạn",
+   "hẹn",
+   "giận"
+  ],
+  "title": "限",
+  "weak": true
+ },
+ "院": {
+  "hanviet": [
+   "viện"
+  ],
+  "title": "院",
+  "weak": true
+ },
+ "除": {
+  "hanviet": [
+   "trừ"
+  ],
+  "title": "除",
+  "weak": false
+ },
+ "险": {
+  "hanviet": [
+   "hiểm"
+  ],
+  "title": "險",
+  "weak": false
+ },
+ "随": {
+  "hanviet": [
+   "tuỳ"
+  ],
+  "title": "随",
+  "weak": false
+ },
+ "隔": {
+  "hanviet": [
+   "cách"
+  ],
+  "title": "隔",
+  "weak": true
+ },
+ "难": {
+  "hanviet": [
+   "nan",
+   "nạn"
+  ],
+  "title": "難",
+  "weak": false
+ },
+ "雄": {
+  "hanviet": [
+   "hùng"
+  ],
+  "title": "雄",
+  "weak": true
+ },
+ "集": {
+  "hanviet": [
+   "tập"
+  ],
+  "title": "集",
+  "weak": false
+ },
+ "雨": {
+  "hanviet": [
+   "vũ"
+  ],
+  "title": "雨",
+  "weak": false
+ },
+ "雪": {
+  "hanviet": [
+   "tuyết"
+  ],
+  "title": "雪",
+  "weak": false
+ },
+ "零": {
+  "hanviet": [
+   "lênh",
+   "linh",
+   "rinh"
+  ],
+  "title": "零",
+  "weak": true
+ },
+ "雷": {
+  "hanviet": [
+   "lôi"
+  ],
+  "title": "雷",
+  "weak": false
+ },
+ "雾": {
+  "hanviet": [
+   "vụ",
+   "mù"
+  ],
+  "title": "霧",
+  "weak": true
+ },
+ "需": {
+  "hanviet": [
+   "nhu"
+  ],
+  "title": "需",
+  "weak": true
+ },
+ "震": {
+  "hanviet": [
+   "chấn",
+   "dấn"
+  ],
+  "title": "震",
+  "weak": true
+ },
+ "霉": {
+  "hanviet": [
+   "mai",
+   "môi"
+  ],
+  "title": "霉",
+  "weak": true
+ },
+ "青": {
+  "hanviet": [
+   "thanh"
+  ],
+  "title": "青",
+  "weak": false
+ },
+ "静": {
+  "hanviet": [
+   "tĩnh"
+  ],
+  "title": "靜",
+  "weak": true
+ },
+ "非": {
+  "hanviet": [
+   "phi"
+  ],
+  "title": "非",
+  "weak": true
+ },
+ "靠": {
+  "hanviet": [
+   "kháo",
+   "khéo"
+  ],
+  "title": "靠",
+  "weak": true
+ },
+ "面": {
+  "hanviet": [
+   "diện"
+  ],
+  "title": "面",
+  "weak": false
+ },
+ "革": {
+  "hanviet": [
+   "cách"
+  ],
+  "title": "革",
+  "weak": true
+ },
+ "鞋": {
+  "hanviet": [
+   "hài"
+  ],
+  "title": "鞋",
+  "weak": false
+ },
+ "鞭": {
+  "hanviet": [
+   "tiên",
+   "tiệm"
+  ],
+  "title": "鞭",
+  "weak": true
+ },
+ "音": {
+  "hanviet": [
+   "âm",
+   "ậm",
+   "ơm"
+  ],
+  "title": "音",
+  "weak": true
+ },
+ "页": {
+  "hanviet": [
+   "hiệt",
+   "hệt"
+  ],
+  "title": "頁",
+  "weak": true
+ },
+ "顶": {
+  "hanviet": [
+   "đính",
+   "đảnh",
+   "đỉnh",
+   "điếng",
+   "đuểnh"
+  ],
+  "title": "頂",
+  "weak": true
+ },
+ "项": {
+  "hanviet": [
+   "hạng",
+   "háng",
+   "hảng"
+  ],
+  "title": "項",
+  "weak": true
+ },
+ "顺": {
+  "hanviet": [
+   "thuận",
+   "thộn"
+  ],
+  "title": "順",
+  "weak": true
+ },
+ "须": {
+  "hanviet": [
+   "tua",
+   "tu"
+  ],
+  "title": "須",
+  "weak": true
+ },
+ "顾": {
+  "hanviet": [
+   "cố",
+   "quáy"
+  ],
+  "title": "顧",
+  "weak": true
+ },
+ "顿": {
+  "hanviet": [
+   "đốn"
+  ],
+  "title": "頓",
+  "weak": false
+ },
+ "预": {
+  "hanviet": [
+   "dự"
+  ],
+  "title": "預",
+  "weak": false
+ },
+ "领": {
+  "hanviet": [
+   "lĩnh",
+   "lãnh",
+   "lảnh",
+   "lỉnh",
+   "lểnh",
+   "lễnh",
+   "lính"
+  ],
+  "title": "領",
+  "weak": true
+ },
+ "频": {
+  "hanviet": [
+   "tần",
+   "từng"
+  ],
+  "title": "頻",
+  "weak": true
+ },
+ "颗": {
+  "hanviet": [
+   "khỏa",
+   "loã",
+   "khỏ",
+   "khở",
+   "khửa",
+   "khủa",
+   "khảu"
+  ],
+  "title": "顆",
+  "weak": true
+ },
+ "题": {
+  "hanviet": [
+   "đề"
+  ],
+  "title": "題",
+  "weak": true
+ },
+ "颜": {
+  "hanviet": [
+   "nhan"
+  ],
+  "title": "顏",
+  "weak": true
+ },
+ "风": {
+  "hanviet": [
+   "phong",
+   "phông"
+  ],
+  "title": "風",
+  "weak": true
+ },
+ "飘": {
+  "hanviet": [
+   "phiêu"
+  ],
+  "title": "飄",
+  "weak": true
+ },
+ "飞": {
+  "hanviet": [
+   "phi"
+  ],
+  "title": "飛",
+  "weak": false
+ },
+ "食": {
+  "hanviet": [
+   "thực",
+   "tự"
+  ],
+  "title": "食",
+  "weak": false
+ },
+ "餐": {
+  "hanviet": [
+   "xun",
+   "san",
+   "xan"
+  ],
+  "title": "餐",
+  "weak": true
+ },
+ "饭": {
+  "hanviet": [
+   "phạn",
+   "phằn"
+  ],
+  "title": "飯",
+  "weak": true
+ },
+ "饰": {
+  "hanviet": [
+   "sức"
+  ],
+  "title": "飾",
+  "weak": false
+ },
+ "饱": {
+  "hanviet": [
+   "bão"
+  ],
+  "title": "飽",
+  "weak": true
+ },
+ "饺": {
+  "hanviet": [
+   "giáo",
+   "giảo",
+   "cảo"
+  ],
+  "title": "餃",
+  "weak": true
+ },
+ "饿": {
+  "hanviet": [
+   "ngạ",
+   "nga",
+   "ngã"
+  ],
+  "title": "餓",
+  "weak": true
+ },
+ "馆": {
+  "hanviet": [
+   "quán"
+  ],
+  "title": "館",
+  "weak": true
+ },
+ "馒": {
+  "hanviet": [
+   "man"
+  ],
+  "title": "饅",
+  "weak": true
+ },
+ "首": {
+  "hanviet": [
+   "thủ",
+   "thú",
+   "siều"
+  ],
+  "title": "首",
+  "weak": true
+ },
+ "香": {
+  "hanviet": [
+   "hương"
+  ],
+  "title": "香",
+  "weak": false
+ },
+ "马": {
+  "hanviet": [
+   "mã"
+  ],
+  "title": "馬",
+  "weak": false
+ },
+ "驶": {
+  "hanviet": [
+   "sử"
+  ],
+  "title": "駛",
+  "weak": true
+ },
+ "驾": {
+  "hanviet": [
+   "giá"
+  ],
+  "title": "駕",
+  "weak": true
+ },
+ "骂": {
+  "hanviet": [
+   "mạ"
+  ],
+  "title": "罵",
+  "weak": false
+ },
+ "验": {
+  "hanviet": [
+   "nghiệm"
+  ],
+  "title": "驗",
+  "weak": false
+ },
+ "骑": {
+  "hanviet": [
+   "kị"
+  ],
+  "title": "騎",
+  "weak": false
+ },
+ "骤": {
+  "hanviet": [
+   "sậu"
+  ],
+  "title": "驟",
+  "weak": false
+ },
+ "骨": {
+  "hanviet": [
+   "cốt"
+  ],
+  "title": "骨",
+  "weak": false
+ },
+ "高": {
+  "hanviet": [
+   "cao"
+  ],
+  "title": "高",
+  "weak": false
+ },
+ "髦": {
+  "hanviet": [],
+  "title": null,
+  "weak": false
+ },
+ "鬼": {
+  "hanviet": [
+   "quỷ"
+  ],
+  "title": "鬼",
+  "weak": false
+ },
+ "魅": {
+  "hanviet": [
+   "mị"
+  ],
+  "title": "魅",
+  "weak": true
+ },
+ "鱼": {
+  "hanviet": [
+   "ngư"
+  ],
+  "title": "魚",
+  "weak": false
+ },
+ "鲜": {
+  "hanviet": [
+   "tiên",
+   "tiển",
+   "tiễn"
+  ],
+  "title": "鮮",
+  "weak": false
+ },
+ "鸟": {
+  "hanviet": [
+   "điểu",
+   "đeo",
+   "đéo",
+   "đẽo",
+   "đụ"
+  ],
+  "title": "鳥",
+  "weak": true
+ },
+ "鸡": {
+  "hanviet": [
+   "kê"
+  ],
+  "title": "雞",
+  "weak": true
+ },
+ "麦": {
+  "hanviet": [
+   "mạch"
+  ],
+  "title": "麥",
+  "weak": true
+ },
+ "麻": {
+  "hanviet": [
+   "ma"
+  ],
+  "title": "麻",
+  "weak": false
+ },
+ "黄": {
+  "hanviet": [
+   "hoàng",
+   "huỳnh"
+  ],
+  "title": "黃",
+  "weak": false
+ },
+ "黑": {
+  "hanviet": [
+   "hắc"
+  ],
+  "title": "黑",
+  "weak": true
+ },
+ "默": {
+  "hanviet": [
+   "mặc"
+  ],
+  "title": "默",
+  "weak": false
+ },
+ "鼓": {
+  "hanviet": [
+   "cổ"
+  ],
+  "title": "鼓",
+  "weak": true
+ },
+ "鼠": {
+  "hanviet": [
+   "thử",
+   "thửu"
+  ],
+  "title": "鼠",
+  "weak": true
+ },
+ "齐": {
+  "hanviet": [
+   "tày",
+   "tề",
+   "tè",
+   "chai"
+  ],
+  "title": "齊",
+  "weak": true
+ },
+ "齿": {
+  "hanviet": [
+   "xỉ"
+  ],
+  "title": "齒",
+  "weak": false
+ },
+ "龙": {
+  "hanviet": [
+   "long"
+  ],
+  "title": "龍",
+  "weak": false
+ }
+}

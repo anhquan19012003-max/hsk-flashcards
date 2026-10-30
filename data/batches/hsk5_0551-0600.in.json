@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0551",
+  "hanzi": "疑问",
+  "pinyin": "yíwèn",
+  "pos": "",
+  "meaning": "nghi vấn",
+  "level": 5
+ },
+ {
+  "id": "5-0552",
+  "hanzi": "以来",
+  "pinyin": "yǐlái",
+  "pos": "",
+  "meaning": "kể từ khi",
+  "level": 5
+ },
+ {
+  "id": "5-0553",
+  "hanzi": "意外",
+  "pinyin": "yìwài",
+  "pos": "",
+  "meaning": "bất ngờ",
+  "level": 5
+ },
+ {
+  "id": "5-0554",
+  "hanzi": "议论",
+  "pinyin": "yìlùn",
+  "pos": "",
+  "meaning": "thảo luận",
+  "level": 5
+ },
+ {
+  "id": "5-0555",
+  "hanzi": "义务",
+  "pinyin": "yìwù",
+  "pos": "",
+  "meaning": "nghĩa vụ",
+  "level": 5
+ },
+ {
+  "id": "5-0556",
+  "hanzi": "因素",
+  "pinyin": "yīnsù",
+  "pos": "",
+  "meaning": "yếu tố",
+  "level": 5
+ },
+ {
+  "id": "5-0557",
+  "hanzi": "英俊",
+  "pinyin": "yīngjùn",
+  "pos": "",
+  "meaning": "đẹp trai",
+  "level": 5
+ },
+ {
+  "id": "5-0558",
+  "hanzi": "营养",
+  "pinyin": "yíngyǎng",
+  "pos": "",
+  "meaning": "dinh dưỡng",
+  "level": 5
+ },
+ {
+  "id": "5-0559",
+  "hanzi": "硬",
+  "pinyin": "yìng",
+  "pos": "",
+  "meaning": "cứng",
+  "level": 5
+ },
+ {
+  "id": "5-0560",
+  "hanzi": "应付",
+  "pinyin": "yìngfu",
+  "pos": "",
+  "meaning": "ứng phó",
+  "level": 5
+ },
+ {
+  "id": "5-0561",
+  "hanzi": "应用",
+  "pinyin": "yìngyòng",
+  "pos": "",
+  "meaning": "ứng dụng",
+  "level": 5
+ },
+ {
+  "id": "5-0562",
+  "hanzi": "拥挤",
+  "pinyin": "yōngjǐ",
+  "pos": "",
+  "meaning": "đông đúc",
+  "level": 5
+ },
+ {
+  "id": "5-0563",
+  "hanzi": "勇气",
+  "pinyin": "yǒngqì",
+  "pos": "",
+  "meaning": "dũng khí",
+  "level": 5
+ },
+ {
+  "id": "5-0564",
+  "hanzi": "用功",
+  "pinyin": "yònggōng",
+  "pos": "",
+  "meaning": "chăm chỉ",
+  "level": 5
+ },
+ {
+  "id": "5-0565",
+  "hanzi": "优惠",
+  "pinyin": "yōuhuì",
+  "pos": "",
+  "meaning": "ưu đãi",
+  "level": 5
+ },
+ {
+  "id": "5-0566",
+  "hanzi": "优势",
+  "pinyin": "yōushì",
+  "pos": "",
+  "meaning": "lợi thế",
+  "level": 5
+ },
+ {
+  "id": "5-0567",
+  "hanzi": "悠久",
+  "pinyin": "yōujiǔ",
+  "pos": "",
+  "meaning": "lâu đời",
+  "level": 5
+ },
+ {
+  "id": "5-0568",
+  "hanzi": "油炸",
+  "pinyin": "yóuzhá",
+  "pos": "",
+  "meaning": "chiên",
+  "level": 5
+ },
+ {
+  "id": "5-0569",
+  "hanzi": "有利",
+  "pinyin": "yǒulì",
+  "pos": "",
+  "meaning": "có lợi",
+  "level": 5
+ },
+ {
+  "id": "5-0570",
+  "hanzi": "娱乐",
+  "pinyin": "yúlè",
+  "pos": "",
+  "meaning": "giải trí",
+  "level": 5
+ },
+ {
+  "id": "5-0571",
+  "hanzi": "预报",
+  "pinyin": "yùbào",
+  "pos": "",
+  "meaning": "dự báo",
+  "level": 5
+ },
+ {
+  "id": "5-0572",
+  "hanzi": "预防",
+  "pinyin": "yùfáng",
+  "pos": "",
+  "meaning": "phòng ngừa",
+  "level": 5
+ },
+ {
+  "id": "5-0573",
+  "hanzi": "圆",
+  "pinyin": "yuán",
+  "pos": "",
+  "meaning": "tròn",
+  "level": 5
+ },
+ {
+  "id": "5-0574",
+  "hanzi": "元旦",
+  "pinyin": "yuándàn",
+  "pos": "",
+  "meaning": "Tết Dương lịch",
+  "level": 5
+ },
+ {
+  "id": "5-0575",
+  "hanzi": "员工",
+  "pinyin": "yuángōng",
+  "pos": "",
+  "meaning": "nhân viên",
+  "level": 5
+ },
+ {
+  "id": "5-0576",
+  "hanzi": "愿望",
+  "pinyin": "yuànwàng",
+  "pos": "",
+  "meaning": "nguyện vọng",
+  "level": 5
+ },
+ {
+  "id": "5-0577",
+  "hanzi": "晕",
+  "pinyin": "yūn",
+  "pos": "",
+  "meaning": "choáng, ngất",
+  "level": 5
+ },
+ {
+  "id": "5-0578",
+  "hanzi": "运气",
+  "pinyin": "yùnqi",
+  "pos": "",
+  "meaning": "vận may",
+  "level": 5
+ },
+ {
+  "id": "5-0579",
+  "hanzi": "运用",
+  "pinyin": "yùnyòng",
+  "pos": "",
+  "meaning": "vận dụng",
+  "level": 5
+ },
+ {
+  "id": "5-0580",
+  "hanzi": "灾害",
+  "pinyin": "zāihài",
+  "pos": "",
+  "meaning": "thảm họa",
+  "level": 5
+ },
+ {
+  "id": "5-0581",
+  "hanzi": "在乎",
+  "pinyin": "zàihu",
+  "pos": "",
+  "meaning": "để ý",
+  "level": 5
+ },
+ {
+  "id": "5-0582",
+  "hanzi": "再三",
+  "pinyin": "zàisān",
+  "pos": "",
+  "meaning": "lặp đi lặp lại",
+  "level": 5
+ },
+ {
+  "id": "5-0583",
+  "hanzi": "赞成",
+  "pinyin": "zànchéng",
+  "pos": "",
+  "meaning": "tán thành",
+  "level": 5
+ },
+ {
+  "id": "5-0584",
+  "hanzi": "糟糕",
+  "pinyin": "zāogāo",
+  "pos": "",
+  "meaning": "tồi tệ",
+  "level": 5
+ },
+ {
+  "id": "5-0585",
+  "hanzi": "造成",
+  "pinyin": "zàochéng",
+  "pos": "",
+  "meaning": "gây ra",
+  "level": 5
+ },
+ {
+  "id": "5-0586",
+  "hanzi": "责备",
+  "pinyin": "zébèi",
+  "pos": "",
+  "meaning": "trách móc",
+  "level": 5
+ },
+ {
+  "id": "5-0587",
+  "hanzi": "窄",
+  "pinyin": "zhǎi",
+  "pos": "",
+  "meaning": "hẹp",
+  "level": 5
+ },
+ {
+  "id": "5-0588",
+  "hanzi": "展开",
+  "pinyin": "zhǎnkāi",
+  "pos": "",
+  "meaning": "triển khai",
+  "level": 5
+ },
+ {
+  "id": "5-0589",
+  "hanzi": "掌握",
+  "pinyin": "zhǎngwò",
+  "pos": "",
+  "meaning": "nắm vững",
+  "level": 5
+ },
+ {
+  "id": "5-0590",
+  "hanzi": "账户",
+  "pinyin": "zhànghù",
+  "pos": "",
+  "meaning": "tài khoản",
+  "level": 5
+ },
+ {
+  "id": "5-0591",
+  "hanzi": "珍惜",
+  "pinyin": "zhēnxī",
+  "pos": "",
+  "meaning": "trân trọng",
+  "level": 5
+ },
+ {
+  "id": "5-0592",
+  "hanzi": "阵",
+  "pinyin": "zhèn",
+  "pos": "",
+  "meaning": "trận (lượng từ)",
+  "level": 5
+ },
+ {
+  "id": "5-0593",
+  "hanzi": "睁",
+  "pinyin": "zhēng",
+  "pos": "",
+  "meaning": "mở (mắt)",
+  "level": 5
+ },
+ {
+  "id": "5-0594",
+  "hanzi": "争取",
+  "pinyin": "zhēngqǔ",
+  "pos": "",
+  "meaning": "tranh thủ",
+  "level": 5
+ },
+ {
+  "id": "5-0595",
+  "hanzi": "整个",
+  "pinyin": "zhěnggè",
+  "pos": "",
+  "meaning": "toàn bộ",
+  "level": 5
+ },
+ {
+  "id": "5-0596",
+  "hanzi": "整齐",
+  "pinyin": "zhěngqí",
+  "pos": "",
+  "meaning": "gọn gàng",
+  "level": 5
+ },
+ {
+  "id": "5-0597",
+  "hanzi": "正",
+  "pinyin": "zhèng",
+  "pos": "",
+  "meaning": "đúng lúc",
+  "level": 5
+ },
+ {
+  "id": "5-0598",
+  "hanzi": "政府",
+  "pinyin": "zhèngfǔ",
+  "pos": "",
+  "meaning": "chính phủ",
+  "level": 5
+ },
+ {
+  "id": "5-0599",
+  "hanzi": "证件",
+  "pinyin": "zhèngjiàn",
+  "pos": "",
+  "meaning": "giấy tờ",
+  "level": 5
+ },
+ {
+  "id": "5-0600",
+  "hanzi": "支",
+  "pinyin": "zhī",
+  "pos": "",
+  "meaning": "nhánh / chiếc (lượng từ)",
+  "level": 5
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0201",
+  "hanzi": "课文",
+  "pinyin": "kèwén",
+  "pos": "danh từ",
+  "meaning": "bài khóa",
+  "level": 1
+ },
+ {
+  "id": "1-0202",
+  "hanzi": "口",
+  "pinyin": "kǒu",
+  "pos": "lượng từ, danh từ",
+  "meaning": "miệng; khẩu (lượng từ người trong nhà)",
+  "level": 1
+ },
+ {
+  "id": "1-0203",
+  "hanzi": "块",
+  "pinyin": "kuài",
+  "pos": "danh từ, lượng từ",
+  "meaning": "miếng, cục; đồng (tiền)",
+  "level": 1
+ },
+ {
+  "id": "1-0204",
+  "hanzi": "快",
+  "pinyin": "kuài",
+  "pos": "tính từ, phó từ",
+  "meaning": "nhanh; sắp",
+  "level": 1
+ },
+ {
+  "id": "1-0205",
+  "hanzi": "来",
+  "pinyin": "lái",
+  "pos": "động từ",
+  "meaning": "đến, tới",
+  "level": 1
+ },
+ {
+  "id": "1-0206",
+  "hanzi": "来到",
+  "pinyin": "láidào",
+  "pos": "động từ",
+  "meaning": "đi đến (nơi nào đó)",
+  "level": 1
+ },
+ {
+  "id": "1-0207",
+  "hanzi": "老",
+  "pinyin": "lǎo",
+  "pos": "tính từ",
+  "meaning": "già, cũ",
+  "level": 1
+ },
+ {
+  "id": "1-0208",
+  "hanzi": "老人",
+  "pinyin": "lǎorén",
+  "pos": "danh từ",
+  "meaning": "người già",
+  "level": 1
+ },
+ {
+  "id": "1-0209",
+  "hanzi": "老师",
+  "pinyin": "lǎoshī",
+  "pos": "danh từ",
+  "meaning": "giáo viên",
+  "level": 1
+ },
+ {
+  "id": "1-0210",
+  "hanzi": "了",
+  "pinyin": "le",
+  "pos": "trợ từ",
+  "meaning": "rồi, đã",
+  "level": 1
+ },
+ {
+  "id": "1-0211",
+  "hanzi": "累",
+  "pinyin": "lèi",
+  "pos": "tính từ",
+  "meaning": "mệt",
+  "level": 1
+ },
+ {
+  "id": "1-0212",
+  "hanzi": "冷",
+  "pinyin": "lěng",
+  "pos": "tính từ",
+  "meaning": "lạnh",
+  "level": 1
+ },
+ {
+  "id": "1-0213",
+  "hanzi": "里",
+  "pinyin": "lǐ",
+  "pos": "danh từ",
+  "meaning": "trong (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0214",
+  "hanzi": "里边",
+  "pinyin": "lǐbian",
+  "pos": "danh từ",
+  "meaning": "bên trong",
+  "level": 1
+ },
+ {
+  "id": "1-0215",
+  "hanzi": "两",
+  "pinyin": "liǎng",
+  "pos": "số từ",
+  "meaning": "hai (chỉ số lượng)",
+  "level": 1
+ },
+ {
+  "id": "1-0216",
+  "hanzi": "零",
+  "pinyin": "líng",
+  "pos": "số từ",
+  "meaning": "số 0 (không)",
+  "level": 1
+ },
+ {
+  "id": "1-0217",
+  "hanzi": "六",
+  "pinyin": "liù",
+  "pos": "số từ",
+  "meaning": "số 6 (sáu)",
+  "level": 1
+ },
+ {
+  "id": "1-0218",
+  "hanzi": "楼",
+  "pinyin": "lóu",
+  "pos": "danh từ",
+  "meaning": "tòa nhà, tầng lầu",
+  "level": 1
+ },
+ {
+  "id": "1-0219",
+  "hanzi": "楼上",
+  "pinyin": "lóu shàng",
+  "pos": "cụm từ",
+  "meaning": "tầng trên",
+  "level": 1
+ },
+ {
+  "id": "1-0220",
+  "hanzi": "楼下",
+  "pinyin": "lóu xià",
+  "pos": "cụm từ",
+  "meaning": "tầng dưới",
+  "level": 1
+ },
+ {
+  "id": "1-0221",
+  "hanzi": "路",
+  "pinyin": "lù",
+  "pos": "danh từ, lượng từ",
+  "meaning": "đường; tuyến (xe buýt)",
+  "level": 1
+ },
+ {
+  "id": "1-0222",
+  "hanzi": "路口",
+  "pinyin": "lùkǒu",
+  "pos": "danh từ",
+  "meaning": "ngã tư, giao lộ",
+  "level": 1
+ },
+ {
+  "id": "1-0223",
+  "hanzi": "路上",
+  "pinyin": "lùshang",
+  "pos": "danh từ",
+  "meaning": "trên đường",
+  "level": 1
+ },
+ {
+  "id": "1-0224",
+  "hanzi": "妈妈",
+  "pinyin": "māma",
+  "pos": "danh từ",
+  "meaning": "mẹ",
+  "level": 1
+ },
+ {
+  "id": "1-0225",
+  "hanzi": "马路",
+  "pinyin": "mǎlù",
+  "pos": "danh từ",
+  "meaning": "đường cái",
+  "level": 1
+ },
+ {
+  "id": "1-0226",
+  "hanzi": "马上",
+  "pinyin": "mǎshàng",
+  "pos": "phó từ",
+  "meaning": "ngay lập tức",
+  "level": 1
+ },
+ {
+  "id": "1-0227",
+  "hanzi": "吗",
+  "pinyin": "ma",
+  "pos": "trợ từ",
+  "meaning": "không? (trợ từ nghi vấn cuối câu)",
+  "level": 1
+ },
+ {
+  "id": "1-0228",
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "pos": "động từ",
+  "meaning": "mua",
+  "level": 1
+ },
+ {
+  "id": "1-0229",
+  "hanzi": "慢",
+  "pinyin": "màn",
+  "pos": "tính từ",
+  "meaning": "chậm",
+  "level": 1
+ },
+ {
+  "id": "1-0230",
+  "hanzi": "忙",
+  "pinyin": "máng",
+  "pos": "tính từ",
+  "meaning": "bận",
+  "level": 1
+ },
+ {
+  "id": "1-0231",
+  "hanzi": "毛",
+  "pinyin": "máo",
+  "pos": "lượng từ",
+  "meaning": "hào (1/10 đồng)",
+  "level": 1
+ },
+ {
+  "id": "1-0232",
+  "hanzi": "没",
+  "pinyin": "méi",
+  "pos": "phó từ, động từ",
+  "meaning": "không, chưa (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0233",
+  "hanzi": "没关系",
+  "pinyin": "méi guānxi",
+  "pos": "cụm từ",
+  "meaning": "không sao đâu (đáp lời xin lỗi)",
+  "level": 1
+ },
+ {
+  "id": "1-0234",
+  "hanzi": "没什么",
+  "pinyin": "méi shénme",
+  "pos": "cụm từ",
+  "meaning": "không có gì, không hề gì",
+  "level": 1
+ },
+ {
+  "id": "1-0235",
+  "hanzi": "没事儿",
+  "pinyin": "méishìr",
+  "pos": "cụm từ",
+  "meaning": "không sao (không có việc gì)",
+  "level": 1
+ },
+ {
+  "id": "1-0236",
+  "hanzi": "没有",
+  "pinyin": "méiyǒu",
+  "pos": "động từ, phó từ",
+  "meaning": "không có; chưa",
+  "level": 1
+ },
+ {
+  "id": "1-0237",
+  "hanzi": "妹妹",
+  "pinyin": "mèimei",
+  "pos": "danh từ",
+  "meaning": "em gái",
+  "level": 1
+ },
+ {
+  "id": "1-0238",
+  "hanzi": "门",
+  "pinyin": "mén",
+  "pos": "danh từ, lượng từ",
+  "meaning": "cửa; môn (học)",
+  "level": 1
+ },
+ {
+  "id": "1-0239",
+  "hanzi": "门口",
+  "pinyin": "ménkǒu",
+  "pos": "danh từ",
+  "meaning": "cửa ra vào, cổng",
+  "level": 1
+ },
+ {
+  "id": "1-0240",
+  "hanzi": "门票",
+  "pinyin": "ménpiào",
+  "pos": "danh từ",
+  "meaning": "vé vào cửa",
+  "level": 1
+ },
+ {
+  "id": "1-0241",
+  "hanzi": "们",
+  "pinyin": "men",
+  "pos": "hậu tố",
+  "meaning": "các, chúng (hậu tố số nhiều, VD: 朋友们)",
+  "level": 1
+ },
+ {
+  "id": "1-0242",
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "pos": "danh từ",
+  "meaning": "cơm (gạo)",
+  "level": 1
+ },
+ {
+  "id": "1-0243",
+  "hanzi": "面包",
+  "pinyin": "miànbāo",
+  "pos": "danh từ",
+  "meaning": "bánh mì",
+  "level": 1
+ },
+ {
+  "id": "1-0244",
+  "hanzi": "面条儿",
+  "pinyin": "miàntiáor",
+  "pos": "danh từ",
+  "meaning": "mì sợi",
+  "level": 1
+ },
+ {
+  "id": "1-0245",
+  "hanzi": "名字",
+  "pinyin": "míngzi",
+  "pos": "danh từ",
+  "meaning": "tên",
+  "level": 1
+ },
+ {
+  "id": "1-0246",
+  "hanzi": "明白",
+  "pinyin": "míngbai",
+  "pos": "tính từ, động từ",
+  "meaning": "hiểu, rõ ràng",
+  "level": 1
+ },
+ {
+  "id": "1-0247",
+  "hanzi": "明年",
+  "pinyin": "míngnián",
+  "pos": "danh từ",
+  "meaning": "năm sau",
+  "level": 1
+ },
+ {
+  "id": "1-0248",
+  "hanzi": "明天",
+  "pinyin": "míngtiān",
+  "pos": "danh từ",
+  "meaning": "ngày mai",
+  "level": 1
+ },
+ {
+  "id": "1-0249",
+  "hanzi": "拿",
+  "pinyin": "ná",
+  "pos": "động từ",
+  "meaning": "cầm, lấy",
+  "level": 1
+ },
+ {
+  "id": "1-0250",
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "pos": "đại từ",
+  "meaning": "nào",
+  "level": 1
+ }
+]

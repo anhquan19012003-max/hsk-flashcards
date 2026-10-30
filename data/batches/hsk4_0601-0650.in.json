@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0601",
+  "hanzi": "热心",
+  "pinyin": "rèxīn",
+  "pos": "",
+  "meaning": "nhiệt tình",
+  "level": 4
+ },
+ {
+  "id": "4-0602",
+  "hanzi": "人家",
+  "pinyin": "rénjiā",
+  "pos": "",
+  "meaning": "gia đình (người ta)",
+  "level": 4
+ },
+ {
+  "id": "4-0603",
+  "hanzi": "日记",
+  "pinyin": "rìjì",
+  "pos": "",
+  "meaning": "nhật ký",
+  "level": 4
+ },
+ {
+  "id": "4-0604",
+  "hanzi": "日历",
+  "pinyin": "rìlì",
+  "pos": "",
+  "meaning": "lịch",
+  "level": 4
+ },
+ {
+  "id": "4-0605",
+  "hanzi": "如今",
+  "pinyin": "rújīn",
+  "pos": "",
+  "meaning": "ngày nay",
+  "level": 4
+ },
+ {
+  "id": "4-0606",
+  "hanzi": "弱",
+  "pinyin": "ruò",
+  "pos": "",
+  "meaning": "yếu",
+  "level": 4
+ },
+ {
+  "id": "4-0607",
+  "hanzi": "伞",
+  "pinyin": "sǎn",
+  "pos": "",
+  "meaning": "cái ô",
+  "level": 4
+ },
+ {
+  "id": "4-0608",
+  "hanzi": "散",
+  "pinyin": "sàn",
+  "pos": "",
+  "meaning": "giải tán, phân tán",
+  "level": 4
+ },
+ {
+  "id": "4-0609",
+  "hanzi": "扫",
+  "pinyin": "sǎo",
+  "pos": "",
+  "meaning": "quét",
+  "level": 4
+ },
+ {
+  "id": "4-0610",
+  "hanzi": "色",
+  "pinyin": "sè",
+  "pos": "",
+  "meaning": "màu sắc",
+  "level": 4
+ },
+ {
+  "id": "4-0611",
+  "hanzi": "色彩",
+  "pinyin": "sècǎi",
+  "pos": "",
+  "meaning": "màu sắc",
+  "level": 4
+ },
+ {
+  "id": "4-0612",
+  "hanzi": "森林",
+  "pinyin": "sēnlín",
+  "pos": "",
+  "meaning": "rừng",
+  "level": 4
+ },
+ {
+  "id": "4-0613",
+  "hanzi": "晒",
+  "pinyin": "shài",
+  "pos": "",
+  "meaning": "phơi nắng",
+  "level": 4
+ },
+ {
+  "id": "4-0614",
+  "hanzi": "闪",
+  "pinyin": "shǎn",
+  "pos": "",
+  "meaning": "lấp lánh, lóe lên",
+  "level": 4
+ },
+ {
+  "id": "4-0615",
+  "hanzi": "闪电",
+  "pinyin": "shǎndiàn",
+  "pos": "",
+  "meaning": "tia chớp",
+  "level": 4
+ },
+ {
+  "id": "4-0616",
+  "hanzi": "善良",
+  "pinyin": "shànliáng",
+  "pos": "",
+  "meaning": "hiền lành",
+  "level": 4
+ },
+ {
+  "id": "4-0617",
+  "hanzi": "善于",
+  "pinyin": "shànyú",
+  "pos": "",
+  "meaning": "giỏi về",
+  "level": 4
+ },
+ {
+  "id": "4-0618",
+  "hanzi": "伤害",
+  "pinyin": "shānghài",
+  "pos": "",
+  "meaning": "tổn thương",
+  "level": 4
+ },
+ {
+  "id": "4-0619",
+  "hanzi": "商务",
+  "pinyin": "shāngwù",
+  "pos": "",
+  "meaning": "thương vụ",
+  "level": 4
+ },
+ {
+  "id": "4-0620",
+  "hanzi": "赏",
+  "pinyin": "shǎng",
+  "pos": "",
+  "meaning": "thưởng",
+  "level": 4
+ },
+ {
+  "id": "4-0621",
+  "hanzi": "上个月",
+  "pinyin": "shàng gè yuè",
+  "pos": "",
+  "meaning": "tháng trước",
+  "level": 4
+ },
+ {
+  "id": "4-0622",
+  "hanzi": "上楼",
+  "pinyin": "shàng lóu",
+  "pos": "",
+  "meaning": "lên lầu",
+  "level": 4
+ },
+ {
+  "id": "4-0623",
+  "hanzi": "上门",
+  "pinyin": "shàng mén",
+  "pos": "",
+  "meaning": "gõ cửa, đến tận nơi",
+  "level": 4
+ },
+ {
+  "id": "4-0624",
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "pos": "",
+  "meaning": "nấu, đốt, sốt",
+  "level": 4
+ },
+ {
+  "id": "4-0625",
+  "hanzi": "设施",
+  "pinyin": "shèshī",
+  "pos": "",
+  "meaning": "thiết bị",
+  "level": 4
+ },
+ {
+  "id": "4-0626",
+  "hanzi": "设置",
+  "pinyin": "shèzhì",
+  "pos": "",
+  "meaning": "thiết lập",
+  "level": 4
+ },
+ {
+  "id": "4-0627",
+  "hanzi": "申请",
+  "pinyin": "shēnqǐng",
+  "pos": "",
+  "meaning": "nộp đơn",
+  "level": 4
+ },
+ {
+  "id": "4-0628",
+  "hanzi": "身材",
+  "pinyin": "shēncái",
+  "pos": "",
+  "meaning": "vóc dáng",
+  "level": 4
+ },
+ {
+  "id": "4-0629",
+  "hanzi": "身份",
+  "pinyin": "shēnfèn",
+  "pos": "",
+  "meaning": "thân phận",
+  "level": 4
+ },
+ {
+  "id": "4-0630",
+  "hanzi": "身高",
+  "pinyin": "shēn gāo",
+  "pos": "",
+  "meaning": "chiều cao",
+  "level": 4
+ },
+ {
+  "id": "4-0631",
+  "hanzi": "深厚",
+  "pinyin": "shēn hòu",
+  "pos": "",
+  "meaning": "sâu sắc",
+  "level": 4
+ },
+ {
+  "id": "4-0632",
+  "hanzi": "神话",
+  "pinyin": "shénhuà",
+  "pos": "",
+  "meaning": "thần thoại",
+  "level": 4
+ },
+ {
+  "id": "4-0633",
+  "hanzi": "神秘",
+  "pinyin": "shénmì",
+  "pos": "",
+  "meaning": "huyền bí",
+  "level": 4
+ },
+ {
+  "id": "4-0634",
+  "hanzi": "甚至",
+  "pinyin": "shènzhì",
+  "pos": "",
+  "meaning": "thậm chí",
+  "level": 4
+ },
+ {
+  "id": "4-0635",
+  "hanzi": "失败",
+  "pinyin": "shībài",
+  "pos": "",
+  "meaning": "thất bại",
+  "level": 4
+ },
+ {
+  "id": "4-0636",
+  "hanzi": "失望",
+  "pinyin": "shīwàng",
+  "pos": "",
+  "meaning": "thất vọng",
+  "level": 4
+ },
+ {
+  "id": "4-0637",
+  "hanzi": "失业",
+  "pinyin": "shīyè",
+  "pos": "",
+  "meaning": "thất nghiệp",
+  "level": 4
+ },
+ {
+  "id": "4-0638",
+  "hanzi": "诗",
+  "pinyin": "shī",
+  "pos": "",
+  "meaning": "thơ",
+  "level": 4
+ },
+ {
+  "id": "4-0639",
+  "hanzi": "诗人",
+  "pinyin": "shī rén",
+  "pos": "",
+  "meaning": "nhà thơ",
+  "level": 4
+ },
+ {
+  "id": "4-0640",
+  "hanzi": "湿",
+  "pinyin": "shī",
+  "pos": "",
+  "meaning": "ướt",
+  "level": 4
+ },
+ {
+  "id": "4-0641",
+  "hanzi": "实施",
+  "pinyin": "shíshī",
+  "pos": "",
+  "meaning": "thi hành",
+  "level": 4
+ },
+ {
+  "id": "4-0642",
+  "hanzi": "实用",
+  "pinyin": "shíyòng",
+  "pos": "",
+  "meaning": "thực dụng",
+  "level": 4
+ },
+ {
+  "id": "4-0643",
+  "hanzi": "食堂",
+  "pinyin": "shí táng",
+  "pos": "",
+  "meaning": "nhà ăn",
+  "level": 4
+ },
+ {
+  "id": "4-0644",
+  "hanzi": "使劲",
+  "pinyin": "shǐ jìn",
+  "pos": "",
+  "meaning": "dùng sức",
+  "level": 4
+ },
+ {
+  "id": "4-0645",
+  "hanzi": "士兵",
+  "pinyin": "shìbīng",
+  "pos": "",
+  "meaning": "binh lính",
+  "level": 4
+ },
+ {
+  "id": "4-0646",
+  "hanzi": "市区",
+  "pinyin": "shì qū",
+  "pos": "",
+  "meaning": "khu nội thành",
+  "level": 4
+ },
+ {
+  "id": "4-0647",
+  "hanzi": "似的",
+  "pinyin": "shìde",
+  "pos": "",
+  "meaning": "giống như",
+  "level": 4
+ },
+ {
+  "id": "4-0648",
+  "hanzi": "事物",
+  "pinyin": "shìwù",
+  "pos": "",
+  "meaning": "sự vật",
+  "level": 4
+ },
+ {
+  "id": "4-0649",
+  "hanzi": "事先",
+  "pinyin": "shìxiān",
+  "pos": "",
+  "meaning": "trước",
+  "level": 4
+ },
+ {
+  "id": "4-0650",
+  "hanzi": "试卷",
+  "pinyin": "shìjuàn",
+  "pos": "",
+  "meaning": "đề thi",
+  "level": 4
+ }
+]

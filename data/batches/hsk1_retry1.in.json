@@ -1,0 +1,407 @@
+[
+ {
+  "id": "1-0010",
+  "hanzi": "半",
+  "pinyin": "bàn",
+  "pos": "số từ",
+  "meaning": "một nửa",
+  "level": 1,
+  "retry_note": "previous sentence '我吃了半个苹果。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0013",
+  "hanzi": "帮",
+  "pinyin": "bāng",
+  "pos": "động từ",
+  "meaning": "giúp (1 chữ)",
+  "level": 1,
+  "retry_note": "previous sentence '你可以帮我吗？' was rejected: chữ ngoài từ vựng ≤ HSK1: 以可. Write a different sentence."
+ },
+ {
+  "id": "1-0018",
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "pos": "danh từ",
+  "meaning": "chiếc cốc, cái ly",
+  "level": 1,
+  "retry_note": "previous sentence '这个杯子很漂亮。' was rejected: chữ ngoài từ vựng ≤ HSK1: 亮漂. Write a different sentence."
+ },
+ {
+  "id": "1-0020",
+  "hanzi": "北边",
+  "pinyin": "běibian",
+  "pos": "danh từ",
+  "meaning": "phía bắc",
+  "level": 1,
+  "retry_note": "previous sentence '学校的北边是公园。' was rejected: chữ ngoài từ vựng ≤ HSK1: 公园. Write a different sentence."
+ },
+ {
+  "id": "1-0051",
+  "hanzi": "穿",
+  "pinyin": "chuān",
+  "pos": "động từ",
+  "meaning": "mặc, mang, đi (giày)",
+  "level": 1,
+  "retry_note": "previous sentence '我穿红衣服。' was rejected: chữ ngoài từ vựng ≤ HSK1: 红. Write a different sentence."
+ },
+ {
+  "id": "1-0071",
+  "hanzi": "地方",
+  "pinyin": "dìfang",
+  "pos": "danh từ",
+  "meaning": "nơi, chỗ",
+  "level": 1,
+  "retry_note": "previous sentence '这个地方很漂亮。' was rejected: chữ ngoài từ vựng ≤ HSK1: 亮漂. Write a different sentence."
+ },
+ {
+  "id": "1-0073",
+  "hanzi": "地图",
+  "pinyin": "dìtú",
+  "pos": "danh từ",
+  "meaning": "bản đồ",
+  "level": 1,
+  "retry_note": "previous sentence '我有一张地图。' was rejected: chữ ngoài từ vựng ≤ HSK1: 张. Write a different sentence."
+ },
+ {
+  "id": "1-0102",
+  "hanzi": "房子",
+  "pinyin": "fángzi",
+  "pos": "danh từ",
+  "meaning": "ngôi nhà",
+  "level": 1,
+  "retry_note": "previous sentence '这个房子很大。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0119",
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "pos": "danh từ",
+  "meaning": "bài hát",
+  "level": 1,
+  "retry_note": "previous sentence '我喜欢唱歌。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0120",
+  "hanzi": "个",
+  "pinyin": "gè",
+  "pos": "lượng từ",
+  "meaning": "cái, chiếc (lượng từ chung)",
+  "level": 1,
+  "retry_note": "previous sentence '我有一个苹果。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0124",
+  "hanzi": "工作",
+  "pinyin": "gōngzuò",
+  "pos": "động từ, danh từ",
+  "meaning": "làm việc; công việc",
+  "level": 1,
+  "retry_note": "previous sentence '我每天工作。' was rejected: chữ ngoài từ vựng ≤ HSK1: 每. Write a different sentence."
+ },
+ {
+  "id": "1-0139",
+  "hanzi": "好吃",
+  "pinyin": "hǎochī",
+  "pos": "tính từ",
+  "meaning": "ngon",
+  "level": 1,
+  "retry_note": "previous sentence '这个苹果很好吃。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0142",
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "pos": "tính từ",
+  "meaning": "vui, thú vị (chơi vui)",
+  "level": 1,
+  "retry_note": "previous sentence '公园很好玩儿。' was rejected: chữ ngoài từ vựng ≤ HSK1: 公园. Write a different sentence."
+ },
+ {
+  "id": "1-0147",
+  "hanzi": "后",
+  "pinyin": "hòu",
+  "pos": "danh từ",
+  "meaning": "sau, phía sau (1 chữ)",
+  "level": 1,
+  "retry_note": "previous sentence '放学后我去公园。' was rejected: chữ ngoài từ vựng ≤ HSK1: 公园. Write a different sentence."
+ },
+ {
+  "id": "1-0148",
+  "hanzi": "后边",
+  "pinyin": "hòubian",
+  "pos": "danh từ",
+  "meaning": "phía sau, đằng sau",
+  "level": 1,
+  "retry_note": "previous sentence '学校后边有一个公园。' was rejected: chữ ngoài từ vựng ≤ HSK1: 公园. Write a different sentence."
+ },
+ {
+  "id": "1-0150",
+  "hanzi": "花",
+  "pinyin": "huā",
+  "pos": "danh từ",
+  "meaning": "hoa",
+  "level": 1,
+  "retry_note": "previous sentence '花是红的。' was rejected: chữ ngoài từ vựng ≤ HSK1: 红. Write a different sentence."
+ },
+ {
+  "id": "1-0163",
+  "hanzi": "机票",
+  "pinyin": "jīpiào",
+  "pos": "danh từ",
+  "meaning": "vé máy bay",
+  "level": 1,
+  "retry_note": "previous sentence '这是一张机票。' was rejected: chữ ngoài từ vựng ≤ HSK1: 张. Write a different sentence."
+ },
+ {
+  "id": "1-0245",
+  "hanzi": "名字",
+  "pinyin": "míngzi",
+  "pos": "danh từ",
+  "meaning": "tên",
+  "level": 1,
+  "retry_note": "previous sentence '你叫什么名字？' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0266",
+  "hanzi": "南",
+  "pinyin": "nán",
+  "pos": "danh từ",
+  "meaning": "nam (hướng nam)",
+  "level": 1,
+  "retry_note": "previous sentence '我们往南走。' was rejected: chữ ngoài từ vựng ≤ HSK1: 往. Write a different sentence."
+ },
+ {
+  "id": "1-0296",
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "pos": "động từ",
+  "meaning": "mời, xin",
+  "level": 1,
+  "retry_note": "previous sentence '请喝茶。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0316",
+  "hanzi": "上班",
+  "pinyin": "shàngbān",
+  "pos": "cụm từ",
+  "meaning": "đi làm",
+  "level": 1,
+  "retry_note": "previous sentence '我每天上班。' was rejected: chữ ngoài từ vựng ≤ HSK1: 每. Write a different sentence."
+ },
+ {
+  "id": "1-0332",
+  "hanzi": "十",
+  "pinyin": "shí",
+  "pos": "số từ",
+  "meaning": "số 10 (mười)",
+  "level": 1,
+  "retry_note": "previous sentence '我有十个苹果。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0336",
+  "hanzi": "试",
+  "pinyin": "shì",
+  "pos": "động từ",
+  "meaning": "thử",
+  "level": 1,
+  "retry_note": "previous sentence '我可以试吗？' was rejected: chữ ngoài từ vựng ≤ HSK1: 以可. Write a different sentence."
+ },
+ {
+  "id": "1-0339",
+  "hanzi": "手",
+  "pinyin": "shǒu",
+  "pos": "danh từ",
+  "meaning": "tay",
+  "level": 1,
+  "retry_note": "previous sentence '我的手很冷。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0344",
+  "hanzi": "树",
+  "pinyin": "shù",
+  "pos": "danh từ",
+  "meaning": "cây",
+  "level": 1,
+  "retry_note": "previous sentence '这棵树很大。' was rejected: chữ ngoài từ vựng ≤ HSK1: 棵. Write a different sentence."
+ },
+ {
+  "id": "1-0345",
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "pos": "danh từ",
+  "meaning": "nước",
+  "level": 1,
+  "retry_note": "previous sentence '我想喝水。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0354",
+  "hanzi": "他",
+  "pinyin": "tā",
+  "pos": "đại từ",
+  "meaning": "anh ấy, ông ấy",
+  "level": 1,
+  "retry_note": "previous sentence '他是我的朋友。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0356",
+  "hanzi": "她",
+  "pinyin": "tā",
+  "pos": "đại từ",
+  "meaning": "cô ấy, chị ấy",
+  "level": 1,
+  "retry_note": "previous sentence '她很漂亮。' was rejected: chữ ngoài từ vựng ≤ HSK1: 亮漂. Write a different sentence."
+ },
+ {
+  "id": "1-0361",
+  "hanzi": "听",
+  "pinyin": "tīng",
+  "pos": "động từ",
+  "meaning": "nghe",
+  "level": 1,
+  "retry_note": "previous sentence '我听音乐。' was rejected: chữ ngoài từ vựng ≤ HSK1: 乐音. Write a different sentence."
+ },
+ {
+  "id": "1-0371",
+  "hanzi": "玩儿",
+  "pinyin": "wánr",
+  "pos": "động từ",
+  "meaning": "chơi",
+  "level": 1,
+  "retry_note": "previous sentence '我们去公园玩儿。' was rejected: chữ ngoài từ vựng ≤ HSK1: 公园. Write a different sentence."
+ },
+ {
+  "id": "1-0378",
+  "hanzi": "忘记",
+  "pinyin": "wàngjì",
+  "pos": "động từ",
+  "meaning": "quên mất",
+  "level": 1,
+  "retry_note": "previous sentence '我忘记了作业。' was rejected: chữ ngoài từ vựng ≤ HSK1: 业. Write a different sentence."
+ },
+ {
+  "id": "1-0380",
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "pos": "đại từ",
+  "meaning": "tôi",
+  "level": 1,
+  "retry_note": "previous sentence '我是中国人。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0382",
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "pos": "số từ",
+  "meaning": "số 5 (năm)",
+  "level": 1,
+  "retry_note": "previous sentence '教室里有五个人。' was rejected: chữ ngoài từ vựng ≤ HSK1: 室. Write a different sentence."
+ },
+ {
+  "id": "1-0384",
+  "hanzi": "西",
+  "pinyin": "xī",
+  "pos": "danh từ",
+  "meaning": "tây (hướng tây)",
+  "level": 1,
+  "retry_note": "previous sentence '我们往西走。' was rejected: chữ ngoài từ vựng ≤ HSK1: 往. Write a different sentence."
+ },
+ {
+  "id": "1-0399",
+  "hanzi": "现在",
+  "pinyin": "xiànzài",
+  "pos": "danh từ",
+  "meaning": "bây giờ",
+  "level": 1,
+  "retry_note": "previous sentence '现在几点？' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0400",
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "pos": "động từ",
+  "meaning": "muốn, nghĩ, nhớ",
+  "level": 1,
+  "retry_note": "previous sentence '我想喝水。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0405",
+  "hanzi": "小时",
+  "pinyin": "xiǎoshí",
+  "pos": "danh từ",
+  "meaning": "giờ, tiếng (đồng hồ - khoảng thời gian)",
+  "level": 1,
+  "retry_note": "previous sentence '我每天学习两个小时。' was rejected: chữ ngoài từ vựng ≤ HSK1: 每. Write a different sentence."
+ },
+ {
+  "id": "1-0418",
+  "hanzi": "学",
+  "pinyin": "xué",
+  "pos": "động từ",
+  "meaning": "học (1 chữ)",
+  "level": 1,
+  "retry_note": "previous sentence '我学汉语。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0427",
+  "hanzi": "一",
+  "pinyin": "yī",
+  "pos": "số từ",
+  "meaning": "số 1 (một)",
+  "level": 1,
+  "retry_note": "previous sentence '我吃一个苹果。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0435",
+  "hanzi": "一样",
+  "pinyin": "yíyàng",
+  "pos": "tính từ",
+  "meaning": "giống nhau",
+  "level": 1,
+  "retry_note": "previous sentence '这两个苹果一样。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0440",
+  "hanzi": "用",
+  "pinyin": "yòng",
+  "pos": "động từ",
+  "meaning": "dùng",
+  "level": 1,
+  "retry_note": "previous sentence '我用笔写字。' was rejected: chữ ngoài từ vựng ≤ HSK1: 笔. Write a different sentence."
+ },
+ {
+  "id": "1-0444",
+  "hanzi": "有时候",
+  "pinyin": "yǒushíhou",
+  "pos": "phó từ",
+  "meaning": "có lúc, đôi khi",
+  "level": 1,
+  "retry_note": "previous sentence '有时候我们去公园。' was rejected: chữ ngoài từ vựng ≤ HSK1: 公园. Write a different sentence."
+ },
+ {
+  "id": "1-0449",
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "pos": "danh từ",
+  "meaning": "mưa (danh từ)",
+  "level": 1,
+  "retry_note": "previous sentence '今天下雨。' was rejected: câu ví dụ trùng. Write a different sentence."
+ },
+ {
+  "id": "1-0450",
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "pos": "lượng từ",
+  "meaning": "đồng (đơn vị tiền tệ)",
+  "level": 1,
+  "retry_note": "previous sentence '这个苹果一元。' was rejected: chữ ngoài từ vựng ≤ HSK1: 苹. Write a different sentence."
+ },
+ {
+  "id": "1-0490",
+  "hanzi": "走",
+  "pinyin": "zǒu",
+  "pos": "động từ",
+  "meaning": "đi, đi bộ; rời đi",
+  "level": 1,
+  "retry_note": "previous sentence '我们走吧。' was rejected: câu ví dụ trùng. Write a different sentence."
+ }
+]

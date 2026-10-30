@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0301",
+  "hanzi": "球",
+  "pinyin": "qiú",
+  "pos": "danh từ",
+  "meaning": "quả bóng",
+  "level": 1
+ },
+ {
+  "id": "1-0302",
+  "hanzi": "去",
+  "pinyin": "qù",
+  "pos": "động từ",
+  "meaning": "đi",
+  "level": 1
+ },
+ {
+  "id": "1-0303",
+  "hanzi": "去年",
+  "pinyin": "qùnián",
+  "pos": "danh từ",
+  "meaning": "năm ngoái",
+  "level": 1
+ },
+ {
+  "id": "1-0304",
+  "hanzi": "热",
+  "pinyin": "rè",
+  "pos": "tính từ, động từ",
+  "meaning": "nóng; hâm nóng",
+  "level": 1
+ },
+ {
+  "id": "1-0305",
+  "hanzi": "人",
+  "pinyin": "rén",
+  "pos": "danh từ",
+  "meaning": "người",
+  "level": 1
+ },
+ {
+  "id": "1-0306",
+  "hanzi": "认识",
+  "pinyin": "rènshi",
+  "pos": "động từ, danh từ",
+  "meaning": "quen biết, nhận ra",
+  "level": 1
+ },
+ {
+  "id": "1-0307",
+  "hanzi": "认真",
+  "pinyin": "rènzhēn",
+  "pos": "tính từ",
+  "meaning": "nghiêm túc, chăm chỉ",
+  "level": 1
+ },
+ {
+  "id": "1-0308",
+  "hanzi": "日",
+  "pinyin": "rì",
+  "pos": "danh từ",
+  "meaning": "ngày (日)",
+  "level": 1
+ },
+ {
+  "id": "1-0309",
+  "hanzi": "日期",
+  "pinyin": "rìqī",
+  "pos": "danh từ",
+  "meaning": "ngày tháng",
+  "level": 1
+ },
+ {
+  "id": "1-0310",
+  "hanzi": "肉",
+  "pinyin": "ròu",
+  "pos": "danh từ",
+  "meaning": "thịt",
+  "level": 1
+ },
+ {
+  "id": "1-0311",
+  "hanzi": "三",
+  "pinyin": "sān",
+  "pos": "số từ",
+  "meaning": "số 3 (ba)",
+  "level": 1
+ },
+ {
+  "id": "1-0312",
+  "hanzi": "山",
+  "pinyin": "shān",
+  "pos": "danh từ",
+  "meaning": "núi",
+  "level": 1
+ },
+ {
+  "id": "1-0313",
+  "hanzi": "商场",
+  "pinyin": "shāngchǎng",
+  "pos": "danh từ",
+  "meaning": "trung tâm thương mại",
+  "level": 1
+ },
+ {
+  "id": "1-0314",
+  "hanzi": "商店",
+  "pinyin": "shāngdiàn",
+  "pos": "danh từ",
+  "meaning": "cửa hàng",
+  "level": 1
+ },
+ {
+  "id": "1-0315",
+  "hanzi": "上",
+  "pinyin": "shàng",
+  "pos": "danh từ, động từ",
+  "meaning": "trên; lên",
+  "level": 1
+ },
+ {
+  "id": "1-0316",
+  "hanzi": "上班",
+  "pinyin": "shàngbān",
+  "pos": "cụm từ",
+  "meaning": "đi làm",
+  "level": 1
+ },
+ {
+  "id": "1-0317",
+  "hanzi": "上边",
+  "pinyin": "shàngbian",
+  "pos": "danh từ",
+  "meaning": "phía trên",
+  "level": 1
+ },
+ {
+  "id": "1-0318",
+  "hanzi": "上车",
+  "pinyin": "shàng chē",
+  "pos": "cụm từ",
+  "meaning": "lên xe",
+  "level": 1
+ },
+ {
+  "id": "1-0319",
+  "hanzi": "上次",
+  "pinyin": "shàng cì",
+  "pos": "cụm từ",
+  "meaning": "lần trước",
+  "level": 1
+ },
+ {
+  "id": "1-0320",
+  "hanzi": "上课",
+  "pinyin": "shàngkè",
+  "pos": "cụm từ",
+  "meaning": "lên lớp, vào học",
+  "level": 1
+ },
+ {
+  "id": "1-0321",
+  "hanzi": "上网",
+  "pinyin": "shàngwǎng",
+  "pos": "cụm từ",
+  "meaning": "lên mạng",
+  "level": 1
+ },
+ {
+  "id": "1-0322",
+  "hanzi": "上午",
+  "pinyin": "shàngwǔ",
+  "pos": "danh từ",
+  "meaning": "buổi sáng (trước trưa)",
+  "level": 1
+ },
+ {
+  "id": "1-0323",
+  "hanzi": "上学",
+  "pinyin": "shàngxué",
+  "pos": "cụm từ",
+  "meaning": "đi học, đến trường",
+  "level": 1
+ },
+ {
+  "id": "1-0324",
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "pos": "tính từ, động từ",
+  "meaning": "ít; thiếu",
+  "level": 1
+ },
+ {
+  "id": "1-0325",
+  "hanzi": "谁",
+  "pinyin": "shéi",
+  "pos": "đại từ",
+  "meaning": "ai",
+  "level": 1
+ },
+ {
+  "id": "1-0326",
+  "hanzi": "身上",
+  "pinyin": "shēnshang",
+  "pos": "danh từ",
+  "meaning": "trên người",
+  "level": 1
+ },
+ {
+  "id": "1-0327",
+  "hanzi": "身体",
+  "pinyin": "shēntǐ",
+  "pos": "danh từ",
+  "meaning": "cơ thể, sức khỏe",
+  "level": 1
+ },
+ {
+  "id": "1-0328",
+  "hanzi": "什么",
+  "pinyin": "shénme",
+  "pos": "đại từ",
+  "meaning": "cái gì",
+  "level": 1
+ },
+ {
+  "id": "1-0329",
+  "hanzi": "生病",
+  "pinyin": "shēngbìng",
+  "pos": "cụm từ",
+  "meaning": "bị bệnh, ốm",
+  "level": 1
+ },
+ {
+  "id": "1-0330",
+  "hanzi": "生气",
+  "pinyin": "shēngqì",
+  "pos": "cụm từ",
+  "meaning": "tức giận",
+  "level": 1
+ },
+ {
+  "id": "1-0331",
+  "hanzi": "生日",
+  "pinyin": "shēngrì",
+  "pos": "danh từ",
+  "meaning": "sinh nhật",
+  "level": 1
+ },
+ {
+  "id": "1-0332",
+  "hanzi": "十",
+  "pinyin": "shí",
+  "pos": "số từ",
+  "meaning": "số 10 (mười)",
+  "level": 1
+ },
+ {
+  "id": "1-0333",
+  "hanzi": "时候",
+  "pinyin": "shíhou",
+  "pos": "danh từ",
+  "meaning": "lúc, khi",
+  "level": 1
+ },
+ {
+  "id": "1-0334",
+  "hanzi": "时间",
+  "pinyin": "shíjiān",
+  "pos": "danh từ",
+  "meaning": "thời gian",
+  "level": 1
+ },
+ {
+  "id": "1-0335",
+  "hanzi": "事",
+  "pinyin": "shì",
+  "pos": "danh từ",
+  "meaning": "việc, chuyện",
+  "level": 1
+ },
+ {
+  "id": "1-0336",
+  "hanzi": "试",
+  "pinyin": "shì",
+  "pos": "động từ",
+  "meaning": "thử",
+  "level": 1
+ },
+ {
+  "id": "1-0337",
+  "hanzi": "是",
+  "pinyin": "shì",
+  "pos": "động từ",
+  "meaning": "là",
+  "level": 1
+ },
+ {
+  "id": "1-0338",
+  "hanzi": "是不是",
+  "pinyin": "shì bu shì",
+  "pos": "cụm từ",
+  "meaning": "phải không?",
+  "level": 1
+ },
+ {
+  "id": "1-0339",
+  "hanzi": "手",
+  "pinyin": "shǒu",
+  "pos": "danh từ",
+  "meaning": "tay",
+  "level": 1
+ },
+ {
+  "id": "1-0340",
+  "hanzi": "手机",
+  "pinyin": "shǒujī",
+  "pos": "danh từ",
+  "meaning": "điện thoại di động",
+  "level": 1
+ },
+ {
+  "id": "1-0341",
+  "hanzi": "书",
+  "pinyin": "shū",
+  "pos": "danh từ",
+  "meaning": "sách",
+  "level": 1
+ },
+ {
+  "id": "1-0342",
+  "hanzi": "书包",
+  "pinyin": "shūbāo",
+  "pos": "danh từ",
+  "meaning": "cặp sách",
+  "level": 1
+ },
+ {
+  "id": "1-0343",
+  "hanzi": "书店",
+  "pinyin": "shūdiàn",
+  "pos": "danh từ",
+  "meaning": "hiệu sách",
+  "level": 1
+ },
+ {
+  "id": "1-0344",
+  "hanzi": "树",
+  "pinyin": "shù",
+  "pos": "danh từ",
+  "meaning": "cây",
+  "level": 1
+ },
+ {
+  "id": "1-0345",
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "pos": "danh từ",
+  "meaning": "nước",
+  "level": 1
+ },
+ {
+  "id": "1-0346",
+  "hanzi": "水果",
+  "pinyin": "shuǐguǒ",
+  "pos": "danh từ",
+  "meaning": "hoa quả, trái cây",
+  "level": 1
+ },
+ {
+  "id": "1-0347",
+  "hanzi": "睡",
+  "pinyin": "shuì",
+  "pos": "động từ",
+  "meaning": "ngủ (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0348",
+  "hanzi": "睡觉",
+  "pinyin": "shuìjiào",
+  "pos": "cụm từ",
+  "meaning": "đi ngủ",
+  "level": 1
+ },
+ {
+  "id": "1-0349",
+  "hanzi": "说",
+  "pinyin": "shuō",
+  "pos": "động từ",
+  "meaning": "nói",
+  "level": 1
+ },
+ {
+  "id": "1-0350",
+  "hanzi": "说话",
+  "pinyin": "shuōhuà",
+  "pos": "cụm từ",
+  "meaning": "nói chuyện",
+  "level": 1
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0701",
+  "hanzi": "云",
+  "pinyin": "yún",
+  "pos": "danh từ",
+  "meaning": "mây",
+  "level": 2
+ },
+ {
+  "id": "2-0702",
+  "hanzi": "运动",
+  "pinyin": "yùndòng",
+  "pos": "động từ, danh từ",
+  "meaning": "vận động, thể thao",
+  "level": 2
+ },
+ {
+  "id": "2-0703",
+  "hanzi": "咱",
+  "pinyin": "zán",
+  "pos": "đại từ",
+  "meaning": "chúng ta (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0704",
+  "hanzi": "咱们",
+  "pinyin": "zánmen",
+  "pos": "đại từ",
+  "meaning": "chúng ta",
+  "level": 2
+ },
+ {
+  "id": "2-0705",
+  "hanzi": "脏",
+  "pinyin": "zāng",
+  "pos": "tính từ",
+  "meaning": "bẩn",
+  "level": 2
+ },
+ {
+  "id": "2-0706",
+  "hanzi": "早餐",
+  "pinyin": "zǎocān",
+  "pos": "danh từ",
+  "meaning": "bữa sáng (早餐)",
+  "level": 2
+ },
+ {
+  "id": "2-0707",
+  "hanzi": "早晨",
+  "pinyin": "zǎochen",
+  "pos": "danh từ",
+  "meaning": "sáng sớm (早晨)",
+  "level": 2
+ },
+ {
+  "id": "2-0708",
+  "hanzi": "早就",
+  "pinyin": "zǎo jiù",
+  "pos": "cụm từ",
+  "meaning": "đã ... từ lâu",
+  "level": 2
+ },
+ {
+  "id": "2-0709",
+  "hanzi": "怎么办",
+  "pinyin": "zěnme bàn",
+  "pos": "cụm từ",
+  "meaning": "làm sao bây giờ",
+  "level": 2
+ },
+ {
+  "id": "2-0710",
+  "hanzi": "怎么样",
+  "pinyin": "zěnmeyàng",
+  "pos": "đại từ",
+  "meaning": "thế nào (怎么样)",
+  "level": 2
+ },
+ {
+  "id": "2-0711",
+  "hanzi": "怎样",
+  "pinyin": "zěnyàng",
+  "pos": "đại từ",
+  "meaning": "như thế nào (怎样)",
+  "level": 2
+ },
+ {
+  "id": "2-0712",
+  "hanzi": "占",
+  "pinyin": "zhàn",
+  "pos": "động từ",
+  "meaning": "chiếm, giữ (chỗ)",
+  "level": 2
+ },
+ {
+  "id": "2-0713",
+  "hanzi": "站",
+  "pinyin": "zhàn",
+  "pos": "động từ",
+  "meaning": "đứng",
+  "level": 2
+ },
+ {
+  "id": "2-0714",
+  "hanzi": "站住",
+  "pinyin": "zhànzhù",
+  "pos": "cụm từ",
+  "meaning": "đứng lại",
+  "level": 2
+ },
+ {
+  "id": "2-0715",
+  "hanzi": "长",
+  "pinyin": "zhǎng",
+  "pos": "động từ",
+  "meaning": "lớn lên, mọc",
+  "level": 2
+ },
+ {
+  "id": "2-0716",
+  "hanzi": "长大",
+  "pinyin": "zhǎngdà",
+  "pos": "cụm từ",
+  "meaning": "lớn lên, trưởng thành",
+  "level": 2
+ },
+ {
+  "id": "2-0717",
+  "hanzi": "找出",
+  "pinyin": "zhǎochū",
+  "pos": "cụm từ",
+  "meaning": "tìm ra",
+  "level": 2
+ },
+ {
+  "id": "2-0718",
+  "hanzi": "照顾",
+  "pinyin": "zhàogù",
+  "pos": "động từ",
+  "meaning": "chăm sóc",
+  "level": 2
+ },
+ {
+  "id": "2-0719",
+  "hanzi": "照片",
+  "pinyin": "zhàopiàn",
+  "pos": "danh từ",
+  "meaning": "bức ảnh",
+  "level": 2
+ },
+ {
+  "id": "2-0720",
+  "hanzi": "照相",
+  "pinyin": "zhàoxiàng",
+  "pos": "cụm từ",
+  "meaning": "chụp ảnh",
+  "level": 2
+ },
+ {
+  "id": "2-0721",
+  "hanzi": "这么",
+  "pinyin": "zhème",
+  "pos": "đại từ",
+  "meaning": "như thế này (这么)",
+  "level": 2
+ },
+ {
+  "id": "2-0722",
+  "hanzi": "这时候",
+  "pinyin": "zhè shíhou",
+  "pos": "cụm từ",
+  "meaning": "lúc này",
+  "level": 2
+ },
+ {
+  "id": "2-0723",
+  "hanzi": "这样",
+  "pinyin": "zhèyàng",
+  "pos": "đại từ",
+  "meaning": "như vậy, như thế này (这样)",
+  "level": 2
+ },
+ {
+  "id": "2-0724",
+  "hanzi": "真正",
+  "pinyin": "zhēnzhèng",
+  "pos": "tính từ",
+  "meaning": "chân chính, thật sự",
+  "level": 2
+ },
+ {
+  "id": "2-0725",
+  "hanzi": "正常",
+  "pinyin": "zhèngcháng",
+  "pos": "tính từ",
+  "meaning": "bình thường (đúng chuẩn)",
+  "level": 2
+ },
+ {
+  "id": "2-0726",
+  "hanzi": "正好",
+  "pinyin": "zhènghǎo",
+  "pos": "tính từ, phó từ",
+  "meaning": "vừa đúng, vừa hay",
+  "level": 2
+ },
+ {
+  "id": "2-0727",
+  "hanzi": "正确",
+  "pinyin": "zhèngquè",
+  "pos": "tính từ",
+  "meaning": "đúng đắn, chính xác (正确)",
+  "level": 2
+ },
+ {
+  "id": "2-0728",
+  "hanzi": "正是",
+  "pinyin": "zhèng shì",
+  "pos": "cụm từ",
+  "meaning": "chính là",
+  "level": 2
+ },
+ {
+  "id": "2-0729",
+  "hanzi": "直接",
+  "pinyin": "zhíjiē",
+  "pos": "tính từ",
+  "meaning": "trực tiếp",
+  "level": 2
+ },
+ {
+  "id": "2-0730",
+  "hanzi": "只",
+  "pinyin": "zhǐ",
+  "pos": "phó từ",
+  "meaning": "chỉ",
+  "level": 2
+ },
+ {
+  "id": "2-0731",
+  "hanzi": "只能",
+  "pinyin": "zhǐ néng",
+  "pos": "cụm từ",
+  "meaning": "chỉ có thể",
+  "level": 2
+ },
+ {
+  "id": "2-0732",
+  "hanzi": "只要",
+  "pinyin": "zhǐyào",
+  "pos": "liên từ",
+  "meaning": "chỉ cần",
+  "level": 2
+ },
+ {
+  "id": "2-0733",
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "pos": "danh từ",
+  "meaning": "giấy",
+  "level": 2
+ },
+ {
+  "id": "2-0734",
+  "hanzi": "中餐",
+  "pinyin": "zhōngcān",
+  "pos": "danh từ",
+  "meaning": "món ăn Trung Quốc",
+  "level": 2
+ },
+ {
+  "id": "2-0735",
+  "hanzi": "中级",
+  "pinyin": "zhōngjí",
+  "pos": "tính từ",
+  "meaning": "trung cấp",
+  "level": 2
+ },
+ {
+  "id": "2-0736",
+  "hanzi": "中年",
+  "pinyin": "zhōngnián",
+  "pos": "danh từ",
+  "meaning": "trung niên",
+  "level": 2
+ },
+ {
+  "id": "2-0737",
+  "hanzi": "中小学",
+  "pinyin": "zhōngxiǎoxué",
+  "pos": "cụm từ",
+  "meaning": "trường tiểu học và trung học",
+  "level": 2
+ },
+ {
+  "id": "2-0738",
+  "hanzi": "中心",
+  "pinyin": "zhōngxīn",
+  "pos": "danh từ",
+  "meaning": "trung tâm",
+  "level": 2
+ },
+ {
+  "id": "2-0739",
+  "hanzi": "中医",
+  "pinyin": "zhōngyī",
+  "pos": "danh từ",
+  "meaning": "Đông y, Trung y",
+  "level": 2
+ },
+ {
+  "id": "2-0740",
+  "hanzi": "重点",
+  "pinyin": "zhòngdiǎn",
+  "pos": "danh từ, phó từ",
+  "meaning": "trọng điểm",
+  "level": 2
+ },
+ {
+  "id": "2-0741",
+  "hanzi": "重视",
+  "pinyin": "zhòngshì",
+  "pos": "động từ",
+  "meaning": "coi trọng",
+  "level": 2
+ },
+ {
+  "id": "2-0742",
+  "hanzi": "周",
+  "pinyin": "zhōu",
+  "pos": "lượng từ",
+  "meaning": "tuần (周)",
+  "level": 2
+ },
+ {
+  "id": "2-0743",
+  "hanzi": "周末",
+  "pinyin": "zhōumò",
+  "pos": "danh từ",
+  "meaning": "cuối tuần",
+  "level": 2
+ },
+ {
+  "id": "2-0744",
+  "hanzi": "周年",
+  "pinyin": "zhōunián",
+  "pos": "danh từ",
+  "meaning": "tròn năm, kỷ niệm (năm)",
+  "level": 2
+ },
+ {
+  "id": "2-0745",
+  "hanzi": "主人",
+  "pinyin": "zhǔrén",
+  "pos": "danh từ",
+  "meaning": "chủ nhân, chủ nhà",
+  "level": 2
+ },
+ {
+  "id": "2-0746",
+  "hanzi": "主要",
+  "pinyin": "zhǔyào",
+  "pos": "tính từ",
+  "meaning": "chủ yếu",
+  "level": 2
+ },
+ {
+  "id": "2-0747",
+  "hanzi": "住房",
+  "pinyin": "zhùfáng",
+  "pos": "danh từ",
+  "meaning": "nhà ở",
+  "level": 2
+ },
+ {
+  "id": "2-0748",
+  "hanzi": "住院",
+  "pinyin": "zhùyuàn",
+  "pos": "cụm từ",
+  "meaning": "nằm viện, nhập viện",
+  "level": 2
+ },
+ {
+  "id": "2-0749",
+  "hanzi": "装",
+  "pinyin": "zhuāng",
+  "pos": "động từ",
+  "meaning": "lắp đặt; chứa, đựng",
+  "level": 2
+ },
+ {
+  "id": "2-0750",
+  "hanzi": "准确",
+  "pinyin": "zhǔnquè",
+  "pos": "tính từ",
+  "meaning": "chính xác (准确)",
+  "level": 2
+ }
+]

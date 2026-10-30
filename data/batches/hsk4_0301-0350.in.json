@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0301",
+  "hanzi": "过分",
+  "pinyin": "guòfèn",
+  "pos": "",
+  "meaning": "quá đáng",
+  "level": 4
+ },
+ {
+  "id": "4-0302",
+  "hanzi": "海水",
+  "pinyin": "hǎishuǐ",
+  "pos": "",
+  "meaning": "nước biển",
+  "level": 4
+ },
+ {
+  "id": "4-0303",
+  "hanzi": "海鲜",
+  "pinyin": "hǎixiān",
+  "pos": "",
+  "meaning": "hải sản",
+  "level": 4
+ },
+ {
+  "id": "4-0304",
+  "hanzi": "含",
+  "pinyin": "hán",
+  "pos": "",
+  "meaning": "chứa",
+  "level": 4
+ },
+ {
+  "id": "4-0305",
+  "hanzi": "含量",
+  "pinyin": "hánliàng",
+  "pos": "",
+  "meaning": "hàm lượng",
+  "level": 4
+ },
+ {
+  "id": "4-0306",
+  "hanzi": "含义",
+  "pinyin": "hányì",
+  "pos": "",
+  "meaning": "hàm ý",
+  "level": 4
+ },
+ {
+  "id": "4-0307",
+  "hanzi": "含有",
+  "pinyin": "hányǒu",
+  "pos": "",
+  "meaning": "có chứa",
+  "level": 4
+ },
+ {
+  "id": "4-0308",
+  "hanzi": "寒假",
+  "pinyin": "hánjià",
+  "pos": "",
+  "meaning": "kỳ nghỉ đông",
+  "level": 4
+ },
+ {
+  "id": "4-0309",
+  "hanzi": "寒冷",
+  "pinyin": "hánlěng",
+  "pos": "",
+  "meaning": "lạnh buốt",
+  "level": 4
+ },
+ {
+  "id": "4-0310",
+  "hanzi": "行业",
+  "pinyin": "hángyè",
+  "pos": "",
+  "meaning": "ngành nghề",
+  "level": 4
+ },
+ {
+  "id": "4-0311",
+  "hanzi": "航班",
+  "pinyin": "hángbān",
+  "pos": "",
+  "meaning": "chuyến bay",
+  "level": 4
+ },
+ {
+  "id": "4-0312",
+  "hanzi": "航空",
+  "pinyin": "hángkōng",
+  "pos": "",
+  "meaning": "hàng không",
+  "level": 4
+ },
+ {
+  "id": "4-0313",
+  "hanzi": "毫米",
+  "pinyin": "háomǐ",
+  "pos": "",
+  "meaning": "milimét",
+  "level": 4
+ },
+ {
+  "id": "4-0314",
+  "hanzi": "毫升",
+  "pinyin": "háoshēng",
+  "pos": "",
+  "meaning": "mililít",
+  "level": 4
+ },
+ {
+  "id": "4-0315",
+  "hanzi": "好友",
+  "pinyin": "hǎoyǒu",
+  "pos": "",
+  "meaning": "bạn thân",
+  "level": 4
+ },
+ {
+  "id": "4-0316",
+  "hanzi": "号码",
+  "pinyin": "hàomǎ",
+  "pos": "",
+  "meaning": "số (điện thoại, phòng...)",
+  "level": 4
+ },
+ {
+  "id": "4-0317",
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "pos": "",
+  "meaning": "thích, ưa (hào)",
+  "level": 4
+ },
+ {
+  "id": "4-0318",
+  "hanzi": "合同",
+  "pinyin": "hétong",
+  "pos": "",
+  "meaning": "hợp đồng",
+  "level": 4
+ },
+ {
+  "id": "4-0319",
+  "hanzi": "黑暗",
+  "pinyin": "hēi'àn",
+  "pos": "",
+  "meaning": "bóng tối",
+  "level": 4
+ },
+ {
+  "id": "4-0320",
+  "hanzi": "红包",
+  "pinyin": "hóngbāo",
+  "pos": "",
+  "meaning": "bao lì xì",
+  "level": 4
+ },
+ {
+  "id": "4-0321",
+  "hanzi": "后头",
+  "pinyin": "hòutou",
+  "pos": "",
+  "meaning": "phía sau",
+  "level": 4
+ },
+ {
+  "id": "4-0322",
+  "hanzi": "厚",
+  "pinyin": "hòu",
+  "pos": "",
+  "meaning": "dày",
+  "level": 4
+ },
+ {
+  "id": "4-0323",
+  "hanzi": "呼吸",
+  "pinyin": "hūxī",
+  "pos": "",
+  "meaning": "hô hấp",
+  "level": 4
+ },
+ {
+  "id": "4-0324",
+  "hanzi": "忽视",
+  "pinyin": "hūshì",
+  "pos": "",
+  "meaning": "xem nhẹ",
+  "level": 4
+ },
+ {
+  "id": "4-0325",
+  "hanzi": "户",
+  "pinyin": "hù",
+  "pos": "",
+  "meaning": "hộ",
+  "level": 4
+ },
+ {
+  "id": "4-0326",
+  "hanzi": "护士",
+  "pinyin": "hùshi",
+  "pos": "",
+  "meaning": "y tá",
+  "level": 4
+ },
+ {
+  "id": "4-0327",
+  "hanzi": "花",
+  "pinyin": "huā",
+  "pos": "tính từ",
+  "meaning": "hoa, sặc sỡ (tính từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0328",
+  "hanzi": "划",
+  "pinyin": "huá",
+  "pos": "",
+  "meaning": "chèo",
+  "level": 4
+ },
+ {
+  "id": "4-0329",
+  "hanzi": "划",
+  "pinyin": "huà",
+  "pos": "",
+  "meaning": "phân chia",
+  "level": 4
+ },
+ {
+  "id": "4-0330",
+  "hanzi": "怀念",
+  "pinyin": "huáiniàn",
+  "pos": "",
+  "meaning": "nhớ",
+  "level": 4
+ },
+ {
+  "id": "4-0331",
+  "hanzi": "怀疑",
+  "pinyin": "huáiyí",
+  "pos": "",
+  "meaning": "nghi ngờ",
+  "level": 4
+ },
+ {
+  "id": "4-0332",
+  "hanzi": "缓解",
+  "pinyin": "huǎnjiě",
+  "pos": "",
+  "meaning": "làm dịu",
+  "level": 4
+ },
+ {
+  "id": "4-0333",
+  "hanzi": "黄瓜",
+  "pinyin": "huángguā",
+  "pos": "",
+  "meaning": "dưa chuột",
+  "level": 4
+ },
+ {
+  "id": "4-0334",
+  "hanzi": "黄金",
+  "pinyin": "huángjīn",
+  "pos": "",
+  "meaning": "vàng",
+  "level": 4
+ },
+ {
+  "id": "4-0335",
+  "hanzi": "回复",
+  "pinyin": "huífù",
+  "pos": "",
+  "meaning": "hồi đáp",
+  "level": 4
+ },
+ {
+  "id": "4-0336",
+  "hanzi": "汇",
+  "pinyin": "huì",
+  "pos": "",
+  "meaning": "chuyển (tiền), hội tụ",
+  "level": 4
+ },
+ {
+  "id": "4-0337",
+  "hanzi": "汇报",
+  "pinyin": "huìbào",
+  "pos": "",
+  "meaning": "báo cáo",
+  "level": 4
+ },
+ {
+  "id": "4-0338",
+  "hanzi": "汇率",
+  "pinyin": "huìlǜ",
+  "pos": "",
+  "meaning": "tỷ giá hối đoái",
+  "level": 4
+ },
+ {
+  "id": "4-0339",
+  "hanzi": "婚礼",
+  "pinyin": "hūnlǐ",
+  "pos": "",
+  "meaning": "lễ cưới",
+  "level": 4
+ },
+ {
+  "id": "4-0340",
+  "hanzi": "火",
+  "pinyin": "huǒ",
+  "pos": "tính từ",
+  "meaning": "lửa, nóng bỏng (tính từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0341",
+  "hanzi": "伙",
+  "pinyin": "huǒ",
+  "pos": "",
+  "meaning": "đồng bọn",
+  "level": 4
+ },
+ {
+  "id": "4-0342",
+  "hanzi": "伙伴",
+  "pinyin": "huǒbàn",
+  "pos": "",
+  "meaning": "đối tác",
+  "level": 4
+ },
+ {
+  "id": "4-0343",
+  "hanzi": "或许",
+  "pinyin": "huòxǔ",
+  "pos": "",
+  "meaning": "có thể",
+  "level": 4
+ },
+ {
+  "id": "4-0344",
+  "hanzi": "货",
+  "pinyin": "huò",
+  "pos": "",
+  "meaning": "hàng hóa",
+  "level": 4
+ },
+ {
+  "id": "4-0345",
+  "hanzi": "获",
+  "pinyin": "huò",
+  "pos": "",
+  "meaning": "đạt được",
+  "level": 4
+ },
+ {
+  "id": "4-0346",
+  "hanzi": "获得",
+  "pinyin": "huòdé",
+  "pos": "",
+  "meaning": "có được",
+  "level": 4
+ },
+ {
+  "id": "4-0347",
+  "hanzi": "获奖",
+  "pinyin": "huòjiǎng",
+  "pos": "",
+  "meaning": "đạt giải",
+  "level": 4
+ },
+ {
+  "id": "4-0348",
+  "hanzi": "获取",
+  "pinyin": "huòqǔ",
+  "pos": "",
+  "meaning": "lấy được",
+  "level": 4
+ },
+ {
+  "id": "4-0349",
+  "hanzi": "几乎",
+  "pinyin": "jīhū",
+  "pos": "",
+  "meaning": "gần như",
+  "level": 4
+ },
+ {
+  "id": "4-0350",
+  "hanzi": "机构",
+  "pinyin": "jīgòu",
+  "pos": "",
+  "meaning": "cơ quan, tổ chức",
+  "level": 4
+ }
+]

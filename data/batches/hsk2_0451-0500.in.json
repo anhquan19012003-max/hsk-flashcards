@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0451",
+  "hanzi": "取得",
+  "pinyin": "qǔdé",
+  "pos": "động từ",
+  "meaning": "giành được, đạt được",
+  "level": 2
+ },
+ {
+  "id": "2-0452",
+  "hanzi": "全",
+  "pinyin": "quán",
+  "pos": "phó từ, tính từ",
+  "meaning": "toàn bộ, hoàn toàn (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0453",
+  "hanzi": "全部",
+  "pinyin": "quánbù",
+  "pos": "danh từ",
+  "meaning": "toàn bộ, tất cả (全部)",
+  "level": 2
+ },
+ {
+  "id": "2-0454",
+  "hanzi": "全国",
+  "pinyin": "quánguó",
+  "pos": "danh từ",
+  "meaning": "toàn quốc",
+  "level": 2
+ },
+ {
+  "id": "2-0455",
+  "hanzi": "全家",
+  "pinyin": "quánjiā",
+  "pos": "danh từ",
+  "meaning": "cả nhà",
+  "level": 2
+ },
+ {
+  "id": "2-0456",
+  "hanzi": "全年",
+  "pinyin": "quánnián",
+  "pos": "danh từ",
+  "meaning": "cả năm",
+  "level": 2
+ },
+ {
+  "id": "2-0457",
+  "hanzi": "全身",
+  "pinyin": "quánshēn",
+  "pos": "danh từ",
+  "meaning": "toàn thân",
+  "level": 2
+ },
+ {
+  "id": "2-0458",
+  "hanzi": "全体",
+  "pinyin": "quántǐ",
+  "pos": "danh từ",
+  "meaning": "toàn thể",
+  "level": 2
+ },
+ {
+  "id": "2-0459",
+  "hanzi": "然后",
+  "pinyin": "ránhòu",
+  "pos": "liên từ",
+  "meaning": "sau đó, rồi",
+  "level": 2
+ },
+ {
+  "id": "2-0460",
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "pos": "động từ, giới từ",
+  "meaning": "bảo, để, khiến (ai làm gì)",
+  "level": 2
+ },
+ {
+  "id": "2-0461",
+  "hanzi": "热情",
+  "pinyin": "rèqíng",
+  "pos": "danh từ, tính từ",
+  "meaning": "nhiệt tình",
+  "level": 2
+ },
+ {
+  "id": "2-0462",
+  "hanzi": "人口",
+  "pinyin": "rénkǒu",
+  "pos": "danh từ",
+  "meaning": "dân số",
+  "level": 2
+ },
+ {
+  "id": "2-0463",
+  "hanzi": "人们",
+  "pinyin": "rénmen",
+  "pos": "danh từ",
+  "meaning": "người ta, mọi người (人们)",
+  "level": 2
+ },
+ {
+  "id": "2-0464",
+  "hanzi": "人数",
+  "pinyin": "rénshù",
+  "pos": "danh từ",
+  "meaning": "số người",
+  "level": 2
+ },
+ {
+  "id": "2-0465",
+  "hanzi": "认为",
+  "pinyin": "rènwéi",
+  "pos": "động từ",
+  "meaning": "cho rằng (认为)",
+  "level": 2
+ },
+ {
+  "id": "2-0466",
+  "hanzi": "日报",
+  "pinyin": "rìbào",
+  "pos": "danh từ",
+  "meaning": "nhật báo",
+  "level": 2
+ },
+ {
+  "id": "2-0467",
+  "hanzi": "日子",
+  "pinyin": "rìzi",
+  "pos": "danh từ",
+  "meaning": "ngày, cuộc sống (ngày tháng)",
+  "level": 2
+ },
+ {
+  "id": "2-0468",
+  "hanzi": "如果",
+  "pinyin": "rúguǒ",
+  "pos": "liên từ",
+  "meaning": "nếu như",
+  "level": 2
+ },
+ {
+  "id": "2-0469",
+  "hanzi": "入口",
+  "pinyin": "rùkǒu",
+  "pos": "danh từ",
+  "meaning": "lối vào",
+  "level": 2
+ },
+ {
+  "id": "2-0470",
+  "hanzi": "商量",
+  "pinyin": "shāngliang",
+  "pos": "động từ",
+  "meaning": "bàn bạc, thương lượng",
+  "level": 2
+ },
+ {
+  "id": "2-0471",
+  "hanzi": "商人",
+  "pinyin": "shāngrén",
+  "pos": "danh từ",
+  "meaning": "thương nhân, doanh nhân",
+  "level": 2
+ },
+ {
+  "id": "2-0472",
+  "hanzi": "上周",
+  "pinyin": "shàng zhōu",
+  "pos": "cụm từ",
+  "meaning": "tuần trước",
+  "level": 2
+ },
+ {
+  "id": "2-0473",
+  "hanzi": "少数",
+  "pinyin": "shǎoshù",
+  "pos": "danh từ",
+  "meaning": "thiểu số",
+  "level": 2
+ },
+ {
+  "id": "2-0474",
+  "hanzi": "少年",
+  "pinyin": "shàonián",
+  "pos": "danh từ",
+  "meaning": "thiếu niên",
+  "level": 2
+ },
+ {
+  "id": "2-0475",
+  "hanzi": "身边",
+  "pinyin": "shēnbiān",
+  "pos": "danh từ",
+  "meaning": "bên cạnh mình, bên người",
+  "level": 2
+ },
+ {
+  "id": "2-0476",
+  "hanzi": "什么样",
+  "pinyin": "shénmeyàng",
+  "pos": "đại từ",
+  "meaning": "như thế nào, kiểu gì (什么样)",
+  "level": 2
+ },
+ {
+  "id": "2-0477",
+  "hanzi": "生",
+  "pinyin": "shēng",
+  "pos": "động từ",
+  "meaning": "sinh, đẻ",
+  "level": 2
+ },
+ {
+  "id": "2-0478",
+  "hanzi": "生词",
+  "pinyin": "shēngcí",
+  "pos": "danh từ",
+  "meaning": "từ mới",
+  "level": 2
+ },
+ {
+  "id": "2-0479",
+  "hanzi": "生活",
+  "pinyin": "shēnghuó",
+  "pos": "danh từ, động từ",
+  "meaning": "cuộc sống; sinh sống",
+  "level": 2
+ },
+ {
+  "id": "2-0480",
+  "hanzi": "声音",
+  "pinyin": "shēngyīn",
+  "pos": "danh từ",
+  "meaning": "âm thanh, giọng",
+  "level": 2
+ },
+ {
+  "id": "2-0481",
+  "hanzi": "省",
+  "pinyin": "shěng",
+  "pos": "danh từ",
+  "meaning": "tỉnh",
+  "level": 2
+ },
+ {
+  "id": "2-0482",
+  "hanzi": "省",
+  "pinyin": "shěng",
+  "pos": "động từ",
+  "meaning": "tiết kiệm",
+  "level": 2
+ },
+ {
+  "id": "2-0483",
+  "hanzi": "十分",
+  "pinyin": "shífēn",
+  "pos": "phó từ",
+  "meaning": "rất, vô cùng (十分)",
+  "level": 2
+ },
+ {
+  "id": "2-0484",
+  "hanzi": "实际",
+  "pinyin": "shíjì",
+  "pos": "danh từ, tính từ",
+  "meaning": "thực tế",
+  "level": 2
+ },
+ {
+  "id": "2-0485",
+  "hanzi": "实习",
+  "pinyin": "shíxí",
+  "pos": "động từ, danh từ",
+  "meaning": "thực tập",
+  "level": 2
+ },
+ {
+  "id": "2-0486",
+  "hanzi": "实现",
+  "pinyin": "shíxiàn",
+  "pos": "động từ",
+  "meaning": "thực hiện (hiện thực hóa)",
+  "level": 2
+ },
+ {
+  "id": "2-0487",
+  "hanzi": "实在",
+  "pinyin": "shízài",
+  "pos": "phó từ",
+  "meaning": "thực sự, quả thật",
+  "level": 2
+ },
+ {
+  "id": "2-0488",
+  "hanzi": "实在",
+  "pinyin": "shízai",
+  "pos": "tính từ",
+  "meaning": "chân thật, thật thà",
+  "level": 2
+ },
+ {
+  "id": "2-0489",
+  "hanzi": "食物",
+  "pinyin": "shíwù",
+  "pos": "danh từ",
+  "meaning": "thức ăn, thực phẩm",
+  "level": 2
+ },
+ {
+  "id": "2-0490",
+  "hanzi": "使用",
+  "pinyin": "shǐyòng",
+  "pos": "động từ",
+  "meaning": "sử dụng",
+  "level": 2
+ },
+ {
+  "id": "2-0491",
+  "hanzi": "市",
+  "pinyin": "shì",
+  "pos": "danh từ",
+  "meaning": "thành phố, thị",
+  "level": 2
+ },
+ {
+  "id": "2-0492",
+  "hanzi": "市长",
+  "pinyin": "shìzhǎng",
+  "pos": "danh từ",
+  "meaning": "thị trưởng",
+  "level": 2
+ },
+ {
+  "id": "2-0493",
+  "hanzi": "事情",
+  "pinyin": "shìqing",
+  "pos": "danh từ",
+  "meaning": "sự việc, chuyện",
+  "level": 2
+ },
+ {
+  "id": "2-0494",
+  "hanzi": "收",
+  "pinyin": "shōu",
+  "pos": "động từ",
+  "meaning": "thu, nhận (1 chữ)",
+  "level": 2
+ },
+ {
+  "id": "2-0495",
+  "hanzi": "收到",
+  "pinyin": "shōudào",
+  "pos": "cụm từ",
+  "meaning": "nhận được (收到)",
+  "level": 2
+ },
+ {
+  "id": "2-0496",
+  "hanzi": "收入",
+  "pinyin": "shōurù",
+  "pos": "động từ, danh từ",
+  "meaning": "thu nhập",
+  "level": 2
+ },
+ {
+  "id": "2-0497",
+  "hanzi": "手表",
+  "pinyin": "shǒubiǎo",
+  "pos": "danh từ",
+  "meaning": "đồng hồ đeo tay",
+  "level": 2
+ },
+ {
+  "id": "2-0498",
+  "hanzi": "受到",
+  "pinyin": "shòudào",
+  "pos": "cụm từ",
+  "meaning": "nhận được, chịu (sự...)",
+  "level": 2
+ },
+ {
+  "id": "2-0499",
+  "hanzi": "舒服",
+  "pinyin": "shūfu",
+  "pos": "tính từ",
+  "meaning": "dễ chịu, thoải mái",
+  "level": 2
+ },
+ {
+  "id": "2-0500",
+  "hanzi": "熟",
+  "pinyin": "shú",
+  "pos": "tính từ",
+  "meaning": "chín; quen thuộc; thành thạo",
+  "level": 2
+ }
+]

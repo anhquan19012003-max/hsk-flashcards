@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0451",
+  "hanzi": "碎",
+  "pinyin": "suì",
+  "pos": "",
+  "meaning": "vỡ, vụn",
+  "level": 5
+ },
+ {
+  "id": "5-0452",
+  "hanzi": "损失",
+  "pinyin": "sǔnshī",
+  "pos": "",
+  "meaning": "tổn thất",
+  "level": 5
+ },
+ {
+  "id": "5-0453",
+  "hanzi": "锁",
+  "pinyin": "suǒ",
+  "pos": "",
+  "meaning": "khóa",
+  "level": 5
+ },
+ {
+  "id": "5-0454",
+  "hanzi": "台阶",
+  "pinyin": "táijiē",
+  "pos": "",
+  "meaning": "bậc thềm",
+  "level": 5
+ },
+ {
+  "id": "5-0455",
+  "hanzi": "太极拳",
+  "pinyin": "tàijíquán",
+  "pos": "",
+  "meaning": "thái cực quyền",
+  "level": 5
+ },
+ {
+  "id": "5-0456",
+  "hanzi": "逃",
+  "pinyin": "táo",
+  "pos": "",
+  "meaning": "bỏ trốn",
+  "level": 5
+ },
+ {
+  "id": "5-0457",
+  "hanzi": "淘气",
+  "pinyin": "táoqì",
+  "pos": "",
+  "meaning": "nghịch ngợm",
+  "level": 5
+ },
+ {
+  "id": "5-0458",
+  "hanzi": "讨价还价",
+  "pinyin": "tǎojiàhuánjià",
+  "pos": "",
+  "meaning": "mặc cả",
+  "level": 5
+ },
+ {
+  "id": "5-0459",
+  "hanzi": "套",
+  "pinyin": "tào",
+  "pos": "",
+  "meaning": "bộ, bộ sưu tập",
+  "level": 5
+ },
+ {
+  "id": "5-0460",
+  "hanzi": "特色",
+  "pinyin": "tèsè",
+  "pos": "",
+  "meaning": "đặc sắc",
+  "level": 5
+ },
+ {
+  "id": "5-0461",
+  "hanzi": "提倡",
+  "pinyin": "tíchàng",
+  "pos": "",
+  "meaning": "khuyến khích",
+  "level": 5
+ },
+ {
+  "id": "5-0462",
+  "hanzi": "题目",
+  "pinyin": "tímù",
+  "pos": "",
+  "meaning": "đề mục",
+  "level": 5
+ },
+ {
+  "id": "5-0463",
+  "hanzi": "体贴",
+  "pinyin": "tǐtiē",
+  "pos": "",
+  "meaning": "chu đáo",
+  "level": 5
+ },
+ {
+  "id": "5-0464",
+  "hanzi": "体验",
+  "pinyin": "tǐyàn",
+  "pos": "",
+  "meaning": "trải nghiệm",
+  "level": 5
+ },
+ {
+  "id": "5-0465",
+  "hanzi": "天空",
+  "pinyin": "tiānkōng",
+  "pos": "",
+  "meaning": "bầu trời",
+  "level": 5
+ },
+ {
+  "id": "5-0466",
+  "hanzi": "天真",
+  "pinyin": "tiānzhēn",
+  "pos": "",
+  "meaning": "ngây thơ",
+  "level": 5
+ },
+ {
+  "id": "5-0467",
+  "hanzi": "调整",
+  "pinyin": "tiáozhěng",
+  "pos": "",
+  "meaning": "điều chỉnh",
+  "level": 5
+ },
+ {
+  "id": "5-0468",
+  "hanzi": "通常",
+  "pinyin": "tōngcháng",
+  "pos": "",
+  "meaning": "thông thường",
+  "level": 5
+ },
+ {
+  "id": "5-0469",
+  "hanzi": "统一",
+  "pinyin": "tǒngyī",
+  "pos": "",
+  "meaning": "thống nhất",
+  "level": 5
+ },
+ {
+  "id": "5-0470",
+  "hanzi": "痛快",
+  "pinyin": "tòngkuài",
+  "pos": "",
+  "meaning": "sảng khoái",
+  "level": 5
+ },
+ {
+  "id": "5-0471",
+  "hanzi": "偷",
+  "pinyin": "tōu",
+  "pos": "",
+  "meaning": "trộm",
+  "level": 5
+ },
+ {
+  "id": "5-0472",
+  "hanzi": "投资",
+  "pinyin": "tóuzī",
+  "pos": "",
+  "meaning": "đầu tư",
+  "level": 5
+ },
+ {
+  "id": "5-0473",
+  "hanzi": "突出",
+  "pinyin": "tūchū",
+  "pos": "",
+  "meaning": "nổi bật",
+  "level": 5
+ },
+ {
+  "id": "5-0474",
+  "hanzi": "土豆",
+  "pinyin": "tǔdòu",
+  "pos": "",
+  "meaning": "khoai tây",
+  "level": 5
+ },
+ {
+  "id": "5-0475",
+  "hanzi": "兔子",
+  "pinyin": "tùzi",
+  "pos": "",
+  "meaning": "con thỏ",
+  "level": 5
+ },
+ {
+  "id": "5-0476",
+  "hanzi": "推辞",
+  "pinyin": "tuīcí",
+  "pos": "",
+  "meaning": "từ chối",
+  "level": 5
+ },
+ {
+  "id": "5-0477",
+  "hanzi": "推荐",
+  "pinyin": "tuījiàn",
+  "pos": "",
+  "meaning": "giới thiệu",
+  "level": 5
+ },
+ {
+  "id": "5-0478",
+  "hanzi": "退",
+  "pinyin": "tuì",
+  "pos": "",
+  "meaning": "trả lại / lùi lại",
+  "level": 5
+ },
+ {
+  "id": "5-0479",
+  "hanzi": "退休",
+  "pinyin": "tuìxiū",
+  "pos": "",
+  "meaning": "nghỉ hưu",
+  "level": 5
+ },
+ {
+  "id": "5-0480",
+  "hanzi": "外公",
+  "pinyin": "wàigōng",
+  "pos": "",
+  "meaning": "ông ngoại",
+  "level": 5
+ },
+ {
+  "id": "5-0481",
+  "hanzi": "完整",
+  "pinyin": "wánzhěng",
+  "pos": "",
+  "meaning": "toàn vẹn",
+  "level": 5
+ },
+ {
+  "id": "5-0482",
+  "hanzi": "玩具",
+  "pinyin": "wánjù",
+  "pos": "",
+  "meaning": "đồ chơi",
+  "level": 5
+ },
+ {
+  "id": "5-0483",
+  "hanzi": "万一",
+  "pinyin": "wànyī",
+  "pos": "",
+  "meaning": "nếu như, lỡ như",
+  "level": 5
+ },
+ {
+  "id": "5-0484",
+  "hanzi": "威胁",
+  "pinyin": "wēixié",
+  "pos": "",
+  "meaning": "đe dọa",
+  "level": 5
+ },
+ {
+  "id": "5-0485",
+  "hanzi": "维修",
+  "pinyin": "wéixiū",
+  "pos": "",
+  "meaning": "bảo trì, sửa chữa",
+  "level": 5
+ },
+ {
+  "id": "5-0486",
+  "hanzi": "围绕",
+  "pinyin": "wéirào",
+  "pos": "",
+  "meaning": "xoay quanh",
+  "level": 5
+ },
+ {
+  "id": "5-0487",
+  "hanzi": "尾巴",
+  "pinyin": "wěiba",
+  "pos": "",
+  "meaning": "cái đuôi",
+  "level": 5
+ },
+ {
+  "id": "5-0488",
+  "hanzi": "委屈",
+  "pinyin": "wěiqu",
+  "pos": "",
+  "meaning": "tủi thân",
+  "level": 5
+ },
+ {
+  "id": "5-0489",
+  "hanzi": "胃",
+  "pinyin": "wèi",
+  "pos": "",
+  "meaning": "dạ dày",
+  "level": 5
+ },
+ {
+  "id": "5-0490",
+  "hanzi": "位于",
+  "pinyin": "wèiyú",
+  "pos": "",
+  "meaning": "nằm ở",
+  "level": 5
+ },
+ {
+  "id": "5-0491",
+  "hanzi": "未必",
+  "pinyin": "wèibì",
+  "pos": "",
+  "meaning": "chưa chắc",
+  "level": 5
+ },
+ {
+  "id": "5-0492",
+  "hanzi": "温柔",
+  "pinyin": "wēnróu",
+  "pos": "",
+  "meaning": "dịu dàng",
+  "level": 5
+ },
+ {
+  "id": "5-0493",
+  "hanzi": "文具",
+  "pinyin": "wénjù",
+  "pos": "",
+  "meaning": "văn phòng phẩm",
+  "level": 5
+ },
+ {
+  "id": "5-0494",
+  "hanzi": "文学",
+  "pinyin": "wénxué",
+  "pos": "",
+  "meaning": "văn học",
+  "level": 5
+ },
+ {
+  "id": "5-0495",
+  "hanzi": "稳定",
+  "pinyin": "wěndìng",
+  "pos": "",
+  "meaning": "ổn định",
+  "level": 5
+ },
+ {
+  "id": "5-0496",
+  "hanzi": "问候",
+  "pinyin": "wènhòu",
+  "pos": "",
+  "meaning": "thăm hỏi",
+  "level": 5
+ },
+ {
+  "id": "5-0497",
+  "hanzi": "卧室",
+  "pinyin": "wòshì",
+  "pos": "",
+  "meaning": "phòng ngủ",
+  "level": 5
+ },
+ {
+  "id": "5-0498",
+  "hanzi": "无数",
+  "pinyin": "wúshù",
+  "pos": "",
+  "meaning": "vô số",
+  "level": 5
+ },
+ {
+  "id": "5-0499",
+  "hanzi": "勿",
+  "pinyin": "wù",
+  "pos": "",
+  "meaning": "đừng",
+  "level": 5
+ },
+ {
+  "id": "5-0500",
+  "hanzi": "物质",
+  "pinyin": "wùzhì",
+  "pos": "",
+  "meaning": "vật chất",
+  "level": 5
+ }
+]

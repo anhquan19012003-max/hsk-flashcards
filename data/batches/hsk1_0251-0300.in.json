@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0251",
+  "hanzi": "哪里",
+  "pinyin": "nǎlǐ",
+  "pos": "đại từ",
+  "meaning": "ở đâu",
+  "level": 1
+ },
+ {
+  "id": "1-0252",
+  "hanzi": "哪儿",
+  "pinyin": "nǎr",
+  "pos": "đại từ",
+  "meaning": "đâu, chỗ nào",
+  "level": 1
+ },
+ {
+  "id": "1-0253",
+  "hanzi": "哪些",
+  "pinyin": "nǎxiē",
+  "pos": "đại từ",
+  "meaning": "những cái nào",
+  "level": 1
+ },
+ {
+  "id": "1-0254",
+  "hanzi": "那",
+  "pinyin": "nà",
+  "pos": "đại từ",
+  "meaning": "kia, đó",
+  "level": 1
+ },
+ {
+  "id": "1-0255",
+  "hanzi": "那边",
+  "pinyin": "nàbiān",
+  "pos": "đại từ",
+  "meaning": "bên kia, bên đó",
+  "level": 1
+ },
+ {
+  "id": "1-0256",
+  "hanzi": "那里",
+  "pinyin": "nàlǐ",
+  "pos": "đại từ",
+  "meaning": "ở đó",
+  "level": 1
+ },
+ {
+  "id": "1-0257",
+  "hanzi": "那儿",
+  "pinyin": "nàr",
+  "pos": "đại từ",
+  "meaning": "chỗ kia, ở kia",
+  "level": 1
+ },
+ {
+  "id": "1-0258",
+  "hanzi": "那些",
+  "pinyin": "nàxiē",
+  "pos": "đại từ",
+  "meaning": "những ... đó",
+  "level": 1
+ },
+ {
+  "id": "1-0259",
+  "hanzi": "奶",
+  "pinyin": "nǎi",
+  "pos": "danh từ",
+  "meaning": "sữa (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0260",
+  "hanzi": "奶奶",
+  "pinyin": "nǎinai",
+  "pos": "danh từ",
+  "meaning": "bà nội",
+  "level": 1
+ },
+ {
+  "id": "1-0261",
+  "hanzi": "男",
+  "pinyin": "nán",
+  "pos": "tính từ",
+  "meaning": "nam (giới tính)",
+  "level": 1
+ },
+ {
+  "id": "1-0262",
+  "hanzi": "男孩儿",
+  "pinyin": "nánháir",
+  "pos": "danh từ",
+  "meaning": "bé trai",
+  "level": 1
+ },
+ {
+  "id": "1-0263",
+  "hanzi": "男朋友",
+  "pinyin": "nánpéngyou",
+  "pos": "danh từ",
+  "meaning": "bạn trai",
+  "level": 1
+ },
+ {
+  "id": "1-0264",
+  "hanzi": "男人",
+  "pinyin": "nánrén",
+  "pos": "danh từ",
+  "meaning": "đàn ông",
+  "level": 1
+ },
+ {
+  "id": "1-0265",
+  "hanzi": "男生",
+  "pinyin": "nánshēng",
+  "pos": "danh từ",
+  "meaning": "học sinh nam",
+  "level": 1
+ },
+ {
+  "id": "1-0266",
+  "hanzi": "南",
+  "pinyin": "nán",
+  "pos": "danh từ",
+  "meaning": "nam (hướng nam)",
+  "level": 1
+ },
+ {
+  "id": "1-0267",
+  "hanzi": "南边",
+  "pinyin": "nánbian",
+  "pos": "danh từ",
+  "meaning": "phía nam",
+  "level": 1
+ },
+ {
+  "id": "1-0268",
+  "hanzi": "难",
+  "pinyin": "nán",
+  "pos": "tính từ",
+  "meaning": "khó",
+  "level": 1
+ },
+ {
+  "id": "1-0269",
+  "hanzi": "呢",
+  "pinyin": "ne",
+  "pos": "trợ từ",
+  "meaning": "thì sao? còn...? (trợ từ)",
+  "level": 1
+ },
+ {
+  "id": "1-0270",
+  "hanzi": "能",
+  "pinyin": "néng",
+  "pos": "động từ",
+  "meaning": "có thể (năng lực/điều kiện)",
+  "level": 1
+ },
+ {
+  "id": "1-0271",
+  "hanzi": "你",
+  "pinyin": "nǐ",
+  "pos": "đại từ",
+  "meaning": "bạn (ngôi thứ 2)",
+  "level": 1
+ },
+ {
+  "id": "1-0272",
+  "hanzi": "你们",
+  "pinyin": "nǐmen",
+  "pos": "đại từ",
+  "meaning": "các bạn",
+  "level": 1
+ },
+ {
+  "id": "1-0273",
+  "hanzi": "年",
+  "pinyin": "nián",
+  "pos": "lượng từ",
+  "meaning": "năm",
+  "level": 1
+ },
+ {
+  "id": "1-0274",
+  "hanzi": "您",
+  "pinyin": "nín",
+  "pos": "đại từ",
+  "meaning": "ngài, ông/bà (kính trọng)",
+  "level": 1
+ },
+ {
+  "id": "1-0275",
+  "hanzi": "牛奶",
+  "pinyin": "niúnǎi",
+  "pos": "danh từ",
+  "meaning": "sữa bò",
+  "level": 1
+ },
+ {
+  "id": "1-0276",
+  "hanzi": "女",
+  "pinyin": "nǚ",
+  "pos": "tính từ",
+  "meaning": "nữ (giới tính)",
+  "level": 1
+ },
+ {
+  "id": "1-0277",
+  "hanzi": "女儿",
+  "pinyin": "nǚ'ér",
+  "pos": "danh từ",
+  "meaning": "con gái (của bố mẹ)",
+  "level": 1
+ },
+ {
+  "id": "1-0278",
+  "hanzi": "女孩儿",
+  "pinyin": "nǚháir",
+  "pos": "danh từ",
+  "meaning": "bé gái",
+  "level": 1
+ },
+ {
+  "id": "1-0279",
+  "hanzi": "女朋友",
+  "pinyin": "nǚpéngyou",
+  "pos": "danh từ",
+  "meaning": "bạn gái",
+  "level": 1
+ },
+ {
+  "id": "1-0280",
+  "hanzi": "女人",
+  "pinyin": "nǚrén",
+  "pos": "danh từ",
+  "meaning": "phụ nữ",
+  "level": 1
+ },
+ {
+  "id": "1-0281",
+  "hanzi": "女生",
+  "pinyin": "nǚshēng",
+  "pos": "danh từ",
+  "meaning": "nữ sinh",
+  "level": 1
+ },
+ {
+  "id": "1-0282",
+  "hanzi": "旁边",
+  "pinyin": "pángbiān",
+  "pos": "danh từ",
+  "meaning": "bên cạnh",
+  "level": 1
+ },
+ {
+  "id": "1-0283",
+  "hanzi": "跑",
+  "pinyin": "pǎo",
+  "pos": "động từ",
+  "meaning": "chạy",
+  "level": 1
+ },
+ {
+  "id": "1-0284",
+  "hanzi": "朋友",
+  "pinyin": "péngyou",
+  "pos": "danh từ",
+  "meaning": "bạn bè",
+  "level": 1
+ },
+ {
+  "id": "1-0285",
+  "hanzi": "票",
+  "pinyin": "piào",
+  "pos": "danh từ",
+  "meaning": "vé, phiếu",
+  "level": 1
+ },
+ {
+  "id": "1-0286",
+  "hanzi": "七",
+  "pinyin": "qī",
+  "pos": "số từ",
+  "meaning": "số 7 (bảy)",
+  "level": 1
+ },
+ {
+  "id": "1-0287",
+  "hanzi": "起",
+  "pinyin": "qǐ",
+  "pos": "động từ",
+  "meaning": "dậy, đứng lên",
+  "level": 1
+ },
+ {
+  "id": "1-0288",
+  "hanzi": "起床",
+  "pinyin": "qǐchuáng",
+  "pos": "cụm từ",
+  "meaning": "thức dậy (rời giường)",
+  "level": 1
+ },
+ {
+  "id": "1-0289",
+  "hanzi": "起来",
+  "pinyin": "qǐlái",
+  "pos": "cụm từ",
+  "meaning": "đứng dậy, ngồi dậy",
+  "level": 1
+ },
+ {
+  "id": "1-0290",
+  "hanzi": "汽车",
+  "pinyin": "qìchē",
+  "pos": "danh từ",
+  "meaning": "ô tô",
+  "level": 1
+ },
+ {
+  "id": "1-0291",
+  "hanzi": "前",
+  "pinyin": "qián",
+  "pos": "danh từ",
+  "meaning": "trước, phía trước (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0292",
+  "hanzi": "前边",
+  "pinyin": "qiánbian",
+  "pos": "danh từ",
+  "meaning": "đằng trước",
+  "level": 1
+ },
+ {
+  "id": "1-0293",
+  "hanzi": "前天",
+  "pinyin": "qiántiān",
+  "pos": "danh từ",
+  "meaning": "hôm kia",
+  "level": 1
+ },
+ {
+  "id": "1-0294",
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "pos": "danh từ",
+  "meaning": "tiền",
+  "level": 1
+ },
+ {
+  "id": "1-0295",
+  "hanzi": "钱包",
+  "pinyin": "qiánbāo",
+  "pos": "danh từ",
+  "meaning": "ví tiền",
+  "level": 1
+ },
+ {
+  "id": "1-0296",
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "pos": "động từ",
+  "meaning": "mời, xin",
+  "level": 1
+ },
+ {
+  "id": "1-0297",
+  "hanzi": "请假",
+  "pinyin": "qǐngjià",
+  "pos": "cụm từ",
+  "meaning": "xin nghỉ phép",
+  "level": 1
+ },
+ {
+  "id": "1-0298",
+  "hanzi": "请进",
+  "pinyin": "qǐng jìn",
+  "pos": "cụm từ",
+  "meaning": "mời vào",
+  "level": 1
+ },
+ {
+  "id": "1-0299",
+  "hanzi": "请问",
+  "pinyin": "qǐngwèn",
+  "pos": "động từ",
+  "meaning": "xin hỏi",
+  "level": 1
+ },
+ {
+  "id": "1-0300",
+  "hanzi": "请坐",
+  "pinyin": "qǐng zuò",
+  "pos": "cụm từ",
+  "meaning": "mời ngồi",
+  "level": 1
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "2-0251",
+  "hanzi": "级",
+  "pinyin": "jí",
+  "pos": "danh từ",
+  "meaning": "cấp, bậc",
+  "level": 2
+ },
+ {
+  "id": "2-0252",
+  "hanzi": "急",
+  "pinyin": "jí",
+  "pos": "tính từ",
+  "meaning": "gấp, vội; sốt ruột",
+  "level": 2
+ },
+ {
+  "id": "2-0253",
+  "hanzi": "计划",
+  "pinyin": "jìhuà",
+  "pos": "danh từ, động từ",
+  "meaning": "kế hoạch; lên kế hoạch",
+  "level": 2
+ },
+ {
+  "id": "2-0254",
+  "hanzi": "计算机",
+  "pinyin": "jìsuànjī",
+  "pos": "danh từ",
+  "meaning": "máy vi tính (计算机)",
+  "level": 2
+ },
+ {
+  "id": "2-0255",
+  "hanzi": "加",
+  "pinyin": "jiā",
+  "pos": "động từ",
+  "meaning": "cộng, thêm",
+  "level": 2
+ },
+ {
+  "id": "2-0256",
+  "hanzi": "加油",
+  "pinyin": "jiāyóu",
+  "pos": "cụm từ",
+  "meaning": "cố lên; đổ xăng",
+  "level": 2
+ },
+ {
+  "id": "2-0257",
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "pos": "hậu tố",
+  "meaning": "nhà (nghề nghiệp, VD: nhà khoa học)",
+  "level": 2
+ },
+ {
+  "id": "2-0258",
+  "hanzi": "家庭",
+  "pinyin": "jiātíng",
+  "pos": "danh từ",
+  "meaning": "gia đình",
+  "level": 2
+ },
+ {
+  "id": "2-0259",
+  "hanzi": "家长",
+  "pinyin": "jiāzhǎng",
+  "pos": "danh từ",
+  "meaning": "phụ huynh",
+  "level": 2
+ },
+ {
+  "id": "2-0260",
+  "hanzi": "假",
+  "pinyin": "jiǎ",
+  "pos": "tính từ",
+  "meaning": "giả",
+  "level": 2
+ },
+ {
+  "id": "2-0261",
+  "hanzi": "假期",
+  "pinyin": "jiàqī",
+  "pos": "danh từ",
+  "meaning": "kỳ nghỉ",
+  "level": 2
+ },
+ {
+  "id": "2-0262",
+  "hanzi": "检查",
+  "pinyin": "jiǎnchá",
+  "pos": "động từ, danh từ",
+  "meaning": "kiểm tra (kiểm tra sức khỏe, đồ đạc)",
+  "level": 2
+ },
+ {
+  "id": "2-0263",
+  "hanzi": "见到",
+  "pinyin": "jiàndào",
+  "pos": "cụm từ",
+  "meaning": "gặp được, nhìn thấy",
+  "level": 2
+ },
+ {
+  "id": "2-0264",
+  "hanzi": "见过",
+  "pinyin": "jiànguo",
+  "pos": "cụm từ",
+  "meaning": "đã từng gặp",
+  "level": 2
+ },
+ {
+  "id": "2-0265",
+  "hanzi": "件",
+  "pinyin": "jiàn",
+  "pos": "lượng từ",
+  "meaning": "chiếc, cái (áo, việc)",
+  "level": 2
+ },
+ {
+  "id": "2-0266",
+  "hanzi": "健康",
+  "pinyin": "jiànkāng",
+  "pos": "tính từ, danh từ",
+  "meaning": "khỏe mạnh; sức khỏe",
+  "level": 2
+ },
+ {
+  "id": "2-0267",
+  "hanzi": "讲",
+  "pinyin": "jiǎng",
+  "pos": "động từ",
+  "meaning": "nói, giảng",
+  "level": 2
+ },
+ {
+  "id": "2-0268",
+  "hanzi": "讲话",
+  "pinyin": "jiǎnghuà",
+  "pos": "cụm từ",
+  "meaning": "phát biểu, nói chuyện",
+  "level": 2
+ },
+ {
+  "id": "2-0269",
+  "hanzi": "交",
+  "pinyin": "jiāo",
+  "pos": "động từ",
+  "meaning": "nộp, giao; kết (bạn)",
+  "level": 2
+ },
+ {
+  "id": "2-0270",
+  "hanzi": "交给",
+  "pinyin": "jiāo gěi",
+  "pos": "cụm từ",
+  "meaning": "giao cho",
+  "level": 2
+ },
+ {
+  "id": "2-0271",
+  "hanzi": "交朋友",
+  "pinyin": "jiāo péngyou",
+  "pos": "cụm từ",
+  "meaning": "kết bạn",
+  "level": 2
+ },
+ {
+  "id": "2-0272",
+  "hanzi": "交通",
+  "pinyin": "jiāotōng",
+  "pos": "danh từ",
+  "meaning": "giao thông",
+  "level": 2
+ },
+ {
+  "id": "2-0273",
+  "hanzi": "角",
+  "pinyin": "jiǎo",
+  "pos": "lượng từ, danh từ",
+  "meaning": "hào (1/10 tệ); góc, sừng",
+  "level": 2
+ },
+ {
+  "id": "2-0274",
+  "hanzi": "角度",
+  "pinyin": "jiǎodù",
+  "pos": "danh từ",
+  "meaning": "góc độ",
+  "level": 2
+ },
+ {
+  "id": "2-0275",
+  "hanzi": "饺子",
+  "pinyin": "jiǎozi",
+  "pos": "danh từ",
+  "meaning": "bánh sủi cảo, há cảo",
+  "level": 2
+ },
+ {
+  "id": "2-0276",
+  "hanzi": "脚",
+  "pinyin": "jiǎo",
+  "pos": "danh từ",
+  "meaning": "bàn chân",
+  "level": 2
+ },
+ {
+  "id": "2-0277",
+  "hanzi": "叫作",
+  "pinyin": "jiàozuò",
+  "pos": "động từ",
+  "meaning": "gọi là",
+  "level": 2
+ },
+ {
+  "id": "2-0278",
+  "hanzi": "教师",
+  "pinyin": "jiàoshī",
+  "pos": "danh từ",
+  "meaning": "giáo viên (教师)",
+  "level": 2
+ },
+ {
+  "id": "2-0279",
+  "hanzi": "教室",
+  "pinyin": "jiàoshì",
+  "pos": "danh từ",
+  "meaning": "phòng học",
+  "level": 2
+ },
+ {
+  "id": "2-0280",
+  "hanzi": "教学",
+  "pinyin": "jiàoxué",
+  "pos": "danh từ, động từ",
+  "meaning": "giảng dạy, dạy học",
+  "level": 2
+ },
+ {
+  "id": "2-0281",
+  "hanzi": "教育",
+  "pinyin": "jiàoyù",
+  "pos": "động từ, danh từ",
+  "meaning": "giáo dục",
+  "level": 2
+ },
+ {
+  "id": "2-0282",
+  "hanzi": "接",
+  "pinyin": "jiē",
+  "pos": "động từ",
+  "meaning": "đón; nhận; nối",
+  "level": 2
+ },
+ {
+  "id": "2-0283",
+  "hanzi": "接到",
+  "pinyin": "jiēdào",
+  "pos": "cụm từ",
+  "meaning": "nhận được (接到)",
+  "level": 2
+ },
+ {
+  "id": "2-0284",
+  "hanzi": "接受",
+  "pinyin": "jiēshòu",
+  "pos": "động từ",
+  "meaning": "tiếp nhận, chấp nhận",
+  "level": 2
+ },
+ {
+  "id": "2-0285",
+  "hanzi": "接下来",
+  "pinyin": "jiēxiàlái",
+  "pos": "cụm từ",
+  "meaning": "tiếp theo, kế đến",
+  "level": 2
+ },
+ {
+  "id": "2-0286",
+  "hanzi": "接着",
+  "pinyin": "jiēzhe",
+  "pos": "động từ, phó từ",
+  "meaning": "tiếp theo, ngay sau đó",
+  "level": 2
+ },
+ {
+  "id": "2-0287",
+  "hanzi": "街",
+  "pinyin": "jiē",
+  "pos": "danh từ",
+  "meaning": "đường phố, phố",
+  "level": 2
+ },
+ {
+  "id": "2-0288",
+  "hanzi": "节",
+  "pinyin": "jié",
+  "pos": "danh từ, lượng từ",
+  "meaning": "ngày lễ; tiết (học)",
+  "level": 2
+ },
+ {
+  "id": "2-0289",
+  "hanzi": "节目",
+  "pinyin": "jiémù",
+  "pos": "danh từ",
+  "meaning": "chương trình, tiết mục",
+  "level": 2
+ },
+ {
+  "id": "2-0290",
+  "hanzi": "节日",
+  "pinyin": "jiérì",
+  "pos": "danh từ",
+  "meaning": "ngày lễ, ngày hội",
+  "level": 2
+ },
+ {
+  "id": "2-0291",
+  "hanzi": "结果",
+  "pinyin": "jiéguǒ",
+  "pos": "danh từ, liên từ",
+  "meaning": "kết quả",
+  "level": 2
+ },
+ {
+  "id": "2-0292",
+  "hanzi": "借",
+  "pinyin": "jiè",
+  "pos": "động từ",
+  "meaning": "mượn, cho mượn",
+  "level": 2
+ },
+ {
+  "id": "2-0293",
+  "hanzi": "斤",
+  "pinyin": "jīn",
+  "pos": "lượng từ",
+  "meaning": "cân (= 0,5 kg)",
+  "level": 2
+ },
+ {
+  "id": "2-0294",
+  "hanzi": "今后",
+  "pinyin": "jīnhòu",
+  "pos": "phó từ",
+  "meaning": "từ nay về sau",
+  "level": 2
+ },
+ {
+  "id": "2-0295",
+  "hanzi": "进入",
+  "pinyin": "jìnrù",
+  "pos": "động từ",
+  "meaning": "tiến vào, đi vào",
+  "level": 2
+ },
+ {
+  "id": "2-0296",
+  "hanzi": "进行",
+  "pinyin": "jìnxíng",
+  "pos": "động từ",
+  "meaning": "tiến hành",
+  "level": 2
+ },
+ {
+  "id": "2-0297",
+  "hanzi": "近",
+  "pinyin": "jìn",
+  "pos": "tính từ",
+  "meaning": "gần",
+  "level": 2
+ },
+ {
+  "id": "2-0298",
+  "hanzi": "经常",
+  "pinyin": "jīngcháng",
+  "pos": "phó từ",
+  "meaning": "thường xuyên (经常)",
+  "level": 2
+ },
+ {
+  "id": "2-0299",
+  "hanzi": "经过",
+  "pinyin": "jīngguò",
+  "pos": "động từ, danh từ",
+  "meaning": "đi qua, trải qua; quá trình",
+  "level": 2
+ },
+ {
+  "id": "2-0300",
+  "hanzi": "经理",
+  "pinyin": "jīnglǐ",
+  "pos": "danh từ",
+  "meaning": "giám đốc, quản lý",
+  "level": 2
+ }
+]

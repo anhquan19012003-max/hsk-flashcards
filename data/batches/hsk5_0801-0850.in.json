@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0801",
+  "hanzi": "高档",
+  "pinyin": "gāodàng",
+  "pos": "",
+  "meaning": "cao cấp",
+  "level": 5
+ },
+ {
+  "id": "5-0802",
+  "hanzi": "搞",
+  "pinyin": "gǎo",
+  "pos": "",
+  "meaning": "làm",
+  "level": 5
+ },
+ {
+  "id": "5-0803",
+  "hanzi": "格外",
+  "pinyin": "géwài",
+  "pos": "",
+  "meaning": "đặc biệt",
+  "level": 5
+ },
+ {
+  "id": "5-0804",
+  "hanzi": "个别",
+  "pinyin": "gèbié",
+  "pos": "",
+  "meaning": "cá biệt",
+  "level": 5
+ },
+ {
+  "id": "5-0805",
+  "hanzi": "个性",
+  "pinyin": "gèxìng",
+  "pos": "",
+  "meaning": "cá tính",
+  "level": 5
+ },
+ {
+  "id": "5-0806",
+  "hanzi": "根",
+  "pinyin": "gēn",
+  "pos": "",
+  "meaning": "gốc, rễ",
+  "level": 5
+ },
+ {
+  "id": "5-0807",
+  "hanzi": "公布",
+  "pinyin": "gōngbù",
+  "pos": "",
+  "meaning": "công bố",
+  "level": 5
+ },
+ {
+  "id": "5-0808",
+  "hanzi": "公元",
+  "pinyin": "gōngyuán",
+  "pos": "",
+  "meaning": "công nguyên",
+  "level": 5
+ },
+ {
+  "id": "5-0809",
+  "hanzi": "公主",
+  "pinyin": "gōngzhǔ",
+  "pos": "",
+  "meaning": "công chúa",
+  "level": 5
+ },
+ {
+  "id": "5-0810",
+  "hanzi": "工程师",
+  "pinyin": "gōngchéngshī",
+  "pos": "",
+  "meaning": "kỹ sư",
+  "level": 5
+ },
+ {
+  "id": "5-0811",
+  "hanzi": "工人",
+  "pinyin": "gōngrén",
+  "pos": "",
+  "meaning": "công nhân",
+  "level": 5
+ },
+ {
+  "id": "5-0812",
+  "hanzi": "恭喜",
+  "pinyin": "gōngxǐ",
+  "pos": "",
+  "meaning": "chúc mừng",
+  "level": 5
+ },
+ {
+  "id": "5-0813",
+  "hanzi": "贡献",
+  "pinyin": "gòngxiàn",
+  "pos": "",
+  "meaning": "cống hiến",
+  "level": 5
+ },
+ {
+  "id": "5-0814",
+  "hanzi": "构成",
+  "pinyin": "gòuchéng",
+  "pos": "",
+  "meaning": "cấu thành",
+  "level": 5
+ },
+ {
+  "id": "5-0815",
+  "hanzi": "姑姑",
+  "pinyin": "gūgu",
+  "pos": "",
+  "meaning": "cô (em gái bố)",
+  "level": 5
+ },
+ {
+  "id": "5-0816",
+  "hanzi": "古典",
+  "pinyin": "gǔdiǎn",
+  "pos": "",
+  "meaning": "cổ điển",
+  "level": 5
+ },
+ {
+  "id": "5-0817",
+  "hanzi": "鼓舞",
+  "pinyin": "gǔwǔ",
+  "pos": "",
+  "meaning": "cổ vũ, khích lệ",
+  "level": 5
+ },
+ {
+  "id": "5-0818",
+  "hanzi": "股票",
+  "pinyin": "gǔpiào",
+  "pos": "",
+  "meaning": "cổ phiếu",
+  "level": 5
+ },
+ {
+  "id": "5-0819",
+  "hanzi": "固定",
+  "pinyin": "gùdìng",
+  "pos": "",
+  "meaning": "cố định",
+  "level": 5
+ },
+ {
+  "id": "5-0820",
+  "hanzi": "挂号",
+  "pinyin": "guàhào",
+  "pos": "",
+  "meaning": "đăng ký khám (bệnh)",
+  "level": 5
+ },
+ {
+  "id": "5-0821",
+  "hanzi": "拐弯",
+  "pinyin": "guǎiwān",
+  "pos": "",
+  "meaning": "rẽ, quẹo",
+  "level": 5
+ },
+ {
+  "id": "5-0822",
+  "hanzi": "官",
+  "pinyin": "guān",
+  "pos": "",
+  "meaning": "quan chức",
+  "level": 5
+ },
+ {
+  "id": "5-0823",
+  "hanzi": "关闭",
+  "pinyin": "guānbì",
+  "pos": "",
+  "meaning": "đóng",
+  "level": 5
+ },
+ {
+  "id": "5-0824",
+  "hanzi": "观点",
+  "pinyin": "guāndiǎn",
+  "pos": "",
+  "meaning": "quan điểm",
+  "level": 5
+ },
+ {
+  "id": "5-0825",
+  "hanzi": "管子",
+  "pinyin": "guǎnzi",
+  "pos": "",
+  "meaning": "ống",
+  "level": 5
+ },
+ {
+  "id": "5-0826",
+  "hanzi": "光临",
+  "pinyin": "guānglín",
+  "pos": "",
+  "meaning": "giá lâm (lịch sự)",
+  "level": 5
+ },
+ {
+  "id": "5-0827",
+  "hanzi": "光盘",
+  "pinyin": "guāngpán",
+  "pos": "",
+  "meaning": "đĩa CD",
+  "level": 5
+ },
+ {
+  "id": "5-0828",
+  "hanzi": "广场",
+  "pinyin": "guǎngchǎng",
+  "pos": "",
+  "meaning": "quảng trường",
+  "level": 5
+ },
+ {
+  "id": "5-0829",
+  "hanzi": "广泛",
+  "pinyin": "guǎngfàn",
+  "pos": "",
+  "meaning": "rộng rãi",
+  "level": 5
+ },
+ {
+  "id": "5-0830",
+  "hanzi": "规矩",
+  "pinyin": "guīju",
+  "pos": "",
+  "meaning": "quy củ",
+  "level": 5
+ },
+ {
+  "id": "5-0831",
+  "hanzi": "规模",
+  "pinyin": "guīmó",
+  "pos": "",
+  "meaning": "quy mô",
+  "level": 5
+ },
+ {
+  "id": "5-0832",
+  "hanzi": "归纳",
+  "pinyin": "guīnà",
+  "pos": "",
+  "meaning": "quy nạp, tổng kết",
+  "level": 5
+ },
+ {
+  "id": "5-0833",
+  "hanzi": "柜台",
+  "pinyin": "guìtái",
+  "pos": "",
+  "meaning": "quầy (bán hàng)",
+  "level": 5
+ },
+ {
+  "id": "5-0834",
+  "hanzi": "锅",
+  "pinyin": "guō",
+  "pos": "",
+  "meaning": "nồi",
+  "level": 5
+ },
+ {
+  "id": "5-0835",
+  "hanzi": "国王",
+  "pinyin": "guówáng",
+  "pos": "",
+  "meaning": "vua",
+  "level": 5
+ },
+ {
+  "id": "5-0836",
+  "hanzi": "果然",
+  "pinyin": "guǒrán",
+  "pos": "",
+  "meaning": "quả nhiên",
+  "level": 5
+ },
+ {
+  "id": "5-0837",
+  "hanzi": "过分",
+  "pinyin": "guòfèn",
+  "pos": "",
+  "meaning": "quá đáng",
+  "level": 5
+ },
+ {
+  "id": "5-0838",
+  "hanzi": "过期",
+  "pinyin": "guòqī",
+  "pos": "",
+  "meaning": "hết hạn",
+  "level": 5
+ },
+ {
+  "id": "5-0839",
+  "hanzi": "哈",
+  "pinyin": "hā",
+  "pos": "",
+  "meaning": "ha (cười)",
+  "level": 5
+ },
+ {
+  "id": "5-0840",
+  "hanzi": "海关",
+  "pinyin": "hǎiguān",
+  "pos": "",
+  "meaning": "hải quan",
+  "level": 5
+ },
+ {
+  "id": "5-0841",
+  "hanzi": "喊",
+  "pinyin": "hǎn",
+  "pos": "",
+  "meaning": "hét",
+  "level": 5
+ },
+ {
+  "id": "5-0842",
+  "hanzi": "行业",
+  "pinyin": "hángyè",
+  "pos": "",
+  "meaning": "ngành nghề",
+  "level": 5
+ },
+ {
+  "id": "5-0843",
+  "hanzi": "好客",
+  "pinyin": "hàokè",
+  "pos": "",
+  "meaning": "hiếu khách",
+  "level": 5
+ },
+ {
+  "id": "5-0844",
+  "hanzi": "和平",
+  "pinyin": "hépíng",
+  "pos": "",
+  "meaning": "hòa bình",
+  "level": 5
+ },
+ {
+  "id": "5-0845",
+  "hanzi": "何况",
+  "pinyin": "hékuàng",
+  "pos": "",
+  "meaning": "huống hồ",
+  "level": 5
+ },
+ {
+  "id": "5-0846",
+  "hanzi": "合影",
+  "pinyin": "héyǐng",
+  "pos": "",
+  "meaning": "chụp ảnh chung",
+  "level": 5
+ },
+ {
+  "id": "5-0847",
+  "hanzi": "核心",
+  "pinyin": "héxīn",
+  "pos": "",
+  "meaning": "cốt lõi",
+  "level": 5
+ },
+ {
+  "id": "5-0848",
+  "hanzi": "后果",
+  "pinyin": "hòuguǒ",
+  "pos": "",
+  "meaning": "hậu quả",
+  "level": 5
+ },
+ {
+  "id": "5-0849",
+  "hanzi": "忽然",
+  "pinyin": "hūrán",
+  "pos": "",
+  "meaning": "đột nhiên",
+  "level": 5
+ },
+ {
+  "id": "5-0850",
+  "hanzi": "呼吸",
+  "pinyin": "hūxī",
+  "pos": "",
+  "meaning": "hô hấp",
+  "level": 5
+ }
+]

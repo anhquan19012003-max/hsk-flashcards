@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0501",
+  "hanzi": "男子",
+  "pinyin": "nánzǐ",
+  "pos": "danh từ",
+  "meaning": "nam giới (男子)",
+  "level": 3
+ },
+ {
+  "id": "3-0502",
+  "hanzi": "南部",
+  "pinyin": "nánbù",
+  "pos": "danh từ",
+  "meaning": "miền Nam, phía Nam (南部)",
+  "level": 3
+ },
+ {
+  "id": "3-0503",
+  "hanzi": "难道",
+  "pinyin": "nándào",
+  "pos": "phó từ",
+  "meaning": "chẳng lẽ, lẽ nào",
+  "level": 3
+ },
+ {
+  "id": "3-0504",
+  "hanzi": "难度",
+  "pinyin": "nándù",
+  "pos": "danh từ",
+  "meaning": "độ khó",
+  "level": 3
+ },
+ {
+  "id": "3-0505",
+  "hanzi": "内",
+  "pinyin": "nèi",
+  "pos": "danh từ",
+  "meaning": "trong, nội (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0506",
+  "hanzi": "内容",
+  "pinyin": "nèiróng",
+  "pos": "danh từ",
+  "meaning": "nội dung",
+  "level": 3
+ },
+ {
+  "id": "3-0507",
+  "hanzi": "内心",
+  "pinyin": "nèixīn",
+  "pos": "danh từ",
+  "meaning": "nội tâm, đáy lòng",
+  "level": 3
+ },
+ {
+  "id": "3-0508",
+  "hanzi": "能不能",
+  "pinyin": "néng bu néng",
+  "pos": "cụm từ",
+  "meaning": "có thể ... không?",
+  "level": 3
+ },
+ {
+  "id": "3-0509",
+  "hanzi": "能力",
+  "pinyin": "nénglì",
+  "pos": "danh từ",
+  "meaning": "năng lực",
+  "level": 3
+ },
+ {
+  "id": "3-0510",
+  "hanzi": "年初",
+  "pinyin": "niánchū",
+  "pos": "danh từ",
+  "meaning": "đầu năm",
+  "level": 3
+ },
+ {
+  "id": "3-0511",
+  "hanzi": "年代",
+  "pinyin": "niándài",
+  "pos": "danh từ",
+  "meaning": "thập niên, thời đại",
+  "level": 3
+ },
+ {
+  "id": "3-0512",
+  "hanzi": "年底",
+  "pinyin": "niándǐ",
+  "pos": "danh từ",
+  "meaning": "cuối năm",
+  "level": 3
+ },
+ {
+  "id": "3-0513",
+  "hanzi": "年纪",
+  "pinyin": "niánjì",
+  "pos": "danh từ",
+  "meaning": "tuổi tác",
+  "level": 3
+ },
+ {
+  "id": "3-0514",
+  "hanzi": "念",
+  "pinyin": "niàn",
+  "pos": "động từ",
+  "meaning": "đọc (thành tiếng); nhớ",
+  "level": 3
+ },
+ {
+  "id": "3-0515",
+  "hanzi": "牛",
+  "pinyin": "niú",
+  "pos": "danh từ",
+  "meaning": "con bò, trâu",
+  "level": 3
+ },
+ {
+  "id": "3-0516",
+  "hanzi": "农村",
+  "pinyin": "nóngcūn",
+  "pos": "danh từ",
+  "meaning": "nông thôn",
+  "level": 3
+ },
+ {
+  "id": "3-0517",
+  "hanzi": "农民",
+  "pinyin": "nóngmín",
+  "pos": "danh từ",
+  "meaning": "nông dân",
+  "level": 3
+ },
+ {
+  "id": "3-0518",
+  "hanzi": "农业",
+  "pinyin": "nóngyè",
+  "pos": "danh từ",
+  "meaning": "nông nghiệp",
+  "level": 3
+ },
+ {
+  "id": "3-0519",
+  "hanzi": "女子",
+  "pinyin": "nǚzǐ",
+  "pos": "danh từ",
+  "meaning": "nữ giới (女子)",
+  "level": 3
+ },
+ {
+  "id": "3-0520",
+  "hanzi": "暖和",
+  "pinyin": "nuǎnhuo",
+  "pos": "tính từ",
+  "meaning": "ấm áp (thời tiết)",
+  "level": 3
+ },
+ {
+  "id": "3-0521",
+  "hanzi": "怕",
+  "pinyin": "pà",
+  "pos": "phó từ",
+  "meaning": "e là, có lẽ (phó từ)",
+  "level": 3
+ },
+ {
+  "id": "3-0522",
+  "hanzi": "拍",
+  "pinyin": "pāi",
+  "pos": "động từ",
+  "meaning": "chụp (ảnh), quay (phim); vỗ",
+  "level": 3
+ },
+ {
+  "id": "3-0523",
+  "hanzi": "排",
+  "pinyin": "pái",
+  "pos": "động từ",
+  "meaning": "xếp, sắp xếp",
+  "level": 3
+ },
+ {
+  "id": "3-0524",
+  "hanzi": "排名",
+  "pinyin": "páimíng",
+  "pos": "cụm từ",
+  "meaning": "xếp hạng",
+  "level": 3
+ },
+ {
+  "id": "3-0525",
+  "hanzi": "牌子",
+  "pinyin": "páizi",
+  "pos": "danh từ",
+  "meaning": "nhãn hiệu; biển hiệu",
+  "level": 3
+ },
+ {
+  "id": "3-0526",
+  "hanzi": "派",
+  "pinyin": "pài",
+  "pos": "động từ, danh từ",
+  "meaning": "cử, phái; trường phái",
+  "level": 3
+ },
+ {
+  "id": "3-0527",
+  "hanzi": "判断",
+  "pinyin": "pànduàn",
+  "pos": "động từ, danh từ",
+  "meaning": "phán đoán",
+  "level": 3
+ },
+ {
+  "id": "3-0528",
+  "hanzi": "胖",
+  "pinyin": "pàng",
+  "pos": "tính từ",
+  "meaning": "béo, mập",
+  "level": 3
+ },
+ {
+  "id": "3-0529",
+  "hanzi": "跑步",
+  "pinyin": "pǎobù",
+  "pos": "cụm từ",
+  "meaning": "chạy bộ",
+  "level": 3
+ },
+ {
+  "id": "3-0530",
+  "hanzi": "配",
+  "pinyin": "pèi",
+  "pos": "động từ",
+  "meaning": "phối hợp; xứng; lắp thêm",
+  "level": 3
+ },
+ {
+  "id": "3-0531",
+  "hanzi": "配合",
+  "pinyin": "pèihé",
+  "pos": "động từ",
+  "meaning": "phối hợp",
+  "level": 3
+ },
+ {
+  "id": "3-0532",
+  "hanzi": "批评",
+  "pinyin": "pīpíng",
+  "pos": "động từ",
+  "meaning": "phê bình",
+  "level": 3
+ },
+ {
+  "id": "3-0533",
+  "hanzi": "批准",
+  "pinyin": "pīzhǔn",
+  "pos": "động từ",
+  "meaning": "phê duyệt",
+  "level": 3
+ },
+ {
+  "id": "3-0534",
+  "hanzi": "皮",
+  "pinyin": "pí",
+  "pos": "danh từ",
+  "meaning": "da, vỏ",
+  "level": 3
+ },
+ {
+  "id": "3-0535",
+  "hanzi": "皮包",
+  "pinyin": "píbāo",
+  "pos": "danh từ",
+  "meaning": "túi da, cặp da",
+  "level": 3
+ },
+ {
+  "id": "3-0536",
+  "hanzi": "啤酒",
+  "pinyin": "píjiǔ",
+  "pos": "danh từ",
+  "meaning": "bia",
+  "level": 3
+ },
+ {
+  "id": "3-0537",
+  "hanzi": "票价",
+  "pinyin": "piàojià",
+  "pos": "danh từ",
+  "meaning": "giá vé",
+  "level": 3
+ },
+ {
+  "id": "3-0538",
+  "hanzi": "评价",
+  "pinyin": "píngjià",
+  "pos": "động từ, danh từ",
+  "meaning": "đánh giá",
+  "level": 3
+ },
+ {
+  "id": "3-0539",
+  "hanzi": "苹果",
+  "pinyin": "píngguǒ",
+  "pos": "danh từ",
+  "meaning": "quả táo",
+  "level": 3
+ },
+ {
+  "id": "3-0540",
+  "hanzi": "破",
+  "pinyin": "pò",
+  "pos": "tính từ, động từ",
+  "meaning": "rách, vỡ, hỏng",
+  "level": 3
+ },
+ {
+  "id": "3-0541",
+  "hanzi": "破坏",
+  "pinyin": "pòhuài",
+  "pos": "động từ",
+  "meaning": "phá hoại, làm hỏng",
+  "level": 3
+ },
+ {
+  "id": "3-0542",
+  "hanzi": "普遍",
+  "pinyin": "pǔbiàn",
+  "pos": "tính từ",
+  "meaning": "phổ biến, rộng khắp",
+  "level": 3
+ },
+ {
+  "id": "3-0543",
+  "hanzi": "普及",
+  "pinyin": "pǔjí",
+  "pos": "động từ, tính từ",
+  "meaning": "phổ cập",
+  "level": 3
+ },
+ {
+  "id": "3-0544",
+  "hanzi": "期",
+  "pinyin": "qī",
+  "pos": "lượng từ",
+  "meaning": "kỳ, số (tạp chí, khóa)",
+  "level": 3
+ },
+ {
+  "id": "3-0545",
+  "hanzi": "齐",
+  "pinyin": "qí",
+  "pos": "tính từ, động từ",
+  "meaning": "đều, đầy đủ, chỉnh tề",
+  "level": 3
+ },
+ {
+  "id": "3-0546",
+  "hanzi": "其次",
+  "pinyin": "qícì",
+  "pos": "đại từ",
+  "meaning": "tiếp theo, thứ hai là",
+  "level": 3
+ },
+ {
+  "id": "3-0547",
+  "hanzi": "其实",
+  "pinyin": "qíshí",
+  "pos": "phó từ",
+  "meaning": "thực ra",
+  "level": 3
+ },
+ {
+  "id": "3-0548",
+  "hanzi": "奇怪",
+  "pinyin": "qíguài",
+  "pos": "tính từ",
+  "meaning": "kỳ lạ",
+  "level": 3
+ },
+ {
+  "id": "3-0549",
+  "hanzi": "气候",
+  "pinyin": "qìhòu",
+  "pos": "danh từ",
+  "meaning": "khí hậu",
+  "level": 3
+ },
+ {
+  "id": "3-0550",
+  "hanzi": "千万",
+  "pinyin": "qiānwàn",
+  "pos": "phó từ",
+  "meaning": "nhất thiết, ngàn vạn lần (đừng/phải)",
+  "level": 3
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0051",
+  "hanzi": "穿",
+  "pinyin": "chuān",
+  "pos": "động từ",
+  "meaning": "mặc, mang, đi (giày)",
+  "level": 1
+ },
+ {
+  "id": "1-0052",
+  "hanzi": "床",
+  "pinyin": "chuáng",
+  "pos": "danh từ",
+  "meaning": "giường",
+  "level": 1
+ },
+ {
+  "id": "1-0053",
+  "hanzi": "次",
+  "pinyin": "cì",
+  "pos": "lượng từ",
+  "meaning": "lần (lượng từ)",
+  "level": 1
+ },
+ {
+  "id": "1-0054",
+  "hanzi": "从",
+  "pinyin": "cóng",
+  "pos": "giới từ",
+  "meaning": "từ (từ đâu, từ khi)",
+  "level": 1
+ },
+ {
+  "id": "1-0055",
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "pos": "tính từ, danh từ",
+  "meaning": "sai, nhầm; lỗi sai",
+  "level": 1
+ },
+ {
+  "id": "1-0056",
+  "hanzi": "打",
+  "pinyin": "dǎ",
+  "pos": "động từ",
+  "meaning": "đánh, gõ",
+  "level": 1
+ },
+ {
+  "id": "1-0057",
+  "hanzi": "打车",
+  "pinyin": "dǎchē",
+  "pos": "cụm từ",
+  "meaning": "bắt taxi, gọi xe",
+  "level": 1
+ },
+ {
+  "id": "1-0058",
+  "hanzi": "打电话",
+  "pinyin": "dǎ diànhuà",
+  "pos": "cụm từ",
+  "meaning": "gọi điện thoại",
+  "level": 1
+ },
+ {
+  "id": "1-0059",
+  "hanzi": "打开",
+  "pinyin": "dǎkāi",
+  "pos": "cụm từ",
+  "meaning": "mở ra",
+  "level": 1
+ },
+ {
+  "id": "1-0060",
+  "hanzi": "打球",
+  "pinyin": "dǎ qiú",
+  "pos": "cụm từ",
+  "meaning": "chơi bóng, đánh bóng",
+  "level": 1
+ },
+ {
+  "id": "1-0061",
+  "hanzi": "大",
+  "pinyin": "dà",
+  "pos": "tính từ",
+  "meaning": "lớn, to",
+  "level": 1
+ },
+ {
+  "id": "1-0062",
+  "hanzi": "大学",
+  "pinyin": "dàxué",
+  "pos": "danh từ",
+  "meaning": "đại học",
+  "level": 1
+ },
+ {
+  "id": "1-0063",
+  "hanzi": "大学生",
+  "pinyin": "dàxuéshēng",
+  "pos": "danh từ",
+  "meaning": "sinh viên",
+  "level": 1
+ },
+ {
+  "id": "1-0064",
+  "hanzi": "到",
+  "pinyin": "dào",
+  "pos": "động từ",
+  "meaning": "đến",
+  "level": 1
+ },
+ {
+  "id": "1-0065",
+  "hanzi": "得到",
+  "pinyin": "dédào",
+  "pos": "cụm từ",
+  "meaning": "đạt được, nhận được",
+  "level": 1
+ },
+ {
+  "id": "1-0066",
+  "hanzi": "地",
+  "pinyin": "de",
+  "pos": "trợ từ",
+  "meaning": "trợ từ 地 (một cách... - đứng trước động từ)",
+  "level": 1
+ },
+ {
+  "id": "1-0067",
+  "hanzi": "的",
+  "pinyin": "de",
+  "pos": "trợ từ",
+  "meaning": "của (trợ từ kết cấu 的)",
+  "level": 1
+ },
+ {
+  "id": "1-0068",
+  "hanzi": "等",
+  "pinyin": "děng",
+  "pos": "động từ",
+  "meaning": "đợi, chờ",
+  "level": 1
+ },
+ {
+  "id": "1-0069",
+  "hanzi": "地",
+  "pinyin": "dì",
+  "pos": "danh từ",
+  "meaning": "đất, mặt đất (danh từ 1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0070",
+  "hanzi": "地点",
+  "pinyin": "dìdiǎn",
+  "pos": "danh từ",
+  "meaning": "địa điểm",
+  "level": 1
+ },
+ {
+  "id": "1-0071",
+  "hanzi": "地方",
+  "pinyin": "dìfang",
+  "pos": "danh từ",
+  "meaning": "nơi, chỗ",
+  "level": 1
+ },
+ {
+  "id": "1-0072",
+  "hanzi": "地上",
+  "pinyin": "dìshang",
+  "pos": "cụm từ",
+  "meaning": "trên mặt đất, dưới đất",
+  "level": 1
+ },
+ {
+  "id": "1-0073",
+  "hanzi": "地图",
+  "pinyin": "dìtú",
+  "pos": "danh từ",
+  "meaning": "bản đồ",
+  "level": 1
+ },
+ {
+  "id": "1-0074",
+  "hanzi": "弟弟",
+  "pinyin": "dìdi",
+  "pos": "danh từ",
+  "meaning": "em trai",
+  "level": 1
+ },
+ {
+  "id": "1-0075",
+  "hanzi": "第",
+  "pinyin": "dì",
+  "pos": "tiền tố",
+  "meaning": "thứ (chỉ thứ tự, VD: 第二)",
+  "level": 1
+ },
+ {
+  "id": "1-0076",
+  "hanzi": "点",
+  "pinyin": "diǎn",
+  "pos": "lượng từ, động từ, danh từ",
+  "meaning": "giờ (đồng hồ); điểm, chấm; gọi (món)",
+  "level": 1
+ },
+ {
+  "id": "1-0077",
+  "hanzi": "电",
+  "pinyin": "diàn",
+  "pos": "danh từ",
+  "meaning": "điện",
+  "level": 1
+ },
+ {
+  "id": "1-0078",
+  "hanzi": "电话",
+  "pinyin": "diànhuà",
+  "pos": "danh từ",
+  "meaning": "điện thoại, cuộc gọi",
+  "level": 1
+ },
+ {
+  "id": "1-0079",
+  "hanzi": "电脑",
+  "pinyin": "diànnǎo",
+  "pos": "danh từ",
+  "meaning": "máy tính",
+  "level": 1
+ },
+ {
+  "id": "1-0080",
+  "hanzi": "电视",
+  "pinyin": "diànshì",
+  "pos": "danh từ",
+  "meaning": "ti vi, truyền hình",
+  "level": 1
+ },
+ {
+  "id": "1-0081",
+  "hanzi": "电视机",
+  "pinyin": "diànshìjī",
+  "pos": "danh từ",
+  "meaning": "máy thu hình, máy ti vi",
+  "level": 1
+ },
+ {
+  "id": "1-0082",
+  "hanzi": "电影",
+  "pinyin": "diànyǐng",
+  "pos": "danh từ",
+  "meaning": "phim, điện ảnh",
+  "level": 1
+ },
+ {
+  "id": "1-0083",
+  "hanzi": "电影院",
+  "pinyin": "diànyǐngyuàn",
+  "pos": "danh từ",
+  "meaning": "rạp chiếu phim",
+  "level": 1
+ },
+ {
+  "id": "1-0084",
+  "hanzi": "东",
+  "pinyin": "dōng",
+  "pos": "danh từ",
+  "meaning": "đông (hướng đông)",
+  "level": 1
+ },
+ {
+  "id": "1-0085",
+  "hanzi": "东边",
+  "pinyin": "dōngbian",
+  "pos": "danh từ",
+  "meaning": "phía đông",
+  "level": 1
+ },
+ {
+  "id": "1-0086",
+  "hanzi": "东西",
+  "pinyin": "dōngxi",
+  "pos": "danh từ",
+  "meaning": "đồ vật, đồ đạc",
+  "level": 1
+ },
+ {
+  "id": "1-0087",
+  "hanzi": "动",
+  "pinyin": "dòng",
+  "pos": "động từ",
+  "meaning": "động, chuyển động",
+  "level": 1
+ },
+ {
+  "id": "1-0088",
+  "hanzi": "动作",
+  "pinyin": "dòngzuò",
+  "pos": "danh từ",
+  "meaning": "động tác",
+  "level": 1
+ },
+ {
+  "id": "1-0089",
+  "hanzi": "都",
+  "pinyin": "dōu",
+  "pos": "phó từ",
+  "meaning": "đều",
+  "level": 1
+ },
+ {
+  "id": "1-0090",
+  "hanzi": "读",
+  "pinyin": "dú",
+  "pos": "động từ",
+  "meaning": "đọc",
+  "level": 1
+ },
+ {
+  "id": "1-0091",
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "pos": "cụm từ",
+  "meaning": "đọc sách; đi học",
+  "level": 1
+ },
+ {
+  "id": "1-0092",
+  "hanzi": "对",
+  "pinyin": "duì",
+  "pos": "tính từ",
+  "meaning": "đúng",
+  "level": 1
+ },
+ {
+  "id": "1-0093",
+  "hanzi": "对不起",
+  "pinyin": "duìbuqǐ",
+  "pos": "động từ",
+  "meaning": "xin lỗi",
+  "level": 1
+ },
+ {
+  "id": "1-0094",
+  "hanzi": "多",
+  "pinyin": "duō",
+  "pos": "tính từ, đại từ",
+  "meaning": "nhiều",
+  "level": 1
+ },
+ {
+  "id": "1-0095",
+  "hanzi": "多少",
+  "pinyin": "duōshao",
+  "pos": "đại từ",
+  "meaning": "bao nhiêu (số lượng bất kỳ)",
+  "level": 1
+ },
+ {
+  "id": "1-0096",
+  "hanzi": "饿",
+  "pinyin": "è",
+  "pos": "tính từ",
+  "meaning": "đói",
+  "level": 1
+ },
+ {
+  "id": "1-0097",
+  "hanzi": "儿子",
+  "pinyin": "érzi",
+  "pos": "danh từ",
+  "meaning": "con trai (của bố mẹ)",
+  "level": 1
+ },
+ {
+  "id": "1-0098",
+  "hanzi": "二",
+  "pinyin": "èr",
+  "pos": "số từ",
+  "meaning": "số 2 (hai)",
+  "level": 1
+ },
+ {
+  "id": "1-0099",
+  "hanzi": "饭",
+  "pinyin": "fàn",
+  "pos": "danh từ",
+  "meaning": "cơm, bữa ăn",
+  "level": 1
+ },
+ {
+  "id": "1-0100",
+  "hanzi": "饭店",
+  "pinyin": "fàndiàn",
+  "pos": "danh từ",
+  "meaning": "nhà hàng, khách sạn",
+  "level": 1
+ }
+]

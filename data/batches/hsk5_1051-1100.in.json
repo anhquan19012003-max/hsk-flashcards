@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-1051",
+  "hanzi": "设施",
+  "pinyin": "shèshī",
+  "pos": "",
+  "meaning": "cơ sở vật chất",
+  "level": 5
+ },
+ {
+  "id": "5-1052",
+  "hanzi": "射击",
+  "pinyin": "shèjī",
+  "pos": "",
+  "meaning": "bắn súng",
+  "level": 5
+ },
+ {
+  "id": "5-1053",
+  "hanzi": "身材",
+  "pinyin": "shēncái",
+  "pos": "",
+  "meaning": "vóc dáng",
+  "level": 5
+ },
+ {
+  "id": "5-1054",
+  "hanzi": "神话",
+  "pinyin": "shénhuà",
+  "pos": "",
+  "meaning": "thần thoại",
+  "level": 5
+ },
+ {
+  "id": "5-1055",
+  "hanzi": "升",
+  "pinyin": "shēng",
+  "pos": "",
+  "meaning": "tăng lên",
+  "level": 5
+ },
+ {
+  "id": "5-1056",
+  "hanzi": "生产",
+  "pinyin": "shēngchǎn",
+  "pos": "",
+  "meaning": "sản xuất",
+  "level": 5
+ },
+ {
+  "id": "5-1057",
+  "hanzi": "声调",
+  "pinyin": "shēngdiào",
+  "pos": "",
+  "meaning": "thanh điệu",
+  "level": 5
+ },
+ {
+  "id": "5-1058",
+  "hanzi": "绳子",
+  "pinyin": "shéngzi",
+  "pos": "",
+  "meaning": "dây thừng",
+  "level": 5
+ },
+ {
+  "id": "5-1059",
+  "hanzi": "省略",
+  "pinyin": "shěnglüè",
+  "pos": "",
+  "meaning": "lược bỏ",
+  "level": 5
+ },
+ {
+  "id": "5-1060",
+  "hanzi": "胜利",
+  "pinyin": "shènglì",
+  "pos": "",
+  "meaning": "chiến thắng",
+  "level": 5
+ },
+ {
+  "id": "5-1061",
+  "hanzi": "失去",
+  "pinyin": "shīqù",
+  "pos": "",
+  "meaning": "mất",
+  "level": 5
+ },
+ {
+  "id": "5-1062",
+  "hanzi": "失业",
+  "pinyin": "shīyè",
+  "pos": "",
+  "meaning": "thất nghiệp",
+  "level": 5
+ },
+ {
+  "id": "5-1063",
+  "hanzi": "湿润",
+  "pinyin": "shīrùn",
+  "pos": "",
+  "meaning": "ẩm ướt",
+  "level": 5
+ },
+ {
+  "id": "5-1064",
+  "hanzi": "时差",
+  "pinyin": "shíchā",
+  "pos": "",
+  "meaning": "chênh lệch múi giờ",
+  "level": 5
+ },
+ {
+  "id": "5-1065",
+  "hanzi": "时刻",
+  "pinyin": "shíkè",
+  "pos": "",
+  "meaning": "thời khắc",
+  "level": 5
+ },
+ {
+  "id": "5-1066",
+  "hanzi": "时期",
+  "pinyin": "shíqī",
+  "pos": "",
+  "meaning": "thời kỳ",
+  "level": 5
+ },
+ {
+  "id": "5-1067",
+  "hanzi": "实话",
+  "pinyin": "shíhuà",
+  "pos": "",
+  "meaning": "lời thật",
+  "level": 5
+ },
+ {
+  "id": "5-1068",
+  "hanzi": "实践",
+  "pinyin": "shíjiàn",
+  "pos": "",
+  "meaning": "thực hành",
+  "level": 5
+ },
+ {
+  "id": "5-1069",
+  "hanzi": "实现",
+  "pinyin": "shíxiàn",
+  "pos": "",
+  "meaning": "thực hiện",
+  "level": 5
+ },
+ {
+  "id": "5-1070",
+  "hanzi": "实用",
+  "pinyin": "shíyòng",
+  "pos": "",
+  "meaning": "thực dụng",
+  "level": 5
+ },
+ {
+  "id": "5-1071",
+  "hanzi": "食物",
+  "pinyin": "shíwù",
+  "pos": "",
+  "meaning": "thức ăn",
+  "level": 5
+ },
+ {
+  "id": "5-1072",
+  "hanzi": "士兵",
+  "pinyin": "shìbīng",
+  "pos": "",
+  "meaning": "binh sĩ",
+  "level": 5
+ },
+ {
+  "id": "5-1073",
+  "hanzi": "似的",
+  "pinyin": "shìde",
+  "pos": "",
+  "meaning": "giống như",
+  "level": 5
+ },
+ {
+  "id": "5-1074",
+  "hanzi": "事实",
+  "pinyin": "shìshí",
+  "pos": "",
+  "meaning": "sự thật",
+  "level": 5
+ },
+ {
+  "id": "5-1075",
+  "hanzi": "事先",
+  "pinyin": "shìxiān",
+  "pos": "",
+  "meaning": "trước",
+  "level": 5
+ },
+ {
+  "id": "5-1076",
+  "hanzi": "收获",
+  "pinyin": "shōuhuò",
+  "pos": "",
+  "meaning": "thu hoạch",
+  "level": 5
+ },
+ {
+  "id": "5-1077",
+  "hanzi": "手套",
+  "pinyin": "shǒutào",
+  "pos": "",
+  "meaning": "găng tay",
+  "level": 5
+ },
+ {
+  "id": "5-1078",
+  "hanzi": "手指",
+  "pinyin": "shǒuzhǐ",
+  "pos": "",
+  "meaning": "ngón tay",
+  "level": 5
+ },
+ {
+  "id": "5-1079",
+  "hanzi": "蔬菜",
+  "pinyin": "shūcài",
+  "pos": "",
+  "meaning": "rau củ",
+  "level": 5
+ },
+ {
+  "id": "5-1080",
+  "hanzi": "舒适",
+  "pinyin": "shūshì",
+  "pos": "",
+  "meaning": "dễ chịu",
+  "level": 5
+ },
+ {
+  "id": "5-1081",
+  "hanzi": "梳子",
+  "pinyin": "shūzi",
+  "pos": "",
+  "meaning": "lược",
+  "level": 5
+ },
+ {
+  "id": "5-1082",
+  "hanzi": "属于",
+  "pinyin": "shǔyú",
+  "pos": "",
+  "meaning": "thuộc về",
+  "level": 5
+ },
+ {
+  "id": "5-1083",
+  "hanzi": "数",
+  "pinyin": "shǔ",
+  "pos": "",
+  "meaning": "đếm",
+  "level": 5
+ },
+ {
+  "id": "5-1084",
+  "hanzi": "甩",
+  "pinyin": "shuǎi",
+  "pos": "",
+  "meaning": "vung, bỏ",
+  "level": 5
+ },
+ {
+  "id": "5-1085",
+  "hanzi": "说不定",
+  "pinyin": "shuōbudìng",
+  "pos": "",
+  "meaning": "có thể",
+  "level": 5
+ },
+ {
+  "id": "5-1086",
+  "hanzi": "撕",
+  "pinyin": "sī",
+  "pos": "",
+  "meaning": "xé",
+  "level": 5
+ },
+ {
+  "id": "5-1087",
+  "hanzi": "丝毫",
+  "pinyin": "sīháo",
+  "pos": "",
+  "meaning": "một chút",
+  "level": 5
+ },
+ {
+  "id": "5-1088",
+  "hanzi": "思考",
+  "pinyin": "sīkǎo",
+  "pos": "",
+  "meaning": "suy nghĩ",
+  "level": 5
+ },
+ {
+  "id": "5-1089",
+  "hanzi": "私人",
+  "pinyin": "sīrén",
+  "pos": "",
+  "meaning": "riêng tư",
+  "level": 5
+ },
+ {
+  "id": "5-1090",
+  "hanzi": "搜索",
+  "pinyin": "sōusuǒ",
+  "pos": "",
+  "meaning": "tìm kiếm",
+  "level": 5
+ },
+ {
+  "id": "5-1091",
+  "hanzi": "宿舍",
+  "pinyin": "sùshè",
+  "pos": "",
+  "meaning": "ký túc xá",
+  "level": 5
+ },
+ {
+  "id": "5-1092",
+  "hanzi": "随时",
+  "pinyin": "suíshí",
+  "pos": "",
+  "meaning": "bất cứ lúc nào",
+  "level": 5
+ },
+ {
+  "id": "5-1093",
+  "hanzi": "随手",
+  "pinyin": "suíshǒu",
+  "pos": "",
+  "meaning": "tiện tay",
+  "level": 5
+ },
+ {
+  "id": "5-1094",
+  "hanzi": "缩短",
+  "pinyin": "suōduǎn",
+  "pos": "",
+  "meaning": "rút ngắn",
+  "level": 5
+ },
+ {
+  "id": "5-1095",
+  "hanzi": "所",
+  "pinyin": "suǒ",
+  "pos": "",
+  "meaning": "nơi",
+  "level": 5
+ },
+ {
+  "id": "5-1096",
+  "hanzi": "太太",
+  "pinyin": "tàitai",
+  "pos": "",
+  "meaning": "bà, vợ",
+  "level": 5
+ },
+ {
+  "id": "5-1097",
+  "hanzi": "谈判",
+  "pinyin": "tánpàn",
+  "pos": "",
+  "meaning": "đàm phán",
+  "level": 5
+ },
+ {
+  "id": "5-1098",
+  "hanzi": "坦率",
+  "pinyin": "tǎnshuài",
+  "pos": "",
+  "meaning": "thẳng thắn",
+  "level": 5
+ },
+ {
+  "id": "5-1099",
+  "hanzi": "烫",
+  "pinyin": "tàng",
+  "pos": "",
+  "meaning": "bỏng",
+  "level": 5
+ },
+ {
+  "id": "5-1100",
+  "hanzi": "桃",
+  "pinyin": "táo",
+  "pos": "",
+  "meaning": "quả đào",
+  "level": 5
+ }
+]

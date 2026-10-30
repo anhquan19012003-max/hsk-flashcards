@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0851",
+  "hanzi": "应用",
+  "pinyin": "yìngyòng",
+  "pos": "động từ",
+  "meaning": "ứng dụng",
+  "level": 3
+ },
+ {
+  "id": "3-0852",
+  "hanzi": "优点",
+  "pinyin": "yōudiǎn",
+  "pos": "danh từ",
+  "meaning": "ưu điểm",
+  "level": 3
+ },
+ {
+  "id": "3-0853",
+  "hanzi": "优势",
+  "pinyin": "yōushì",
+  "pos": "danh từ",
+  "meaning": "ưu thế",
+  "level": 3
+ },
+ {
+  "id": "3-0854",
+  "hanzi": "由",
+  "pinyin": "yóu",
+  "pos": "giới từ",
+  "meaning": "do, bởi; từ",
+  "level": 3
+ },
+ {
+  "id": "3-0855",
+  "hanzi": "由于",
+  "pinyin": "yóuyú",
+  "pos": "giới từ, liên từ",
+  "meaning": "do, bởi vì (由于)",
+  "level": 3
+ },
+ {
+  "id": "3-0856",
+  "hanzi": "邮件",
+  "pinyin": "yóujiàn",
+  "pos": "danh từ",
+  "meaning": "bưu kiện; email",
+  "level": 3
+ },
+ {
+  "id": "3-0857",
+  "hanzi": "邮票",
+  "pinyin": "yóupiào",
+  "pos": "danh từ",
+  "meaning": "tem thư",
+  "level": 3
+ },
+ {
+  "id": "3-0858",
+  "hanzi": "邮箱",
+  "pinyin": "yóuxiāng",
+  "pos": "danh từ",
+  "meaning": "hộp thư",
+  "level": 3
+ },
+ {
+  "id": "3-0859",
+  "hanzi": "游",
+  "pinyin": "yóu",
+  "pos": "động từ",
+  "meaning": "bơi; du ngoạn (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0860",
+  "hanzi": "游戏",
+  "pinyin": "yóuxì",
+  "pos": "danh từ",
+  "meaning": "trò chơi, game",
+  "level": 3
+ },
+ {
+  "id": "3-0861",
+  "hanzi": "游泳",
+  "pinyin": "yóuyǒng",
+  "pos": "danh từ, động từ",
+  "meaning": "bơi lội",
+  "level": 3
+ },
+ {
+  "id": "3-0862",
+  "hanzi": "有的是",
+  "pinyin": "yǒudeshì",
+  "pos": "cụm từ",
+  "meaning": "có khối, có đầy",
+  "level": 3
+ },
+ {
+  "id": "3-0863",
+  "hanzi": "有利",
+  "pinyin": "yǒulì",
+  "pos": "tính từ",
+  "meaning": "có lợi",
+  "level": 3
+ },
+ {
+  "id": "3-0864",
+  "hanzi": "有效",
+  "pinyin": "yǒuxiào",
+  "pos": "tính từ",
+  "meaning": "có hiệu quả, có hiệu lực",
+  "level": 3
+ },
+ {
+  "id": "3-0865",
+  "hanzi": "预报",
+  "pinyin": "yùbào",
+  "pos": "động từ, danh từ",
+  "meaning": "dự báo",
+  "level": 3
+ },
+ {
+  "id": "3-0866",
+  "hanzi": "预防",
+  "pinyin": "yùfáng",
+  "pos": "động từ",
+  "meaning": "phòng ngừa (预防)",
+  "level": 3
+ },
+ {
+  "id": "3-0867",
+  "hanzi": "预计",
+  "pinyin": "yùjì",
+  "pos": "động từ",
+  "meaning": "dự tính",
+  "level": 3
+ },
+ {
+  "id": "3-0868",
+  "hanzi": "预习",
+  "pinyin": "yùxí",
+  "pos": "động từ",
+  "meaning": "chuẩn bị bài trước",
+  "level": 3
+ },
+ {
+  "id": "3-0869",
+  "hanzi": "员",
+  "pinyin": "yuán",
+  "pos": "hậu tố",
+  "meaning": "viên (hậu tố, VD: nhân viên phục vụ)",
+  "level": 3
+ },
+ {
+  "id": "3-0870",
+  "hanzi": "员工",
+  "pinyin": "yuángōng",
+  "pos": "danh từ",
+  "meaning": "nhân viên (员工)",
+  "level": 3
+ },
+ {
+  "id": "3-0871",
+  "hanzi": "愿望",
+  "pinyin": "yuànwàng",
+  "pos": "danh từ",
+  "meaning": "nguyện vọng, mong ước",
+  "level": 3
+ },
+ {
+  "id": "3-0872",
+  "hanzi": "约",
+  "pinyin": "yuē",
+  "pos": "động từ",
+  "meaning": "hẹn",
+  "level": 3
+ },
+ {
+  "id": "3-0873",
+  "hanzi": "乐队",
+  "pinyin": "yuèduì",
+  "pos": "danh từ",
+  "meaning": "ban nhạc",
+  "level": 3
+ },
+ {
+  "id": "3-0874",
+  "hanzi": "运输",
+  "pinyin": "yùnshū",
+  "pos": "động từ",
+  "meaning": "vận chuyển, vận tải",
+  "level": 3
+ },
+ {
+  "id": "3-0875",
+  "hanzi": "杂志",
+  "pinyin": "zázhì",
+  "pos": "danh từ",
+  "meaning": "tạp chí",
+  "level": 3
+ },
+ {
+  "id": "3-0876",
+  "hanzi": "早已",
+  "pinyin": "zǎoyǐ",
+  "pos": "phó từ",
+  "meaning": "đã từ lâu (早已)",
+  "level": 3
+ },
+ {
+  "id": "3-0877",
+  "hanzi": "造",
+  "pinyin": "zào",
+  "pos": "động từ",
+  "meaning": "làm, chế tạo (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0878",
+  "hanzi": "造成",
+  "pinyin": "zàochéng",
+  "pos": "động từ",
+  "meaning": "gây ra",
+  "level": 3
+ },
+ {
+  "id": "3-0879",
+  "hanzi": "责任",
+  "pinyin": "zérèn",
+  "pos": "danh từ",
+  "meaning": "trách nhiệm",
+  "level": 3
+ },
+ {
+  "id": "3-0880",
+  "hanzi": "增加",
+  "pinyin": "zēngjiā",
+  "pos": "động từ",
+  "meaning": "tăng thêm",
+  "level": 3
+ },
+ {
+  "id": "3-0881",
+  "hanzi": "增长",
+  "pinyin": "zēngzhǎng",
+  "pos": "động từ",
+  "meaning": "tăng trưởng",
+  "level": 3
+ },
+ {
+  "id": "3-0882",
+  "hanzi": "展开",
+  "pinyin": "zhǎnkāi",
+  "pos": "cụm từ",
+  "meaning": "triển khai, mở ra",
+  "level": 3
+ },
+ {
+  "id": "3-0883",
+  "hanzi": "张",
+  "pinyin": "zhāng",
+  "pos": "lượng từ, động từ",
+  "meaning": "tờ, tấm, chiếc; mở ra",
+  "level": 3
+ },
+ {
+  "id": "3-0884",
+  "hanzi": "照",
+  "pinyin": "zhào",
+  "pos": "động từ, giới từ",
+  "meaning": "chiếu, soi, chụp; theo",
+  "level": 3
+ },
+ {
+  "id": "3-0885",
+  "hanzi": "者",
+  "pinyin": "zhě",
+  "pos": "hậu tố",
+  "meaning": "người, giả (hậu tố, VD: tình nguyện viên)",
+  "level": 3
+ },
+ {
+  "id": "3-0886",
+  "hanzi": "真实",
+  "pinyin": "zhēnshí",
+  "pos": "tính từ",
+  "meaning": "chân thật, có thật",
+  "level": 3
+ },
+ {
+  "id": "3-0887",
+  "hanzi": "争",
+  "pinyin": "zhēng",
+  "pos": "động từ",
+  "meaning": "tranh giành, tranh cãi",
+  "level": 3
+ },
+ {
+  "id": "3-0888",
+  "hanzi": "争取",
+  "pinyin": "zhēngqǔ",
+  "pos": "động từ",
+  "meaning": "tranh thủ, giành lấy",
+  "level": 3
+ },
+ {
+  "id": "3-0889",
+  "hanzi": "整",
+  "pinyin": "zhěng",
+  "pos": "tính từ, động từ",
+  "meaning": "nguyên, tròn; chỉnh đốn",
+  "level": 3
+ },
+ {
+  "id": "3-0890",
+  "hanzi": "整个",
+  "pinyin": "zhěnggè",
+  "pos": "tính từ",
+  "meaning": "toàn bộ, cả (整个)",
+  "level": 3
+ },
+ {
+  "id": "3-0891",
+  "hanzi": "整理",
+  "pinyin": "zhěnglǐ",
+  "pos": "động từ",
+  "meaning": "sắp xếp, chỉnh lý",
+  "level": 3
+ },
+ {
+  "id": "3-0892",
+  "hanzi": "整齐",
+  "pinyin": "zhěngqí",
+  "pos": "tính từ",
+  "meaning": "ngay ngắn, gọn gàng",
+  "level": 3
+ },
+ {
+  "id": "3-0893",
+  "hanzi": "整体",
+  "pinyin": "zhěngtǐ",
+  "pos": "danh từ",
+  "meaning": "tổng thể",
+  "level": 3
+ },
+ {
+  "id": "3-0894",
+  "hanzi": "整天",
+  "pinyin": "zhěngtiān",
+  "pos": "danh từ",
+  "meaning": "cả ngày, suốt ngày",
+  "level": 3
+ },
+ {
+  "id": "3-0895",
+  "hanzi": "整整",
+  "pinyin": "zhěngzhěng",
+  "pos": "phó từ",
+  "meaning": "tròn, suốt (đủ con số)",
+  "level": 3
+ },
+ {
+  "id": "3-0896",
+  "hanzi": "正",
+  "pinyin": "zhèng",
+  "pos": "tính từ",
+  "meaning": "chính, ngay, thẳng",
+  "level": 3
+ },
+ {
+  "id": "3-0897",
+  "hanzi": "正式",
+  "pinyin": "zhèngshì",
+  "pos": "tính từ",
+  "meaning": "chính thức",
+  "level": 3
+ },
+ {
+  "id": "3-0898",
+  "hanzi": "证",
+  "pinyin": "zhèng",
+  "pos": "danh từ",
+  "meaning": "giấy chứng nhận (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0899",
+  "hanzi": "证件",
+  "pinyin": "zhèngjiàn",
+  "pos": "danh từ",
+  "meaning": "giấy tờ tùy thân",
+  "level": 3
+ },
+ {
+  "id": "3-0900",
+  "hanzi": "证据",
+  "pinyin": "zhèngjù",
+  "pos": "danh từ",
+  "meaning": "chứng cứ, bằng chứng",
+  "level": 3
+ }
+]

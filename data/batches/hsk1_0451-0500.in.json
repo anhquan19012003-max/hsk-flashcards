@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0451",
+  "hanzi": "远",
+  "pinyin": "yuǎn",
+  "pos": "tính từ",
+  "meaning": "xa",
+  "level": 1
+ },
+ {
+  "id": "1-0452",
+  "hanzi": "月",
+  "pinyin": "yuè",
+  "pos": "danh từ",
+  "meaning": "tháng",
+  "level": 1
+ },
+ {
+  "id": "1-0453",
+  "hanzi": "再",
+  "pinyin": "zài",
+  "pos": "phó từ",
+  "meaning": "lại, nữa",
+  "level": 1
+ },
+ {
+  "id": "1-0454",
+  "hanzi": "再见",
+  "pinyin": "zàijiàn",
+  "pos": "động từ",
+  "meaning": "tạm biệt",
+  "level": 1
+ },
+ {
+  "id": "1-0455",
+  "hanzi": "在",
+  "pinyin": "zài",
+  "pos": "động từ, giới từ, phó từ",
+  "meaning": "ở; đang",
+  "level": 1
+ },
+ {
+  "id": "1-0456",
+  "hanzi": "在家",
+  "pinyin": "zàijiā",
+  "pos": "động từ",
+  "meaning": "ở nhà",
+  "level": 1
+ },
+ {
+  "id": "1-0457",
+  "hanzi": "早",
+  "pinyin": "zǎo",
+  "pos": "tính từ",
+  "meaning": "sớm",
+  "level": 1
+ },
+ {
+  "id": "1-0458",
+  "hanzi": "早饭",
+  "pinyin": "zǎofàn",
+  "pos": "danh từ",
+  "meaning": "bữa sáng",
+  "level": 1
+ },
+ {
+  "id": "1-0459",
+  "hanzi": "早上",
+  "pinyin": "zǎoshang",
+  "pos": "danh từ",
+  "meaning": "sáng sớm, buổi sáng",
+  "level": 1
+ },
+ {
+  "id": "1-0460",
+  "hanzi": "怎么",
+  "pinyin": "zěnme",
+  "pos": "đại từ",
+  "meaning": "thế nào, sao",
+  "level": 1
+ },
+ {
+  "id": "1-0461",
+  "hanzi": "站",
+  "pinyin": "zhàn",
+  "pos": "danh từ",
+  "meaning": "trạm, ga",
+  "level": 1
+ },
+ {
+  "id": "1-0462",
+  "hanzi": "找",
+  "pinyin": "zhǎo",
+  "pos": "động từ",
+  "meaning": "tìm",
+  "level": 1
+ },
+ {
+  "id": "1-0463",
+  "hanzi": "找到",
+  "pinyin": "zhǎodào",
+  "pos": "cụm từ",
+  "meaning": "tìm thấy",
+  "level": 1
+ },
+ {
+  "id": "1-0464",
+  "hanzi": "这",
+  "pinyin": "zhè",
+  "pos": "đại từ",
+  "meaning": "này",
+  "level": 1
+ },
+ {
+  "id": "1-0465",
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "pos": "đại từ",
+  "meaning": "bên này",
+  "level": 1
+ },
+ {
+  "id": "1-0466",
+  "hanzi": "这里",
+  "pinyin": "zhèlǐ",
+  "pos": "đại từ",
+  "meaning": "ở đây",
+  "level": 1
+ },
+ {
+  "id": "1-0467",
+  "hanzi": "这儿",
+  "pinyin": "zhèr",
+  "pos": "đại từ",
+  "meaning": "chỗ này",
+  "level": 1
+ },
+ {
+  "id": "1-0468",
+  "hanzi": "这些",
+  "pinyin": "zhèxiē",
+  "pos": "đại từ",
+  "meaning": "những cái này",
+  "level": 1
+ },
+ {
+  "id": "1-0469",
+  "hanzi": "着",
+  "pinyin": "zhe",
+  "pos": "trợ từ",
+  "meaning": "đang (trợ từ 着 - trạng thái tiếp diễn)",
+  "level": 1
+ },
+ {
+  "id": "1-0470",
+  "hanzi": "真",
+  "pinyin": "zhēn",
+  "pos": "phó từ, tính từ",
+  "meaning": "thật, thật là",
+  "level": 1
+ },
+ {
+  "id": "1-0471",
+  "hanzi": "真的",
+  "pinyin": "zhēn de",
+  "pos": "cụm từ",
+  "meaning": "thật sự, thật không",
+  "level": 1
+ },
+ {
+  "id": "1-0472",
+  "hanzi": "正",
+  "pinyin": "zhèng",
+  "pos": "phó từ",
+  "meaning": "đang, đúng lúc (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0473",
+  "hanzi": "正在",
+  "pinyin": "zhèngzài",
+  "pos": "phó từ",
+  "meaning": "đang (làm gì)",
+  "level": 1
+ },
+ {
+  "id": "1-0474",
+  "hanzi": "知道",
+  "pinyin": "zhīdào",
+  "pos": "động từ",
+  "meaning": "biết",
+  "level": 1
+ },
+ {
+  "id": "1-0475",
+  "hanzi": "知识",
+  "pinyin": "zhīshi",
+  "pos": "danh từ",
+  "meaning": "kiến thức, tri thức",
+  "level": 1
+ },
+ {
+  "id": "1-0476",
+  "hanzi": "中",
+  "pinyin": "zhōng",
+  "pos": "danh từ",
+  "meaning": "giữa, trung (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0477",
+  "hanzi": "中国",
+  "pinyin": "Zhōngguó",
+  "pos": "danh từ",
+  "meaning": "Trung Quốc",
+  "level": 1
+ },
+ {
+  "id": "1-0478",
+  "hanzi": "中间",
+  "pinyin": "zhōngjiān",
+  "pos": "danh từ",
+  "meaning": "ở giữa, chính giữa",
+  "level": 1
+ },
+ {
+  "id": "1-0479",
+  "hanzi": "中文",
+  "pinyin": "Zhōngwén",
+  "pos": "danh từ",
+  "meaning": "tiếng Trung",
+  "level": 1
+ },
+ {
+  "id": "1-0480",
+  "hanzi": "中午",
+  "pinyin": "zhōngwǔ",
+  "pos": "danh từ",
+  "meaning": "buổi trưa",
+  "level": 1
+ },
+ {
+  "id": "1-0481",
+  "hanzi": "中学",
+  "pinyin": "zhōngxué",
+  "pos": "danh từ",
+  "meaning": "trường trung học",
+  "level": 1
+ },
+ {
+  "id": "1-0482",
+  "hanzi": "中学生",
+  "pinyin": "zhōngxuéshēng",
+  "pos": "danh từ",
+  "meaning": "học sinh trung học",
+  "level": 1
+ },
+ {
+  "id": "1-0483",
+  "hanzi": "重",
+  "pinyin": "zhòng",
+  "pos": "tính từ",
+  "meaning": "nặng",
+  "level": 1
+ },
+ {
+  "id": "1-0484",
+  "hanzi": "重要",
+  "pinyin": "zhòngyào",
+  "pos": "tính từ",
+  "meaning": "quan trọng",
+  "level": 1
+ },
+ {
+  "id": "1-0485",
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "pos": "động từ",
+  "meaning": "ở, sống (cư trú)",
+  "level": 1
+ },
+ {
+  "id": "1-0486",
+  "hanzi": "准备",
+  "pinyin": "zhǔnbèi",
+  "pos": "động từ",
+  "meaning": "chuẩn bị",
+  "level": 1
+ },
+ {
+  "id": "1-0487",
+  "hanzi": "桌子",
+  "pinyin": "zhuōzi",
+  "pos": "danh từ",
+  "meaning": "cái bàn",
+  "level": 1
+ },
+ {
+  "id": "1-0488",
+  "hanzi": "字",
+  "pinyin": "zì",
+  "pos": "danh từ",
+  "meaning": "chữ",
+  "level": 1
+ },
+ {
+  "id": "1-0489",
+  "hanzi": "子",
+  "pinyin": "zi",
+  "pos": "hậu tố",
+  "meaning": "hậu tố danh từ 子 (VD: 桌子)",
+  "level": 1
+ },
+ {
+  "id": "1-0490",
+  "hanzi": "走",
+  "pinyin": "zǒu",
+  "pos": "động từ",
+  "meaning": "đi, đi bộ; rời đi",
+  "level": 1
+ },
+ {
+  "id": "1-0491",
+  "hanzi": "走路",
+  "pinyin": "zǒulù",
+  "pos": "cụm từ",
+  "meaning": "đi bộ (đi đường)",
+  "level": 1
+ },
+ {
+  "id": "1-0492",
+  "hanzi": "最",
+  "pinyin": "zuì",
+  "pos": "phó từ",
+  "meaning": "nhất",
+  "level": 1
+ },
+ {
+  "id": "1-0493",
+  "hanzi": "最好",
+  "pinyin": "zuìhǎo",
+  "pos": "phó từ",
+  "meaning": "tốt nhất là",
+  "level": 1
+ },
+ {
+  "id": "1-0494",
+  "hanzi": "最后",
+  "pinyin": "zuìhòu",
+  "pos": "danh từ",
+  "meaning": "cuối cùng",
+  "level": 1
+ },
+ {
+  "id": "1-0495",
+  "hanzi": "昨天",
+  "pinyin": "zuótiān",
+  "pos": "danh từ",
+  "meaning": "hôm qua",
+  "level": 1
+ },
+ {
+  "id": "1-0496",
+  "hanzi": "左",
+  "pinyin": "zuǒ",
+  "pos": "danh từ",
+  "meaning": "trái (bên trái - 1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0497",
+  "hanzi": "左边",
+  "pinyin": "zuǒbian",
+  "pos": "danh từ",
+  "meaning": "bên trái",
+  "level": 1
+ },
+ {
+  "id": "1-0498",
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "pos": "động từ",
+  "meaning": "ngồi",
+  "level": 1
+ },
+ {
+  "id": "1-0499",
+  "hanzi": "坐下",
+  "pinyin": "zuòxia",
+  "pos": "cụm từ",
+  "meaning": "ngồi xuống",
+  "level": 1
+ },
+ {
+  "id": "1-0500",
+  "hanzi": "做",
+  "pinyin": "zuò",
+  "pos": "động từ",
+  "meaning": "làm, chế tạo",
+  "level": 1
+ }
+]

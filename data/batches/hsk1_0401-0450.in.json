@@ -1,0 +1,402 @@
+[
+ {
+  "id": "1-0401",
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "pos": "tính từ",
+  "meaning": "nhỏ",
+  "level": 1
+ },
+ {
+  "id": "1-0402",
+  "hanzi": "小孩儿",
+  "pinyin": "xiǎoháir",
+  "pos": "danh từ",
+  "meaning": "trẻ con",
+  "level": 1
+ },
+ {
+  "id": "1-0403",
+  "hanzi": "小姐",
+  "pinyin": "xiǎojiě",
+  "pos": "danh từ",
+  "meaning": "cô, tiểu thư",
+  "level": 1
+ },
+ {
+  "id": "1-0404",
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "pos": "danh từ",
+  "meaning": "bạn nhỏ, các em nhỏ",
+  "level": 1
+ },
+ {
+  "id": "1-0405",
+  "hanzi": "小时",
+  "pinyin": "xiǎoshí",
+  "pos": "danh từ",
+  "meaning": "giờ, tiếng (đồng hồ - khoảng thời gian)",
+  "level": 1
+ },
+ {
+  "id": "1-0406",
+  "hanzi": "小学",
+  "pinyin": "xiǎoxué",
+  "pos": "danh từ",
+  "meaning": "trường tiểu học",
+  "level": 1
+ },
+ {
+  "id": "1-0407",
+  "hanzi": "小学生",
+  "pinyin": "xiǎoxuéshēng",
+  "pos": "danh từ",
+  "meaning": "học sinh tiểu học",
+  "level": 1
+ },
+ {
+  "id": "1-0408",
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "pos": "động từ",
+  "meaning": "cười",
+  "level": 1
+ },
+ {
+  "id": "1-0409",
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "pos": "động từ",
+  "meaning": "viết",
+  "level": 1
+ },
+ {
+  "id": "1-0410",
+  "hanzi": "谢谢",
+  "pinyin": "xièxie",
+  "pos": "động từ",
+  "meaning": "cảm ơn",
+  "level": 1
+ },
+ {
+  "id": "1-0411",
+  "hanzi": "新",
+  "pinyin": "xīn",
+  "pos": "tính từ",
+  "meaning": "mới",
+  "level": 1
+ },
+ {
+  "id": "1-0412",
+  "hanzi": "新年",
+  "pinyin": "xīnnián",
+  "pos": "danh từ",
+  "meaning": "năm mới",
+  "level": 1
+ },
+ {
+  "id": "1-0413",
+  "hanzi": "星期",
+  "pinyin": "xīngqī",
+  "pos": "danh từ",
+  "meaning": "tuần lễ, thứ",
+  "level": 1
+ },
+ {
+  "id": "1-0414",
+  "hanzi": "星期日",
+  "pinyin": "xīngqīrì",
+  "pos": "danh từ",
+  "meaning": "chủ nhật (...日)",
+  "level": 1
+ },
+ {
+  "id": "1-0415",
+  "hanzi": "星期天",
+  "pinyin": "xīngqītiān",
+  "pos": "danh từ",
+  "meaning": "chủ nhật (...天)",
+  "level": 1
+ },
+ {
+  "id": "1-0416",
+  "hanzi": "行",
+  "pinyin": "xíng",
+  "pos": "động từ, tính từ",
+  "meaning": "được, ổn",
+  "level": 1
+ },
+ {
+  "id": "1-0417",
+  "hanzi": "休息",
+  "pinyin": "xiūxi",
+  "pos": "động từ",
+  "meaning": "nghỉ ngơi",
+  "level": 1
+ },
+ {
+  "id": "1-0418",
+  "hanzi": "学",
+  "pinyin": "xué",
+  "pos": "động từ",
+  "meaning": "học (1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0419",
+  "hanzi": "学生",
+  "pinyin": "xuésheng",
+  "pos": "danh từ",
+  "meaning": "học sinh",
+  "level": 1
+ },
+ {
+  "id": "1-0420",
+  "hanzi": "学习",
+  "pinyin": "xuéxí",
+  "pos": "động từ",
+  "meaning": "học tập",
+  "level": 1
+ },
+ {
+  "id": "1-0421",
+  "hanzi": "学校",
+  "pinyin": "xuéxiào",
+  "pos": "danh từ",
+  "meaning": "trường học",
+  "level": 1
+ },
+ {
+  "id": "1-0422",
+  "hanzi": "学院",
+  "pinyin": "xuéyuàn",
+  "pos": "danh từ",
+  "meaning": "học viện",
+  "level": 1
+ },
+ {
+  "id": "1-0423",
+  "hanzi": "要",
+  "pinyin": "yào",
+  "pos": "động từ",
+  "meaning": "muốn, cần, phải",
+  "level": 1
+ },
+ {
+  "id": "1-0424",
+  "hanzi": "爷爷",
+  "pinyin": "yéye",
+  "pos": "danh từ",
+  "meaning": "ông nội",
+  "level": 1
+ },
+ {
+  "id": "1-0425",
+  "hanzi": "也",
+  "pinyin": "yě",
+  "pos": "phó từ",
+  "meaning": "cũng",
+  "level": 1
+ },
+ {
+  "id": "1-0426",
+  "hanzi": "页",
+  "pinyin": "yè",
+  "pos": "lượng từ",
+  "meaning": "trang (giấy)",
+  "level": 1
+ },
+ {
+  "id": "1-0427",
+  "hanzi": "一",
+  "pinyin": "yī",
+  "pos": "số từ",
+  "meaning": "số 1 (một)",
+  "level": 1
+ },
+ {
+  "id": "1-0428",
+  "hanzi": "衣服",
+  "pinyin": "yīfu",
+  "pos": "danh từ",
+  "meaning": "quần áo",
+  "level": 1
+ },
+ {
+  "id": "1-0429",
+  "hanzi": "医生",
+  "pinyin": "yīshēng",
+  "pos": "danh từ",
+  "meaning": "bác sĩ",
+  "level": 1
+ },
+ {
+  "id": "1-0430",
+  "hanzi": "医院",
+  "pinyin": "yīyuàn",
+  "pos": "danh từ",
+  "meaning": "bệnh viện",
+  "level": 1
+ },
+ {
+  "id": "1-0431",
+  "hanzi": "一半",
+  "pinyin": "yíbàn",
+  "pos": "số từ",
+  "meaning": "một nửa",
+  "level": 1
+ },
+ {
+  "id": "1-0432",
+  "hanzi": "一会儿",
+  "pinyin": "yíhuìr",
+  "pos": "cụm từ",
+  "meaning": "một lát, một lúc",
+  "level": 1
+ },
+ {
+  "id": "1-0433",
+  "hanzi": "一块儿",
+  "pinyin": "yíkuàir",
+  "pos": "danh từ, phó từ",
+  "meaning": "cùng nhau (khẩu ngữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0434",
+  "hanzi": "一下儿",
+  "pinyin": "yíxiàr",
+  "pos": "cụm từ",
+  "meaning": "một chút (thử, một lát)",
+  "level": 1
+ },
+ {
+  "id": "1-0435",
+  "hanzi": "一样",
+  "pinyin": "yíyàng",
+  "pos": "tính từ",
+  "meaning": "giống nhau",
+  "level": 1
+ },
+ {
+  "id": "1-0436",
+  "hanzi": "一边",
+  "pinyin": "yìbiān",
+  "pos": "danh từ, phó từ",
+  "meaning": "một bên; vừa ... vừa",
+  "level": 1
+ },
+ {
+  "id": "1-0437",
+  "hanzi": "一点儿",
+  "pinyin": "yìdiǎnr",
+  "pos": "cụm từ",
+  "meaning": "một chút, một ít",
+  "level": 1
+ },
+ {
+  "id": "1-0438",
+  "hanzi": "一起",
+  "pinyin": "yìqǐ",
+  "pos": "phó từ, danh từ",
+  "meaning": "cùng nhau",
+  "level": 1
+ },
+ {
+  "id": "1-0439",
+  "hanzi": "一些",
+  "pinyin": "yìxiē",
+  "pos": "cụm từ",
+  "meaning": "một số, một vài",
+  "level": 1
+ },
+ {
+  "id": "1-0440",
+  "hanzi": "用",
+  "pinyin": "yòng",
+  "pos": "động từ",
+  "meaning": "dùng",
+  "level": 1
+ },
+ {
+  "id": "1-0441",
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "pos": "động từ",
+  "meaning": "có",
+  "level": 1
+ },
+ {
+  "id": "1-0442",
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "pos": "đại từ",
+  "meaning": "có cái, có người",
+  "level": 1
+ },
+ {
+  "id": "1-0443",
+  "hanzi": "有名",
+  "pinyin": "yǒumíng",
+  "pos": "cụm từ",
+  "meaning": "nổi tiếng",
+  "level": 1
+ },
+ {
+  "id": "1-0444",
+  "hanzi": "有时候",
+  "pinyin": "yǒushíhou",
+  "pos": "phó từ",
+  "meaning": "có lúc, đôi khi",
+  "level": 1
+ },
+ {
+  "id": "1-0445",
+  "hanzi": "有(一)些",
+  "pinyin": "yǒu(yì)xiē",
+  "pos": "đại từ",
+  "meaning": "có một số",
+  "level": 1
+ },
+ {
+  "id": "1-0446",
+  "hanzi": "有用",
+  "pinyin": "yǒuyòng",
+  "pos": "động từ",
+  "meaning": "có ích",
+  "level": 1
+ },
+ {
+  "id": "1-0447",
+  "hanzi": "右",
+  "pinyin": "yòu",
+  "pos": "danh từ",
+  "meaning": "phải (bên phải - 1 chữ)",
+  "level": 1
+ },
+ {
+  "id": "1-0448",
+  "hanzi": "右边",
+  "pinyin": "yòubian",
+  "pos": "danh từ",
+  "meaning": "bên phải",
+  "level": 1
+ },
+ {
+  "id": "1-0449",
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "pos": "danh từ",
+  "meaning": "mưa (danh từ)",
+  "level": 1
+ },
+ {
+  "id": "1-0450",
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "pos": "lượng từ",
+  "meaning": "đồng (đơn vị tiền tệ)",
+  "level": 1
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0101",
+  "hanzi": "重",
+  "pinyin": "chóng",
+  "pos": "phó từ",
+  "meaning": "lại, lần nữa (重)",
+  "level": 3
+ },
+ {
+  "id": "3-0102",
+  "hanzi": "初",
+  "pinyin": "chū",
+  "pos": "phó từ",
+  "meaning": "ban đầu, lần đầu",
+  "level": 3
+ },
+ {
+  "id": "3-0103",
+  "hanzi": "初",
+  "pinyin": "chū",
+  "pos": "tiền tố",
+  "meaning": "mùng (ngày đầu tháng âm lịch)",
+  "level": 3
+ },
+ {
+  "id": "3-0104",
+  "hanzi": "初步",
+  "pinyin": "chūbù",
+  "pos": "tính từ",
+  "meaning": "bước đầu",
+  "level": 3
+ },
+ {
+  "id": "3-0105",
+  "hanzi": "初级",
+  "pinyin": "chūjí",
+  "pos": "tính từ",
+  "meaning": "sơ cấp",
+  "level": 3
+ },
+ {
+  "id": "3-0106",
+  "hanzi": "初中",
+  "pinyin": "chūzhōng",
+  "pos": "danh từ",
+  "meaning": "trung học cơ sở (cấp 2)",
+  "level": 3
+ },
+ {
+  "id": "3-0107",
+  "hanzi": "除了",
+  "pinyin": "chúle",
+  "pos": "giới từ",
+  "meaning": "ngoài ... ra",
+  "level": 3
+ },
+ {
+  "id": "3-0108",
+  "hanzi": "处理",
+  "pinyin": "chǔlǐ",
+  "pos": "động từ, danh từ",
+  "meaning": "xử lý, giải quyết",
+  "level": 3
+ },
+ {
+  "id": "3-0109",
+  "hanzi": "传",
+  "pinyin": "chuán",
+  "pos": "động từ",
+  "meaning": "truyền (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0110",
+  "hanzi": "传播",
+  "pinyin": "chuánbō",
+  "pos": "động từ",
+  "meaning": "truyền bá, lan truyền",
+  "level": 3
+ },
+ {
+  "id": "3-0111",
+  "hanzi": "传来",
+  "pinyin": "chuánlái",
+  "pos": "cụm từ",
+  "meaning": "truyền đến, vọng đến",
+  "level": 3
+ },
+ {
+  "id": "3-0112",
+  "hanzi": "传说",
+  "pinyin": "chuánshuō",
+  "pos": "động từ, danh từ",
+  "meaning": "truyền thuyết; tương truyền",
+  "level": 3
+ },
+ {
+  "id": "3-0113",
+  "hanzi": "创新",
+  "pinyin": "chuàngxīn",
+  "pos": "động từ, danh từ",
+  "meaning": "đổi mới, sáng tạo cái mới",
+  "level": 3
+ },
+ {
+  "id": "3-0114",
+  "hanzi": "创业",
+  "pinyin": "chuàngyè",
+  "pos": "động từ",
+  "meaning": "khởi nghiệp",
+  "level": 3
+ },
+ {
+  "id": "3-0115",
+  "hanzi": "创造",
+  "pinyin": "chuàngzào",
+  "pos": "động từ, danh từ",
+  "meaning": "sáng tạo, tạo ra",
+  "level": 3
+ },
+ {
+  "id": "3-0116",
+  "hanzi": "创作",
+  "pinyin": "chuàngzuò",
+  "pos": "động từ, danh từ",
+  "meaning": "sáng tác; tác phẩm",
+  "level": 3
+ },
+ {
+  "id": "3-0117",
+  "hanzi": "从来",
+  "pinyin": "cónglái",
+  "pos": "phó từ",
+  "meaning": "từ trước đến nay",
+  "level": 3
+ },
+ {
+  "id": "3-0118",
+  "hanzi": "从前",
+  "pinyin": "cóngqián",
+  "pos": "danh từ",
+  "meaning": "trước kia, ngày xưa",
+  "level": 3
+ },
+ {
+  "id": "3-0119",
+  "hanzi": "从事",
+  "pinyin": "cóngshì",
+  "pos": "động từ",
+  "meaning": "làm (nghề), theo đuổi (công việc)",
+  "level": 3
+ },
+ {
+  "id": "3-0120",
+  "hanzi": "村",
+  "pinyin": "cūn",
+  "pos": "danh từ",
+  "meaning": "làng, thôn",
+  "level": 3
+ },
+ {
+  "id": "3-0121",
+  "hanzi": "存",
+  "pinyin": "cún",
+  "pos": "động từ",
+  "meaning": "gửi, để dành; tồn tại (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0122",
+  "hanzi": "存在",
+  "pinyin": "cúnzài",
+  "pos": "động từ",
+  "meaning": "tồn tại",
+  "level": 3
+ },
+ {
+  "id": "3-0123",
+  "hanzi": "错误",
+  "pinyin": "cuòwù",
+  "pos": "tính từ, danh từ",
+  "meaning": "sai lầm; lỗi",
+  "level": 3
+ },
+ {
+  "id": "3-0124",
+  "hanzi": "达到",
+  "pinyin": "dádào",
+  "pos": "cụm từ",
+  "meaning": "đạt tới, đạt được (mục tiêu)",
+  "level": 3
+ },
+ {
+  "id": "3-0125",
+  "hanzi": "打破",
+  "pinyin": "dǎpò",
+  "pos": "cụm từ",
+  "meaning": "phá vỡ, đánh vỡ",
+  "level": 3
+ },
+ {
+  "id": "3-0126",
+  "hanzi": "打听",
+  "pinyin": "dǎting",
+  "pos": "động từ",
+  "meaning": "hỏi thăm, dò hỏi",
+  "level": 3
+ },
+ {
+  "id": "3-0127",
+  "hanzi": "大概",
+  "pinyin": "dàgài",
+  "pos": "tính từ, phó từ",
+  "meaning": "đại khái; có lẽ, khoảng",
+  "level": 3
+ },
+ {
+  "id": "3-0128",
+  "hanzi": "大使馆",
+  "pinyin": "dàshǐguǎn",
+  "pos": "danh từ",
+  "meaning": "đại sứ quán",
+  "level": 3
+ },
+ {
+  "id": "3-0129",
+  "hanzi": "大约",
+  "pinyin": "dàyuē",
+  "pos": "phó từ",
+  "meaning": "khoảng, ước chừng",
+  "level": 3
+ },
+ {
+  "id": "3-0130",
+  "hanzi": "大夫",
+  "pinyin": "dàifu",
+  "pos": "danh từ",
+  "meaning": "bác sĩ (大夫)",
+  "level": 3
+ },
+ {
+  "id": "3-0131",
+  "hanzi": "代",
+  "pinyin": "dài",
+  "pos": "động từ, danh từ",
+  "meaning": "thay thế; đời, thế hệ",
+  "level": 3
+ },
+ {
+  "id": "3-0132",
+  "hanzi": "代表",
+  "pinyin": "dàibiǎo",
+  "pos": "danh từ, động từ",
+  "meaning": "đại biểu; đại diện",
+  "level": 3
+ },
+ {
+  "id": "3-0133",
+  "hanzi": "代表团",
+  "pinyin": "dàibiǎotuán",
+  "pos": "danh từ",
+  "meaning": "đoàn đại biểu",
+  "level": 3
+ },
+ {
+  "id": "3-0134",
+  "hanzi": "带动",
+  "pinyin": "dàidòng",
+  "pos": "động từ",
+  "meaning": "thúc đẩy, kéo theo",
+  "level": 3
+ },
+ {
+  "id": "3-0135",
+  "hanzi": "带领",
+  "pinyin": "dàilǐng",
+  "pos": "động từ",
+  "meaning": "dẫn dắt, dẫn đầu",
+  "level": 3
+ },
+ {
+  "id": "3-0136",
+  "hanzi": "单元",
+  "pinyin": "dānyuán",
+  "pos": "danh từ",
+  "meaning": "đơn nguyên, bài (giáo trình)",
+  "level": 3
+ },
+ {
+  "id": "3-0137",
+  "hanzi": "当初",
+  "pinyin": "dāngchū",
+  "pos": "danh từ",
+  "meaning": "lúc đầu, hồi ấy",
+  "level": 3
+ },
+ {
+  "id": "3-0138",
+  "hanzi": "当地",
+  "pinyin": "dāngdì",
+  "pos": "danh từ",
+  "meaning": "địa phương, bản địa",
+  "level": 3
+ },
+ {
+  "id": "3-0139",
+  "hanzi": "当然",
+  "pinyin": "dāngrán",
+  "pos": "phó từ, tính từ",
+  "meaning": "đương nhiên",
+  "level": 3
+ },
+ {
+  "id": "3-0140",
+  "hanzi": "当中",
+  "pinyin": "dāngzhōng",
+  "pos": "danh từ",
+  "meaning": "ở giữa, trong số",
+  "level": 3
+ },
+ {
+  "id": "3-0141",
+  "hanzi": "刀",
+  "pinyin": "dāo",
+  "pos": "danh từ",
+  "meaning": "con dao",
+  "level": 3
+ },
+ {
+  "id": "3-0142",
+  "hanzi": "导演",
+  "pinyin": "dǎoyǎn",
+  "pos": "động từ, danh từ",
+  "meaning": "đạo diễn",
+  "level": 3
+ },
+ {
+  "id": "3-0143",
+  "hanzi": "到达",
+  "pinyin": "dàodá",
+  "pos": "động từ",
+  "meaning": "đến nơi, tới",
+  "level": 3
+ },
+ {
+  "id": "3-0144",
+  "hanzi": "到底",
+  "pinyin": "dàodǐ",
+  "pos": "phó từ",
+  "meaning": "rốt cuộc",
+  "level": 3
+ },
+ {
+  "id": "3-0145",
+  "hanzi": "得分",
+  "pinyin": "défēn",
+  "pos": "động từ, danh từ",
+  "meaning": "ghi điểm; điểm số đạt được",
+  "level": 3
+ },
+ {
+  "id": "3-0146",
+  "hanzi": "等待",
+  "pinyin": "děngdài",
+  "pos": "động từ",
+  "meaning": "chờ đợi (等待)",
+  "level": 3
+ },
+ {
+  "id": "3-0147",
+  "hanzi": "底下",
+  "pinyin": "dǐxia",
+  "pos": "danh từ",
+  "meaning": "bên dưới, phía dưới (底下)",
+  "level": 3
+ },
+ {
+  "id": "3-0148",
+  "hanzi": "地区",
+  "pinyin": "dìqū",
+  "pos": "danh từ",
+  "meaning": "khu vực, vùng",
+  "level": 3
+ },
+ {
+  "id": "3-0149",
+  "hanzi": "电视剧",
+  "pinyin": "diànshìjù",
+  "pos": "danh từ",
+  "meaning": "phim truyền hình",
+  "level": 3
+ },
+ {
+  "id": "3-0150",
+  "hanzi": "电视台",
+  "pinyin": "diànshìtái",
+  "pos": "danh từ",
+  "meaning": "đài truyền hình",
+  "level": 3
+ }
+]

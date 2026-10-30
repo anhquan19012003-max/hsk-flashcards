@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0251",
+  "hanzi": "夫妻",
+  "pinyin": "fūqī",
+  "pos": "",
+  "meaning": "vợ chồng",
+  "level": 4
+ },
+ {
+  "id": "4-0252",
+  "hanzi": "夫人",
+  "pinyin": "fūrén",
+  "pos": "",
+  "meaning": "phu nhân",
+  "level": 4
+ },
+ {
+  "id": "4-0253",
+  "hanzi": "符号",
+  "pinyin": "fúhào",
+  "pos": "",
+  "meaning": "ký hiệu",
+  "level": 4
+ },
+ {
+  "id": "4-0254",
+  "hanzi": "符合",
+  "pinyin": "fúhé",
+  "pos": "",
+  "meaning": "phù hợp",
+  "level": 4
+ },
+ {
+  "id": "4-0255",
+  "hanzi": "付出",
+  "pinyin": "fùchū",
+  "pos": "",
+  "meaning": "bỏ ra",
+  "level": 4
+ },
+ {
+  "id": "4-0256",
+  "hanzi": "负担",
+  "pinyin": "fùdān",
+  "pos": "",
+  "meaning": "gánh nặng",
+  "level": 4
+ },
+ {
+  "id": "4-0257",
+  "hanzi": "附近",
+  "pinyin": "fùjìn",
+  "pos": "",
+  "meaning": "gần đây",
+  "level": 4
+ },
+ {
+  "id": "4-0258",
+  "hanzi": "复制",
+  "pinyin": "fùzhì",
+  "pos": "",
+  "meaning": "sao chép",
+  "level": 4
+ },
+ {
+  "id": "4-0259",
+  "hanzi": "改善",
+  "pinyin": "gǎishàn",
+  "pos": "",
+  "meaning": "cải thiện",
+  "level": 4
+ },
+ {
+  "id": "4-0260",
+  "hanzi": "改正",
+  "pinyin": "gǎizhèng",
+  "pos": "",
+  "meaning": "sửa chữa",
+  "level": 4
+ },
+ {
+  "id": "4-0261",
+  "hanzi": "盖",
+  "pinyin": "gài",
+  "pos": "",
+  "meaning": "đậy, che",
+  "level": 4
+ },
+ {
+  "id": "4-0262",
+  "hanzi": "概括",
+  "pinyin": "gàikuò",
+  "pos": "",
+  "meaning": "khái quát",
+  "level": 4
+ },
+ {
+  "id": "4-0263",
+  "hanzi": "感兴趣",
+  "pinyin": "gǎnxìngqù",
+  "pos": "",
+  "meaning": "có hứng thú",
+  "level": 4
+ },
+ {
+  "id": "4-0264",
+  "hanzi": "高潮",
+  "pinyin": "gāocháo",
+  "pos": "",
+  "meaning": "cao trào",
+  "level": 4
+ },
+ {
+  "id": "4-0265",
+  "hanzi": "高价",
+  "pinyin": "gāojià",
+  "pos": "",
+  "meaning": "giá cao",
+  "level": 4
+ },
+ {
+  "id": "4-0266",
+  "hanzi": "高尚",
+  "pinyin": "gāoshàng",
+  "pos": "",
+  "meaning": "cao thượng",
+  "level": 4
+ },
+ {
+  "id": "4-0267",
+  "hanzi": "高铁",
+  "pinyin": "gāotiě",
+  "pos": "",
+  "meaning": "tàu cao tốc",
+  "level": 4
+ },
+ {
+  "id": "4-0268",
+  "hanzi": "格外",
+  "pinyin": "géwài",
+  "pos": "",
+  "meaning": "đặc biệt",
+  "level": 4
+ },
+ {
+  "id": "4-0269",
+  "hanzi": "隔",
+  "pinyin": "gé",
+  "pos": "",
+  "meaning": "cách, ngăn cách",
+  "level": 4
+ },
+ {
+  "id": "4-0270",
+  "hanzi": "隔开",
+  "pinyin": "gékāi",
+  "pos": "",
+  "meaning": "cách biệt",
+  "level": 4
+ },
+ {
+  "id": "4-0271",
+  "hanzi": "个别",
+  "pinyin": "gèbié",
+  "pos": "",
+  "meaning": "cá biệt",
+  "level": 4
+ },
+ {
+  "id": "4-0272",
+  "hanzi": "个体",
+  "pinyin": "gètǐ",
+  "pos": "",
+  "meaning": "cá thể",
+  "level": 4
+ },
+ {
+  "id": "4-0273",
+  "hanzi": "各个",
+  "pinyin": "gègè",
+  "pos": "",
+  "meaning": "từng",
+  "level": 4
+ },
+ {
+  "id": "4-0274",
+  "hanzi": "根",
+  "pinyin": "gēn",
+  "pos": "",
+  "meaning": "rễ, gốc",
+  "level": 4
+ },
+ {
+  "id": "4-0275",
+  "hanzi": "根据",
+  "pinyin": "gēnjù",
+  "pos": "",
+  "meaning": "căn cứ",
+  "level": 4
+ },
+ {
+  "id": "4-0276",
+  "hanzi": "工程",
+  "pinyin": "gōngchéng",
+  "pos": "",
+  "meaning": "công trình",
+  "level": 4
+ },
+ {
+  "id": "4-0277",
+  "hanzi": "公元",
+  "pinyin": "gōngyuán",
+  "pos": "",
+  "meaning": "công nguyên",
+  "level": 4
+ },
+ {
+  "id": "4-0278",
+  "hanzi": "供应",
+  "pinyin": "gōngyìng",
+  "pos": "",
+  "meaning": "cung ứng",
+  "level": 4
+ },
+ {
+  "id": "4-0279",
+  "hanzi": "共",
+  "pinyin": "gòng",
+  "pos": "",
+  "meaning": "cùng, chung; tổng cộng",
+  "level": 4
+ },
+ {
+  "id": "4-0280",
+  "hanzi": "构成",
+  "pinyin": "gòuchéng",
+  "pos": "",
+  "meaning": "cấu thành",
+  "level": 4
+ },
+ {
+  "id": "4-0281",
+  "hanzi": "构造",
+  "pinyin": "gòuzào",
+  "pos": "",
+  "meaning": "cấu tạo",
+  "level": 4
+ },
+ {
+  "id": "4-0282",
+  "hanzi": "购买",
+  "pinyin": "gòumǎi",
+  "pos": "",
+  "meaning": "mua",
+  "level": 4
+ },
+ {
+  "id": "4-0283",
+  "hanzi": "购物",
+  "pinyin": "gòuwù",
+  "pos": "",
+  "meaning": "mua sắm",
+  "level": 4
+ },
+ {
+  "id": "4-0284",
+  "hanzi": "骨头",
+  "pinyin": "gǔtou",
+  "pos": "",
+  "meaning": "xương",
+  "level": 4
+ },
+ {
+  "id": "4-0285",
+  "hanzi": "固定",
+  "pinyin": "gùdìng",
+  "pos": "",
+  "meaning": "cố định",
+  "level": 4
+ },
+ {
+  "id": "4-0286",
+  "hanzi": "瓜",
+  "pinyin": "guā",
+  "pos": "",
+  "meaning": "dưa",
+  "level": 4
+ },
+ {
+  "id": "4-0287",
+  "hanzi": "怪",
+  "pinyin": "guài",
+  "pos": "tính từ, phó từ",
+  "meaning": "lạ lùng (tính từ, phó từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0288",
+  "hanzi": "关",
+  "pinyin": "guān",
+  "pos": "danh từ",
+  "meaning": "ải, cửa ải (danh từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0289",
+  "hanzi": "关闭",
+  "pinyin": "guānbì",
+  "pos": "",
+  "meaning": "đóng",
+  "level": 4
+ },
+ {
+  "id": "4-0290",
+  "hanzi": "关于",
+  "pinyin": "guānyú",
+  "pos": "",
+  "meaning": "về",
+  "level": 4
+ },
+ {
+  "id": "4-0291",
+  "hanzi": "官",
+  "pinyin": "guān",
+  "pos": "",
+  "meaning": "quan chức",
+  "level": 4
+ },
+ {
+  "id": "4-0292",
+  "hanzi": "官方",
+  "pinyin": "guānfāng",
+  "pos": "",
+  "meaning": "chính thức",
+  "level": 4
+ },
+ {
+  "id": "4-0293",
+  "hanzi": "光临",
+  "pinyin": "guānglín",
+  "pos": "",
+  "meaning": "quang lâm (lịch sự)",
+  "level": 4
+ },
+ {
+  "id": "4-0294",
+  "hanzi": "光盘",
+  "pinyin": "guāngpán",
+  "pos": "",
+  "meaning": "đĩa CD",
+  "level": 4
+ },
+ {
+  "id": "4-0295",
+  "hanzi": "逛",
+  "pinyin": "guàng",
+  "pos": "",
+  "meaning": "đi dạo",
+  "level": 4
+ },
+ {
+  "id": "4-0296",
+  "hanzi": "归",
+  "pinyin": "guī",
+  "pos": "",
+  "meaning": "quay về",
+  "level": 4
+ },
+ {
+  "id": "4-0297",
+  "hanzi": "规律",
+  "pinyin": "guīlǜ",
+  "pos": "",
+  "meaning": "quy luật",
+  "level": 4
+ },
+ {
+  "id": "4-0298",
+  "hanzi": "规模",
+  "pinyin": "guīmó",
+  "pos": "",
+  "meaning": "quy mô",
+  "level": 4
+ },
+ {
+  "id": "4-0299",
+  "hanzi": "规则",
+  "pinyin": "guīzé",
+  "pos": "",
+  "meaning": "quy tắc",
+  "level": 4
+ },
+ {
+  "id": "4-0300",
+  "hanzi": "果实",
+  "pinyin": "guǒshí",
+  "pos": "",
+  "meaning": "quả, thành quả",
+  "level": 4
+ }
+]

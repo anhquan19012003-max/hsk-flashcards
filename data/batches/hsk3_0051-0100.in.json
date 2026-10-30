@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0051",
+  "hanzi": "表演",
+  "pinyin": "biǎoyǎn",
+  "pos": "động từ, danh từ",
+  "meaning": "biểu diễn; màn biểu diễn",
+  "level": 3
+ },
+ {
+  "id": "3-0052",
+  "hanzi": "并",
+  "pinyin": "bìng",
+  "pos": "phó từ, liên từ",
+  "meaning": "và, đồng thời; (trước phủ định) hoàn toàn không",
+  "level": 3
+ },
+ {
+  "id": "3-0053",
+  "hanzi": "并且",
+  "pinyin": "bìngqiě",
+  "pos": "liên từ",
+  "meaning": "hơn nữa, và (并且)",
+  "level": 3
+ },
+ {
+  "id": "3-0054",
+  "hanzi": "播出",
+  "pinyin": "bōchū",
+  "pos": "cụm từ",
+  "meaning": "phát sóng (播出)",
+  "level": 3
+ },
+ {
+  "id": "3-0055",
+  "hanzi": "播放",
+  "pinyin": "bōfàng",
+  "pos": "động từ",
+  "meaning": "phát, chiếu (phim, nhạc)",
+  "level": 3
+ },
+ {
+  "id": "3-0056",
+  "hanzi": "不必",
+  "pinyin": "búbì",
+  "pos": "phó từ",
+  "meaning": "không cần, không phải",
+  "level": 3
+ },
+ {
+  "id": "3-0057",
+  "hanzi": "不断",
+  "pinyin": "búduàn",
+  "pos": "phó từ, động từ",
+  "meaning": "không ngừng, liên tục",
+  "level": 3
+ },
+ {
+  "id": "3-0058",
+  "hanzi": "不论",
+  "pinyin": "búlùn",
+  "pos": "liên từ",
+  "meaning": "bất luận, cho dù",
+  "level": 3
+ },
+ {
+  "id": "3-0059",
+  "hanzi": "补",
+  "pinyin": "bǔ",
+  "pos": "động từ",
+  "meaning": "bù, bổ sung, vá (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0060",
+  "hanzi": "补充",
+  "pinyin": "bǔchōng",
+  "pos": "động từ, danh từ",
+  "meaning": "bổ sung",
+  "level": 3
+ },
+ {
+  "id": "3-0061",
+  "hanzi": "不安",
+  "pinyin": "bù'ān",
+  "pos": "tính từ",
+  "meaning": "bất an, không yên",
+  "level": 3
+ },
+ {
+  "id": "3-0062",
+  "hanzi": "不得不",
+  "pinyin": "bùdébù",
+  "pos": "cụm từ",
+  "meaning": "buộc phải, đành phải",
+  "level": 3
+ },
+ {
+  "id": "3-0063",
+  "hanzi": "不光",
+  "pinyin": "bùguāng",
+  "pos": "phó từ, liên từ",
+  "meaning": "không những, không chỉ (不光)",
+  "level": 3
+ },
+ {
+  "id": "3-0064",
+  "hanzi": "不仅",
+  "pinyin": "bùjǐn",
+  "pos": "liên từ",
+  "meaning": "không chỉ, không những (不仅)",
+  "level": 3
+ },
+ {
+  "id": "3-0065",
+  "hanzi": "布",
+  "pinyin": "bù",
+  "pos": "danh từ",
+  "meaning": "vải",
+  "level": 3
+ },
+ {
+  "id": "3-0066",
+  "hanzi": "步",
+  "pinyin": "bù",
+  "pos": "danh từ, lượng từ",
+  "meaning": "bước",
+  "level": 3
+ },
+ {
+  "id": "3-0067",
+  "hanzi": "部",
+  "pinyin": "bù",
+  "pos": "danh từ, lượng từ",
+  "meaning": "bộ phận; bộ (phim, sách)",
+  "level": 3
+ },
+ {
+  "id": "3-0068",
+  "hanzi": "部门",
+  "pinyin": "bùmén",
+  "pos": "danh từ",
+  "meaning": "ban ngành, phòng ban",
+  "level": 3
+ },
+ {
+  "id": "3-0069",
+  "hanzi": "部长",
+  "pinyin": "bùzhǎng",
+  "pos": "danh từ",
+  "meaning": "bộ trưởng",
+  "level": 3
+ },
+ {
+  "id": "3-0070",
+  "hanzi": "才能",
+  "pinyin": "cáinéng",
+  "pos": "danh từ",
+  "meaning": "tài năng",
+  "level": 3
+ },
+ {
+  "id": "3-0071",
+  "hanzi": "采取",
+  "pinyin": "cǎiqǔ",
+  "pos": "động từ",
+  "meaning": "áp dụng (biện pháp), tiến hành",
+  "level": 3
+ },
+ {
+  "id": "3-0072",
+  "hanzi": "采用",
+  "pinyin": "cǎiyòng",
+  "pos": "động từ",
+  "meaning": "áp dụng, sử dụng (采用)",
+  "level": 3
+ },
+ {
+  "id": "3-0073",
+  "hanzi": "彩色",
+  "pinyin": "cǎisè",
+  "pos": "danh từ",
+  "meaning": "màu sắc (nhiều màu)",
+  "level": 3
+ },
+ {
+  "id": "3-0074",
+  "hanzi": "曾经",
+  "pinyin": "céngjīng",
+  "pos": "phó từ",
+  "meaning": "đã từng",
+  "level": 3
+ },
+ {
+  "id": "3-0075",
+  "hanzi": "产生",
+  "pinyin": "chǎnshēng",
+  "pos": "động từ",
+  "meaning": "sản sinh, nảy sinh",
+  "level": 3
+ },
+ {
+  "id": "3-0076",
+  "hanzi": "长城",
+  "pinyin": "Chángchéng",
+  "pos": "danh từ",
+  "meaning": "Vạn Lý Trường Thành",
+  "level": 3
+ },
+ {
+  "id": "3-0077",
+  "hanzi": "长处",
+  "pinyin": "chángchù",
+  "pos": "danh từ",
+  "meaning": "sở trường, điểm mạnh",
+  "level": 3
+ },
+ {
+  "id": "3-0078",
+  "hanzi": "长期",
+  "pinyin": "chángqī",
+  "pos": "danh từ",
+  "meaning": "lâu dài, dài hạn",
+  "level": 3
+ },
+ {
+  "id": "3-0079",
+  "hanzi": "厂",
+  "pinyin": "chǎng",
+  "pos": "danh từ",
+  "meaning": "nhà máy (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0080",
+  "hanzi": "场合",
+  "pinyin": "chǎnghé",
+  "pos": "danh từ",
+  "meaning": "trường hợp, dịp",
+  "level": 3
+ },
+ {
+  "id": "3-0081",
+  "hanzi": "场所",
+  "pinyin": "chǎngsuǒ",
+  "pos": "danh từ",
+  "meaning": "nơi chốn, địa điểm",
+  "level": 3
+ },
+ {
+  "id": "3-0082",
+  "hanzi": "超级",
+  "pinyin": "chāojí",
+  "pos": "tính từ",
+  "meaning": "siêu (siêu cấp)",
+  "level": 3
+ },
+ {
+  "id": "3-0083",
+  "hanzi": "朝",
+  "pinyin": "cháo",
+  "pos": "giới từ, động từ",
+  "meaning": "hướng về, về phía (朝)",
+  "level": 3
+ },
+ {
+  "id": "3-0084",
+  "hanzi": "吵",
+  "pinyin": "chǎo",
+  "pos": "tính từ, động từ",
+  "meaning": "ồn ào; cãi nhau",
+  "level": 3
+ },
+ {
+  "id": "3-0085",
+  "hanzi": "吵架",
+  "pinyin": "chǎojià",
+  "pos": "cụm từ",
+  "meaning": "cãi nhau",
+  "level": 3
+ },
+ {
+  "id": "3-0086",
+  "hanzi": "衬衫",
+  "pinyin": "chènshān",
+  "pos": "danh từ",
+  "meaning": "áo sơ mi (衬衫)",
+  "level": 3
+ },
+ {
+  "id": "3-0087",
+  "hanzi": "衬衣",
+  "pinyin": "chènyī",
+  "pos": "danh từ",
+  "meaning": "áo sơ mi (衬衣)",
+  "level": 3
+ },
+ {
+  "id": "3-0088",
+  "hanzi": "称为",
+  "pinyin": "chēngwéi",
+  "pos": "cụm từ",
+  "meaning": "được gọi là",
+  "level": 3
+ },
+ {
+  "id": "3-0089",
+  "hanzi": "成功",
+  "pinyin": "chénggōng",
+  "pos": "động từ, tính từ",
+  "meaning": "thành công",
+  "level": 3
+ },
+ {
+  "id": "3-0090",
+  "hanzi": "成果",
+  "pinyin": "chéngguǒ",
+  "pos": "danh từ",
+  "meaning": "thành quả",
+  "level": 3
+ },
+ {
+  "id": "3-0091",
+  "hanzi": "成就",
+  "pinyin": "chéngjiù",
+  "pos": "danh từ, động từ",
+  "meaning": "thành tựu",
+  "level": 3
+ },
+ {
+  "id": "3-0092",
+  "hanzi": "成立",
+  "pinyin": "chénglì",
+  "pos": "động từ",
+  "meaning": "thành lập (tổ chức)",
+  "level": 3
+ },
+ {
+  "id": "3-0093",
+  "hanzi": "成熟",
+  "pinyin": "chéngshú",
+  "pos": "tính từ",
+  "meaning": "chín muồi, trưởng thành (成熟)",
+  "level": 3
+ },
+ {
+  "id": "3-0094",
+  "hanzi": "成员",
+  "pinyin": "chéngyuán",
+  "pos": "danh từ",
+  "meaning": "thành viên",
+  "level": 3
+ },
+ {
+  "id": "3-0095",
+  "hanzi": "成长",
+  "pinyin": "chéngzhǎng",
+  "pos": "động từ",
+  "meaning": "trưởng thành, lớn lên (成长)",
+  "level": 3
+ },
+ {
+  "id": "3-0096",
+  "hanzi": "城",
+  "pinyin": "chéng",
+  "pos": "danh từ",
+  "meaning": "thành, thành phố (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0097",
+  "hanzi": "城市",
+  "pinyin": "chéngshì",
+  "pos": "danh từ",
+  "meaning": "thành phố, đô thị",
+  "level": 3
+ },
+ {
+  "id": "3-0098",
+  "hanzi": "程度",
+  "pinyin": "chéngdù",
+  "pos": "danh từ",
+  "meaning": "mức độ, trình độ",
+  "level": 3
+ },
+ {
+  "id": "3-0099",
+  "hanzi": "持续",
+  "pinyin": "chíxù",
+  "pos": "động từ",
+  "meaning": "kéo dài, liên tục",
+  "level": 3
+ },
+ {
+  "id": "3-0100",
+  "hanzi": "充满",
+  "pinyin": "chōngmǎn",
+  "pos": "động từ",
+  "meaning": "tràn đầy, tràn ngập",
+  "level": 3
+ }
+]

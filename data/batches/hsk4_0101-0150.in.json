@@ -1,0 +1,402 @@
+[
+ {
+  "id": "4-0101",
+  "hanzi": "充电器",
+  "pinyin": "chōngdiànqì",
+  "pos": "",
+  "meaning": "bộ sạc",
+  "level": 4
+ },
+ {
+  "id": "4-0102",
+  "hanzi": "充分",
+  "pinyin": "chōngfèn",
+  "pos": "",
+  "meaning": "đầy đủ",
+  "level": 4
+ },
+ {
+  "id": "4-0103",
+  "hanzi": "虫子",
+  "pinyin": "chóngzi",
+  "pos": "",
+  "meaning": "côn trùng",
+  "level": 4
+ },
+ {
+  "id": "4-0104",
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "pos": "",
+  "meaning": "rút ra",
+  "level": 4
+ },
+ {
+  "id": "4-0105",
+  "hanzi": "抽奖",
+  "pinyin": "chōujiǎng",
+  "pos": "",
+  "meaning": "rút thăm trúng thưởng",
+  "level": 4
+ },
+ {
+  "id": "4-0106",
+  "hanzi": "抽烟",
+  "pinyin": "chōuyān",
+  "pos": "",
+  "meaning": "hút thuốc",
+  "level": 4
+ },
+ {
+  "id": "4-0107",
+  "hanzi": "出口",
+  "pinyin": "chūkǒu",
+  "pos": "",
+  "meaning": "lối ra",
+  "level": 4
+ },
+ {
+  "id": "4-0108",
+  "hanzi": "出色",
+  "pinyin": "chūsè",
+  "pos": "",
+  "meaning": "xuất sắc",
+  "level": 4
+ },
+ {
+  "id": "4-0109",
+  "hanzi": "出售",
+  "pinyin": "chūshòu",
+  "pos": "",
+  "meaning": "bán ra",
+  "level": 4
+ },
+ {
+  "id": "4-0110",
+  "hanzi": "出席",
+  "pinyin": "chūxí",
+  "pos": "",
+  "meaning": "tham dự",
+  "level": 4
+ },
+ {
+  "id": "4-0111",
+  "hanzi": "处于",
+  "pinyin": "chǔyú",
+  "pos": "",
+  "meaning": "đang ở trong",
+  "level": 4
+ },
+ {
+  "id": "4-0112",
+  "hanzi": "处",
+  "pinyin": "chǔ",
+  "pos": "",
+  "meaning": "sống; cư xử",
+  "level": 4
+ },
+ {
+  "id": "4-0113",
+  "hanzi": "穿上",
+  "pinyin": "chuānshàng",
+  "pos": "",
+  "meaning": "mặc vào",
+  "level": 4
+ },
+ {
+  "id": "4-0114",
+  "hanzi": "传统",
+  "pinyin": "chuántǒng",
+  "pos": "",
+  "meaning": "truyền thống",
+  "level": 4
+ },
+ {
+  "id": "4-0115",
+  "hanzi": "窗户",
+  "pinyin": "chuānghu",
+  "pos": "",
+  "meaning": "cửa sổ",
+  "level": 4
+ },
+ {
+  "id": "4-0116",
+  "hanzi": "窗台",
+  "pinyin": "chuāngtái",
+  "pos": "",
+  "meaning": "bệ cửa sổ",
+  "level": 4
+ },
+ {
+  "id": "4-0117",
+  "hanzi": "窗子",
+  "pinyin": "chuāngzi",
+  "pos": "",
+  "meaning": "cửa sổ (khẩu ngữ)",
+  "level": 4
+ },
+ {
+  "id": "4-0118",
+  "hanzi": "春季",
+  "pinyin": "chūnjì",
+  "pos": "",
+  "meaning": "mùa xuân",
+  "level": 4
+ },
+ {
+  "id": "4-0119",
+  "hanzi": "纯",
+  "pinyin": "chún",
+  "pos": "",
+  "meaning": "thuần khiết",
+  "level": 4
+ },
+ {
+  "id": "4-0120",
+  "hanzi": "纯净水",
+  "pinyin": "chúnjìngshuǐ",
+  "pos": "",
+  "meaning": "nước tinh khiết",
+  "level": 4
+ },
+ {
+  "id": "4-0121",
+  "hanzi": "词汇",
+  "pinyin": "cíhuì",
+  "pos": "",
+  "meaning": "từ vựng",
+  "level": 4
+ },
+ {
+  "id": "4-0122",
+  "hanzi": "此",
+  "pinyin": "cǐ",
+  "pos": "",
+  "meaning": "này, đây (văn viết)",
+  "level": 4
+ },
+ {
+  "id": "4-0123",
+  "hanzi": "此外",
+  "pinyin": "cǐwài",
+  "pos": "",
+  "meaning": "ngoài ra",
+  "level": 4
+ },
+ {
+  "id": "4-0124",
+  "hanzi": "次",
+  "pinyin": "cì",
+  "pos": "tính từ",
+  "meaning": "thứ cấp (tính từ)",
+  "level": 4
+ },
+ {
+  "id": "4-0125",
+  "hanzi": "刺",
+  "pinyin": "cì",
+  "pos": "",
+  "meaning": "gai, đâm",
+  "level": 4
+ },
+ {
+  "id": "4-0126",
+  "hanzi": "刺激",
+  "pinyin": "cìjī",
+  "pos": "",
+  "meaning": "kích thích",
+  "level": 4
+ },
+ {
+  "id": "4-0127",
+  "hanzi": "从此",
+  "pinyin": "cóngcǐ",
+  "pos": "",
+  "meaning": "từ đó",
+  "level": 4
+ },
+ {
+  "id": "4-0128",
+  "hanzi": "粗",
+  "pinyin": "cū",
+  "pos": "",
+  "meaning": "thô, to",
+  "level": 4
+ },
+ {
+  "id": "4-0129",
+  "hanzi": "粗心",
+  "pinyin": "cūxīn",
+  "pos": "",
+  "meaning": "bất cẩn",
+  "level": 4
+ },
+ {
+  "id": "4-0130",
+  "hanzi": "促进",
+  "pinyin": "cùjìn",
+  "pos": "",
+  "meaning": "thúc đẩy",
+  "level": 4
+ },
+ {
+  "id": "4-0131",
+  "hanzi": "促使",
+  "pinyin": "cùshǐ",
+  "pos": "",
+  "meaning": "thúc ép",
+  "level": 4
+ },
+ {
+  "id": "4-0132",
+  "hanzi": "促销",
+  "pinyin": "cùxiāo",
+  "pos": "",
+  "meaning": "khuyến mãi",
+  "level": 4
+ },
+ {
+  "id": "4-0133",
+  "hanzi": "措施",
+  "pinyin": "cuòshī",
+  "pos": "",
+  "meaning": "biện pháp",
+  "level": 4
+ },
+ {
+  "id": "4-0134",
+  "hanzi": "打",
+  "pinyin": "dǎ",
+  "pos": "",
+  "meaning": "đánh",
+  "level": 4
+ },
+ {
+  "id": "4-0135",
+  "hanzi": "答案",
+  "pinyin": "dá'àn",
+  "pos": "",
+  "meaning": "đáp án",
+  "level": 4
+ },
+ {
+  "id": "4-0136",
+  "hanzi": "打败",
+  "pinyin": "dǎbài",
+  "pos": "",
+  "meaning": "đánh bại",
+  "level": 4
+ },
+ {
+  "id": "4-0137",
+  "hanzi": "打雷",
+  "pinyin": "dǎléi",
+  "pos": "",
+  "meaning": "sấm sét",
+  "level": 4
+ },
+ {
+  "id": "4-0138",
+  "hanzi": "打扫",
+  "pinyin": "dǎsǎo",
+  "pos": "",
+  "meaning": "dọn dẹp",
+  "level": 4
+ },
+ {
+  "id": "4-0139",
+  "hanzi": "打折",
+  "pinyin": "dǎzhé",
+  "pos": "",
+  "meaning": "giảm giá",
+  "level": 4
+ },
+ {
+  "id": "4-0140",
+  "hanzi": "打针",
+  "pinyin": "dǎzhēn",
+  "pos": "",
+  "meaning": "tiêm",
+  "level": 4
+ },
+ {
+  "id": "4-0141",
+  "hanzi": "大巴",
+  "pinyin": "dàbā",
+  "pos": "",
+  "meaning": "xe buýt lớn",
+  "level": 4
+ },
+ {
+  "id": "4-0142",
+  "hanzi": "大多",
+  "pinyin": "dàduō",
+  "pos": "",
+  "meaning": "phần lớn",
+  "level": 4
+ },
+ {
+  "id": "4-0143",
+  "hanzi": "大方",
+  "pinyin": "dàfang",
+  "pos": "",
+  "meaning": "hào phóng",
+  "level": 4
+ },
+ {
+  "id": "4-0144",
+  "hanzi": "大哥",
+  "pinyin": "dàgē",
+  "pos": "",
+  "meaning": "anh cả",
+  "level": 4
+ },
+ {
+  "id": "4-0145",
+  "hanzi": "大规模",
+  "pinyin": "dàguīmó",
+  "pos": "",
+  "meaning": "quy mô lớn",
+  "level": 4
+ },
+ {
+  "id": "4-0146",
+  "hanzi": "大会",
+  "pinyin": "dàhuì",
+  "pos": "",
+  "meaning": "đại hội",
+  "level": 4
+ },
+ {
+  "id": "4-0147",
+  "hanzi": "大姐",
+  "pinyin": "dàjiě",
+  "pos": "",
+  "meaning": "chị cả",
+  "level": 4
+ },
+ {
+  "id": "4-0148",
+  "hanzi": "大楼",
+  "pinyin": "dàlóu",
+  "pos": "",
+  "meaning": "tòa nhà",
+  "level": 4
+ },
+ {
+  "id": "4-0149",
+  "hanzi": "大陆",
+  "pinyin": "dàlù",
+  "pos": "",
+  "meaning": "đại lục",
+  "level": 4
+ },
+ {
+  "id": "4-0150",
+  "hanzi": "大妈",
+  "pinyin": "dàmā",
+  "pos": "",
+  "meaning": "bác gái",
+  "level": 4
+ }
+]

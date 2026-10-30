@@ -1,0 +1,402 @@
+[
+ {
+  "id": "3-0651",
+  "hanzi": "始终",
+  "pinyin": "shǐzhōng",
+  "pos": "phó từ",
+  "meaning": "trước sau như một, luôn luôn",
+  "level": 3
+ },
+ {
+  "id": "3-0652",
+  "hanzi": "世纪",
+  "pinyin": "shìjì",
+  "pos": "danh từ",
+  "meaning": "thế kỷ",
+  "level": 3
+ },
+ {
+  "id": "3-0653",
+  "hanzi": "世界",
+  "pinyin": "shìjiè",
+  "pos": "danh từ",
+  "meaning": "thế giới",
+  "level": 3
+ },
+ {
+  "id": "3-0654",
+  "hanzi": "世界杯",
+  "pinyin": "shìjièbēi",
+  "pos": "danh từ",
+  "meaning": "World Cup, cúp thế giới",
+  "level": 3
+ },
+ {
+  "id": "3-0655",
+  "hanzi": "市场",
+  "pinyin": "shìchǎng",
+  "pos": "danh từ",
+  "meaning": "thị trường, chợ",
+  "level": 3
+ },
+ {
+  "id": "3-0656",
+  "hanzi": "事故",
+  "pinyin": "shìgù",
+  "pos": "danh từ",
+  "meaning": "tai nạn, sự cố",
+  "level": 3
+ },
+ {
+  "id": "3-0657",
+  "hanzi": "事件",
+  "pinyin": "shìjiàn",
+  "pos": "danh từ",
+  "meaning": "sự kiện",
+  "level": 3
+ },
+ {
+  "id": "3-0658",
+  "hanzi": "事实",
+  "pinyin": "shìshí",
+  "pos": "danh từ",
+  "meaning": "sự thật",
+  "level": 3
+ },
+ {
+  "id": "3-0659",
+  "hanzi": "事实上",
+  "pinyin": "shìshíshang",
+  "pos": "cụm từ",
+  "meaning": "thực tế là (事实上)",
+  "level": 3
+ },
+ {
+  "id": "3-0660",
+  "hanzi": "事业",
+  "pinyin": "shìyè",
+  "pos": "danh từ",
+  "meaning": "sự nghiệp",
+  "level": 3
+ },
+ {
+  "id": "3-0661",
+  "hanzi": "试题",
+  "pinyin": "shìtí",
+  "pos": "danh từ",
+  "meaning": "đề thi",
+  "level": 3
+ },
+ {
+  "id": "3-0662",
+  "hanzi": "试验",
+  "pinyin": "shìyàn",
+  "pos": "động từ",
+  "meaning": "thử nghiệm (试验)",
+  "level": 3
+ },
+ {
+  "id": "3-0663",
+  "hanzi": "适合",
+  "pinyin": "shìhé",
+  "pos": "động từ",
+  "meaning": "phù hợp, thích hợp (động từ)",
+  "level": 3
+ },
+ {
+  "id": "3-0664",
+  "hanzi": "适应",
+  "pinyin": "shìyìng",
+  "pos": "động từ",
+  "meaning": "thích nghi",
+  "level": 3
+ },
+ {
+  "id": "3-0665",
+  "hanzi": "适用",
+  "pinyin": "shìyòng",
+  "pos": "tính từ",
+  "meaning": "thích hợp để dùng, áp dụng được",
+  "level": 3
+ },
+ {
+  "id": "3-0666",
+  "hanzi": "室",
+  "pinyin": "shì",
+  "pos": "danh từ",
+  "meaning": "phòng (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0667",
+  "hanzi": "收费",
+  "pinyin": "shōufèi",
+  "pos": "động từ",
+  "meaning": "thu phí",
+  "level": 3
+ },
+ {
+  "id": "3-0668",
+  "hanzi": "收看",
+  "pinyin": "shōukàn",
+  "pos": "động từ",
+  "meaning": "xem (tivi)",
+  "level": 3
+ },
+ {
+  "id": "3-0669",
+  "hanzi": "收听",
+  "pinyin": "shōutīng",
+  "pos": "động từ",
+  "meaning": "nghe (đài)",
+  "level": 3
+ },
+ {
+  "id": "3-0670",
+  "hanzi": "收音机",
+  "pinyin": "shōuyīnjī",
+  "pos": "danh từ",
+  "meaning": "đài radio",
+  "level": 3
+ },
+ {
+  "id": "3-0671",
+  "hanzi": "手续",
+  "pinyin": "shǒuxù",
+  "pos": "danh từ",
+  "meaning": "thủ tục",
+  "level": 3
+ },
+ {
+  "id": "3-0672",
+  "hanzi": "手指",
+  "pinyin": "shǒuzhǐ",
+  "pos": "danh từ",
+  "meaning": "ngón tay",
+  "level": 3
+ },
+ {
+  "id": "3-0673",
+  "hanzi": "首都",
+  "pinyin": "shǒudū",
+  "pos": "danh từ",
+  "meaning": "thủ đô",
+  "level": 3
+ },
+ {
+  "id": "3-0674",
+  "hanzi": "首先",
+  "pinyin": "shǒuxiān",
+  "pos": "phó từ",
+  "meaning": "đầu tiên, trước hết",
+  "level": 3
+ },
+ {
+  "id": "3-0675",
+  "hanzi": "受",
+  "pinyin": "shòu",
+  "pos": "động từ",
+  "meaning": "chịu, bị, nhận",
+  "level": 3
+ },
+ {
+  "id": "3-0676",
+  "hanzi": "受伤",
+  "pinyin": "shòushāng",
+  "pos": "cụm từ",
+  "meaning": "bị thương",
+  "level": 3
+ },
+ {
+  "id": "3-0677",
+  "hanzi": "书架",
+  "pinyin": "shūjià",
+  "pos": "danh từ",
+  "meaning": "giá sách",
+  "level": 3
+ },
+ {
+  "id": "3-0678",
+  "hanzi": "输",
+  "pinyin": "shū",
+  "pos": "động từ",
+  "meaning": "thua; nhập (dữ liệu)",
+  "level": 3
+ },
+ {
+  "id": "3-0679",
+  "hanzi": "输入",
+  "pinyin": "shūrù",
+  "pos": "động từ",
+  "meaning": "nhập vào (dữ liệu)",
+  "level": 3
+ },
+ {
+  "id": "3-0680",
+  "hanzi": "熟人",
+  "pinyin": "shúrén",
+  "pos": "danh từ",
+  "meaning": "người quen",
+  "level": 3
+ },
+ {
+  "id": "3-0681",
+  "hanzi": "属",
+  "pinyin": "shǔ",
+  "pos": "động từ",
+  "meaning": "cầm tinh (tuổi con gì); thuộc",
+  "level": 3
+ },
+ {
+  "id": "3-0682",
+  "hanzi": "属于",
+  "pinyin": "shǔyú",
+  "pos": "động từ",
+  "meaning": "thuộc về",
+  "level": 3
+ },
+ {
+  "id": "3-0683",
+  "hanzi": "束",
+  "pinyin": "shù",
+  "pos": "lượng từ",
+  "meaning": "bó (hoa)",
+  "level": 3
+ },
+ {
+  "id": "3-0684",
+  "hanzi": "数量",
+  "pinyin": "shùliàng",
+  "pos": "danh từ",
+  "meaning": "số lượng",
+  "level": 3
+ },
+ {
+  "id": "3-0685",
+  "hanzi": "双",
+  "pinyin": "shuāng",
+  "pos": "lượng từ, tính từ",
+  "meaning": "đôi (lượng từ); song, kép",
+  "level": 3
+ },
+ {
+  "id": "3-0686",
+  "hanzi": "双方",
+  "pinyin": "shuāngfāng",
+  "pos": "danh từ",
+  "meaning": "hai bên, song phương",
+  "level": 3
+ },
+ {
+  "id": "3-0687",
+  "hanzi": "思想",
+  "pinyin": "sīxiǎng",
+  "pos": "danh từ",
+  "meaning": "tư tưởng",
+  "level": 3
+ },
+ {
+  "id": "3-0688",
+  "hanzi": "死",
+  "pinyin": "sǐ",
+  "pos": "động từ, tính từ",
+  "meaning": "chết",
+  "level": 3
+ },
+ {
+  "id": "3-0689",
+  "hanzi": "速度",
+  "pinyin": "sùdù",
+  "pos": "danh từ",
+  "meaning": "tốc độ",
+  "level": 3
+ },
+ {
+  "id": "3-0690",
+  "hanzi": "随",
+  "pinyin": "suí",
+  "pos": "động từ",
+  "meaning": "theo, tùy theo",
+  "level": 3
+ },
+ {
+  "id": "3-0691",
+  "hanzi": "所",
+  "pinyin": "suǒ",
+  "pos": "danh từ, lượng từ",
+  "meaning": "nơi, sở; ngôi (nhà, trường)",
+  "level": 3
+ },
+ {
+  "id": "3-0692",
+  "hanzi": "所长",
+  "pinyin": "suǒzhǎng",
+  "pos": "danh từ",
+  "meaning": "sở trưởng, viện trưởng",
+  "level": 3
+ },
+ {
+  "id": "3-0693",
+  "hanzi": "台",
+  "pinyin": "tái",
+  "pos": "danh từ, lượng từ",
+  "meaning": "bục, đài; chiếc (máy móc)",
+  "level": 3
+ },
+ {
+  "id": "3-0694",
+  "hanzi": "谈",
+  "pinyin": "tán",
+  "pos": "động từ",
+  "meaning": "nói chuyện, bàn (1 chữ)",
+  "level": 3
+ },
+ {
+  "id": "3-0695",
+  "hanzi": "谈话",
+  "pinyin": "tánhuà",
+  "pos": "cụm từ",
+  "meaning": "trò chuyện, nói chuyện (谈话)",
+  "level": 3
+ },
+ {
+  "id": "3-0696",
+  "hanzi": "谈判",
+  "pinyin": "tánpàn",
+  "pos": "động từ, danh từ",
+  "meaning": "đàm phán",
+  "level": 3
+ },
+ {
+  "id": "3-0697",
+  "hanzi": "汤",
+  "pinyin": "tāng",
+  "pos": "danh từ",
+  "meaning": "canh, súp",
+  "level": 3
+ },
+ {
+  "id": "3-0698",
+  "hanzi": "糖",
+  "pinyin": "táng",
+  "pos": "danh từ",
+  "meaning": "đường; kẹo",
+  "level": 3
+ },
+ {
+  "id": "3-0699",
+  "hanzi": "特色",
+  "pinyin": "tèsè",
+  "pos": "danh từ",
+  "meaning": "đặc sắc, nét đặc trưng",
+  "level": 3
+ },
+ {
+  "id": "3-0700",
+  "hanzi": "提前",
+  "pinyin": "tíqián",
+  "pos": "động từ",
+  "meaning": "trước thời hạn, sớm hơn",
+  "level": 3
+ }
+]

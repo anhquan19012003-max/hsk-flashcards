@@ -1,0 +1,402 @@
+[
+ {
+  "id": "5-0651",
+  "hanzi": "宝贝",
+  "pinyin": "bǎobèi",
+  "pos": "",
+  "meaning": "bảo bối",
+  "level": 5
+ },
+ {
+  "id": "5-0652",
+  "hanzi": "保持",
+  "pinyin": "bǎochí",
+  "pos": "",
+  "meaning": "duy trì",
+  "level": 5
+ },
+ {
+  "id": "5-0653",
+  "hanzi": "保险",
+  "pinyin": "bǎoxiǎn",
+  "pos": "",
+  "meaning": "bảo hiểm",
+  "level": 5
+ },
+ {
+  "id": "5-0654",
+  "hanzi": "抱怨",
+  "pinyin": "bàoyuàn",
+  "pos": "",
+  "meaning": "phàn nàn",
+  "level": 5
+ },
+ {
+  "id": "5-0655",
+  "hanzi": "报道",
+  "pinyin": "bàodào",
+  "pos": "",
+  "meaning": "đưa tin",
+  "level": 5
+ },
+ {
+  "id": "5-0656",
+  "hanzi": "报社",
+  "pinyin": "bàoshè",
+  "pos": "",
+  "meaning": "tòa soạn",
+  "level": 5
+ },
+ {
+  "id": "5-0657",
+  "hanzi": "背",
+  "pinyin": "bèi",
+  "pos": "",
+  "meaning": "lưng",
+  "level": 5
+ },
+ {
+  "id": "5-0658",
+  "hanzi": "本质",
+  "pinyin": "běnzhì",
+  "pos": "",
+  "meaning": "bản chất",
+  "level": 5
+ },
+ {
+  "id": "5-0659",
+  "hanzi": "彼此",
+  "pinyin": "bǐcǐ",
+  "pos": "",
+  "meaning": "lẫn nhau",
+  "level": 5
+ },
+ {
+  "id": "5-0660",
+  "hanzi": "毕竟",
+  "pinyin": "bìjìng",
+  "pos": "",
+  "meaning": "dù sao",
+  "level": 5
+ },
+ {
+  "id": "5-0661",
+  "hanzi": "避免",
+  "pinyin": "bìmiǎn",
+  "pos": "",
+  "meaning": "tránh",
+  "level": 5
+ },
+ {
+  "id": "5-0662",
+  "hanzi": "编辑",
+  "pinyin": "biānjí",
+  "pos": "",
+  "meaning": "biên tập",
+  "level": 5
+ },
+ {
+  "id": "5-0663",
+  "hanzi": "便",
+  "pinyin": "biàn",
+  "pos": "",
+  "meaning": "thì, bèn",
+  "level": 5
+ },
+ {
+  "id": "5-0664",
+  "hanzi": "标点",
+  "pinyin": "biāodiǎn",
+  "pos": "",
+  "meaning": "dấu câu",
+  "level": 5
+ },
+ {
+  "id": "5-0665",
+  "hanzi": "表明",
+  "pinyin": "biǎomíng",
+  "pos": "",
+  "meaning": "biểu thị",
+  "level": 5
+ },
+ {
+  "id": "5-0666",
+  "hanzi": "病毒",
+  "pinyin": "bìngdú",
+  "pos": "",
+  "meaning": "vi-rút",
+  "level": 5
+ },
+ {
+  "id": "5-0667",
+  "hanzi": "播放",
+  "pinyin": "bōfàng",
+  "pos": "",
+  "meaning": "phát sóng",
+  "level": 5
+ },
+ {
+  "id": "5-0668",
+  "hanzi": "脖子",
+  "pinyin": "bózi",
+  "pos": "",
+  "meaning": "cổ",
+  "level": 5
+ },
+ {
+  "id": "5-0669",
+  "hanzi": "不要紧",
+  "pinyin": "búyàojǐn",
+  "pos": "",
+  "meaning": "không sao",
+  "level": 5
+ },
+ {
+  "id": "5-0670",
+  "hanzi": "布",
+  "pinyin": "bù",
+  "pos": "",
+  "meaning": "vải",
+  "level": 5
+ },
+ {
+  "id": "5-0671",
+  "hanzi": "不安",
+  "pinyin": "bù'ān",
+  "pos": "",
+  "meaning": "bất an",
+  "level": 5
+ },
+ {
+  "id": "5-0672",
+  "hanzi": "不得了",
+  "pinyin": "bùdéliǎo",
+  "pos": "",
+  "meaning": "vô cùng",
+  "level": 5
+ },
+ {
+  "id": "5-0673",
+  "hanzi": "不如",
+  "pinyin": "bùrú",
+  "pos": "",
+  "meaning": "không bằng",
+  "level": 5
+ },
+ {
+  "id": "5-0674",
+  "hanzi": "步骤",
+  "pinyin": "bùzhòu",
+  "pos": "",
+  "meaning": "bước",
+  "level": 5
+ },
+ {
+  "id": "5-0675",
+  "hanzi": "采访",
+  "pinyin": "cǎifǎng",
+  "pos": "",
+  "meaning": "phỏng vấn",
+  "level": 5
+ },
+ {
+  "id": "5-0676",
+  "hanzi": "彩虹",
+  "pinyin": "cǎihóng",
+  "pos": "",
+  "meaning": "cầu vồng",
+  "level": 5
+ },
+ {
+  "id": "5-0677",
+  "hanzi": "参与",
+  "pinyin": "cānyù",
+  "pos": "",
+  "meaning": "tham gia",
+  "level": 5
+ },
+ {
+  "id": "5-0678",
+  "hanzi": "惭愧",
+  "pinyin": "cánkuì",
+  "pos": "",
+  "meaning": "hổ thẹn",
+  "level": 5
+ },
+ {
+  "id": "5-0679",
+  "hanzi": "操心",
+  "pinyin": "cāoxīn",
+  "pos": "",
+  "meaning": "bận tâm",
+  "level": 5
+ },
+ {
+  "id": "5-0680",
+  "hanzi": "册",
+  "pinyin": "cè",
+  "pos": "",
+  "meaning": "cuốn",
+  "level": 5
+ },
+ {
+  "id": "5-0681",
+  "hanzi": "测验",
+  "pinyin": "cèyàn",
+  "pos": "",
+  "meaning": "kiểm tra",
+  "level": 5
+ },
+ {
+  "id": "5-0682",
+  "hanzi": "曾经",
+  "pinyin": "céngjīng",
+  "pos": "",
+  "meaning": "đã từng",
+  "level": 5
+ },
+ {
+  "id": "5-0683",
+  "hanzi": "差距",
+  "pinyin": "chājù",
+  "pos": "",
+  "meaning": "khoảng cách",
+  "level": 5
+ },
+ {
+  "id": "5-0684",
+  "hanzi": "产品",
+  "pinyin": "chǎnpǐn",
+  "pos": "",
+  "meaning": "sản phẩm",
+  "level": 5
+ },
+ {
+  "id": "5-0685",
+  "hanzi": "长途",
+  "pinyin": "chángtú",
+  "pos": "",
+  "meaning": "đường dài",
+  "level": 5
+ },
+ {
+  "id": "5-0686",
+  "hanzi": "抄",
+  "pinyin": "chāo",
+  "pos": "",
+  "meaning": "chép",
+  "level": 5
+ },
+ {
+  "id": "5-0687",
+  "hanzi": "超级",
+  "pinyin": "chāojí",
+  "pos": "",
+  "meaning": "siêu cấp",
+  "level": 5
+ },
+ {
+  "id": "5-0688",
+  "hanzi": "朝",
+  "pinyin": "cháo",
+  "pos": "",
+  "meaning": "hướng về",
+  "level": 5
+ },
+ {
+  "id": "5-0689",
+  "hanzi": "炒",
+  "pinyin": "chǎo",
+  "pos": "",
+  "meaning": "xào",
+  "level": 5
+ },
+ {
+  "id": "5-0690",
+  "hanzi": "吵架",
+  "pinyin": "chǎojià",
+  "pos": "",
+  "meaning": "cãi nhau",
+  "level": 5
+ },
+ {
+  "id": "5-0691",
+  "hanzi": "车厢",
+  "pinyin": "chēxiāng",
+  "pos": "",
+  "meaning": "toa xe",
+  "level": 5
+ },
+ {
+  "id": "5-0692",
+  "hanzi": "沉默",
+  "pinyin": "chénmò",
+  "pos": "",
+  "meaning": "trầm mặc",
+  "level": 5
+ },
+ {
+  "id": "5-0693",
+  "hanzi": "称呼",
+  "pinyin": "chēnghu",
+  "pos": "",
+  "meaning": "xưng hô",
+  "level": 5
+ },
+ {
+  "id": "5-0694",
+  "hanzi": "承认",
+  "pinyin": "chéngrèn",
+  "pos": "",
+  "meaning": "thừa nhận",
+  "level": 5
+ },
+ {
+  "id": "5-0695",
+  "hanzi": "程度",
+  "pinyin": "chéngdù",
+  "pos": "",
+  "meaning": "mức độ",
+  "level": 5
+ },
+ {
+  "id": "5-0696",
+  "hanzi": "成分",
+  "pinyin": "chéngfèn",
+  "pos": "",
+  "meaning": "thành phần",
+  "level": 5
+ },
+ {
+  "id": "5-0697",
+  "hanzi": "成果",
+  "pinyin": "chéngguǒ",
+  "pos": "",
+  "meaning": "thành quả",
+  "level": 5
+ },
+ {
+  "id": "5-0698",
+  "hanzi": "成就",
+  "pinyin": "chéngjiù",
+  "pos": "",
+  "meaning": "thành tựu",
+  "level": 5
+ },
+ {
+  "id": "5-0699",
+  "hanzi": "成熟",
+  "pinyin": "chéngshú",
+  "pos": "",
+  "meaning": "trưởng thành",
+  "level": 5
+ },
+ {
+  "id": "5-0700",
+  "hanzi": "成长",
+  "pinyin": "chéngzhǎng",
+  "pos": "",
+  "meaning": "trưởng thành",
+  "level": 5
+ }
+]
