@@ -2,8 +2,9 @@
 // unavailable (private mode, blocked) the app keeps working with in-memory state for the session.
 const PROGRESS_KEY = "hskfc.v1.progress";
 const SETTINGS_KEY = "hskfc.v1.settings";
+const BANK_KEY = "hskfc.v1.bank";
 
-export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "", writingOutline: false, writingPinyin: true };
+export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "", writingOutline: false, writingPinyin: true, bankSize: 10 };
 
 function read(key) {
   try {
@@ -27,6 +28,7 @@ function write(key, value) {
 
 let progress = read(PROGRESS_KEY);
 let settings = { ...DEFAULT_SETTINGS, ...read(SETTINGS_KEY) };
+let bank = read(BANK_KEY); // question bank (Phase 8): { "<question id>": { ok: 1|0, wrong: n } }
 
 const save = () => write(PROGRESS_KEY, progress);
 
@@ -71,8 +73,26 @@ export function resetLevel(level) {
   return save();
 }
 
+// ---- question bank progress (Luyện đề) ----
+const saveBank = () => write(BANK_KEY, bank);
+
+export const getBank = () => bank;
+
+export function setBankEntry(id, entry) {
+  if (entry) bank[id] = entry;
+  else delete bank[id];
+  return saveBank();
+}
+
+export function resetBankIds(ids) {
+  for (const id of ids) delete bank[id];
+  return saveBank();
+}
+
 export function exportProgress() {
-  return JSON.stringify(progress, null, 1);
+  // The bank travels in the same file under one extra key; it is left out while empty so older backups look the same.
+  const out = Object.keys(bank).length ? { ...progress, _bank: bank } : progress;
+  return JSON.stringify(out, null, 1);
 }
 
 /** Replace progress with an uploaded backup. Throws on an invalid file. Returns the number of words. */
@@ -80,7 +100,9 @@ export function importProgress(text) {
   const data = JSON.parse(text);
   if (!data || typeof data !== "object" || Array.isArray(data)) throw new Error("bad shape");
   const clean = {};
+  let cleanBank = null;
   for (const [id, e] of Object.entries(data)) {
+    if (id === "_bank") { cleanBank = cleanBankProgress(e); continue; }
     if (!/^[1-5]-\d{4}$/.test(id) || !e || typeof e !== "object") throw new Error("bad entry " + id);
     const zv = e.zv ? 1 : 0;
     const vz = e.vz ? 1 : 0;
@@ -89,8 +111,24 @@ export function importProgress(text) {
   }
   progress = clean;
   save();
+  if (cleanBank) { // old backups have no bank part: the bank progress on this device is then left alone
+    bank = cleanBank;
+    saveBank();
+  }
   return Object.keys(clean).length;
 }
+
+function cleanBankProgress(data) {
+  if (!data || typeof data !== "object" || Array.isArray(data)) throw new Error("bad bank");
+  const clean = {};
+  for (const [id, e] of Object.entries(data)) {
+    if (!/^[\w-]{1,80}$/.test(id) || !e || typeof e !== "object") throw new Error("bad bank entry " + id);
+    clean[id] = { ok: e.ok ? 1 : 0, wrong: Math.max(0, Math.min(999, Math.floor(Number(e.wrong)) || 0)) };
+  }
+  return clean;
+}
+
+export const bankCountInBackup = (text) => Object.keys(JSON.parse(text)._bank || {}).length;
 
 export const getSettings = () => settings;
 

@@ -10,6 +10,8 @@ from pathlib import Path
 
 from playwright.sync_api import expect, sync_playwright
 
+from browser import launch
+
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 WORDS = json.loads((DOCS / "data" / "hsk1.json").read_text(encoding="utf-8"))["words"]
@@ -51,7 +53,7 @@ def study_session(page, dir_, answer_all=True):
 def main():
     srv, url = serve()
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        browser = launch(p)
         ctx = browser.new_context(viewport={"width": 390, "height": 844}, accept_downloads=True)
         page = ctx.new_page()
         errors = []

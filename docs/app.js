@@ -2,6 +2,7 @@ import * as store from "./js/storage.js";
 import { checkAnswer } from "./js/check.js";
 import { initSpeech, speak, listVoices, setVoice } from "./js/speech.js";
 import { mountWriter } from "./js/writing.js";
+import * as bank from "./js/bank.js";
 
 const LEVELS = [1, 2, 3, 4, 5];
 const COUNTS = { 1: 500, 2: 772, 3: 973, 4: 1000, 5: 1300 };
@@ -100,8 +101,11 @@ window.addEventListener("popstate", (e) => {
   const s = e.state;
   if (!s || s.name === "home") view = { name: "home" };
   else if (s.name === "settings") view = { name: "settings" };
+  else if (s.name === "bank") view = { name: "bank" };
+  else if (s.name.startsWith("bank-")) view = { name: "bank-level", level: s.level }; // question/summary screens fall back to the list
   else view = { name: "level", level: s.level };
   session = null;
+  bank.endSession();
   render();
 });
 
@@ -112,7 +116,8 @@ function currentLevel() {
 // ---------- rendering ----------
 function render() {
   if (activeWriter) { activeWriter.destroy(); activeWriter = null; }
-  const screens = { home: renderHome, level: renderLevel, study: renderStudy, summary: renderSummary, done: renderDone, settings: renderSettings };
+  const screens = { home: renderHome, level: renderLevel, study: renderStudy, summary: renderSummary, done: renderDone, settings: renderSettings,
+    bank: bank.renderBankHome, "bank-level": bank.renderBankLevel, "bank-q": bank.renderBankQuestion, "bank-sum": bank.renderBankSummary };
   $app.innerHTML = '<div class="loading">Đang tải…</div>';
   const result = (screens[view.name] || renderHome)();
   if (result && typeof result.then === "function") {
@@ -132,6 +137,7 @@ function draw(html) {
   const input = document.getElementById("answer");
   if (input) input.focus({ preventScroll: true });
   mountSessionWriter();
+  bank.afterDraw();
 }
 
 function writerOptions(extra) {
@@ -175,7 +181,9 @@ function renderHome() {
       <div class="bar"><i style="width:${pct}%"></i></div>
     </button>`;
   }).join("");
-  return `<div class="screen">${topBar({ title: "Thẻ từ vựng HSK", gear: true })}<div class="stack">${buttons}</div></div>`;
+  return `<div class="screen">${topBar({ title: "Thẻ từ vựng HSK", gear: true })}<div class="stack">${buttons}
+    <button class="bank-btn" data-action="bank-open"><span class="lv">📝 Luyện đề</span>
+      <span class="sub">Câu hỏi từ đề thi mẫu · Nghe · Đọc · Sắp xếp câu</span></button></div></div>`;
 }
 
 async function renderLevel() {
@@ -365,6 +373,7 @@ function renderSettings() {
         ${seg([[1, "Bật"], [0, "Tắt"]], st.writingOutline ? 1 : 0, "set-outline")}
         <p class="setting-label">Hiện pinyin khi luyện viết</p>
         ${seg([[1, "Bật"], [0, "Tắt"]], st.writingPinyin ? 1 : 0, "set-wpinyin")}</div>
+      ${bank.settingsSection()}
       <div class="section"><h2>Tiến độ học</h2>
         <div class="stack">
           <button class="btn" data-action="backup">Sao lưu tiến độ</button>
@@ -538,7 +547,8 @@ document.addEventListener("change", async (e) => {
     });
     if (!yes) return;
     const n = store.importProgress(text);
-    toast(`Đã khôi phục ${n} từ`);
+    const q = store.bankCountInBackup(text);
+    toast(`Đã khôi phục ${n} từ` + (q ? ` và ${q} câu Luyện đề` : ""));
   } catch (err) {
     await dialog({ title: "File không hợp lệ", message: "Hãy chọn file sao lưu do ứng dụng này tạo ra.", buttons: [{ label: "Đóng", value: null, kind: "primary" }] });
   }
@@ -611,8 +621,22 @@ function closeSheet() {
 
 // ---------- start ----------
 initSpeech(store.getSettings().voice, () => { if (view.name === "settings") render(); });
+bank.init({
+  esc, shuffle, toast, dialog, render, go, topBar,
+  getView: () => view,
+  setView: (v) => { view = v; },
+  refresh: () => { if (view.name === "settings") render(); },
+});
+const magicKey = bank.takeMagicKey(); // removes `#k=…` from the address bar immediately
 history.replaceState({ name: "home" }, "");
 render();
+if (magicKey) {
+  bank.unlockWithRaw(magicKey).then((result) => {
+    if (result === "ok") toast("Đã mở khóa Luyện đề");
+    else if (result === "bad") toast("Liên kết không đúng hoặc đã cũ. Hãy nhập mật khẩu.", 6000);
+    go({ name: "bank" });
+  });
+}
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {

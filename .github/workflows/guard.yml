@@ -1,0 +1,43 @@
+name: Plaintext guard
+
+# Runs on every push and pull request. Fails if anything readable (test questions, pictures, audio) is in docs/bank/
+# or if private material (mock-tests/, Sample Test/) is tracked in this public repo. See specs/mock-tests.md, section 0.
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Plaintext guard
+        run: python scripts/bank/guard.py
+
+  unit-tests:
+    runs-on: ubuntu-latest
+    needs: guard
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install Python dependencies
+        run: pip install cryptography pillow
+      - name: Install ffmpeg (fixture clips)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Bank unit tests
+        run: python scripts/test_bank_unit.py
+      - name: Bank browser-side logic
+        run: node scripts/test_bankjs.mjs
+      - name: Other Node tests
+        run: node scripts/test_storage.mjs && node scripts/test_check.mjs

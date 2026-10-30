@@ -1,0 +1,432 @@
+{
+ "paper": {
+  "id": "hsk4-fixture-1",
+  "level": 4,
+  "examVersion": "fixture",
+  "title": "Đề thử"
+ },
+ "units": [
+  {
+   "id": "hsk4-fixture-1-N1",
+   "skill": "nghe",
+   "type": "tf",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-1",
+     "prompt": "我家有一只小猫。",
+     "options": null,
+     "answer": "✓",
+     "audio": "clips/a.mp3",
+     "script": "我家有一只小猫。",
+     "explain_zh": "录音里说家里有一只猫。",
+     "explain_vi": "Bản ghi nói nhà có một con mèo."
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-N2",
+   "skill": "nghe",
+   "type": "tf",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-2",
+     "prompt": "今天天气不好。",
+     "options": null,
+     "answer": "✗",
+     "audio": "clips/b.mp3",
+     "script": "今天天气很好。",
+     "explain_vi": "Bản ghi nói thời tiết rất tốt."
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-N3",
+   "skill": "nghe",
+   "type": "choice",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-3",
+     "prompt": "",
+     "options": [
+      {
+       "key": "A",
+       "text": "去商店"
+      },
+      {
+       "key": "B",
+       "text": "去公园"
+      },
+      {
+       "key": "C",
+       "text": "回家"
+      },
+      {
+       "key": "D",
+       "text": "看电影"
+      }
+     ],
+     "answer": "B",
+     "audio": "clips/a.mp3",
+     "script": "女：明天你想做什么？男：我想去公园。",
+     "explain_zh": "男的想去公园。",
+     "explain_vi": "Người nam muốn đi công viên."
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-N4",
+   "skill": "nghe",
+   "type": "choice",
+   "context": {
+    "audio": "clips/b.mp3"
+   },
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-4",
+     "prompt": "他在做什么？",
+     "options": [
+      {
+       "key": "A",
+       "text": "看书"
+      },
+      {
+       "key": "B",
+       "text": "写字"
+      },
+      {
+       "key": "C",
+       "text": "做饭"
+      },
+      {
+       "key": "D",
+       "text": "睡觉"
+      }
+     ],
+     "answer": "A",
+     "audio": null,
+     "script": "他正在看一本书。"
+    },
+    {
+     "id": "hsk4-fixture-1-5",
+     "prompt": "书怎么样？",
+     "options": [
+      {
+       "key": "A",
+       "text": "很贵"
+      },
+      {
+       "key": "B",
+       "text": "很有意思"
+      },
+      {
+       "key": "C",
+       "text": "很旧"
+      },
+      {
+       "key": "D",
+       "text": "很小"
+      }
+     ],
+     "answer": "B",
+     "audio": null,
+     "script": "这本书很有意思。"
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-D1",
+   "skill": "doc",
+   "type": "wordbank",
+   "context": {
+    "sharedOptions": [
+     {
+      "key": "A",
+      "text": "喜欢"
+     },
+     {
+      "key": "B",
+      "text": "快乐"
+     },
+     {
+      "key": "C",
+      "text": "已经"
+     },
+     {
+      "key": "D",
+      "text": "因为"
+     }
+    ]
+   },
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-6",
+     "prompt": "我 ( ) 吃苹果。",
+     "options": null,
+     "answer": "A",
+     "audio": null,
+     "script": "",
+     "explain_vi": "喜欢 = thích."
+    },
+    {
+     "id": "hsk4-fixture-1-7",
+     "prompt": "他 ( ) 走了。",
+     "options": null,
+     "answer": "C",
+     "audio": null,
+     "script": ""
+    },
+    {
+     "id": "hsk4-fixture-1-8",
+     "prompt": "( ) 下雨，我没出门。",
+     "options": null,
+     "answer": "D",
+     "audio": null,
+     "script": ""
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-D2",
+   "skill": "doc",
+   "type": "choice",
+   "context": {
+    "text": "小明有一只小狗。每天早上，他带小狗去河边玩。小狗很喜欢水。"
+   },
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-9",
+     "prompt": "小明什么时候带小狗出去？",
+     "options": [
+      {
+       "key": "A",
+       "text": "早上"
+      },
+      {
+       "key": "B",
+       "text": "中午"
+      },
+      {
+       "key": "C",
+       "text": "晚上"
+      },
+      {
+       "key": "D",
+       "text": "下午"
+      }
+     ],
+     "answer": "A",
+     "audio": null,
+     "script": "",
+     "explain_vi": "Đoạn văn nói “每天早上”."
+    },
+    {
+     "id": "hsk4-fixture-1-10",
+     "prompt": "小狗喜欢什么？",
+     "options": [
+      {
+       "key": "A",
+       "text": "饭"
+      },
+      {
+       "key": "B",
+       "text": "水"
+      },
+      {
+       "key": "C",
+       "text": "书"
+      },
+      {
+       "key": "D",
+       "text": "车"
+      }
+     ],
+     "answer": "B",
+     "audio": null,
+     "script": ""
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-D3",
+   "skill": "doc",
+   "type": "choice",
+   "context": {
+    "image": "img/cat.webp"
+   },
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-11",
+     "prompt": "图片里有什么颜色？",
+     "options": [
+      {
+       "key": "A",
+       "text": "红色和蓝色"
+      },
+      {
+       "key": "B",
+       "text": "绿色"
+      }
+     ],
+     "answer": "A",
+     "audio": null,
+     "script": ""
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-D4",
+   "skill": "doc",
+   "type": "choice",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-12",
+     "prompt": "哪一张图是圆的？",
+     "options": [
+      {
+       "key": "A",
+       "text": "",
+       "image": "img/cat.webp"
+      },
+      {
+       "key": "B",
+       "text": "",
+       "image": "img/cat.webp"
+      }
+     ],
+     "answer": "A",
+     "audio": null,
+     "script": ""
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-S1",
+   "skill": "sapxep",
+   "type": "order-sentences",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-13",
+     "prompt": "",
+     "options": [
+      {
+       "key": "A",
+       "text": "所以他今天没去上班"
+      },
+      {
+       "key": "B",
+       "text": "小王昨天病了"
+      },
+      {
+       "key": "C",
+       "text": "现在他好多了"
+      }
+     ],
+     "answer": "BAC",
+     "audio": null,
+     "script": "",
+     "explain_vi": "Trình tự thời gian: bệnh → nghỉ làm → đỡ hơn."
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-S2",
+   "skill": "sapxep",
+   "type": "order-sentences",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-14",
+     "prompt": "",
+     "options": [
+      {
+       "key": "A",
+       "text": "我们一起去吃饭吧"
+      },
+      {
+       "key": "B",
+       "text": "已经十二点了"
+      },
+      {
+       "key": "C",
+       "text": "你饿不饿"
+      }
+     ],
+     "answer": "BCA",
+     "audio": null,
+     "script": ""
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-S3",
+   "skill": "sapxep",
+   "type": "order-words",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-15",
+     "prompt": "",
+     "options": [
+      {
+       "key": "1",
+       "text": "我"
+      },
+      {
+       "key": "2",
+       "text": "喜欢"
+      },
+      {
+       "key": "3",
+       "text": "吃"
+      },
+      {
+       "key": "4",
+       "text": "苹果"
+      }
+     ],
+     "answer": "我喜欢吃苹果。",
+     "audio": null,
+     "script": "",
+     "explain_vi": "Chủ ngữ + động từ + tân ngữ."
+    }
+   ]
+  },
+  {
+   "id": "hsk4-fixture-1-S4",
+   "skill": "sapxep",
+   "type": "order-words",
+   "context": {},
+   "questions": [
+    {
+     "id": "hsk4-fixture-1-16",
+     "prompt": "",
+     "options": [
+      {
+       "key": "1",
+       "text": "明天"
+      },
+      {
+       "key": "2",
+       "text": "我们"
+      },
+      {
+       "key": "3",
+       "text": "去公园"
+      }
+     ],
+     "answer": "明天我们去公园。",
+     "audio": null,
+     "script": "",
+     "alsoAccept": [
+      "我们明天去公园。"
+     ]
+    }
+   ]
+  }
+ ]
+}
