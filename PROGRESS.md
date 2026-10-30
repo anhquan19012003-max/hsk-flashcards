@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-4` (Đề 1–4, 380 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 5 and Đề 6 are transcribed in the private repo (`work/hsk4-book-5/`, `work/hsk4-book-6/`; their `questions.json` is kept as `questions.draft.json` until audio is cut so the build never publishes a paper without clips); Đề 7–10 not started. Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-5` (Đề 1–5, 475 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 6–9 are transcribed in the private repo (`work/hsk4-book-N/`; their `questions.json` is kept as `questions.draft.json` until audio is cut and verified so the build never publishes a paper without clips); Đề 10 not started. Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -21,6 +21,7 @@ Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-
 
 - 2026-10-30 Phase 8: Đề 3 added (95 questions, 40 clips: min recall 0.93 / precision 0.94, 0 excluded; Whisper missed the start of Q33, placed from silence boundaries in `clip_overrides.json`). Bank now 285 questions, 120 clips, 17.1 MB.
 - 2026-10-30 Phase 8: Đề 4 added (95 questions, 40 clips, all 40 verified, 0 flagged). Bank now 380 questions, 160 clips, 24.0 MB. Order-words Q90/Q94 carry the alternative answers printed in the book.
+- 2026-10-30 Phase 8: Đề 5 added (95 questions, 40 clips, all verified, 0 flagged). Bank now 475 questions, 200 clips, 29.8 MB.
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).
