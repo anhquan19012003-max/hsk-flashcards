@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-5` (Đề 1–5, 475 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 6–9 are transcribed in the private repo (`work/hsk4-book-N/`; their `questions.json` is kept as `questions.draft.json` until audio is cut and verified so the build never publishes a paper without clips); Đề 10 not started. Phase 7 is done (Quan's phone check of the any-order writing is still open).
+Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-book-6` (Đề 1–6, 570 questions) are in the encrypted bank. **Checkpoint: waiting for Quan's phone test** (see "Waiting on Quan"). Đề 7–10 are transcribed in the private repo (`work/hsk4-book-N/`; their `questions.json` is kept as `questions.draft.json` until audio is cut and verified so the build never publishes a paper without clips). Phase 7 is done (Quan's phone check of the any-order writing is still open).
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -22,6 +22,7 @@ Phase 8 (Luyện đề, question bank): engine published; `hsk4-book-1`…`hsk4-
 - 2026-10-30 Phase 8: Đề 3 added (95 questions, 40 clips: min recall 0.93 / precision 0.94, 0 excluded; Whisper missed the start of Q33, placed from silence boundaries in `clip_overrides.json`). Bank now 285 questions, 120 clips, 17.1 MB.
 - 2026-10-30 Phase 8: Đề 4 added (95 questions, 40 clips, all 40 verified, 0 flagged). Bank now 380 questions, 160 clips, 24.0 MB. Order-words Q90/Q94 carry the alternative answers printed in the book.
 - 2026-10-30 Phase 8: Đề 5 added (95 questions, 40 clips, all verified, 0 flagged). Bank now 475 questions, 200 clips, 29.8 MB.
+- 2026-10-30 Phase 8: Đề 6 added (95 questions, 40 clips verified, 0 flagged; Q28 and Q30 placed from silence boundaries in `clip_overrides.json`). Bank now 570 questions, 240 clips, 35.5 MB.
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).
@@ -65,7 +66,7 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - 2026-10-30 Luyện viết grades strokes in any order (Quan: the strict order was too strict). Each drawn line must still match a stroke's shape and direction; Hanzi Writer's quiz is no longer used (only its outline + animation). A wrong line counts as 1 mistake; hint (one missing stroke flashes) after 3 wrong lines in a row.
 
 ## Known issues
-- 2026-10-30 Phase 8 book-key notes for Quan: Đề 7 Q10 book key ✓ contradicts the book's own explanation → used ✗; Đề 8 Q69 printed key D does not match the passage (kept book key, flag for review); Đề 9 Q42 answer is by elimination; Đề 10 Q57/Q58 explanation letters in the book do not match the key ACB → explanation re-lettered to the key.
+- 2026-10-30 Phase 8 book-key notes for Quan: Đề 7 Q10 book key ✓ contradicts the book's own explanation → used ✗; Đề 8 Q69 printed key D does not match the passage (kept book key, flag for review); Đề 9 Q42 answer is by elimination; Đề 10 Q4 book key ✓ contradicts the book's own explanation → used ✗; Đề 10 Q57/Q58 explanation letters in the book do not match the key ACB → explanation re-lettered to the key.
 - Phase 8: the CJK clips come from the 128 kbps → 64 kbps compact copy, re-encoded mono 48 kbps; the page map could not be checked against the 目录 (PDF p. 15 is not in the compact copy) but Test 1's start (p. 17), script (p. 179), answers (p. 185) and explanations (p. 186–195) matched the spec.
 - Phase 8: the GitHub Actions guard cannot stop GitHub Pages from deploying (Pages publishes `main/docs` by itself); it flags the push as failed, and the pre-commit hook (`git config core.hooksPath .githooks`) stops it earlier on a laptop.
 - Phase 8: writing part 2 (look at the picture and write a sentence, Q96–100) is skipped as agreed.
