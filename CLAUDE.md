@@ -10,7 +10,7 @@ Read this file at the start of every session. Work phase by phase (see section 6
 
 Quan planned this project in a separate chat and doesn't want to go back to it — **you are his main point of contact.** He uses Claude Code but isn't a full-time developer, and he is a beginner Chinese learner.
 
-**Where things stand.** Phases 0–5, 7 and 8 are done (Phase 8 = Luyện đề: engine live, all 10 HSK 4 papers in the encrypted bank; Quan's phone test is still open), see PROGRESS.md: all 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
+**Where things stand.** Phases 0–5, 7 and 8 are done (Phase 8 = Luyện đề: all 10 HSK 4 papers in the encrypted bank, phone-tested by Quan); **Phase 9 is next** (`specs/vocab-quiz.md`). See PROGRESS.md. All 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
 
 **Session start.** Run `git pull` (also in `mock-tests/`, which is the private repo `hsk-bank-private`; in a cloud session that repo is checked out next to this one — see `specs/mock-tests.md` section 11). Then read `PROGRESS.md` (if it doesn't exist yet, create it and fill `## Done` from `git log`). In 3–5 lines tell Quan: which phase we're in, what was done last time, and the next step. Then wait for him to say go — unless he already gave an instruction.
 
@@ -46,6 +46,8 @@ This file is how a fresh session (or a different model) picks up exactly where t
 | "new feature: …" | Write a short spec in `specs/`, add a phase in section 6, confirm the plan with him, then build |
 
 **Publishing.** Every app or content change ends with: run the tests → bump the service-worker version → commit → push, so the live site updates. Tell Quan to reopen the app on his phone to get the new version.
+
+**Cloud sessions and branches.** A cloud session may only be able to push to its own `claude/...` branch (this happened in Phase 8 with `hsk-bank-private`). At the end of every cloud session, check each repo you touched: if `main` is behind your branch, tell Quan in the report which repos need merging (or open a pull request), because the next session and the live site only see `main`. Claude sessions can fast-forward `main` but cannot delete branches; Quan deletes old branches on GitHub.
 
 **Usage.** Don't read big data files into the conversation (use scripts and summaries). Use the Haiku subagent for bulk content as in 3e. If a session gets long, finish the step, save, and suggest a fresh session.
 
@@ -290,8 +292,11 @@ Full spec: **`specs/mock-tests.md`** — read it completely before starting. Not
 **Where:** Quan wants Phase 8 run in a **Claude Code cloud session** with two repos — this one and the private `hsk-bank-private` (spec section 11; setup steps in `setup/cloud-setup.md`).
 **Checkpoints:** after the engine is live (fixture only), after the first real paper (Quan tests on his phone), and when the HSK 4 papers are done.
 
+**Phase 9 — Small fixes + Trắc nghiệm (vocab multiple-choice quiz)** — *next*
+Full spec: **`specs/vocab-quiz.md`** — read it completely before starting. Part A: the Luyện đề section in Cài đặt appears whenever the bank is unlocked, plus a `Tải toàn bộ đề về máy` shortcut on the Luyện đề screen. Part B: a `Trắc nghiệm 📝` button on each level screen — multiple-choice questions generated from the existing word data (6 types: nghĩa, chữ Hán, pinyin, nghe, điền từ, Hán Việt), reusing the Luyện đề look, with its own progress (`hskfc.v1.quiz`). No new content to generate and no encryption needed.
+**Checkpoint:** Quan tests on his phone (list in the spec, B8).
+
 **Later ideas (not started — ask Quan before building)**
-- Vocab quiz generated from the app's own data (meaning ↔ hanzi, pinyin, fill-in-the-blank from the example, listen-and-choose) — could reuse the Phase 8 question screens.
 - Pronunciation practice: free browser speech recognition only works in a browser tab (not from the home-screen app on iPhone); real tone scoring would need a paid service such as Azure pronunciation assessment plus a small server.
 
 ---
