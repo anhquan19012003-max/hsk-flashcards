@@ -66,7 +66,7 @@ def main():
         check("home shows 5 levels", page.locator(".level-btn").count() == 5)
         page.locator(".level-btn").first.click()
         page.get_by_text("Còn 500 từ").first.wait_for()
-        check("level screen remaining 500", page.get_by_text("Còn 500 từ").count() == 3)
+        check("level screen remaining 500", page.get_by_text("Còn 500 từ").count() == 4)
 
         # --- Trung → Việt: one session of 20 (default size)
         page.get_by_role("button", name="Trung → Việt").first.click()
@@ -202,7 +202,7 @@ def main():
         page.reload()
         page.locator(".level-btn").first.click()
         page.get_by_text("Còn 500 từ").first.wait_for()
-        check("works offline (shell + level data cached)", page.get_by_text("Còn 500 từ").count() == 3)
+        check("works offline (shell + level data cached)", page.get_by_text("Còn 500 từ").count() == 4)
         ctx.set_offline(False)
 
         check("no console/page errors", not errors, "; ".join(errors[:3]))

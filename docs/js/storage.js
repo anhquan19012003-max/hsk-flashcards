@@ -3,8 +3,10 @@
 const PROGRESS_KEY = "hskfc.v1.progress";
 const SETTINGS_KEY = "hskfc.v1.settings";
 const BANK_KEY = "hskfc.v1.bank";
+const QUIZ_KEY = "hskfc.v1.quiz";
 
-export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "", writingOutline: false, writingPinyin: true, bankSize: 10 };
+export const DEFAULT_SETTINGS = { sessionSize: 20, speed: "normal", voice: "", writingOutline: false, writingPinyin: true, bankSize: 10,
+  quizTypes: ["nghia", "chuhan", "pinyin", "nghe", "dientu", "hanviet"], quizPool: "all", quizSize: 20 };
 
 function read(key) {
   try {
@@ -29,6 +31,7 @@ function write(key, value) {
 let progress = read(PROGRESS_KEY);
 let settings = { ...DEFAULT_SETTINGS, ...read(SETTINGS_KEY) };
 let bank = read(BANK_KEY); // question bank (Phase 8): { "<question id>": { ok: 1|0, wrong: n } }
+let quiz = read(QUIZ_KEY); // Trắc nghiệm (Phase 9): { "<word id>": { ok: 1|0, wrong: n } }, per word, not per question type
 
 const save = () => write(PROGRESS_KEY, progress);
 
@@ -89,9 +92,29 @@ export function resetBankIds(ids) {
   return saveBank();
 }
 
+// ---- Trắc nghiệm progress (Phase 9) ----
+const saveQuiz = () => write(QUIZ_KEY, quiz);
+
+export const getQuiz = () => quiz;
+
+export function setQuizEntry(id, entry) {
+  if (entry) quiz[id] = entry;
+  else delete quiz[id];
+  return saveQuiz();
+}
+
+/** Forget the quiz progress of one level (ids start with "<level>-"). */
+export function resetQuizLevel(level) {
+  const prefix = level + "-";
+  for (const id of Object.keys(quiz)) if (id.startsWith(prefix)) delete quiz[id];
+  return saveQuiz();
+}
+
 export function exportProgress() {
-  // The bank travels in the same file under one extra key; it is left out while empty so older backups look the same.
-  const out = Object.keys(bank).length ? { ...progress, _bank: bank } : progress;
+  // The bank and the quiz travel in the same file under extra keys; each is left out while empty so older backups look the same.
+  const out = { ...progress };
+  if (Object.keys(bank).length) out._bank = bank;
+  if (Object.keys(quiz).length) out._quiz = quiz;
   return JSON.stringify(out, null, 1);
 }
 
@@ -101,8 +124,10 @@ export function importProgress(text) {
   if (!data || typeof data !== "object" || Array.isArray(data)) throw new Error("bad shape");
   const clean = {};
   let cleanBank = null;
+  let cleanQuiz = null;
   for (const [id, e] of Object.entries(data)) {
     if (id === "_bank") { cleanBank = cleanBankProgress(e); continue; }
+    if (id === "_quiz") { cleanQuiz = cleanQuizProgress(e); continue; }
     if (!/^[1-5]-\d{4}$/.test(id) || !e || typeof e !== "object") throw new Error("bad entry " + id);
     const zv = e.zv ? 1 : 0;
     const vz = e.vz ? 1 : 0;
@@ -114,6 +139,10 @@ export function importProgress(text) {
   if (cleanBank) { // old backups have no bank part: the bank progress on this device is then left alone
     bank = cleanBank;
     saveBank();
+  }
+  if (cleanQuiz) { // same for the quiz part
+    quiz = cleanQuiz;
+    saveQuiz();
   }
   return Object.keys(clean).length;
 }
@@ -127,6 +156,18 @@ function cleanBankProgress(data) {
   }
   return clean;
 }
+
+function cleanQuizProgress(data) {
+  if (!data || typeof data !== "object" || Array.isArray(data)) throw new Error("bad quiz");
+  const clean = {};
+  for (const [id, e] of Object.entries(data)) {
+    if (!/^[1-5]-\d{4}$/.test(id) || !e || typeof e !== "object") throw new Error("bad quiz entry " + id);
+    clean[id] = { ok: e.ok ? 1 : 0, wrong: Math.max(0, Math.min(999, Math.floor(Number(e.wrong)) || 0)) };
+  }
+  return clean;
+}
+
+export const quizCountInBackup = (text) => Object.keys(JSON.parse(text)._quiz || {}).length;
 
 export const bankCountInBackup = (text) => Object.keys(JSON.parse(text)._bank || {}).length;
 

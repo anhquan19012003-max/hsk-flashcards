@@ -1,8 +1,10 @@
 import * as store from "./js/storage.js";
 import { checkAnswer } from "./js/check.js";
-import { initSpeech, speak, listVoices, setVoice } from "./js/speech.js";
+import { initSpeech, speak, listVoices, setVoice, hasChineseVoice } from "./js/speech.js";
 import { mountWriter } from "./js/writing.js";
 import * as bank from "./js/bank.js";
+import * as quiz from "./js/quiz.js";
+import { esc, highlight } from "./js/wordcard.js";
 
 const LEVELS = [1, 2, 3, 4, 5];
 const COUNTS = { 1: 500, 2: 772, 3: 973, 4: 1000, 5: 1300 };
@@ -20,7 +22,6 @@ let activeWriter = null; // writing UI mounted in the current study card
 let sheet = null; // "✍️ Viết" sheet over a card: { el, word, writer }
 
 // ---------- helpers ----------
-const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 function shuffle(list) {
   const a = list.slice();
@@ -102,10 +103,12 @@ window.addEventListener("popstate", (e) => {
   if (!s || s.name === "home") view = { name: "home" };
   else if (s.name === "settings") view = { name: "settings" };
   else if (s.name === "bank") view = { name: "bank" };
+  else if (s.name === "quiz" || s.name.startsWith("quiz-")) view = { name: "quiz", level: s.level }; // question/summary screens fall back to the setup
   else if (s.name.startsWith("bank-")) view = { name: "bank-level", level: s.level }; // question/summary screens fall back to the list
   else view = { name: "level", level: s.level };
   session = null;
   bank.endSession();
+  quiz.endSession();
   render();
 });
 
@@ -117,7 +120,8 @@ function currentLevel() {
 function render() {
   if (activeWriter) { activeWriter.destroy(); activeWriter = null; }
   const screens = { home: renderHome, level: renderLevel, study: renderStudy, summary: renderSummary, done: renderDone, settings: renderSettings,
-    bank: bank.renderBankHome, "bank-level": bank.renderBankLevel, "bank-q": bank.renderBankQuestion, "bank-sum": bank.renderBankSummary };
+    bank: bank.renderBankHome, "bank-level": bank.renderBankLevel, "bank-q": bank.renderBankQuestion, "bank-sum": bank.renderBankSummary,
+    quiz: quiz.renderQuizSetup, "quiz-q": quiz.renderQuizQuestion, "quiz-sum": quiz.renderQuizSummary };
   $app.innerHTML = '<div class="loading">Đang tải…</div>';
   const result = (screens[view.name] || renderHome)();
   if (result && typeof result.then === "function") {
@@ -191,12 +195,15 @@ async function renderLevel() {
   const words = await loadLevel(n);
   const stats = store.levelStats(n, words);
   const remain = { zv: words.length - stats.zv, vz: words.length - stats.vz, wr: words.length - stats.wr };
+  const quizProgress = store.getQuiz();
+  const quizOk = words.filter((w) => quizProgress[w.id] && quizProgress[w.id].ok).length;
   return `<div class="screen">
     ${topBar({ title: `HSK ${n}`, back: "home" })}
     <div class="stack">
       <button class="btn primary" data-action="study" data-dir="zv">Trung → Việt<small>Còn ${remain.zv} từ</small></button>
       <button class="btn primary" data-action="study" data-dir="vz">Việt → Trung (gõ đáp án)<small>Còn ${remain.vz} từ</small></button>
       <button class="btn primary" data-action="study" data-dir="wr">Luyện viết ✍️<small>Còn ${remain.wr} từ</small></button>
+      <button class="btn primary" data-action="quiz-open">Trắc nghiệm 📝<small>Còn ${words.length - quizOk} từ chưa làm đúng</small></button>
       <button class="btn" data-action="review-pick">Ôn lại từ đã thuộc<small>Trung → Việt: ${stats.zv} · Việt → Trung: ${stats.vz} · Luyện viết: ${stats.wr}</small></button>
       <button class="btn danger" data-action="reset-level">Học lại từ đầu</button>
       <button class="btn" data-action="home">← Chọn cấp độ khác</button>
@@ -220,24 +227,6 @@ function renderDone() {
       <button class="btn" data-action="level-back">← Quay lại</button>
     </div>
   </div>`;
-}
-
-function highlight(zh, hanzi) {
-  const forms = [...new Set([hanzi.replace(/[()（）]/g, ""), hanzi.replace(/[(（][^)）]*[)）]/g, "")])]
-    .filter(Boolean).sort((a, b) => b.length - a.length);
-  for (const f of forms) {
-    const i = zh.indexOf(f);
-    if (i >= 0) return `${esc(zh.slice(0, i))}<mark>${esc(f)}</mark>${esc(zh.slice(i + f.length))}`;
-  }
-  const chars = [...hanzi.replace(/[()（）]/g, "")];
-  if (chars.length === 2) { // separable verb such as 洗了个澡
-    const a = zh.indexOf(chars[0]);
-    const b = a >= 0 ? zh.indexOf(chars[1], a + 1) : -1;
-    if (b > a) {
-      return `${esc(zh.slice(0, a))}<mark>${esc(chars[0])}</mark>${esc(zh.slice(a + 1, b))}<mark>${esc(chars[1])}</mark>${esc(zh.slice(b + 1))}`;
-    }
-  }
-  return esc(zh);
 }
 
 function cardFront(word, s) {
@@ -621,11 +610,17 @@ function closeSheet() {
 }
 
 // ---------- start ----------
-initSpeech(store.getSettings().voice, () => { if (view.name === "settings") render(); });
+initSpeech(store.getSettings().voice, () => { if (view.name === "settings" || view.name === "quiz") render(); });
 bank.init({
   esc, shuffle, toast, dialog, render, go, topBar,
   getView: () => view,
   setView: (v) => { view = v; },
+});
+quiz.init({
+  shuffle, toast, dialog, render, go, topBar, loadLevel, say,
+  getView: () => view,
+  setView: (v) => { view = v; },
+  hasVoice: hasChineseVoice,
 });
 const magicKey = bank.takeMagicKey(); // removes `#k=…` from the address bar immediately
 history.replaceState({ name: "home" }, "");

@@ -66,7 +66,7 @@ def main():
         page.locator(".level-btn").first.click()
         page.get_by_text("Còn 500 từ").first.wait_for()
         check("level screen: Luyện viết button with remaining count",
-              page.get_by_role("button", name="Luyện viết ✍️").is_visible() and page.get_by_text("Còn 500 từ").count() == 3)
+              page.get_by_role("button", name="Luyện viết ✍️").is_visible() and page.get_by_text("Còn 500 từ").count() == 4)
         check("level screen: review line shows all three directions", page.get_by_text("Luyện viết: 0").is_visible())
 
         # --- only TARGET is left to write; a 2-character word renders two boxes + the writing area

@@ -297,3 +297,21 @@ html.writing-open, html.writing-open body { overscroll-behavior: none; }
 .order-actions { display: grid; grid-template-columns: 1fr 2fr; gap: 10px; }
 .order-actions .btn { min-height: 48px; }
 .bank-btn { margin-top: 4px; border-color: var(--primary); }
+
+/* ---- Trắc nghiệm (vocab quiz, Phase 9) ---- */
+.qhead { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin: -4px 0 10px; }
+.qtype { color: var(--muted); font-size: 14px; }
+.qprompt { text-align: center; margin: 4px 0 14px; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.quiz-listen { margin: 6px 0 14px; }
+.quiz-listen .btn { min-height: 64px; font-size: 20px; }
+.quiz-sentence { font-size: 24px; line-height: 1.7; }
+.vi-hint { color: var(--muted); font-size: 16px; }
+.opt .t.vi { font-family: inherit; }
+.quiz-fb { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.quiz-fb .btn.small { margin-top: 0; }
+.quiz-card { padding: 16px 14px; text-align: center; }
+.quiz-card .hanzi-mid { font-size: 40px; }
+.wrong-list { text-align: left; }
+.wrong-list .wrow { padding: 6px 0; border-bottom: 1px dashed var(--line); }
+.wrong-list .zh { font-size: 22px; }
+.wrong-list .py { color: var(--primary); }

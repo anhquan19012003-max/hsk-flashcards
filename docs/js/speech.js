@@ -47,6 +47,11 @@ export function listVoices() {
   return voices.filter(isChinese).map((v) => ({ uri: v.voiceURI, name: v.name, lang: v.lang, active: v === zhVoice }));
 }
 
+/** Is there a Chinese voice on this device? (The quiz hides its listening questions without one.) */
+export function hasChineseVoice() {
+  return listVoices().length > 0;
+}
+
 /** Use this voice from now on ("" = automatic). */
 export function setVoice(uri) {
   preferredUri = uri;

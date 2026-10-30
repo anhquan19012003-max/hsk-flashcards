@@ -10,6 +10,8 @@ echo "== app";                        python3 scripts/test_app.py
 echo "== writing";                    python3 scripts/test_writing.py
 echo "== bank: browser";              python3 scripts/test_bank.py
 echo "== bank: download shortcut + Cài đặt"; python3 scripts/test_bank_download.py
+echo "== quiz: generator over all 4,545 words"; node scripts/test_quizcore.mjs
+echo "== quiz: screens"; python3 scripts/test_quiz.py
 echo "== real bank smoke test (skipped without BANK_PASSWORD)"; python3 scripts/test_real_bank.py
 echo "== plaintext guard (final)";    python3 scripts/bank/guard.py
 echo "ALL TESTS PASSED"

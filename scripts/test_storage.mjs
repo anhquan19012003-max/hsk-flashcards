@@ -57,5 +57,35 @@ eq("settings defaults", [store.getSettings().writingOutline, store.getSettings()
 store.updateSettings({ writingOutline: true });
 eq("setting saved", JSON.parse(mem.get("hskfc.v1.settings")).writingOutline, true);
 
+// ---- Trắc nghiệm progress (Phase 9): per word, own key, reset per level, backup key _quiz
+const quizSaved = () => JSON.parse(mem.get("hskfc.v1.quiz") || "{}");
+eq("quiz empty at first", store.getQuiz(), {});
+eq("quiz settings defaults", [store.getSettings().quizPool, store.getSettings().quizSize, store.getSettings().quizTypes.length], ["all", 20, 6]);
+store.setQuizEntry("1-0001", { ok: 1, wrong: 0 });
+store.setQuizEntry("1-0002", { ok: 0, wrong: 2 });
+store.setQuizEntry("2-0001", { ok: 1, wrong: 1 });
+eq("quiz saved under its own key", quizSaved(), { "1-0001": { ok: 1, wrong: 0 }, "1-0002": { ok: 0, wrong: 2 }, "2-0001": { ok: 1, wrong: 1 } });
+eq("quiz progress does not touch flashcard progress", saved(), {});
+store.setLearned("1-0005", "zv", true);
+let out = JSON.parse(store.exportProgress());
+eq("export has _quiz when not empty", out._quiz, quizSaved());
+eq("export has no _bank while the bank is empty", "_bank" in out, false);
+const backup = store.exportProgress();
+store.resetQuizLevel(1);
+eq("reset clears only that level", quizSaved(), { "2-0001": { ok: 1, wrong: 1 } });
+eq("reset leaves flashcard progress alone", saved()["1-0005"], { zv: 1, vz: 0 });
+eq("restore a backup with _quiz", store.importProgress(backup), 1);
+eq("quiz progress restored", store.getQuiz(), { "1-0001": { ok: 1, wrong: 0 }, "1-0002": { ok: 0, wrong: 2 }, "2-0001": { ok: 1, wrong: 1 } });
+eq("quiz count in backup", store.quizCountInBackup(backup), 3);
+store.importProgress(JSON.stringify({ "1-0005": { zv: 1, vz: 0 } })); // old backup: no _quiz
+eq("old backup without _quiz leaves the quiz progress alone", store.getQuiz(), { "1-0001": { ok: 1, wrong: 0 }, "1-0002": { ok: 0, wrong: 2 }, "2-0001": { ok: 1, wrong: 1 } });
+threw = false;
+try { store.importProgress(JSON.stringify({ _quiz: { nope: { ok: 1 } } })); } catch (e) { threw = true; }
+eq("bad quiz id rejected", threw, true);
+store.importProgress(JSON.stringify({ _quiz: { "3-0001": { ok: "yes", wrong: -4 } } }));
+eq("quiz entries are cleaned", store.getQuiz(), { "3-0001": { ok: 1, wrong: 0 } });
+store.resetQuizLevel(3);
+eq("export leaves _quiz out when empty", "_quiz" in JSON.parse(store.exportProgress()), false);
+
 console.log(fail ? `${fail} FAILED` : "storage: all passed");
 process.exit(fail ? 1 : 0);
