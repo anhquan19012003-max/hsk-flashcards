@@ -27,6 +27,8 @@ def load_papers(work: Path):
     if work.is_dir():
         for d in sorted((p for p in work.iterdir() if p.is_dir() and not p.name.startswith("_")), key=lambda p: natural_key(p.name)):
             f = d / "questions.json"
+            if (d / ".hold").exists():  # work in progress (clips or explanations not done yet): not published
+                continue
             if f.is_file():
                 papers.append((d, json.loads(f.read_text(encoding="utf-8"))))
     return papers

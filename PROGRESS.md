@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-**Phase 10 (HSK 3 book in Luyện đề): `hsk3-book-1` is built end-to-end and published on branch `claude/phase-10-hsk3-book-s8hgk5` — checkpoint: waiting for Quan's phone test (see "Waiting on Quan"). Tests 2–10 follow after his go.** Phase 9 (Trắc nghiệm) is still waiting for his phone test. Phase 8 (Luyện đề, 10 HSK 4 papers) is done and phone-tested. Phase 7 is done.
+**Phase 10 (HSK 3 book in Luyện đề): `hsk3-book-1` and `hsk3-book-2` are built end-to-end and pushed on branch `claude/phase-10-hsk3-book-s8hgk5` (not merged into `main` yet: Quan chose to merge after all 10 tests). Tests 3–10 are transcribed and waiting for their audio (clips) — they run in one go after Quan's OK on test 2.** Phase 9 (Trắc nghiệm) is still waiting for his phone test. Phase 8 (Luyện đề, 10 HSK 4 papers) is done and phone-tested. Phase 7 is done.
 
 ## Done
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
@@ -33,6 +33,9 @@
 
 - 2026-10-31 Phase 10 step 1 (`hsk3-book-1`, sw v9): inputs checked (page map = 目录 on PDF p. 20 exactly as in the spec; audio plays every item twice, first play kept; password from `BANK_PASSWORD`, existing salt kept so the HSK 4 files and the magic link are unchanged). **75 questions** (Nghe 40 · Đọc 30 · Sắp xếp câu 5), **40 clips** (one per question) all verified (min recall 0.88 / precision 0.90, 0 flagged, 0 excluded), 11 picture crops (WebP, 2 units A–F and A–E), `explain_vi` for all 75 by Haiku (20 spot-checked in the main session, no change needed), `explain_zh` empty (toggle hidden). HSK 3 bank = 51 units, index 49 KB, 51 media files, 4.7 MB; HSK 4 untouched (950 questions, 57.9 MB). Work files and tooling are in the private repo (`work/hsk3-book-1/`, `work/hsk3/`, `work/_audio/hsk3-test01.whisper.json`). Key oddities: none (printed key matches the script/passages for all 75).
 - 2026-10-31 Phase 10 app changes: Luyện đề lists **HSK 3** then **HSK 4**; `layout: "pictures"` units (Nghe part 1) show the pictures A–F once at the top (3 per row, tap to enlarge, letter badge) and letter-only buttons under each question, the correct picture appears in the feedback; `layout: "sentences"` word-bank units (Đọc part 1) show the sentences A–F once with the instruction `Chọn câu phù hợp`; download block keeps `Tải toàn bộ đề về máy` (total) and adds `Chỉ tải HSK 3` / `Chỉ tải HSK 4` when there are two levels; filter chip `Chọn từ / câu`. New `scripts/test_bank_hsk3.py` (34 checks at 390×844 and 360×640 on a made-up two-level fixture `scripts/fixtures/bank-hsk3/`), `scripts/test_real_bank.py` now loops over all levels (HSK 3: 75/paper, HSK 4: 95/paper), `validate_paper.py` has the HSK 3 numbering profile. Whole suite and the plaintext guard pass.
+
+- 2026-10-31 Phase 10 step 2 (`hsk3-book-2`): 75 questions (Nghe 40 · Đọc 30 · Sắp xếp câu 5), 40 clips verified (min recall 0.87 / precision 0.87, 0 flagged, 0 excluded), 11 pictures, `explain_vi` for all 75 (Q66 rewritten by hand: 每天早上都坚持跑步 covers weekend mornings). Bank now: HSK 3 = 150 questions, 9.2 MB; HSK 4 untouched. Key notes: all 70 keys fit their scripts/passages. Cutter changes: edge-silence trim and snapping for starts dragged back by Whisper (test 2 Q19 moved 8.7 s).
+- 2026-10-31 Phase 10 prep for tests 3–10 (not published yet, folders marked `.hold` in the private repo so `build_bank.py` skips them): content transcribed by 8 Sonnet agents from the page images, each checked a second time by an independent proofreading agent against the pages (key, options, reading text, tiles: 0 differences found in all 8), explanations written by Haiku (8 agents × 3 batches). Whisper transcripts run in a background queue (~25 min per test).
 
 ## Phase 8 details
 - Code: `docs/js/bank.js` (UI), `bankcore.js` (pure logic), `bankcrypto.js` (Web Crypto). Build side: `scripts/bank/`. Private work files: repo `hsk-bank-private` (`work/<paper-id>/`).
@@ -70,6 +73,7 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - No pull request was opened (not asked for); merge on GitHub or tell me to open one. Old `claude/...` branches can be deleted by Quan.
 
 ## Decisions
+- 2026-10-31 (Phase 10) Quan: merge the `claude/...` branches into `main` only after all 10 HSK 3 tests are done (so nothing of HSK 3 is live until then); after test 2, if OK, tests 3–10 are done in one run.
 - 2026-10-31 (Phase 10) Picture matching (Nghe part 1): the pictures are listed once above the questions (3 per row, tap to enlarge) and each question has only letter buttons A–F, instead of repeating six pictures inside every question card. Pictures are cropped from the scan (max 600 px, grayscale WebP; the originals are only ~200 px wide).
 - 2026-10-31 (Phase 10) Sentence matching (Đọc part 1) uses the word-bank engine with `context.layout = "sentences"`; all printed options stay, including the one the book's worked example uses.
 - 2026-10-31 (Phase 10) The HSK 3 pages print no pinyin (only the skipped writing part 2 does), so the bank has no pinyin fields.
