@@ -296,6 +296,10 @@ Full spec: **`specs/mock-tests.md`** — read it completely before starting. Not
 Full spec: **`specs/vocab-quiz.md`** — read it completely before starting. Part A: the Luyện đề section in Cài đặt appears whenever the bank is unlocked, plus a `Tải toàn bộ đề về máy` shortcut on the Luyện đề screen. Part B: a `Trắc nghiệm 📝` button on each level screen — multiple-choice questions generated from the existing word data (6 types: nghĩa, chữ Hán, pinyin, nghe, điền từ, Hán Việt), reusing the Luyện đề look, with its own progress (`hskfc.v1.quiz`). No new content to generate and no encryption needed.
 **Checkpoint:** Quan tests on his phone (list in the spec, B8).
 
+**Phase 10 — Luyện đề: add the HSK 3 book (10 tests)** — *next*
+Full spec: **`specs/hsk3-bank.md`** (read `specs/mock-tests.md` too — same pipeline). The compact copy is already in `hsk-bank-private` at `materials/hsk3-book/` (pages + audio, prepared 2026-10-31). Differences from HSK 4: listening items are played **twice** (keep one play), listening part 1 uses **picture options**, the book has **no explanations** (generate short Vietnamese ones with Haiku), and about 75 questions per test (writing part 2 skipped). The bank gets a second level: HSK 3 next to HSK 4.
+**Checkpoints:** after `hsk3-book-1` (Quan tests on his phone), and the final report after test 10.
+
 **Later ideas (not started — ask Quan before building)**
 - Pronunciation practice: free browser speech recognition only works in a browser tab (not from the home-screen app on iPhone); real tone scoring would need a paid service such as Azure pronunciation assessment plus a small server.
 
