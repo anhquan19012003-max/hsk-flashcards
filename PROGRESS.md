@@ -70,9 +70,9 @@
 - **Phase 8 checkpoint (all 10 HSK 4 papers):** (1) open the app, tap `📝 Luyện đề`, unlock with the magic link (and on another browser with the password); (2) try the three tabs (Nghe, Đọc, Sắp xếp câu), a few audio clips from different papers, and `Làm câu mới` / `Làm lại câu sai`; (3) on the laptop `git pull` in `mock-tests/` and open `mock-tests/work/hsk4-book-N/review.html` for a spot check (flagged items first); (4) tell me what the iPhone home-screen app does (still unlocked after opening the link in Safari?); (5) check the book-key notes under Known issues; (6) say whether to send the Zalo message to friends (draft is in my last chat reply).
 Phone check of the any-order writing (draw strokes out of order; wrong lines still rejected). Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
-## Branches to merge (updated 2026-10-31, end of the `hsk3-book-1` session)
-- `hsk-flashcards`: branch `claude/phase-10-hsk3-book-s8hgk5` is 1 commit ahead of `main` (the live site only sees `main`): needs merging before Quan can test on his phone.
-- `hsk-bank-private`: branch `claude/phase-10-hsk3-book-s8hgk5` is 1 commit ahead of `main` (work files of test 1 + tooling): merge so the next session finds them.
+## Branches to merge (updated 2026-10-31, end of the Phase 10 run)
+- `hsk-flashcards`: branch `claude/phase-10-hsk3-book-s8hgk5` is 4 commits ahead of `main`, 0 behind (a fast-forward). The live site only sees `main`, so nothing of HSK 3 is live until it is merged.
+- `hsk-bank-private`: branch `claude/phase-10-hsk3-book-s8hgk5` is 3 commits ahead of `main`, 0 behind (work files of all 10 HSK 3 tests + tooling).
 - No pull request was opened (not asked for); merge on GitHub or tell me to open one. Old `claude/...` branches can be deleted by Quan.
 
 ## Decisions
