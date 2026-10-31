@@ -64,6 +64,11 @@
 - **Phase 8 checkpoint (all 10 HSK 4 papers):** (1) open the app, tap `📝 Luyện đề`, unlock with the magic link (and on another browser with the password); (2) try the three tabs (Nghe, Đọc, Sắp xếp câu), a few audio clips from different papers, and `Làm câu mới` / `Làm lại câu sai`; (3) on the laptop `git pull` in `mock-tests/` and open `mock-tests/work/hsk4-book-N/review.html` for a spot check (flagged items first); (4) tell me what the iPhone home-screen app does (still unlocked after opening the link in Safari?); (5) check the book-key notes under Known issues; (6) say whether to send the Zalo message to friends (draft is in my last chat reply).
 Phone check of the any-order writing (draw strokes out of order; wrong lines still rejected). Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
+## Branches to merge (updated 2026-10-31, end of the `hsk3-book-1` session)
+- `hsk-flashcards`: branch `claude/phase-10-hsk3-book-s8hgk5` is 1 commit ahead of `main` (the live site only sees `main`): needs merging before Quan can test on his phone.
+- `hsk-bank-private`: branch `claude/phase-10-hsk3-book-s8hgk5` is 1 commit ahead of `main` (work files of test 1 + tooling): merge so the next session finds them.
+- No pull request was opened (not asked for); merge on GitHub or tell me to open one. Old `claude/...` branches can be deleted by Quan.
+
 ## Decisions
 - 2026-10-31 (Phase 10) Picture matching (Nghe part 1): the pictures are listed once above the questions (3 per row, tap to enlarge) and each question has only letter buttons A–F, instead of repeating six pictures inside every question card. Pictures are cropped from the scan (max 600 px, grayscale WebP; the originals are only ~200 px wide).
 - 2026-10-31 (Phase 10) Sentence matching (Đọc part 1) uses the word-bank engine with `context.layout = "sentences"`; all printed options stay, including the one the book's worked example uses.
