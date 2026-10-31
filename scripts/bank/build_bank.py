@@ -3,6 +3,7 @@
   python scripts/bank/build_bank.py [--work DIR] [--out DIR] [--new-salt] [--magic-link]
 
 The password comes from BANK_PASSWORD or <private>/.bank-password and is never printed or stored.
+If an existing bank was made with another password the build stops (nothing is written) unless --new-salt is given.
 --magic-link prints the `#k=...` part of the unlock link (the derived key). Hand it to Quan in the chat only.
 """
 import argparse
@@ -67,14 +68,21 @@ def build(work: Path, out: Path, password: str, new_salt: bool = False, iteratio
 
     old_meta = bc.read_meta(out / "meta.json")
     salt = None
-    if old_meta and not new_salt:
+    if (out / "meta.json").exists() and not new_salt:
+        # An existing bank must keep its salt, otherwise every file is re-encrypted, the magic link changes and every friend's
+        # saved key stops working. So a password that does not match is an error, not a reason to start a new bank silently.
         try:
             import base64
             old_salt = base64.b64decode(old_meta["salt"])
-            if bc.key_matches_meta(bc.derive_key(password, old_salt, old_meta["iter"]), old_meta):
-                salt = old_salt  # same password: keep the salt so file names stay stable
+            matches = bc.key_matches_meta(bc.derive_key(password, old_salt, old_meta["iter"]), old_meta)
         except Exception:
-            salt = None
+            raise SystemExit(f"{out / 'meta.json'} exists but cannot be read. Refusing to overwrite the bank. "
+                             "Restore the file from git, or pass --new-salt to deliberately start a new bank (new magic link).")
+        if not matches:
+            raise SystemExit("The password does not match the existing bank in " + str(out) + ". Nothing was written.\n"
+                             "Check BANK_PASSWORD / .bank-password. To deliberately change the password (new salt, new magic link, "
+                             "every friend must unlock again and ~100 MB is re-encrypted) run again with --new-salt.")
+        salt = old_salt  # same password: keep the salt so file names stay stable
     if salt is None:
         salt = os.urandom(16)
     key = bc.derive_key(password, salt, iterations)
@@ -172,7 +180,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--work", type=Path, help="folder with <paper-id>/questions.json (default: <private>/work)")
     ap.add_argument("--out", type=Path, default=ROOT / "docs" / "bank")
-    ap.add_argument("--new-salt", action="store_true", help="force a new salt (new magic link; old links stop working)")
+    ap.add_argument("--new-salt", action="store_true", help="deliberately start a new bank with a new salt (new magic link; old links and saved keys stop working). Needed when the password changes")
     ap.add_argument("--magic-link", action="store_true", help="print the #k=... part of the unlock link")
     args = ap.parse_args()
     private = private_dir()

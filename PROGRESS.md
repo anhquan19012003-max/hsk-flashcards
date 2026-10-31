@@ -4,6 +4,7 @@
 **Phase 10 (HSK 3 book in Luyện đề) is built: all 10 tests (750 questions, 400 clips, 110 pictures) are in the encrypted bank, tests and plaintext guard pass; work is on branch `claude/phase-10-hsk3-book-s8hgk5` in both repos and NOT merged into `main` yet (Quan: merge after all 10 are done) — checkpoint: Quan merges, then phone-tests (see "Waiting on Quan").** Phase 9 (Trắc nghiệm) is still waiting for his phone test. Phase 8 (Luyện đề, 10 HSK 4 papers) is done and phone-tested. Phase 7 is done.
 
 ## Done
+- 2026-10-31 Hardening: `build_bank.py` password-mismatch guard (see Decisions); Quan merged the Phase 10 branches into `main` himself (no pull request).
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
 - 2026-10-30 Phase 1: `data/raw` for 4,545 words; Hán Việt from Wiktionary (+ Unihan fallback), review files exported.
 - 2026-10-30 Phase 2: app first version (home, level, study, review, settings, PWA, offline); 29 Playwright checks.
@@ -76,6 +77,7 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - No pull request was opened (not asked for); merge on GitHub or tell me to open one. Old `claude/...` branches can be deleted by Quan.
 
 ## Decisions
+- 2026-10-31 (hardening, Quan asked for it) `build_bank.py` now refuses to build when the password does not match the existing `docs/bank/meta.json` (or meta.json is unreadable): it prints a message and writes/deletes nothing. A deliberate password change needs `--new-salt` (new magic link, ~100 MB re-encrypted, every friend unlocks again). Unit test added (3 checks).
 - 2026-10-31 (Phase 10) Quan: merge the `claude/...` branches into `main` only after all 10 HSK 3 tests are done (so nothing of HSK 3 is live until then); after test 2, if OK, tests 3–10 are done in one run.
 - 2026-10-31 (Phase 10) Picture matching (Nghe part 1): the pictures are listed once above the questions (3 per row, tap to enlarge) and each question has only letter buttons A–F, instead of repeating six pictures inside every question card. Pictures are cropped from the scan (max 600 px, grayscale WebP; the originals are only ~200 px wide).
 - 2026-10-31 (Phase 10) Sentence matching (Đọc part 1) uses the word-bank engine with `context.layout = "sentences"`; all printed options stay, including the one the book's worked example uses.

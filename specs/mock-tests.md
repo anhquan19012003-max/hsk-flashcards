@@ -184,7 +184,7 @@ Use the browser's built-in **Web Crypto API** (no library needed in the app). Bu
   - The key after `#` is never sent to the server.
 - **Password:** the Luyện đề screen shows one field, `Nhập mật khẩu`, plus `Mở khóa`. Wrong password → "Mật khẩu chưa đúng".
 - **iPhone caveat:** an app added to the home screen may keep its own storage, separate from Safari. A friend who opened the magic link in Safari may have to type the password once inside the home-screen app. Say this in the how-to, and confirm the actual behaviour on Quan's iPhone at the checkpoint.
-- **Changing the password later:** Quan tells you → rebuild everything with a new salt → new magic link. Old links and saved keys stop working, and the app asks for the new password ("Mật khẩu đã đổi, vui lòng nhập lại").
+- **Changing the password later:** Quan tells you → rebuild everything with a new salt (`build_bank.py --new-salt`; without that flag a build with a password that does not match the existing bank stops and writes nothing) → new magic link. Old links and saved keys stop working, and the app asks for the new password ("Mật khẩu đã đổi, vui lòng nhập lại").
 
 **Caching**
 - The index is fetched and decrypted on unlock.

@@ -129,9 +129,28 @@ def test_build_and_guard():
         same = all((out / f).read_bytes() == before[f] for f in files)
         check("rebuild with the same password changes no file (same salt, unchanged files kept)", same)
 
-        build_bank.build(work, out, "pw-two", iterations=2000)
+        # a different password must NOT silently start a new bank (new salt = new magic link, every saved key breaks)
+        snapshot = {p.relative_to(out).as_posix(): p.read_bytes() for p in out.rglob("*") if p.is_file()}
+        try:
+            build_bank.build(work, out, "pw-two", iterations=2000)
+            refused_pw = False
+        except SystemExit as e:
+            refused_pw = "does not match" in str(e) and "--new-salt" in str(e) and "pw-two" not in str(e) and "pw-one" not in str(e)
+        after = {p.relative_to(out).as_posix(): p.read_bytes() for p in out.rglob("*") if p.is_file()}
+        check("a different password is refused with a clear message and writes/deletes nothing", refused_pw and after == snapshot)
+
+        (out / "meta.json").write_text("{ not json", encoding="utf-8")
+        try:
+            build_bank.build(work, out, "pw-one", iterations=2000)
+            refused_bad = False
+        except SystemExit as e:
+            refused_bad = "cannot be read" in str(e)
+        check("an unreadable meta.json is refused, not overwritten", refused_bad and (out / "meta.json").read_text() == "{ not json")
+        (out / "meta.json").write_bytes(snapshot["meta.json"])
+
+        build_bank.build(work, out, "pw-two", iterations=2000, new_salt=True)
         meta2 = json.loads((out / "meta.json").read_text())
-        check("new password -> new salt, all names change, old files removed",
+        check("--new-salt (deliberate password change) -> new salt, all names change, old files removed",
               meta2["salt"] != meta["salt"] and not (set(files) - {"meta.json", "hsk4/index.bin"}) & {p.relative_to(out).as_posix() for p in out.rglob("*") if p.is_file()},
               "")
 
