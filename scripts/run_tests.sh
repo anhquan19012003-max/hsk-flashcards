@@ -11,6 +11,7 @@ echo "== writing";                    python3 scripts/test_writing.py
 echo "== bank: browser";              python3 scripts/test_bank.py
 echo "== bank: download shortcut + Cài đặt"; python3 scripts/test_bank_download.py
 echo "== bank: HSK 3 layouts, two levels, per-level download"; python3 scripts/test_bank_hsk3.py
+echo "== update bar + version label"; python3 scripts/test_update_bar.py
 echo "== quiz: generator over all 4,545 words"; node scripts/test_quizcore.mjs
 echo "== quiz: screens"; python3 scripts/test_quiz.py
 echo "== real bank smoke test (skipped without BANK_PASSWORD)"; python3 scripts/test_real_bank.py

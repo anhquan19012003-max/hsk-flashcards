@@ -337,3 +337,8 @@ html.writing-open, html.writing-open body { overscroll-behavior: none; }
 .zoom-x { color: #fff; font-size: 15px; }
 .dl-levels { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .dl-levels .btn { flex: 1 1 140px; min-height: 44px; font-size: 15px; }
+
+/* "new version available" bar */
+#update-bar { position: fixed; left: 12px; right: 12px; top: calc(env(safe-area-inset-top, 0px) + 8px); z-index: 120; display: flex; align-items: center; gap: 10px;
+  justify-content: space-between; padding: 10px 12px; background: #1f3a93; color: #fff; border-radius: 14px; box-shadow: 0 6px 24px rgba(10, 14, 28, 0.35); font-size: 16px; }
+#update-bar .btn { min-height: 44px; flex: none; background: #fff; color: #1f3a93; border: 0; font-weight: 700; }

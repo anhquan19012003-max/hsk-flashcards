@@ -12,6 +12,9 @@ const DIR_LABEL = { zv: "Trung → Việt", vz: "Việt → Trung", wr: "Luyện
 const dirText = (dir) => (dir === "wr" ? "Luyện viết" : `chiều ${DIR_LABEL[dir]}`);
 const SIZE_OPTIONS = [10, 20, 50, 0];
 const $app = document.getElementById("app");
+// App version: bumped together with the service worker by scripts/bump_version.py. Shown in Cài đặt.
+const APP_VERSION = "10";
+
 const $toast = document.getElementById("toast");
 const $modal = document.getElementById("modal-root");
 
@@ -376,6 +379,7 @@ async function renderSettings() {
           <li><b>iPhone:</b> mở bằng Safari → nút Chia sẻ → Thêm vào MH chính.</li>
           <li><b>Android:</b> mở bằng Chrome → menu ⋮ → Cài đặt ứng dụng (hoặc Thêm vào màn hình chính).</li>
         </ul></details></div>
+      <p class="note" id="app-version">Phiên bản ứng dụng: ${APP_VERSION}</p>
       <p class="note">Nguồn & giấy phép: Luyện viết dùng Hanzi Writer (MIT) và dữ liệu nét chữ từ Make Me a Hanzi / Arphic (Arphic Public License).</p>
     </div>
   </div>`;
@@ -633,8 +637,24 @@ if (magicKey) {
   });
 }
 
+/** A new version was downloaded while this page is open: the page keeps running the old code until it reloads, so offer it. */
+function showUpdateBar() {
+  if (document.getElementById("update-bar")) return;
+  const bar = document.createElement("div");
+  bar.id = "update-bar";
+  bar.setAttribute("role", "status");
+  bar.innerHTML = `<span>Có bản cập nhật mới của ứng dụng.</span><button type="button" class="btn small primary">Cập nhật ngay</button>`;
+  bar.querySelector("button").addEventListener("click", () => location.reload());
+  document.body.appendChild(bar);
+}
+
 if ("serviceWorker" in navigator) {
+  const wasControlled = !!navigator.serviceWorker.controller; // false on the very first visit: nothing to update then
+  navigator.serviceWorker.addEventListener("controllerchange", () => { if (wasControlled) showUpdateBar(); });
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("sw.js").catch(() => { /* offline support is optional */ });
+    navigator.serviceWorker.register("sw.js").then((reg) => {
+      // phones that stay in memory rarely re-check: look for a new version whenever the app comes back to the front
+      document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reg.update().catch(() => {}); });
+    }).catch(() => { /* offline support is optional */ });
   });
 }

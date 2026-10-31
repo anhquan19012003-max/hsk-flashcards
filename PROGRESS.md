@@ -4,6 +4,7 @@
 **Phase 10 (HSK 3 book in Luyện đề) is built AND merged into `main` (Quan merged the branches himself; `main` also has the `build_bank` password guard, 2026-10-31).** All 10 tests (750 questions, 400 clips, 110 pictures) are in the encrypted bank; tests and plaintext guard pass. **Checkpoint: waiting for Quan's phone test of HSK 3** (see "Waiting on Quan"). Phase 9 (Trắc nghiệm) is still waiting for his phone test. Phase 8 (Luyện đề, 10 HSK 4 papers) is done and phone-tested. Phase 7 is done.
 
 ## Done
+- 2026-10-31 sw v10: update bar + version label (see Decisions); test `scripts/test_update_bar.py` (11 checks, incl. a real new-version scenario) added to `run_tests.sh`.
 - 2026-10-31 Hardening: `build_bank.py` password-mismatch guard (see Decisions). Quan merged the Phase 10 branches into `main` himself (no pull request); the hardening commit was then fast-forwarded into `main` by Claude at Quan's request.
 - 2026-10-30 Phase 0: git repo, `.gitignore`, `example-writer` (Haiku) agent copied.
 - 2026-10-30 Phase 1: `data/raw` for 4,545 words; Hán Việt from Wiktionary (+ Unihan fallback), review files exported.
@@ -76,6 +77,7 @@ Phone check of the any-order writing (draw strokes out of order; wrong lines sti
 - **Quan still needs to delete** `claude/phase-10-hsk3-book-s8hgk5` in both repos on GitHub (Branches page → trash icon). Claude sessions cannot delete branches. A new cloud session may create a fresh `claude/...` branch from `main`; at its end, check again whether `main` is behind it.
 
 ## Decisions
+- 2026-10-31 (sw v10) Phones that stay in memory kept running the OLD app code after an update (Quan saw HSK 3 sentence-matching units drawn as full-sentence columns = the v8 layout, although v9 was live). Fix: the app now shows an `Cập nhật ngay` bar when a new version takes over while it is open, re-checks for a new version whenever it comes back to the front, and Cài đặt shows `Phiên bản ứng dụng: N` (`APP_VERSION` in `app.js`, bumped together with the service worker by `scripts/bump_version.py`).
 - 2026-10-31 (hardening, Quan asked for it) `build_bank.py` now refuses to build when the password does not match the existing `docs/bank/meta.json` (or meta.json is unreadable): it prints a message and writes/deletes nothing. A deliberate password change needs `--new-salt` (new magic link, ~100 MB re-encrypted, every friend unlocks again). Unit test added (3 checks).
 - 2026-10-31 (Phase 10) Quan: merge the `claude/...` branches into `main` only after all 10 HSK 3 tests are done (so nothing of HSK 3 is live until then); after test 2, if OK, tests 3–10 are done in one run.
 - 2026-10-31 (Phase 10) Picture matching (Nghe part 1): the pictures are listed once above the questions (3 per row, tap to enlarge) and each question has only letter buttons A–F, instead of repeating six pictures inside every question card. Pictures are cropped from the scan (max 600 px, grayscale WebP; the originals are only ~200 px wide).
