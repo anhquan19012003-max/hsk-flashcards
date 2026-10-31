@@ -315,3 +315,25 @@ html.writing-open, html.writing-open body { overscroll-behavior: none; }
 .wrong-list .wrow { padding: 6px 0; border-bottom: 1px dashed var(--line); }
 .wrong-list .zh { font-size: 22px; }
 .wrong-list .py { color: var(--primary); }
+
+/* Luyện đề HSK 3: picture matching (Nghe part 1) and sentence matching (Đọc part 1) */
+.picbank { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 6px; }
+.pic { position: relative; display: flex; align-items: center; justify-content: center; aspect-ratio: 1 / 1; padding: 4px; background: var(--surface);
+  border: 2px solid var(--line); border-radius: 14px; cursor: zoom-in; font: inherit; overflow: hidden; }
+.pic .bank-img { width: 100%; height: 100%; object-fit: contain; border-radius: 8px; background: #f3f4f8; min-height: 40px; }
+.pic .pk { position: absolute; left: 4px; top: 4px; z-index: 1; min-width: 26px; height: 26px; padding: 0 6px; display: flex; align-items: center; justify-content: center;
+  background: var(--primary); color: #fff; border-radius: 13px; font: 800 16px/1 system-ui, sans-serif; }
+.picnote { margin: 0 0 12px; font-size: 13px; text-align: center; }
+.opt-grid.letters { display: grid; grid-template-columns: repeat(auto-fit, minmax(44px, 1fr)); gap: 4px; }
+.opt-grid.letters .opt { justify-content: center; padding: 8px 2px; font-size: 20px; gap: 0; }
+.fb-pic { margin-top: 8px; } .fb-pic .bank-img { max-height: 160px; width: auto; margin-top: 4px; }
+.instr { font-weight: 700; color: var(--muted); margin: 0 0 8px; }
+.sentlist { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
+.sl { display: flex; gap: 10px; align-items: baseline; background: var(--surface); border: 2px solid var(--line); border-radius: 12px; padding: 8px 12px; font-size: 19px; line-height: 1.5; }
+.sl b { color: var(--primary); font-family: system-ui, sans-serif; min-width: 1.1em; }
+.zoom { position: fixed; inset: 0; z-index: 100; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; padding: 16px;
+  background: rgba(10, 14, 28, 0.88); cursor: zoom-out; }
+.zoom img { max-width: 100%; max-height: 78vh; width: 100%; object-fit: contain; border-radius: 12px; background: #fff; }
+.zoom-x { color: #fff; font-size: 15px; }
+.dl-levels { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.dl-levels .btn { flex: 1 1 140px; min-height: 44px; font-size: 15px; }

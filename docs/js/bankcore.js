@@ -10,7 +10,7 @@ export const TABS = [
 // Filter chips per tab: [type id, label]
 export const TYPE_CHIPS = {
   nghe: [["tf", "Đúng / Sai"], ["choice", "Chọn đáp án"]],
-  doc: [["wordbank", "Chọn từ"], ["choice", "Đọc hiểu"]],
+  doc: [["wordbank", "Chọn từ / câu"], ["choice", "Đọc hiểu"]],
   sapxep: [["order-sentences", "Sắp xếp câu"], ["order-words", "Sắp xếp từ"]],
 };
 

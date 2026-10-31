@@ -281,6 +281,9 @@ const audioBar = (name) => `<div class="audio-bar">
 
 const imgTag = (name, cls = "") => `<img class="bank-img ${cls}" data-bimg="${name}" alt="" loading="lazy">`;
 
+/** Letters-only options (the pictures / sentences are listed once above the questions). */
+const lettersOnly = (unit) => unit.context?.layout === "pictures" || unit.context?.layout === "sentences";
+
 function optionButton(unit, q, o, a) {
   let cls = "opt";
   if (a) {
@@ -290,6 +293,7 @@ function optionButton(unit, q, o, a) {
   const tf = unit.type === "tf";
   const inner = tf
     ? `<span class="tfmark">${o.key}</span><span class="t">${o.key === "✓" ? "Đúng" : "Sai"}</span>`
+    : lettersOnly(unit) ? `<span class="k">${esc(o.key)}</span>`
     : `<span class="k">${esc(o.key)}</span>${o.image ? imgTag(o.image) : ""}${o.text ? `<span class="t">${esc(o.text)}</span>` : ""}`;
   return `<button class="${cls}${tf ? " tf" : ""}" data-action="bank-pick" data-qid="${esc(q.id)}" data-key="${esc(o.key)}" ${a ? "disabled" : ""}>${inner}</button>`;
 }
@@ -301,11 +305,13 @@ function feedback(unit, q, a) {
     ? `<div class="right-answer"><span class="label">Đáp án:</span> <span class="zh">${esc(core.correctOrderText(unit, q))}</span></div>` : "";
   const override = wrongOrder && !a.overridden
     ? `<button class="btn small" data-action="bank-mine" data-qid="${esc(q.id)}">Câu của mình cũng đúng</button>` : "";
+  const right = unit.context?.layout === "pictures" && (unit.context.sharedOptions || []).find((o) => o.key === q.answer);
+  const pic = right?.image ? `<div class="fb-pic"><span class="label">Đáp án: hình ${esc(right.key)}</span>${imgTag(right.image)}</div>` : "";
   const script = q.script ? `<div class="script"><span class="label">Nội dung nghe:</span><div class="zh">${esc(q.script)}</div></div>` : "";
   const vi = q.explain_vi ? `<div class="expl">${esc(q.explain_vi)}</div>` : "";
   const zh = q.explain_zh
     ? `<details class="expl-zh"><summary>Xem giải thích tiếng Trung</summary><div class="zh">${esc(q.explain_zh)}</div></details>` : "";
-  return `<div class="fb ${a.ok ? "ok" : "no"}"><b>${a.ok ? "✅ Đúng" : "❌ Chưa đúng"}</b>${answerLine}${override}${script}${vi}${zh}</div>`;
+  return `<div class="fb ${a.ok ? "ok" : "no"}"><b>${a.ok ? "✅ Đúng" : "❌ Chưa đúng"}</b>${answerLine}${override}${pic}${script}${vi}${zh}</div>`;
 }
 
 function orderBlock(unit, q, a) {
@@ -335,7 +341,7 @@ function questionBlock(unit, q, n) {
   else {
     const opts = unit.type === "tf" ? [{ key: "✓" }, { key: "✗" }] : (q.options || unit.context.sharedOptions || []);
     const hasImg = opts.some((o) => o.image);
-    const cls = unit.type === "tf" ? "opt-grid two" : unit.type === "wordbank" ? "opt-grid words" : hasImg ? "opt-grid pics" : "opt-grid";
+    const cls = unit.type === "tf" ? "opt-grid two" : lettersOnly(unit) ? "opt-grid letters" : unit.type === "wordbank" ? "opt-grid words" : hasImg ? "opt-grid pics" : "opt-grid";
     body = `<div class="${cls}">${opts.map((o) => optionButton(unit, q, o, a)).join("")}</div>`;
   }
   return `<div class="qcard" data-qid="${esc(q.id)}">
@@ -345,6 +351,40 @@ function questionBlock(unit, q, n) {
     ${body}
     ${feedback(unit, q, a)}
   </div>`;
+}
+
+/** The list shown once above the questions of a unit: word bank, sentences to match, or the pictures A-F. */
+function sharedBlock(unit, ctxData) {
+  const list = ctxData.sharedOptions || [];
+  if (ctxData.layout === "pictures") {
+    return `<div class="picbank" aria-label="Các hình">${list.map((o) => `<button class="pic" data-action="bank-zoom" aria-label="Phóng to hình ${esc(o.key)}">
+      <span class="pk">${esc(o.key)}</span>${imgTag(o.image)}</button>`).join("")}</div>
+      <p class="note picnote">Chạm vào hình để phóng to.</p>`;
+  }
+  if (ctxData.layout === "sentences") {
+    return `<div class="instr">${esc(ctxData.instruction || "Chọn câu phù hợp")}</div>
+      <div class="sentlist">${list.map((o) => `<div class="sl"><b>${esc(o.key)}</b><span class="zh">${esc(o.text)}</span></div>`).join("")}</div>`;
+  }
+  if (unit.type === "wordbank") {
+    return `<div class="wordlist">${list.map((o) => `<span class="wl"><b>${esc(o.key)}</b> ${esc(o.text)}</span>`).join("")}</div>`;
+  }
+  return "";
+}
+
+/** Full-screen view of a picture: tap anywhere (or press Esc) to close. */
+function zoomPicture(src) {
+  if (!src) return;
+  const box = document.createElement("div");
+  box.className = "zoom";
+  box.setAttribute("role", "dialog");
+  box.setAttribute("aria-label", "Hình phóng to");
+  box.innerHTML = `<img alt=""><span class="zoom-x">Chạm để đóng</span>`;
+  box.querySelector("img").src = src;
+  const close = () => { box.remove(); document.removeEventListener("keydown", onKey); };
+  const onKey = (e) => { if (e.key === "Escape") close(); };
+  box.addEventListener("click", close);
+  document.addEventListener("keydown", onKey);
+  document.body.appendChild(box);
 }
 
 export function renderBankQuestion() {
@@ -358,8 +398,7 @@ export function renderBankQuestion() {
   const ctxData = unit.context || {};
   const allDone = unit.questions.every((q) => s.answers[q.id]);
   const anyDone = unit.questions.some((q) => s.answers[q.id]);
-  const shared = unit.type === "wordbank"
-    ? `<div class="wordlist">${(ctxData.sharedOptions || []).map((o) => `<span class="wl"><b>${esc(o.key)}</b> ${esc(o.text)}</span>`).join("")}</div>` : "";
+  const shared = sharedBlock(unit, ctxData);
   const nextLabel = s.unitIdx === s.units.length - 1 ? "Xong" : "Tiếp";
   return `<div class="screen">
     ${ctx.topBar({ title, back: "exit-session" })}
@@ -495,6 +534,7 @@ document.addEventListener("click", async (e) => {
       else { redraw(); window.scrollTo(0, 0); }
       break;
     }
+    case "bank-zoom": zoomPicture(el.querySelector("img")?.src); break;
     case "bank-play": playClip(d.clip, false); break;
     case "bank-replay": playClip(d.clip, true); break;
     case "bank-lock": {
@@ -504,6 +544,7 @@ document.addEventListener("click", async (e) => {
       break;
     }
     case "bank-download": await downloadAll(); break;
+    case "bank-download-level": await downloadAll(Number(d.level)); break;
   }
 });
 
@@ -544,11 +585,12 @@ export async function settingsSection() {
 
 const BANK_CACHE = "hskfc-bank";
 
-async function bankFiles() {
+async function bankFiles(onlyLevel) {
   const files = [];
   for (const level of meta.levels) {
+    if (onlyLevel && level !== onlyLevel) continue;
     const index = await loadIndex(level);
-    for (const [name, m] of Object.entries(index.media)) files.push({ url: `bank/hsk${level}/m/${name}.bin`, size: m.size });
+    for (const [name, m] of Object.entries(index.media)) files.push({ url: `bank/hsk${level}/m/${name}.bin`, size: m.size, level });
   }
   return files;
 }
@@ -562,21 +604,31 @@ async function allCached(files) {
   } catch (e) { return false; }
 }
 
-/** The `Tải toàn bộ đề về máy` button (or `Đã tải về máy ✓`) with its one-line explanation. */
+const megabytes = (files) => (files.reduce((n, f) => n + f.size, 0) / 1e6).toFixed(1);
+
+/** The `Tải toàn bộ đề về máy` button (or `Đã tải về máy ✓`) with its one-line explanation; with 2+ levels also one small button per level. */
 async function downloadBlock() {
   const files = await bankFiles();
   if (await allCached(files)) return `<p class="note" id="bank-cached"><b>Đã tải về máy ✓</b> Có thể làm đề khi không có mạng.</p>`;
-  const mb = (files.reduce((n, f) => n + f.size, 0) / 1e6).toFixed(1);
-  return `<button class="btn" data-action="bank-download">Tải toàn bộ đề về máy<small>${mb} MB · nên dùng Wi-Fi</small></button>
+  let perLevel = "";
+  if (meta.levels.length > 1) {
+    const rows = [];
+    for (const level of meta.levels) {
+      const lf = files.filter((f) => f.level === level);
+      if (await allCached(lf)) rows.push(`<button class="btn" disabled>HSK ${level} đã tải ✓</button>`);
+      else rows.push(`<button class="btn" data-action="bank-download-level" data-level="${level}">Chỉ tải HSK ${level}<small>${megabytes(lf)} MB</small></button>`);
+    }
+    perLevel = `<div class="dl-levels">${rows.join("")}</div>`;
+  }
+  return `<button class="btn" data-action="bank-download">Tải toàn bộ đề về máy<small>${megabytes(files)} MB · nên dùng Wi-Fi</small></button>${perLevel}
     <p class="note">Không bắt buộc: nếu không tải, âm thanh của mỗi câu sẽ tự tải về lần đầu bạn làm câu đó.</p>`;
 }
 
-async function downloadAll() {
-  const files = await bankFiles();
-  const total = files.reduce((n, f) => n + f.size, 0);
-  const mb = (total / 1e6).toFixed(1);
+async function downloadAll(onlyLevel) {
+  const files = await bankFiles(onlyLevel);
+  const mb = megabytes(files);
   const yes = await ctx.dialog({
-    title: "Tải toàn bộ đề về máy?",
+    title: onlyLevel ? `Tải đề HSK ${onlyLevel} về máy?` : "Tải toàn bộ đề về máy?",
     message: `${files.length} tệp âm thanh và hình, khoảng ${mb} MB. Nên dùng Wi-Fi.`,
     buttons: [{ label: `Tải ${mb} MB`, value: true, kind: "primary" }, { label: "Hủy", value: null }],
   });

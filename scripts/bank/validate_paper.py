@@ -20,6 +20,13 @@ PROFILES = {
         (46, 55, "doc", "wordbank"), (56, 65, "sapxep", "order-sentences"), (66, 85, "doc", "choice"),
         (86, 95, "sapxep", "order-words"),
     ],
+    # HSK 3 (HSK 2.0): listening 1-10 pictures (choice), 11-20 true/false, 21-40 choice; reading 41-60 matching / word bank,
+    # 61-70 choice; writing part 1 (71-75) order-words. Writing part 2 (76-80) is skipped.
+    ("HSK 2.0", 3): [
+        (1, 10, "nghe", "choice"), (11, 20, "nghe", "tf"), (21, 40, "nghe", "choice"),
+        (41, 60, "doc", "wordbank"), (61, 70, "doc", "choice"),
+        (71, 75, "sapxep", "order-words"),
+    ],
 }
 
 PUNCT = re.compile(r"[\s。？！，、；：．.?!,;:\"'“”‘’（）()\[\]【】—…·《》]")

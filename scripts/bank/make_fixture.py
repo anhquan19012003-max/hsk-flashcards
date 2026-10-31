@@ -96,6 +96,66 @@ def papers_json():
     }
 
 
+PID3 = "hsk3-fixture-1"
+
+
+def pic_webp(path: Path, color: str, shape: str):
+    from PIL import Image, ImageDraw
+    im = Image.new("RGB", (200, 150), color)
+    d = ImageDraw.Draw(im)
+    if shape == "circle":
+        d.ellipse((50, 25, 150, 125), fill="#ffffff")
+    elif shape == "square":
+        d.rectangle((50, 25, 150, 125), fill="#ffffff")
+    else:
+        d.polygon([(100, 20), (160, 125), (40, 125)], fill="#ffffff")
+    im.save(path, "WEBP", quality=70)
+
+
+def paper3_json():
+    """HSK 3 style units: picture matching (Nghe), sentence matching (Đọc) and a word bank; invented content."""
+    q3 = lambda n, prompt, options, answer, **extra: {"id": f"{PID3}-{n}", "prompt": prompt, "options": options, "answer": answer, "audio": None, "script": "", **extra}
+    pics = [{"key": k, "image": f"img/{k}.webp"} for k in "ABC"]
+    return {
+        "paper": {"id": PID3, "level": 3, "examVersion": "HSK 2.0", "title": "Đề thử 3"},
+        "units": [
+            {"id": f"{PID3}-L1", "skill": "nghe", "type": "choice", "context": {"sharedOptions": pics, "layout": "pictures"},
+             "questions": [q3(1, "", None, "B", audio="clips/a.mp3", script="女：你看，那是什么？男：是一个方的盒子。", explain_vi="Hộp vuông là hình B."),
+                           q3(2, "", None, "A", audio="clips/b.mp3", script="男：太阳是圆的。", explain_vi="Mặt trời tròn là hình A.")]},
+            {"id": f"{PID3}-R1", "skill": "doc", "type": "wordbank",
+             "context": {"sharedOptions": [{"key": "A", "text": "我常去图书馆借书。"}, {"key": "B", "text": "你要去哪儿？"}, {"key": "C", "text": "他在做什么呢？"}],
+                         "layout": "sentences", "instruction": "Chọn câu phù hợp"},
+             "questions": [q3(3, "我去邮局寄信。", None, "B", explain_vi="Trả lời câu hỏi đi đâu."),
+                           q3(4, "他正在写作业。", None, "C")]},
+            {"id": f"{PID3}-R2", "skill": "doc", "type": "wordbank",
+             "context": {"sharedOptions": [{"key": "A", "text": "参加"}, {"key": "B", "text": "了解"}, {"key": "C", "text": "努力"}]},
+             "questions": [q3(5, "她学习非常 ( )。", None, "C")]},
+            {"id": f"{PID3}-W1", "skill": "sapxep", "type": "order-words", "context": {},
+             "questions": [q3(6, "", [{"key": "1", "text": "他"}, {"key": "2", "text": "身体"}, {"key": "3", "text": "不舒服"}, {"key": "4", "text": "有点儿"}], "他身体有点儿不舒服。")]},
+        ],
+    }
+
+
+def build_hsk3_fixture():
+    """A second fixture bank with two levels (3 and 4), used by test_bank_hsk3.py."""
+    import shutil
+    tmp = Path(tempfile.mkdtemp())
+    try:
+        shutil.copytree(FIX / "papers" / PID, tmp / PID)
+        d = tmp / PID3
+        (d / "clips").mkdir(parents=True)
+        (d / "img").mkdir()
+        tone_mp3(d / "clips" / "a.mp3", 440)
+        tone_mp3(d / "clips" / "b.mp3", 660)
+        for k, color, shape in (("A", "#e8553a", "circle"), ("B", "#2457c5", "square"), ("C", "#2f9e5b", "triangle")):
+            pic_webp(d / "img" / f"{k}.webp", color, shape)
+        (d / "questions.json").write_text(json.dumps(paper3_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        r = build(tmp, FIX / "bank-hsk3", TEST_PASSWORD)
+        print("fixture bank (HSK 3 + 4):", r["levels"], r["write"])
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
 def main():
     work = FIX / "papers"
     d = work / PID
@@ -107,6 +167,7 @@ def main():
     (d / "questions.json").write_text(json.dumps(papers_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     r = build(work, FIX / "bank", TEST_PASSWORD)
     print("fixture bank:", r["levels"], r["write"])
+    build_hsk3_fixture()
 
 
 if __name__ == "__main__":
