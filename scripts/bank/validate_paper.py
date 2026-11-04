@@ -27,6 +27,11 @@ PROFILES = {
         (41, 60, "doc", "wordbank"), (61, 70, "doc", "choice"),
         (71, 75, "sapxep", "order-words"),
     ],
+    # HSK 5 (HSK 2.0): listening 1-45 choice; reading 46-90 choice (46-60 cloze blanks, 61-70 short texts, 71-90 long passages);
+    # writing part 1 (91-98) order-words. Writing part 2 (99-100, essays) is skipped.
+    ("HSK 2.0", 5): [
+        (1, 45, "nghe", "choice"), (46, 90, "doc", "choice"), (91, 98, "sapxep", "order-words"),
+    ],
 }
 
 PUNCT = re.compile(r"[\s。？！，、；：．.?!,;:\"'“”‘’（）()\[\]【】—…·《》]")

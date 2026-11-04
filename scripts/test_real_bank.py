@@ -40,7 +40,7 @@ with sync_playwright() as p:
     page.get_by_role("button", name="Mở khóa").click()
     page.locator(".level-btn .sub").first.wait_for()
     # per paper: (questions, Nghe, Đọc, Sắp xếp câu); HSK 3 papers skip writing part 2, HSK 4 papers skip writing part 2 too
-    PER_PAPER = {3: (75, 40, 30, 5), 4: (95, 45, 30, 20)}
+    PER_PAPER = {3: (75, 40, 30, 5), 4: (95, 45, 30, 20), 5: (98, 45, 45, 8)}
     rows = {int(r.locator(".lv").inner_text().split()[1]): int(r.locator(".sub").inner_text().split(" câu")[0]) for r in page.locator(".level-btn").all()}
     check(f"real bank: unlocks with levels {sorted(rows)}", bool(rows) and set(rows) <= set(PER_PAPER), str(rows))
     for level, total in sorted(rows.items()):
@@ -68,7 +68,9 @@ with sync_playwright() as p:
             page.locator("button[data-action=bank-next]").click()
             if page.get_by_text("Hoàn thành!").is_visible():
                 break
-        check(f"HSK {level}: every listening question's clip decrypts and plays", played == 40 * papers, str(played))
+        # HSK 3/4: 40 clips per paper; HSK 5: one per question 1-30 plus one per passage of 31-45 (30 + 4..6 groups)
+        ok_played = played == 40 * papers if level != 5 else 33 * papers <= played <= 38 * papers
+        check(f"HSK {level}: every listening item's clip decrypts and plays", ok_played, str(played))
         page.get_by_role("button", name="Về danh sách").click()
         page.get_by_label("Quay lại").first.click()
     check("no console errors", not errors, "; ".join(errors[:2]))

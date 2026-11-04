@@ -344,8 +344,12 @@ function questionBlock(unit, q, n) {
     const cls = unit.type === "tf" ? "opt-grid two" : lettersOnly(unit) ? "opt-grid letters" : unit.type === "wordbank" ? "opt-grid words" : hasImg ? "opt-grid pics" : "opt-grid";
     body = `<div class="${cls}">${opts.map((o) => optionButton(unit, q, o, a)).join("")}</div>`;
   }
+  // a passage with several questions (cloze, long reading): a way back to the text without scrolling by hand
+  const ctxData = unit.context || {};
+  const back = ctxData.text && unit.questions.length > 1
+    ? `<button type="button" class="linkbtn" data-action="bank-passage">Xem lại bài đọc ↑</button>` : "";
   return `<div class="qcard" data-qid="${esc(q.id)}">
-    <div class="qnum">${n}</div>
+    <div class="qhead"><div class="qnum">${n}</div>${back}</div>
     ${q.audio ? audioBar(q.audio) : ""}
     ${q.prompt ? `<div class="prompt zh">${esc(q.prompt)}</div>` : ""}
     ${body}
@@ -406,7 +410,7 @@ export function renderBankQuestion() {
     <div class="source">Nguồn: ${esc(paperTitle(index, unit))}</div>
     ${ctxData.audio ? audioBar(ctxData.audio) : ""}
     ${ctxData.image ? imgTag(ctxData.image, "ctx") : ""}
-    ${ctxData.text ? `<div class="passage zh">${esc(ctxData.text)}</div>` : ""}
+    ${ctxData.text ? `<div class="passage zh" id="bank-passage">${esc(ctxData.text)}</div>` : ""}
     ${shared}
     ${anyDone && ctxData.script ? `<div class="script"><span class="label">Nội dung nghe:</span><div class="zh">${esc(ctxData.script)}</div></div>` : ""}
     ${unit.questions.map((q, i) => questionBlock(unit, q, first + i)).join("")}
@@ -534,6 +538,7 @@ document.addEventListener("click", async (e) => {
       else { redraw(); window.scrollTo(0, 0); }
       break;
     }
+    case "bank-passage": document.getElementById("bank-passage")?.scrollIntoView({ behavior: "smooth", block: "start" }); break;
     case "bank-zoom": zoomPicture(el.querySelector("img")?.src); break;
     case "bank-play": playClip(d.clip, false); break;
     case "bank-replay": playClip(d.clip, true); break;

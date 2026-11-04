@@ -342,3 +342,9 @@ html.writing-open, html.writing-open body { overscroll-behavior: none; }
 #update-bar { position: fixed; left: 12px; right: 12px; top: calc(env(safe-area-inset-top, 0px) + 8px); z-index: 120; display: flex; align-items: center; gap: 10px;
   justify-content: space-between; padding: 10px 12px; background: #1f3a93; color: #fff; border-radius: 14px; box-shadow: 0 6px 24px rgba(10, 14, 28, 0.35); font-size: 16px; }
 #update-bar .btn { min-height: 44px; flex: none; background: #fff; color: #1f3a93; border: 0; font-weight: 700; }
+
+/* passages with several questions: link back to the text */
+.qhead { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px; }
+.qhead .qnum { margin-bottom: 0; }
+.linkbtn { min-height: 44px; padding: 0 10px; background: none; border: 0; color: var(--primary); font: 600 15px system-ui, sans-serif; cursor: pointer; }
+#bank-passage { scroll-margin-top: 64px; }

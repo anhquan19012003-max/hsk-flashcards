@@ -48,13 +48,13 @@ def main():
         page.get_by_role("button", name="Mở khóa").click()
         page.locator(".level-btn").first.wait_for()
         levels = page.locator(".level-btn .lv").all_inner_texts()
-        check("level list shows HSK 3 then HSK 4", levels == ["HSK 3", "HSK 4"], str(levels))
+        check("level list shows HSK 3, HSK 4, HSK 5 in order", levels == ["HSK 3", "HSK 4", "HSK 5"], str(levels))
         check("HSK 3 row counts its 6 questions", "6 câu" in page.locator(".level-btn").first.inner_text(), page.locator(".level-btn").first.inner_text())
 
         # ---- download: one main button, plus one per level
         main_btn = page.get_by_role("button", name="Tải toàn bộ đề về máy")
         check("exactly one 'Tải toàn bộ đề về máy' button", main_btn.count() == 1)
-        check("per-level buttons for HSK 3 and HSK 4", page.get_by_role("button", name="Chỉ tải HSK 3").is_visible() and page.get_by_role("button", name="Chỉ tải HSK 4").is_visible())
+        check("per-level buttons for HSK 3, 4 and 5", all(page.get_by_role("button", name=f"Chỉ tải HSK {n}").is_visible() for n in (3, 4, 5)))
         check("per-level buttons show their own size", "MB" in page.get_by_role("button", name="Chỉ tải HSK 3").inner_text())
         page.get_by_role("button", name="Chỉ tải HSK 3").click()
         check("level dialog names HSK 3", page.get_by_text("Tải đề HSK 3 về máy?").is_visible())
@@ -134,6 +134,43 @@ def main():
         page.locator("button[data-action=bank-size][data-value='0']").click()
         page.locator("button[data-action=bank-start][data-mode=new]").click()
         check("HSK 4 listening still shows its plain question cards", page.locator(".qcard").count() >= 1 and page.locator(".picbank").count() == 0)
+        page.get_by_label("Quay lại").first.click()
+
+        # ---- HSK 5: cloze passage and long passage with several questions
+        page.get_by_label("Quay lại").first.click()  # HSK 4 level screen -> Luyện đề list
+        page.locator("button[data-action=bank-level][data-level='5']").click()
+        page.locator("button[data-action=bank-tab][data-tab=doc]").click()
+        page.locator("button[data-action=bank-size][data-value='0']").click()
+        page.locator("button[data-action=bank-start][data-mode=new]").click()
+        seen = {"cloze": False, "long": False, "single": False}
+        for _ in range(3):
+            cards = page.locator(".qcard")
+            n = cards.count()
+            check(f"HSK 5 unit with {n} question(s) shows its passage", page.locator("#bank-passage").is_visible())
+            if n > 1:
+                check("every question of a passage has 'Xem lại bài đọc'", page.locator(".qcard .linkbtn").count() == n and cards.first.locator(".linkbtn").bounding_box()["height"] >= 44)
+                prompts = [c.locator(".prompt").inner_text().strip() for c in cards.all()]
+                if prompts[0].startswith("（"):
+                    seen["cloze"] = True
+                    check("cloze questions are labelled （1）（2）…", prompts == ["（1）", "（2）", "（3）"], str(prompts))
+                    check("cloze passage shows the numbered blanks", "（1）" in page.locator("#bank-passage").inner_text())
+                else:
+                    seen["long"] = True
+                last = cards.nth(n - 1)
+                last.scroll_into_view_if_needed()
+                last.locator(".linkbtn").click()
+                page.wait_for_function("document.getElementById('bank-passage').getBoundingClientRect().top >= -2 && document.getElementById('bank-passage').getBoundingClientRect().top < 300")
+                check("tapping the link scrolls back to the passage", True)
+            else:
+                seen["single"] = True
+                check("a single-question text has no 'Xem lại' link", page.locator(".linkbtn").count() == 0)
+            for c in cards.all():
+                c.locator(".opt").first.click()
+            page.locator("button[data-action=bank-next]").click()
+            if page.get_by_text("Hoàn thành!").count():
+                break
+        check("all three HSK 5 reading shapes were shown", all(seen.values()), str(seen))
+        page.get_by_role("button", name="Về danh sách").click()
         page.get_by_label("Quay lại").first.click()
 
         # ---- phone width 360x640

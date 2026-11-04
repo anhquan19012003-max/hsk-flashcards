@@ -136,6 +136,38 @@ def paper3_json():
     }
 
 
+PID5 = "hsk5-fixture-1"
+
+
+def paper5_json():
+    """HSK 5 style reading units (cloze with numbered blanks, a long passage with four questions); invented content."""
+    q5 = lambda n, prompt, options, answer, **extra: {"id": f"{PID5}-{n}", "prompt": prompt, "options": options, "answer": answer, "audio": None, "script": "", **extra}
+    o = lambda *t: [{"key": k, "text": x} for k, x in zip("ABCD", t)]
+    cloze = "小明每天早上都（1）去公园跑步。今天下雨了，他（2）在家里看书。到了晚上，雨停了，他又（3）出门散步。"
+    long_text = ("很久以前，有一个年轻人喜欢爬山。他每个周末都去山里走一走，慢慢地认识了很多树和花。\n"
+                 "有一次，他在山上迷路了，天快黑了，手机也没有信号。他想起老人说过：迷路的时候，要沿着小河往下走。\n"
+                 "他照着做了，两个小时以后，终于看见了山下的村子。从那以后，他爬山时一定带上地图。")
+    return {
+        "paper": {"id": PID5, "level": 5, "examVersion": "HSK 2.0", "title": "Đề thử 5"},
+        "units": [
+            {"id": f"{PID5}-R1", "skill": "doc", "type": "choice", "context": {"text": cloze},
+             "questions": [q5(1, "（1）", o("通常", "突然", "几乎", "刚刚"), "A", explain_zh="根据“每天”，选A。", explain_vi="“每天” đi với 通常."),
+                           q5(2, "（2）", o("只好", "一直", "反而", "尤其"), "A"),
+                           q5(3, "（3）", o("不如", "于是", "难道", "宁可"), "B")]},
+            {"id": f"{PID5}-R4", "skill": "doc", "type": "choice", "context": {"text": "我家附近有一个小公园。早上有很多老人在那里锻炼。"},
+             "questions": [q5(4, "", o("公园很大", "早上人很多", "晚上没有人", "公园在山上"), "B")]},
+            {"id": f"{PID5}-R5", "skill": "doc", "type": "choice", "context": {"text": long_text},
+             "questions": [q5(5, "年轻人周末喜欢做什么？", o("看书", "爬山", "打球", "游泳"), "B"),
+                           q5(6, "他为什么迷路了？", o("没有地图", "手机坏了", "天黑了又没有信号", "不知道"), "C"),
+                           q5(7, "他是怎么回到村子的？", o("沿着小河走", "打电话", "等朋友", "坐车"), "A"),
+                           q5(8, "从那以后他：", o("不爬山了", "带上地图", "只在白天去", "和老人一起去"), "B")]},
+            {"id": f"{PID5}-L9", "skill": "nghe", "type": "choice", "context": {"audio": "clips/a.mp3", "script": "男：你周末做什么？\n女：我去爬山。"},
+             "questions": [q5(9, "", o("看电影", "爬山", "睡觉", "买东西"), "B", script="问：女的周末做什么？"),
+                           q5(10, "", o("一个人", "和朋友", "和家人", "不知道"), "D", script="问：她和谁去？")]},
+        ],
+    }
+
+
 def build_hsk3_fixture():
     """A second fixture bank with two levels (3 and 4), used by test_bank_hsk3.py."""
     import shutil
@@ -150,8 +182,12 @@ def build_hsk3_fixture():
         for k, color, shape in (("A", "#e8553a", "circle"), ("B", "#2457c5", "square"), ("C", "#2f9e5b", "triangle")):
             pic_webp(d / "img" / f"{k}.webp", color, shape)
         (d / "questions.json").write_text(json.dumps(paper3_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        d5 = tmp / PID5
+        (d5 / "clips").mkdir(parents=True)
+        tone_mp3(d5 / "clips" / "a.mp3", 523)
+        (d5 / "questions.json").write_text(json.dumps(paper5_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         r = build(tmp, FIX / "bank-hsk3", TEST_PASSWORD)
-        print("fixture bank (HSK 3 + 4):", r["levels"], r["write"])
+        print("fixture bank (HSK 3 + 4 + 5):", r["levels"], r["write"])
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 
