@@ -1,7 +1,7 @@
 # PROGRESS
 
 ## Status
-**Phase 11 (HSK 5 book in Luyện đề) is built on the branch `claude/phase-10-hsk3-book-s8hgk5` in BOTH repos and NOT yet merged into `main`** (2026-11-04). All 10 tests (980 questions, 354 clips) are in the encrypted bank, sw v11; the full test suite and the plaintext guard pass. **Checkpoint: waiting for Quan's phone test of HSK 5** (see "Waiting on Quan"), then merge. Phase 10 (HSK 3) was phone-tested by Quan ("all good") and is on `main`. Phase 9 (Trắc nghiệm) is still waiting for his phone test. Phase 8 and 7 are done.
+**Phase 11 (HSK 5 book in Luyện đề) is built AND merged into `main` in both repos (2026-11-04, at Quan's OK, so the live site serves it).** All 10 tests (980 questions, 354 clips) are in the encrypted bank, sw v11; the full test suite and the plaintext guard pass. **Checkpoint: waiting for Quan's phone test of HSK 5** (see "Waiting on Quan"), then merge. Phase 10 (HSK 3) was phone-tested by Quan ("all good") and is on `main`. Phase 9 (Trắc nghiệm) is still waiting for his phone test. Phase 8 and 7 are done.
 
 ## Done
 - 2026-11-04 Phase 11: HSK 5 book, all 10 tests (980 questions: Nghe 450 · Đọc 450 · Sắp xếp câu 80; 354 clips, bank level list [3,4,5]). Audio identified (`src-0k` = test k+1, clean mapping, renamed `testNN.mp3`, `SOURCE.md` filled). Pipeline per test: page images → content (Sonnet agents) → independent proofreading → `explain_zh` from the book → `explain_vi` (Haiku) → Whisper-aligned clips (min recall/precision over all clips 0.85/0.85) → `questions.json` + `review.html`. App: cloze passages and long passages show the text above the questions with an `Xem lại bài đọc ↑` link on every question of a multi-question passage; validator profile for HSK 5; fixture + tests extended (`test_bank_hsk3.py` 45 checks, `test_real_bank.py` level 5). Bank = 163 MB in `docs/bank` (HSK 3 43.9 + HSK 4 57.9 + HSK 5 64.2 MB of media); the HSK 3 and HSK 4 files were reported "unchanged" by the build. sw v11.
@@ -75,7 +75,7 @@
 Phone check of the any-order writing (draw strokes out of order; wrong lines still rejected). Nothing blocking. Still open from before: review of the HSK2–5 spreadsheets in `review/` (tell me "I reviewed HSK N" and I import them).
 
 ## Branches (updated 2026-11-04)
-- **Needs merging into `main`:** in BOTH `hsk-flashcards` and `hsk-bank-private`, branch `claude/phase-10-hsk3-book-s8hgk5` holds all Phase 11 work (the branch was re-created from `main` at the start of this session; `main` still has Phase 10 only). Quan merges after the phone test (or asks Claude to fast-forward `main`). After the merge, Quan deletes the branch on GitHub (Claude cannot).
+- Nothing is waiting to be merged: `main` equals `claude/phase-10-hsk3-book-s8hgk5` in both repos (`hsk-flashcards` 448a70c + this note). **Quan still needs to delete** that branch in both repos on GitHub.
 
 ## Decisions
 - 2026-11-04 (Phase 11) Quan: build all 10 HSK 5 tests in one run, no stop after test 1; publish once at the end after the full test suite and the plaintext guard pass.
