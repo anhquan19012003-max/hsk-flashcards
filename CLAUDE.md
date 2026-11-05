@@ -300,7 +300,7 @@ Full spec: **`specs/vocab-quiz.md`** — read it completely before starting. Par
 Full spec: **`specs/hsk3-bank.md`** (read `specs/mock-tests.md` too — same pipeline). The compact copy is already in `hsk-bank-private` at `materials/hsk3-book/` (pages + audio, prepared 2026-10-31). Differences from HSK 4: listening items are played **twice** (keep one play), listening part 1 uses **picture options**, the book has **no explanations** (generate short Vietnamese ones with Haiku), and about 75 questions per test (writing part 2 skipped). The bank gets a second level: HSK 3 next to HSK 4.
 **Checkpoints:** after `hsk3-book-1` (Quan tests on his phone), and the final report after test 10.
 
-**Phase 11 — Luyện đề: add the HSK 5 book (10 tests)** — *built 2026-11-04 (980 questions), waiting for Quan's phone test and merge*
+**Phase 11 — Luyện đề: add the HSK 5 book (10 tests)** — *built and merged 2026-11-04 (980 questions); waiting for Quan's phone test*
 Full spec: **`specs/hsk5-bank.md`** (same pipeline as Phases 8 and 10). The compact copy is in `hsk-bank-private` at `materials/hsk5-book/` (prepared 2026-11-04). **First identify which audio file is which test** (`audio/src-NN.mp3` have no test number; see `audio/SOURCE.md`). Differences: cloze passages in reading part 1, long passages with 4 questions, Chinese explanations in the book (Haiku makes the Vietnamese ones), about 98 questions per test (essays skipped). The bank levels become [3, 4, 5].
 **Checkpoints:** after `hsk5-book-1` (Quan tests on his phone), and the final report after test 10.
 
