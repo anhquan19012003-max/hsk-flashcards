@@ -10,7 +10,7 @@ Read this file at the start of every session. Work phase by phase (see section 6
 
 Quan planned this project in a separate chat and doesn't want to go back to it — **you are his main point of contact.** He uses Claude Code but isn't a full-time developer, and he is a beginner Chinese learner.
 
-**Where things stand.** Phases 0–5, 7 and 8 are done (Phase 8 = Luyện đề: all 10 HSK 4 papers in the encrypted bank, phone-tested by Quan); **Phase 9 (Trắc nghiệm) is built and published, waiting for Quan's phone test** (`specs/vocab-quiz.md`). **Phase 10 is built and merged into `main`, waiting for Quan's phone test** (`specs/hsk3-bank.md`): all 10 HSK 3 tests (750 questions) are in the encrypted bank. **Phase 11 is built and merged into `main`, waiting for Quan's phone test** (`specs/hsk5-bank.md`): all 10 HSK 5 tests (980 questions) are in the encrypted bank. See PROGRESS.md. All 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
+**Where things stand.** Phases 0–5, 7 and 8 are done (Phase 8 = Luyện đề: all 10 HSK 4 papers in the encrypted bank, phone-tested by Quan); **Phase 9 (Trắc nghiệm) is built and published, waiting for Quan's phone test** (`specs/vocab-quiz.md`). **Phase 10 is built and merged into `main`, waiting for Quan's phone test** (`specs/hsk3-bank.md`): all 10 HSK 3 tests (750 questions) are in the encrypted bank. **Phase 11 is built and merged into `main`, waiting for Quan's phone test** (`specs/hsk5-bank.md`): all 10 HSK 5 tests (980 questions) are in the encrypted bank. **Phase 12 is next** (`specs/hsk2-bank.md`): add the HSK 2 book — the first bank phase run in **local** sessions on Quan's PC. See PROGRESS.md. All 5 levels have Hán Việt and example sentences, and the app is live on GitHub Pages (repo `hsk-flashcards`). New features are added as numbered phases (section 6), each with a full spec in `specs/`. Read the spec of the phase you're working on before starting it.
 
 **Session start.** Run `git pull` (also in `mock-tests/`, which is the private repo `hsk-bank-private`; in a cloud session that repo is checked out next to this one — see `specs/mock-tests.md` section 11). Then read `PROGRESS.md` (if it doesn't exist yet, create it and fill `## Done` from `git log`). In 3–5 lines tell Quan: which phase we're in, what was done last time, and the next step. Then wait for him to say go — unless he already gave an instruction.
 
@@ -46,6 +46,8 @@ This file is how a fresh session (or a different model) picks up exactly where t
 | "new feature: …" | Write a short spec in `specs/`, add a phase in section 6, confirm the plan with him, then build |
 
 **Publishing.** Every app or content change ends with: run the tests → bump the service-worker version → commit → push, so the live site updates. Tell Quan to reopen the app on his phone to get the new version.
+
+**Local sessions (from Phase 12).** The cloud credit has ended. Work now happens in Claude Code on Quan's Windows PC: this repo is at `C:\Nick-Claude\hsk-flashcards`, the private repo at `C:\Nick-Claude\hsk-flashcards\mock-tests`, and the original books (never in git) under `C:\Nick-Claude\Chinnese Learning App\`. Set-up and routine: `setup/local-setup.md`. Local sessions push straight to `main` after the tests pass. Work one step or one test per session to stay within Quan's plan limits.
 
 **Cloud sessions and branches.** A cloud session may only be able to push to its own `claude/...` branch (this happened in Phase 8 with `hsk-bank-private`). At the end of every cloud session, check each repo you touched: if `main` is behind your branch, tell Quan in the report which repos need merging (or open a pull request), because the next session and the live site only see `main`. Claude sessions can fast-forward `main` but cannot delete branches; Quan deletes old branches on GitHub.
 
@@ -239,6 +241,7 @@ App Build/
   specs/                       # one spec per feature phase (e.g. writing-practice.md)
   Sample Test/                 # GIT-IGNORED: Quan's original mock-test book + audio (423 MB), laptop only
   mock-tests/                  # GIT-IGNORED here; it is the PRIVATE repo hsk-bank-private (materials, work files) — Phase 8
+                               # (on Quan's PC from Phase 12: C:\Nick-Claude\hsk-flashcards\mock-tests; books stay in C:\Nick-Claude\Chinnese Learning App\)
   .claude/agents/example-writer.md   # Haiku subagent for example sentences (copied from setup/ in Phase 0)
   setup/example-writer.md            # original copy of the subagent file
   source/vocab.xlsx            # original file, never modified
@@ -303,6 +306,10 @@ Full spec: **`specs/hsk3-bank.md`** (read `specs/mock-tests.md` too — same pip
 **Phase 11 — Luyện đề: add the HSK 5 book (10 tests)** — *built and merged 2026-11-04 (980 questions); waiting for Quan's phone test*
 Full spec: **`specs/hsk5-bank.md`** (same pipeline as Phases 8 and 10). The compact copy is in `hsk-bank-private` at `materials/hsk5-book/` (prepared 2026-11-04). **First identify which audio file is which test** (`audio/src-NN.mp3` have no test number; see `audio/SOURCE.md`). Differences: cloze passages in reading part 1, long passages with 4 questions, Chinese explanations in the book (Haiku makes the Vietnamese ones), about 98 questions per test (essays skipped). The bank levels become [3, 4, 5].
 **Checkpoints:** after `hsk5-book-1` (Quan tests on his phone), and the final report after test 10.
+
+**Phase 12 — Luyện đề: add the HSK 2 book (10 tests)** — *next (local sessions)*
+Full spec: **`specs/hsk2-bank.md`** (same pipeline as Phases 8, 10 and 11). The book and audio are on Quan's PC (`C:\Nick-Claude\Chinnese Learning App\HSK 2 sample test\`); **don't commit book material to `hsk-bank-private`** (it's already ~600 MB) — only the work outputs. Differences: no writing section (no Sắp xếp câu tab for HSK 2), many pictures (✓/✗ picture prompts, picture matching), items played twice, no explanations in the book (Haiku), 60 questions per test. The bank levels become [2, 3, 4, 5].
+**Checkpoints:** after `hsk2-book-1` (Quan tests on his phone), and the final report after test 10 (including repo sizes).
 
 **Later ideas (not started — ask Quan before building)**
 - Pronunciation practice: free browser speech recognition only works in a browser tab (not from the home-screen app on iPhone); real tone scoring would need a paid service such as Azure pronunciation assessment plus a small server.
