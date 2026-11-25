@@ -221,10 +221,13 @@ export async function renderBankLevel() {
   if (!key) return renderBankHome();
   await loadIndex(level);
   const units = unitsOf(level);
+  // a level only shows the tabs it has questions for (HSK 2 has no Sắp xếp câu)
+  const visibleTabs = core.visibleTabs(units);
+  if (visibleTabs.length && !visibleTabs.some((t) => t.id === tab)) tab = visibleTabs[0].id;
   const st = core.tabStats(units, tab, progress());
   const size = store.getSettings().bankSize;
   const chosen = filters[tab];
-  const tabs = core.TABS.map((t) => `<button data-action="bank-tab" data-tab="${t.id}" aria-pressed="${t.id === tab}">${t.label}</button>`).join("");
+  const tabs = visibleTabs.map((t) => `<button data-action="bank-tab" data-tab="${t.id}" aria-pressed="${t.id === tab}">${t.label}</button>`).join("");
   const chips = core.TYPE_CHIPS[tab].map(([id, label]) =>
     `<button class="chip" data-action="bank-chip" data-type="${id}" aria-pressed="${chosen.includes(id)}">${label}</button>`).join("");
   const newPool = core.candidateUnits(units, { tab, types: chosen, mode: "new", progress: progress() });
@@ -361,7 +364,8 @@ function questionBlock(unit, q, n) {
 function sharedBlock(unit, ctxData) {
   const list = ctxData.sharedOptions || [];
   if (ctxData.layout === "pictures") {
-    return `<div class="picbank" aria-label="Các hình">${list.map((o) => `<button class="pic" data-action="bank-zoom" aria-label="Phóng to hình ${esc(o.key)}">
+    const instr = ctxData.instruction ? `<div class="instr">${esc(ctxData.instruction)}</div>` : "";
+    return `${instr}<div class="picbank" aria-label="Các hình">${list.map((o) => `<button class="pic" data-action="bank-zoom" aria-label="Phóng to hình ${esc(o.key)}">
       <span class="pk">${esc(o.key)}</span>${imgTag(o.image)}</button>`).join("")}</div>
       <p class="note picnote">Chạm vào hình để phóng to.</p>`;
   }

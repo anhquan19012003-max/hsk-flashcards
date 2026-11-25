@@ -3,9 +3,10 @@
  "salt": "qUSbpdn5Y9XBlTWyWD5ttQ==",
  "iter": 310000,
  "levels": [
+  2,
   3,
   4,
   5
  ],
- "check": "SFNLQliNDkn+GrMYWg3EkJQyP7txEDEQfLTSl1r0aH7cw5vVRXFiJJtmqQ=="
+ "check": "SFNLQqI1pZ0TZZKrZNLSnlHsUy7dMgjtSpfe4C9SDlh9yFV6q5RlRtg/YA=="
 }

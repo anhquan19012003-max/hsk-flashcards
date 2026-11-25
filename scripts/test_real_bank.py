@@ -40,7 +40,8 @@ with sync_playwright() as p:
     page.get_by_role("button", name="Mở khóa").click()
     page.locator(".level-btn .sub").first.wait_for()
     # per paper: (questions, Nghe, Đọc, Sắp xếp câu); HSK 3 papers skip writing part 2, HSK 4 papers skip writing part 2 too
-    PER_PAPER = {3: (75, 40, 30, 5), 4: (95, 45, 30, 20), 5: (98, 45, 45, 8)}
+    # HSK 2 has no writing section at all, so no Sắp xếp câu tab (0).
+    PER_PAPER = {2: (60, 35, 25, 0), 3: (75, 40, 30, 5), 4: (95, 45, 30, 20), 5: (98, 45, 45, 8)}
     rows = {int(r.locator(".lv").inner_text().split()[1]): int(r.locator(".sub").inner_text().split(" câu")[0]) for r in page.locator(".level-btn").all()}
     check(f"real bank: unlocks with levels {sorted(rows)}", bool(rows) and set(rows) <= set(PER_PAPER), str(rows))
     for level, total in sorted(rows.items()):
@@ -49,6 +50,9 @@ with sync_playwright() as p:
         check(f"HSK {level}: {total} questions = {papers} full papers of {per}", total % per == 0 and papers >= 1)
         page.locator(f"button[data-action=bank-level][data-level='{level}']").click()
         for tab, n in (("nghe", n_nghe * papers), ("doc", n_doc * papers), ("sapxep", n_sx * papers)):
+            if n == 0:
+                check(f"HSK {level}: no {tab} tab", page.locator(f"button[data-action=bank-tab][data-tab={tab}]").count() == 0)
+                continue
             page.locator(f"button[data-action=bank-tab][data-tab={tab}]").click()
             check(f"HSK {level} tab {tab}: {n} questions", page.get_by_text(f"Còn {n} câu chưa làm đúng").is_visible())
         page.locator("button[data-action=bank-tab][data-tab=nghe]").click()
@@ -60,16 +64,19 @@ with sync_playwright() as p:
                 page.get_by_role("button", name="▶ Nghe").nth(i).click()
                 page.wait_for_function("() => { const a = window.__hskBankPlayer; return a.src.startsWith('blob:') && a.duration > 1 && (a.currentTime > 0 || a.ended); }", timeout=8000)
                 played += 1
-            if level == 3 and page.locator(".picbank").count():  # pictures must decrypt as well
+            if level in (2, 3) and page.locator(".picbank").count():  # pictures must decrypt as well
                 page.wait_for_function("document.querySelectorAll('.picbank img[src]').length === document.querySelectorAll('.picbank img').length", timeout=8000)
-                check(f"HSK 3 pictures decrypt (unit with {page.locator('.picbank img').count()} pictures)", page.evaluate("[...document.querySelectorAll('.picbank img')].every(i => i.naturalWidth > 0)"))
+                check(f"HSK {level} pictures decrypt (unit with {page.locator('.picbank img').count()} pictures)", page.evaluate("[...document.querySelectorAll('.picbank img')].every(i => i.naturalWidth > 0)"))
+            if level == 2 and page.locator("img.bank-img.ctx").count():  # HSK 2 listening part 1: the picture is the prompt
+                page.wait_for_function("document.querySelector('img.bank-img.ctx').naturalWidth > 0", timeout=8000)
+                check("HSK 2 picture prompt decrypts", True)
             for card in page.locator(".qcard").all():
                 card.locator("button.opt").first.click()
             page.locator("button[data-action=bank-next]").click()
             if page.get_by_text("Hoàn thành!").is_visible():
                 break
-        # HSK 3/4: 40 clips per paper; HSK 5: one per question 1-30 plus one per passage of 31-45 (30 + 4..6 groups)
-        ok_played = played == 40 * papers if level != 5 else 33 * papers <= played <= 38 * papers
+        # HSK 2: 35 clips per paper; HSK 3/4: 40; HSK 5: one per question 1-30 plus one per passage of 31-45 (30 + 4..6 groups)
+        ok_played = played == (35 if level == 2 else 40) * papers if level != 5 else 33 * papers <= played <= 38 * papers
         check(f"HSK {level}: every listening item's clip decrypts and plays", ok_played, str(played))
         page.get_by_role("button", name="Về danh sách").click()
         page.get_by_label("Quay lại").first.click()

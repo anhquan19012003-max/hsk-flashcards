@@ -23,7 +23,7 @@ def get_password(private: Path = None) -> str:
         return pw
     f = (private or private_dir()) / ".bank-password"
     if f.is_file():
-        text = f.read_text(encoding="utf-8").strip()
+        text = f.read_text(encoding="utf-8-sig").strip()  # Notepad on Windows may add a BOM
         if text:
             return text
     raise SystemExit("No bank password: set BANK_PASSWORD or create mock-tests/.bank-password (ask Quan).")

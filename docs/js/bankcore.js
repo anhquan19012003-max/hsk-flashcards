@@ -7,10 +7,17 @@ export const TABS = [
   { id: "sapxep", label: "Sắp xếp câu" },
 ];
 
+/** The tabs a level really has questions for (e.g. HSK 2 has no Sắp xếp câu), in the usual order. Never empty if `units` is empty-safe. */
+export function visibleTabs(units) {
+  const have = new Set(units.map((u) => u.skill));
+  const list = TABS.filter((t) => have.has(t.id));
+  return list.length ? list : TABS;
+}
+
 // Filter chips per tab: [type id, label]
 export const TYPE_CHIPS = {
   nghe: [["tf", "Đúng / Sai"], ["choice", "Chọn đáp án"]],
-  doc: [["wordbank", "Chọn từ / câu"], ["choice", "Đọc hiểu"]],
+  doc: [["wordbank", "Chọn từ / câu / hình"], ["choice", "Đọc hiểu"], ["tf", "Đúng / Sai"]],
   sapxep: [["order-sentences", "Sắp xếp câu"], ["order-words", "Sắp xếp từ"]],
 };
 

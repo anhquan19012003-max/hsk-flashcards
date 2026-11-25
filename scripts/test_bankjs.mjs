@@ -63,5 +63,13 @@ check("takeUnits size 0 = all", core.takeUnits(index.units, 0).length === index.
 check("applyResult", JSON.stringify(core.applyResult(undefined, true)) === '{"ok":1,"wrong":0}' && JSON.stringify(core.applyResult({ ok: 0, wrong: 1 }, false)) === '{"ok":0,"wrong":2}');
 check("applyOverride undoes the wrong mark", JSON.stringify(core.applyOverride({ ok: 0, wrong: 1 })) === '{"ok":1,"wrong":0}');
 
+// ---- tabs a level really has (HSK 2 has no Sắp xếp câu)
+const tabIds = (units) => core.visibleTabs(units).map((t) => t.id).join(",");
+check("visibleTabs: a level with all three skills shows three tabs", tabIds(index.units) === "nghe,doc,sapxep");
+check("visibleTabs: no Sắp xếp câu tab without ordering units", tabIds(index.units.filter((u) => u.skill !== "sapxep")) === "nghe,doc");
+check("visibleTabs: a level with only reading shows only Đọc", tabIds(index.units.filter((u) => u.skill === "doc")) === "doc");
+check("visibleTabs: an empty level falls back to all tabs", tabIds([]) === "nghe,doc,sapxep");
+check("doc tab has a true/false chip (reading part 3 of HSK 2)", core.TYPE_CHIPS.doc.some(([id]) => id === "tf"));
+
 console.log(failed ? `bank js: ${failed} FAILED` : "bank js: all passed");
 process.exit(failed ? 1 : 0);

@@ -136,6 +136,33 @@ def paper3_json():
     }
 
 
+PID2 = "hsk2-fixture-1"
+
+
+def paper2_json():
+    """HSK 2 style units: picture as the prompt of a true/false item, picture matching, sentence -> picture, passage + true/false.
+    No Sắp xếp câu at all (HSK 2 has no writing section); invented content."""
+    q2 = lambda n, prompt, options, answer, **extra: {"id": f"{PID2}-{n}", "prompt": prompt, "options": options, "answer": answer, "audio": None, "script": "", **extra}
+    pics = [{"key": k, "image": f"img/{k}.webp"} for k in "ABC"]
+    return {
+        "paper": {"id": PID2, "level": 2, "examVersion": "HSK 2.0", "title": "Đề thử 2"},
+        "units": [
+            {"id": f"{PID2}-L1", "skill": "nghe", "type": "tf", "context": {"image": "img/A.webp"},
+             "questions": [q2(1, "", None, "✓", audio="clips/a.mp3", script="这是一个圆。", explain_vi="Câu nghe nói hình tròn, đúng với hình.")]},
+            {"id": f"{PID2}-L2", "skill": "nghe", "type": "tf", "context": {"image": "img/B.webp"},
+             "questions": [q2(2, "", None, "✗", audio="clips/b.mp3", script="这是一个圆。")]},
+            {"id": f"{PID2}-L3", "skill": "nghe", "type": "choice", "context": {"sharedOptions": pics, "layout": "pictures"},
+             "questions": [q2(3, "", None, "C", audio="clips/a.mp3", script="男：这是什么？女：这是三角。"),
+                           q2(4, "", None, "A", audio="clips/b.mp3", script="男：太阳呢？女：太阳是圆的。")]},
+            {"id": f"{PID2}-R1", "skill": "doc", "type": "wordbank",
+             "context": {"sharedOptions": pics, "layout": "pictures", "instruction": "Chọn hình phù hợp"},
+             "questions": [q2(5, "这是圆的。", None, "A"), q2(6, "这是方的。", None, "B")]},
+            {"id": f"{PID2}-R2", "skill": "doc", "type": "tf", "context": {"text": "我每天坐车三十分钟去学校。"},
+             "questions": [q2(7, "我坐车要三十分钟。", None, "✓", explain_vi="Bài nói 三十分钟.")]},
+        ],
+    }
+
+
 PID5 = "hsk5-fixture-1"
 
 
@@ -169,7 +196,7 @@ def paper5_json():
 
 
 def build_hsk3_fixture():
-    """A second fixture bank with two levels (3 and 4), used by test_bank_hsk3.py."""
+    """A second fixture bank with levels 2, 3, 4 and 5, used by test_bank_hsk3.py."""
     import shutil
     tmp = Path(tempfile.mkdtemp())
     try:
@@ -182,12 +209,20 @@ def build_hsk3_fixture():
         for k, color, shape in (("A", "#e8553a", "circle"), ("B", "#2457c5", "square"), ("C", "#2f9e5b", "triangle")):
             pic_webp(d / "img" / f"{k}.webp", color, shape)
         (d / "questions.json").write_text(json.dumps(paper3_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        d2 = tmp / PID2
+        (d2 / "clips").mkdir(parents=True)
+        (d2 / "img").mkdir()
+        tone_mp3(d2 / "clips" / "a.mp3", 392)
+        tone_mp3(d2 / "clips" / "b.mp3", 587)
+        for k, color, shape in (("A", "#e8553a", "circle"), ("B", "#2457c5", "square"), ("C", "#2f9e5b", "triangle")):
+            pic_webp(d2 / "img" / f"{k}.webp", color, shape)
+        (d2 / "questions.json").write_text(json.dumps(paper2_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         d5 = tmp / PID5
         (d5 / "clips").mkdir(parents=True)
         tone_mp3(d5 / "clips" / "a.mp3", 523)
         (d5 / "questions.json").write_text(json.dumps(paper5_json(), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         r = build(tmp, FIX / "bank-hsk3", TEST_PASSWORD)
-        print("fixture bank (HSK 3 + 4 + 5):", r["levels"], r["write"])
+        print("fixture bank (HSK 2 + 3 + 4 + 5):", r["levels"], r["write"])
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 

@@ -11,10 +11,17 @@ import re
 import sys
 from pathlib import Path
 
-SKILL_TYPES = {"tf": {"nghe"}, "choice": {"nghe", "doc"}, "wordbank": {"doc"}, "order-sentences": {"sapxep"}, "order-words": {"sapxep"}}
+SKILL_TYPES = {"tf": {"nghe", "doc"}, "choice": {"nghe", "doc"}, "wordbank": {"doc"}, "order-sentences": {"sapxep"}, "order-words": {"sapxep"}}
 
 # (first number, last number, skill, type) per exam format. Question number = trailing integer of the question id.
 PROFILES = {
+    # HSK 2 (HSK 2.0): listening 1-10 picture + sentence true/false, 11-20 picture matching (choice), 21-35 choice;
+    # reading 36-40 sentence -> picture (wordbank), 41-45 word bank, 46-50 passage + statement true/false, 51-60 sentence matching
+    # (wordbank). There is no writing section, hence no Sắp xếp câu.
+    ("HSK 2.0", 2): [
+        (1, 10, "nghe", "tf"), (11, 35, "nghe", "choice"),
+        (36, 45, "doc", "wordbank"), (46, 50, "doc", "tf"), (51, 60, "doc", "wordbank"),
+    ],
     ("HSK 2.0", 4): [
         (1, 10, "nghe", "tf"), (11, 45, "nghe", "choice"),
         (46, 55, "doc", "wordbank"), (56, 65, "sapxep", "order-sentences"), (66, 85, "doc", "choice"),
@@ -122,8 +129,8 @@ def validate(data: dict, base: Path):
             if t == "tf":
                 if ans not in ("✓", "✗"):
                     err(f"{qid}: tf answer must be ✓ or ✗, got {ans!r}")
-                if not q.get("prompt"):
-                    err(f"{qid}: tf statement (prompt) is empty")
+                if not q.get("prompt") and not ctx.get("image"):  # a picture can be the thing to judge (HSK 2 listening part 1)
+                    err(f"{qid}: tf statement (prompt) is empty and the unit has no picture")
             elif t in ("choice", "wordbank"):
                 if ans not in keys:
                     err(f"{qid}: answer {ans!r} is not one of the options {keys}")

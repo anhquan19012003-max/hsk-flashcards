@@ -48,13 +48,14 @@ def main():
         page.get_by_role("button", name="Mở khóa").click()
         page.locator(".level-btn").first.wait_for()
         levels = page.locator(".level-btn .lv").all_inner_texts()
-        check("level list shows HSK 3, HSK 4, HSK 5 in order", levels == ["HSK 3", "HSK 4", "HSK 5"], str(levels))
-        check("HSK 3 row counts its 6 questions", "6 câu" in page.locator(".level-btn").first.inner_text(), page.locator(".level-btn").first.inner_text())
+        check("level list shows HSK 2, 3, 4, 5 in order", levels == ["HSK 2", "HSK 3", "HSK 4", "HSK 5"], str(levels))
+        check("HSK 2 row counts its 7 questions", "7 câu" in page.locator(".level-btn").first.inner_text(), page.locator(".level-btn").first.inner_text())
+        check("HSK 3 row counts its 6 questions", "6 câu" in page.locator(".level-btn").nth(1).inner_text(), page.locator(".level-btn").nth(1).inner_text())
 
         # ---- download: one main button, plus one per level
         main_btn = page.get_by_role("button", name="Tải toàn bộ đề về máy")
         check("exactly one 'Tải toàn bộ đề về máy' button", main_btn.count() == 1)
-        check("per-level buttons for HSK 3, 4 and 5", all(page.get_by_role("button", name=f"Chỉ tải HSK {n}").is_visible() for n in (3, 4, 5)))
+        check("per-level buttons for HSK 2, 3, 4 and 5", all(page.get_by_role("button", name=f"Chỉ tải HSK {n}").is_visible() for n in (2, 3, 4, 5)))
         check("per-level buttons show their own size", "MB" in page.get_by_role("button", name="Chỉ tải HSK 3").inner_text())
         page.get_by_role("button", name="Chỉ tải HSK 3").click()
         check("level dialog names HSK 3", page.get_by_text("Tải đề HSK 3 về máy?").is_visible())
@@ -62,6 +63,49 @@ def main():
         page.get_by_text("HSK 3 đã tải ✓").wait_for(timeout=15000)
         check("after the HSK 3 download its button says 'đã tải ✓'", True)
         check("HSK 4 can still be downloaded on its own", page.get_by_role("button", name="Chỉ tải HSK 4").is_visible() and main_btn.is_visible())
+
+        # ---- HSK 2: no Sắp xếp câu tab, picture as the prompt of a true/false item, passage + true/false in Đọc
+        page.locator("button[data-action=bank-level][data-level='2']").click()
+        tabs2 = page.locator(".bank-tabs button").all_inner_texts()
+        check("HSK 2 shows only the Nghe and Đọc tabs", tabs2 == ["Nghe", "Đọc"], str(tabs2))
+        check("HSK 2 opens on the first tab it has", page.locator(".bank-tabs button[aria-pressed=true]").inner_text() == "Nghe")
+        page.locator("button[data-action=bank-size][data-value='0']").click()
+        page.locator("button[data-action=bank-chip][data-type=tf]").click()
+        page.locator("button[data-action=bank-start][data-mode=new]").click()
+        check("picture true/false: two units of one question", page.locator(".top .title").inner_text() == "Câu 1 / 2", page.locator(".top .title").inner_text())
+        page.wait_for_function("document.querySelectorAll('img.bank-img.ctx[src]').length === 1 && document.querySelector('img.bank-img.ctx').naturalWidth > 0")
+        check("the picture is the prompt: shown, decrypted, no printed statement",
+              page.evaluate("document.querySelector('img.bank-img.ctx').naturalWidth > 0") and page.locator(".qcard .prompt").count() == 0)
+        check("picture true/false has the two answer buttons ✓ / ✗", page.locator(".qcard .opt.tf").count() == 2 and page.locator(".qcard .audio-bar").count() == 1)
+        page.locator(".qcard .opt.tf", has_text="Đúng").click()
+        check("picture true/false: grading and script feedback", page.get_by_text("✅ Đúng").is_visible() and "这是一个圆" in page.locator(".qcard .fb").inner_text())
+        page.locator("button[data-action=bank-next]").click()
+        page.locator(".qcard .opt.tf", has_text="Đúng").click()  # Q2 is ✗: a wrong answer
+        check("picture true/false: wrong answer is marked", page.get_by_text("❌ Chưa đúng").is_visible())
+        page.locator("button[data-action=bank-next]").click()
+        page.get_by_role("button", name="Về danh sách").click()
+        page.locator("button[data-action=bank-chip][data-type=tf]").click()  # clear the filter again (filters are kept per tab)
+        page.locator("button[data-action=bank-tab][data-tab=doc]").click()
+        page.locator("button[data-action=bank-size][data-value='0']").click()
+        page.locator("button[data-action=bank-start][data-mode=new]").click()
+        seen_pic = seen_tf = False
+        for _ in range(2):
+            if page.locator(".picbank").count():
+                seen_pic = True
+                check("sentence -> picture matching shows its instruction and three pictures", page.get_by_text("Chọn hình phù hợp").is_visible() and page.locator(".picbank .pic").count() == 3)
+                check("sentence -> picture matching: letter buttons and sentence prompts", page.locator(".qcard").first.locator(".opt .t").count() == 0 and "圆" in page.locator(".qcard .prompt").first.inner_text())
+                page.locator(".qcard").first.locator(".opt", has_text="A").click()
+                page.locator(".qcard").nth(1).locator(".opt", has_text="B").click()
+            else:
+                seen_tf = True
+                check("reading true/false shows the passage above the statement", page.locator("#bank-passage").is_visible() and "三十分钟" in page.locator("#bank-passage").inner_text() and page.locator(".qcard .prompt").count() == 1)
+                page.locator(".qcard .opt.tf", has_text="Đúng").click()
+            page.locator("button[data-action=bank-next]").click()
+            if page.get_by_text("Hoàn thành!").count():
+                break
+        check("both HSK 2 reading shapes were shown", seen_pic and seen_tf)
+        page.get_by_role("button", name="Về danh sách").click()
+        page.get_by_label("Quay lại").first.click()
 
         # ---- Nghe, picture matching
         open_level(page, 3, "nghe")
