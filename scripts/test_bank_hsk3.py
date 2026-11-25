@@ -77,11 +77,18 @@ def main():
         check("the picture is the prompt: shown, decrypted, no printed statement",
               page.evaluate("document.querySelector('img.bank-img.ctx').naturalWidth > 0") and page.locator(".qcard .prompt").count() == 0)
         check("picture true/false has the two answer buttons ✓ / ✗", page.locator(".qcard .opt.tf").count() == 2 and page.locator(".qcard .audio-bar").count() == 1)
-        page.locator(".qcard .opt.tf", has_text="Đúng").click()
-        check("picture true/false: grading and script feedback", page.get_by_text("✅ Đúng").is_visible() and "这是一个圆" in page.locator(".qcard .fb").inner_text())
-        page.locator("button[data-action=bank-next]").click()
-        page.locator(".qcard .opt.tf", has_text="Đúng").click()  # Q2 is ✗: a wrong answer
-        check("picture true/false: wrong answer is marked", page.get_by_text("❌ Chưa đúng").is_visible())
+        # The session order is shuffled: L1 (answer ✓, has an explanation) and L2 (answer ✗) can come in either order.
+        # Answer "Đúng" on both and check each against its own key.
+        graded = {}
+        for _ in range(2):
+            page.locator(".qcard .opt.tf", has_text="Đúng").click()
+            page.locator(".qcard .fb").wait_for()
+            fb = page.locator(".qcard .fb").inner_text()
+            graded["L1" if "hình tròn" in fb else "L2"] = fb
+            if len(graded) < 2:
+                page.locator("button[data-action=bank-next]").click()
+        check("picture true/false: grading and script feedback", "✅ Đúng" in graded.get("L1", "") and "这是一个圆" in graded.get("L1", ""), str(graded))
+        check("picture true/false: wrong answer is marked", "❌ Chưa đúng" in graded.get("L2", ""), str(graded))
         page.locator("button[data-action=bank-next]").click()
         page.get_by_role("button", name="Về danh sách").click()
         page.locator("button[data-action=bank-chip][data-type=tf]").click()  # clear the filter again (filters are kept per tab)
@@ -114,6 +121,10 @@ def main():
         pics = page.locator(".picbank .pic")
         check("three pictures listed once, with letters", pics.count() == 3 and page.locator(".picbank .pk").all_inner_texts() == ["A", "B", "C"])
         page.wait_for_function("document.querySelectorAll('.picbank img[src]').length === 3")
+        try:  # src is set before the image has decoded: wait for the decode instead of reading naturalWidth once
+            page.wait_for_function("[...document.querySelectorAll('.picbank img')].every(i => i.complete && i.naturalWidth > 0)", timeout=5000)
+        except Exception:
+            pass
         check("pictures are decrypted and shown", page.evaluate("[...document.querySelectorAll('.picbank img')].every(i => i.naturalWidth > 0)"))
         check("each question has its own audio bar", page.locator(".qcard .audio-bar").count() == 2)
         first = page.locator(".qcard").first

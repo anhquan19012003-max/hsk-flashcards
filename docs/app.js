@@ -13,7 +13,7 @@ const dirText = (dir) => (dir === "wr" ? "Luyện viết" : `chiều ${DIR_LABEL
 const SIZE_OPTIONS = [10, 20, 50, 0];
 const $app = document.getElementById("app");
 // App version: bumped together with the service worker by scripts/bump_version.py. Shown in Cài đặt.
-const APP_VERSION = "12";
+const APP_VERSION = "13";
 
 const $toast = document.getElementById("toast");
 const $modal = document.getElementById("modal-root");
